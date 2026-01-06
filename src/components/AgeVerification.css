@@ -1,0 +1,113 @@
+.age-overlay {
+    position: fixed;
+    inset: 0;
+    z-index: 10000;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 24px;
+    background: rgba(0, 0, 0, 0.9);
+    backdrop-filter: blur(20px);
+    opacity: 0;
+    transition: opacity 0.3s ease;
+}
+
+.age-overlay-visible {
+    opacity: 1;
+}
+
+.age-modal {
+    position: relative;
+    max-width: 500px;
+    width: 100%;
+    background: var(--clr-bg-card);
+    border: 1px solid var(--glass-border);
+    border-radius: var(--radius-xl);
+    overflow: hidden;
+    transform: scale(0.9) translateY(20px);
+    opacity: 0;
+    transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.age-modal-visible {
+    transform: scale(1) translateY(0);
+    opacity: 1;
+}
+
+.age-modal-content {
+    position: relative;
+    z-index: 1;
+    padding: 48px;
+    text-align: center;
+}
+
+.age-icon {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 80px;
+    height: 80px;
+    margin-bottom: 24px;
+    background: linear-gradient(135deg, rgba(249, 115, 22, 0.2) 0%, rgba(239, 68, 68, 0.2) 100%);
+    border-radius: 50%;
+    color: var(--clr-orange);
+}
+
+.age-title {
+    font-size: 1.75rem;
+    margin-bottom: 16px;
+    background: var(--clr-accent-gradient);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
+
+.age-description {
+    font-size: 1rem;
+    color: var(--clr-text-secondary);
+    line-height: 1.7;
+    margin-bottom: 32px;
+}
+
+.age-description strong {
+    color: var(--clr-text-primary);
+}
+
+.age-actions {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    margin-bottom: 24px;
+}
+
+.age-btn {
+    width: 100%;
+    padding: 16px 24px;
+}
+
+.age-disclaimer {
+    font-size: 0.8rem;
+    color: var(--clr-text-muted);
+    line-height: 1.5;
+}
+
+.age-bg-glow {
+    position: absolute;
+    top: -50%;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 200%;
+    height: 100%;
+    background: radial-gradient(ellipse, rgba(124, 58, 237, 0.15) 0%, transparent 60%);
+    pointer-events: none;
+}
+
+@media (max-width: 600px) {
+    .age-modal-content {
+        padding: 32px 24px;
+    }
+
+    .age-title {
+        font-size: 1.5rem;
+    }
+}

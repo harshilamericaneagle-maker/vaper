@@ -1,0 +1,228 @@
+.home-page {
+    min-height: 100vh;
+}
+
+/* Categories Section */
+.categories-section {
+    padding: 60px 0;
+}
+
+.categories-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 24px;
+}
+
+.category-card {
+    position: relative;
+    display: block;
+    padding: 48px;
+    border-radius: var(--radius-xl);
+    overflow: hidden;
+    transition: all var(--transition-smooth);
+}
+
+.category-card:hover {
+    transform: translateY(-4px);
+}
+
+.category-devices {
+    background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
+    border: 1px solid rgba(0, 212, 255, 0.2);
+}
+
+.category-devices:hover {
+    border-color: rgba(0, 212, 255, 0.5);
+    box-shadow: 0 0 40px rgba(0, 212, 255, 0.2);
+}
+
+.category-accessories {
+    background: linear-gradient(135deg, #1a1a1a 0%, #2d1a4a 100%);
+    border: 1px solid rgba(124, 58, 237, 0.2);
+}
+
+.category-accessories:hover {
+    border-color: rgba(124, 58, 237, 0.5);
+    box-shadow: 0 0 40px rgba(124, 58, 237, 0.2);
+}
+
+.category-content {
+    position: relative;
+    z-index: 1;
+}
+
+.category-icon {
+    font-size: 3rem;
+    display: block;
+    margin-bottom: 16px;
+}
+
+.category-card h3 {
+    font-size: 1.5rem;
+    margin-bottom: 8px;
+}
+
+.category-card p {
+    color: var(--clr-text-secondary);
+    margin-bottom: 16px;
+}
+
+.category-link {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    font-size: 0.9rem;
+    font-weight: 600;
+    color: var(--clr-accent-primary);
+}
+
+.category-glow {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 50%;
+    height: 100%;
+    background: radial-gradient(ellipse at top right, rgba(0, 212, 255, 0.1) 0%, transparent 60%);
+    pointer-events: none;
+}
+
+/* Sale Banner */
+.sale-banner {
+    position: relative;
+    padding: 80px 0;
+    overflow: hidden;
+}
+
+.sale-content {
+    position: relative;
+    z-index: 1;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 40px;
+}
+
+.sale-text {
+    max-width: 500px;
+}
+
+.sale-badge {
+    display: inline-block;
+    padding: 6px 16px;
+    background: var(--clr-red);
+    color: white;
+    font-size: 0.8rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    border-radius: var(--radius-full);
+    margin-bottom: 16px;
+}
+
+.sale-text h2 {
+    font-size: 3rem;
+    margin-bottom: 16px;
+}
+
+.sale-text p {
+    font-size: 1.1rem;
+    color: var(--clr-text-secondary);
+    margin-bottom: 24px;
+}
+
+.sale-visual {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.sale-discount {
+    font-family: var(--font-display);
+    font-size: 5rem;
+    font-weight: 800;
+    background: linear-gradient(135deg, #ef4444 0%, #f97316 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    animation: pulse 2s ease infinite;
+}
+
+.sale-bg {
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(135deg, rgba(239, 68, 68, 0.1) 0%, rgba(249, 115, 22, 0.05) 100%);
+    border-top: 1px solid rgba(239, 68, 68, 0.2);
+    border-bottom: 1px solid rgba(239, 68, 68, 0.2);
+}
+
+/* Trust Section */
+.trust-section {
+    padding: 60px 0;
+    background: var(--clr-bg-secondary);
+}
+
+.trust-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 24px;
+}
+
+.trust-card {
+    text-align: center;
+    padding: 32px 24px;
+    background: var(--clr-bg-card);
+    border: 1px solid var(--glass-border);
+    border-radius: var(--radius-lg);
+    transition: all var(--transition-smooth);
+}
+
+.trust-card:hover {
+    transform: translateY(-4px);
+    border-color: var(--clr-accent-primary);
+}
+
+.trust-icon {
+    font-size: 2.5rem;
+    display: block;
+    margin-bottom: 16px;
+}
+
+.trust-card h4 {
+    font-size: 1rem;
+    margin-bottom: 8px;
+}
+
+.trust-card p {
+    font-size: 0.9rem;
+    color: var(--clr-text-muted);
+}
+
+/* Responsive */
+@media (max-width: 900px) {
+    .categories-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .sale-content {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .sale-discount {
+        font-size: 3rem;
+    }
+
+    .trust-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media (max-width: 600px) {
+    .trust-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .sale-text h2 {
+        font-size: 2rem;
+    }
+}
