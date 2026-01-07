@@ -1,0 +1,133 @@
+.legal-page {
+    min-height: 100vh;
+    padding: 60px 0 100px;
+}
+
+.legal-header {
+    text-align: center;
+    margin-bottom: 48px;
+    padding-bottom: 32px;
+    border-bottom: 1px solid var(--glass-border);
+}
+
+.legal-header h1 {
+    font-size: 2.5rem;
+    margin-bottom: 12px;
+    background: var(--clr-accent-gradient);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
+
+.legal-updated {
+    color: var(--clr-text-muted);
+    font-size: 0.9rem;
+}
+
+.legal-content {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.legal-section {
+    margin-bottom: 40px;
+}
+
+.legal-section h2 {
+    font-size: 1.5rem;
+    color: var(--clr-text-primary);
+    margin-bottom: 16px;
+    padding-bottom: 12px;
+    border-bottom: 1px solid var(--glass-border);
+}
+
+.legal-section h3 {
+    font-size: 1.1rem;
+    color: var(--clr-accent-primary);
+    margin-bottom: 12px;
+}
+
+.legal-section p {
+    color: var(--clr-text-secondary);
+    line-height: 1.8;
+    margin-bottom: 16px;
+}
+
+.legal-section ul {
+    margin-left: 24px;
+    margin-bottom: 16px;
+}
+
+.legal-section li {
+    color: var(--clr-text-secondary);
+    line-height: 1.8;
+    margin-bottom: 8px;
+}
+
+.legal-section strong {
+    color: var(--clr-text-primary);
+}
+
+/* Age Warning Banner */
+.age-warning-banner {
+    display: flex;
+    align-items: flex-start;
+    gap: 16px;
+    padding: 24px;
+    background: rgba(239, 68, 68, 0.1);
+    border: 1px solid rgba(239, 68, 68, 0.3);
+    border-radius: var(--radius-lg);
+    margin-bottom: 40px;
+}
+
+.age-warning-banner .warning-icon {
+    font-size: 2rem;
+    flex-shrink: 0;
+}
+
+.age-warning-banner strong {
+    color: var(--clr-red);
+}
+
+.age-warning-banner div {
+    color: var(--clr-text-secondary);
+    line-height: 1.6;
+}
+
+/* Health Warning Box */
+.health-warning {
+    padding: 24px;
+    background: rgba(249, 115, 22, 0.1);
+    border: 1px solid rgba(249, 115, 22, 0.3);
+    border-radius: var(--radius-lg);
+    margin-bottom: 20px;
+}
+
+.health-warning h3 {
+    color: var(--clr-orange);
+    margin-bottom: 12px;
+}
+
+.health-warning p {
+    margin-bottom: 0;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+    .legal-page {
+        padding: 40px 0 60px;
+    }
+
+    .legal-header h1 {
+        font-size: 2rem;
+    }
+
+    .legal-section h2 {
+        font-size: 1.25rem;
+    }
+
+    .age-warning-banner {
+        flex-direction: column;
+        text-align: center;
+    }
+}

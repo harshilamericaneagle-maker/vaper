@@ -6,6 +6,9 @@ import AgeVerification from './components/AgeVerification';
 import HomePage from './pages/HomePage';
 import ProductsPage from './pages/ProductsPage';
 import CartPage from './pages/CartPage';
+import TermsPage from './pages/TermsPage';
+import PrivacyPage from './pages/PrivacyPage';
+import AgePolicyPage from './pages/AgePolicyPage';
 import './index.css';
 
 function App() {
@@ -19,6 +22,9 @@ function App() {
             <Route path="/" element={<HomePage />} />
             <Route path="/products" element={<ProductsPage />} />
             <Route path="/cart" element={<CartPage />} />
+            <Route path="/terms" element={<TermsPage />} />
+            <Route path="/privacy" element={<PrivacyPage />} />
+            <Route path="/age-policy" element={<AgePolicyPage />} />
           </Routes>
           <Footer />
         </div>
