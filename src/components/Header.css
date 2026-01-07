@@ -303,3 +303,77 @@
         font-size: 1.25rem;
     }
 }
+
+/* Enhanced Mobile Styles */
+@media (max-width: 600px) {
+    .announcement-bar {
+        padding: 8px 12px;
+        font-size: 0.75rem;
+    }
+
+    .announcement-content {
+        gap: 8px;
+    }
+
+    .announcement-highlight {
+        padding: 3px 8px;
+        font-size: 0.7rem;
+    }
+
+    .header-container {
+        padding: 10px 12px;
+        gap: 12px;
+    }
+
+    .logo {
+        font-size: 1.1rem;
+        gap: 6px;
+    }
+
+    .logo-icon {
+        font-size: 1.4rem;
+    }
+
+    .header-actions {
+        gap: 4px;
+    }
+
+    .header-action-btn {
+        width: 40px;
+        height: 40px;
+    }
+
+    .mobile-menu-toggle {
+        width: 40px;
+        height: 40px;
+    }
+
+    .nav-mobile {
+        padding: 0 12px 16px;
+    }
+
+    .nav-mobile-link {
+        padding: 16px;
+        font-size: 0.9rem;
+    }
+
+    .search-container {
+        padding: 12px 16px;
+    }
+
+    .search-input {
+        font-size: 16px;
+        /* Prevent iOS zoom */
+    }
+}
+
+/* Very small screens */
+@media (max-width: 360px) {
+    .logo-text {
+        display: none;
+    }
+
+    .logo-icon {
+        font-size: 1.8rem;
+    }
+}
