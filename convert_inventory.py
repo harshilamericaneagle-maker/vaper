@@ -37,9 +37,9 @@ def get_badge(cost, price, idx):
         return 'new'
     return None
 
-# Build products list - take first 100 products for performance
+# Build products list - import ALL products
 products = []
-for i, (idx, row) in enumerate(df.head(100).iterrows()):
+for i, (idx, row) in enumerate(df.iterrows()):
     desc = str(row['Description']).strip()
     cost = float(row['Cost']) if row['Cost'] else 0
     price = float(row['Price']) if row['Price'] else 0
