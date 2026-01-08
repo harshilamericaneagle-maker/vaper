@@ -5,7 +5,7 @@ export const products = [
   {
     "id": 1,
     "name": "BIG GRINDER NEW 6CT",
-    "category": "smoking",
+    "category": "grinders",
     "price": 30.0,
     "salePrice": null,
     "barcode": null,
@@ -17,7 +17,7 @@ export const products = [
   {
     "id": 2,
     "name": "1/6 BIG  BAG",
-    "category": "other",
+    "category": "storage",
     "price": 10.0,
     "salePrice": null,
     "barcode": null,
@@ -29,7 +29,7 @@ export const products = [
   {
     "id": 3,
     "name": "1/6 BIG  BAGS 1000CT",
-    "category": "other",
+    "category": "storage",
     "price": 18.0,
     "salePrice": null,
     "barcode": null,
@@ -41,7 +41,7 @@ export const products = [
   {
     "id": 4,
     "name": "1/6 SMALL BAG",
-    "category": "other",
+    "category": "storage",
     "price": 10.0,
     "salePrice": 8.5,
     "barcode": null,
@@ -53,7 +53,7 @@ export const products = [
   {
     "id": 5,
     "name": "1/9 BAGS",
-    "category": "other",
+    "category": "storage",
     "price": 12.0,
     "salePrice": null,
     "barcode": null,
@@ -65,7 +65,7 @@ export const products = [
   {
     "id": 6,
     "name": "10\" SOFT GLASS ASSORTED",
-    "category": "accessories",
+    "category": "glass-pipes",
     "price": 16.99,
     "salePrice": 14.44,
     "barcode": null,
@@ -77,7 +77,7 @@ export const products = [
   {
     "id": 7,
     "name": "12 COLORED TREE WATER PIPE",
-    "category": "smoking",
+    "category": "glass-pipes",
     "price": 22.0,
     "salePrice": null,
     "barcode": null,
@@ -89,7 +89,7 @@ export const products = [
   {
     "id": 8,
     "name": "12\" SOFT GLASS ASSORTED",
-    "category": "accessories",
+    "category": "glass-pipes",
     "price": 19.99,
     "salePrice": 16.99,
     "barcode": null,
@@ -113,7 +113,7 @@ export const products = [
   {
     "id": 10,
     "name": "25 PACK MINI PIPE",
-    "category": "smoking",
+    "category": "glass-pipes",
     "price": 20.0,
     "salePrice": null,
     "barcode": null,
@@ -149,7 +149,7 @@ export const products = [
   {
     "id": 13,
     "name": "3858 -55 GALLON BLK BAG",
-    "category": "other",
+    "category": "storage",
     "price": 25.0,
     "salePrice": null,
     "barcode": null,
@@ -161,7 +161,7 @@ export const products = [
   {
     "id": 14,
     "name": "4046-45 GALLON BLK BAG",
-    "category": "other",
+    "category": "storage",
     "price": 23.0,
     "salePrice": null,
     "barcode": null,
@@ -173,7 +173,7 @@ export const products = [
   {
     "id": 15,
     "name": "420 ALL NATURAL GLASS CLEANER 16OZ",
-    "category": "accessories",
+    "category": "glass-pipes",
     "price": 5.5,
     "salePrice": null,
     "barcode": "721405571048",
@@ -185,7 +185,7 @@ export const products = [
   {
     "id": 16,
     "name": "420 DAILY USE CONCENTRATE GLASS CLEANER 16OZ",
-    "category": "accessories",
+    "category": "glass-pipes",
     "price": 7.5,
     "salePrice": null,
     "barcode": "721405571062",
@@ -197,7 +197,7 @@ export const products = [
   {
     "id": 17,
     "name": "420 SOAK-N-RINSE CLEANER 16OZ",
-    "category": "other",
+    "category": "cleaners",
     "price": 6.5,
     "salePrice": 5.52,
     "barcode": "721405571093",
@@ -221,7 +221,7 @@ export const products = [
   {
     "id": 19,
     "name": "5 PACK HAND PIPES",
-    "category": "smoking",
+    "category": "glass-pipes",
     "price": 14.0,
     "salePrice": 11.9,
     "barcode": "12345678201",
@@ -249,7 +249,7 @@ export const products = [
     "price": 19.0,
     "salePrice": null,
     "barcode": null,
-    "badge": null,
+    "badge": "new",
     "description": "5 HOUR ENERGY PROTEIN 6COUNT MIX FLAVOUR - Premium quality product from our inventory.",
     "inStock": true,
     "featured": false
@@ -257,7 +257,7 @@ export const products = [
   {
     "id": 22,
     "name": "6\" SOFT GLASS ASSORTED",
-    "category": "accessories",
+    "category": "glass-pipes",
     "price": 12.99,
     "salePrice": 11.04,
     "barcode": null,
@@ -273,7 +273,7 @@ export const products = [
     "price": 150.0,
     "salePrice": null,
     "barcode": null,
-    "badge": null,
+    "badge": "new",
     "description": "6PK RING 4300 COUNT - Premium quality product from our inventory.",
     "inStock": true,
     "featured": false
@@ -285,7 +285,7 @@ export const products = [
     "price": 60.0,
     "salePrice": null,
     "barcode": "682131912959",
-    "badge": null,
+    "badge": "new",
     "description": "6SWAG MEAG GOLD 24CT - Premium quality product from our inventory.",
     "inStock": true,
     "featured": false
@@ -293,7 +293,7 @@ export const products = [
   {
     "id": 25,
     "name": "7 PLUS PIPE",
-    "category": "smoking",
+    "category": "glass-pipes",
     "price": 8.0,
     "salePrice": 6.8,
     "barcode": null,
@@ -305,7 +305,7 @@ export const products = [
   {
     "id": 26,
     "name": "710 INSTANT 12OZ",
-    "category": "other",
+    "category": "cleaners",
     "price": 5.5,
     "salePrice": 4.67,
     "barcode": "721405571185",
@@ -317,11 +317,11 @@ export const products = [
   {
     "id": 27,
     "name": "710 INSTANT GLASS CLEANER 120Z",
-    "category": "accessories",
+    "category": "glass-pipes",
     "price": 5.5,
     "salePrice": 4.67,
     "barcode": "721405571161",
-    "badge": null,
+    "badge": "new",
     "description": "710 INSTANT GLASS CLEANER 120Z - Premium quality product from our inventory.",
     "inStock": true,
     "featured": false
@@ -329,11 +329,11 @@ export const products = [
   {
     "id": 28,
     "name": "72710 ADVANCE GLASS CLEANER 16F",
-    "category": "accessories",
+    "category": "glass-pipes",
     "price": 5.75,
     "salePrice": null,
     "barcode": "1405571161",
-    "badge": null,
+    "badge": "new",
     "description": "72710 ADVANCE GLASS CLEANER 16F - Premium quality product from our inventory.",
     "inStock": true,
     "featured": false
@@ -341,11 +341,11 @@ export const products = [
   {
     "id": 29,
     "name": "7420 PLASTIC ACRYLIC CLEANER 12OZ",
-    "category": "other",
+    "category": "cleaners",
     "price": 4.5,
     "salePrice": null,
     "barcode": "721405571024",
-    "badge": null,
+    "badge": "new",
     "description": "7420 PLASTIC ACRYLIC CLEANER 12OZ - Premium quality product from our inventory.",
     "inStock": true,
     "featured": false
@@ -357,7 +357,7 @@ export const products = [
     "price": 90.0,
     "salePrice": null,
     "barcode": null,
-    "badge": null,
+    "badge": "new",
     "description": "777K PILLS - Premium quality product from our inventory.",
     "inStock": true,
     "featured": false
@@ -365,11 +365,11 @@ export const products = [
   {
     "id": 31,
     "name": "7RAW DLX CONE GLASS TIP 12CT",
-    "category": "accessories",
+    "category": "glass-pipes",
     "price": 32.0,
     "salePrice": null,
     "barcode": "716165254188",
-    "badge": null,
+    "badge": "new",
     "description": "7RAW DLX CONE GLASS TIP 12CT - Premium quality product from our inventory.",
     "inStock": true,
     "featured": false
@@ -377,11 +377,11 @@ export const products = [
   {
     "id": 32,
     "name": "GOOD TIME WOOD NO PRICE GOLD SWEET 15",
-    "category": "other",
+    "category": "cigars",
     "price": 35.0,
     "salePrice": null,
     "barcode": "842426168632",
-    "badge": null,
+    "badge": "new",
     "description": "GOOD TIME WOOD NO PRICE GOLD SWEET 15 - Premium quality product from our inventory.",
     "inStock": true,
     "featured": false
@@ -389,11 +389,11 @@ export const products = [
   {
     "id": 33,
     "name": "9MM PISTOL LIGHTER 12CT",
-    "category": "smoking",
+    "category": "lighters-torches",
     "price": 45.0,
     "salePrice": null,
     "barcode": null,
-    "badge": null,
+    "badge": "new",
     "description": "9MM PISTOL LIGHTER 12CT - Premium quality product from our inventory.",
     "inStock": true,
     "featured": false
@@ -401,11 +401,11 @@ export const products = [
   {
     "id": 34,
     "name": "ACID BLONDE 40CT",
-    "category": "other",
+    "category": "cigars",
     "price": 150.0,
     "salePrice": null,
     "barcode": null,
-    "badge": null,
+    "badge": "new",
     "description": "ACID BLONDE 40CT - Premium quality product from our inventory.",
     "inStock": true,
     "featured": false
@@ -413,11 +413,11 @@ export const products = [
   {
     "id": 35,
     "name": "ACID C-NOTE 100CT",
-    "category": "other",
+    "category": "cigars",
     "price": 120.0,
     "salePrice": null,
     "barcode": null,
-    "badge": null,
+    "badge": "new",
     "description": "ACID C-NOTE 100CT - Premium quality product from our inventory.",
     "inStock": true,
     "featured": false
@@ -425,11 +425,11 @@ export const products = [
   {
     "id": 36,
     "name": "ACID KUBA GRANDE 10CT",
-    "category": "other",
+    "category": "cigars",
     "price": 90.0,
     "salePrice": null,
     "barcode": null,
-    "badge": null,
+    "badge": "new",
     "description": "ACID KUBA GRANDE 10CT - Premium quality product from our inventory.",
     "inStock": true,
     "featured": false
@@ -437,11 +437,11 @@ export const products = [
   {
     "id": 37,
     "name": "ACID KUBA KUBA 24CT",
-    "category": "other",
+    "category": "cigars",
     "price": 150.0,
     "salePrice": null,
     "barcode": null,
-    "badge": null,
+    "badge": "new",
     "description": "ACID KUBA KUBA 24CT - Premium quality product from our inventory.",
     "inStock": true,
     "featured": false
@@ -453,7 +453,7 @@ export const products = [
     "price": 37.0,
     "salePrice": null,
     "barcode": "10853168006486",
-    "badge": null,
+    "badge": "new",
     "description": "ADDALL PILL ADD FOCUS TO YOUR DAY - Premium quality product from our inventory.",
     "inStock": true,
     "featured": false
@@ -465,7 +465,7 @@ export const products = [
     "price": 10.0,
     "salePrice": null,
     "barcode": "655708017913",
-    "badge": null,
+    "badge": "new",
     "description": "ADVIL REGULAR 25 COUNT - Premium quality product from our inventory.",
     "inStock": true,
     "featured": false
@@ -477,7 +477,7 @@ export const products = [
     "price": 7.5,
     "salePrice": null,
     "barcode": null,
-    "badge": null,
+    "badge": "new",
     "description": "ADVIL BLISTER PACK 12CT - Premium quality product from our inventory.",
     "inStock": true,
     "featured": false
@@ -489,7 +489,7 @@ export const products = [
     "price": 12.0,
     "salePrice": null,
     "barcode": "655708018842",
-    "badge": null,
+    "badge": "new",
     "description": "ADVIL DUAL ACTION 25CT - Premium quality product from our inventory.",
     "inStock": true,
     "featured": false
@@ -501,7 +501,7 @@ export const products = [
     "price": 9.99,
     "salePrice": null,
     "barcode": "655708017920",
-    "badge": null,
+    "badge": "new",
     "description": "ADVIL LIQUI-GELS 25COUNT - Premium quality product from our inventory.",
     "inStock": true,
     "featured": false
@@ -513,7 +513,7 @@ export const products = [
     "price": 10.0,
     "salePrice": null,
     "barcode": "815556020880",
-    "badge": null,
+    "badge": "new",
     "description": "ADVIL PM 25 COUNT - Premium quality product from our inventory.",
     "inStock": true,
     "featured": false
@@ -525,7 +525,7 @@ export const products = [
     "price": 14.99,
     "salePrice": null,
     "barcode": "076171102904",
-    "badge": null,
+    "badge": "new",
     "description": "TREE AIRFRESHNER LEATHER STRIP 24 CT - Premium quality product from our inventory.",
     "inStock": true,
     "featured": false
@@ -537,7 +537,7 @@ export const products = [
     "price": 15.0,
     "salePrice": null,
     "barcode": null,
-    "badge": null,
+    "badge": "new",
     "description": "AIR TITTEL TREE MIX 24CT - Premium quality product from our inventory.",
     "inStock": true,
     "featured": false
@@ -549,7 +549,7 @@ export const products = [
     "price": 14.99,
     "salePrice": null,
     "barcode": null,
-    "badge": null,
+    "badge": "new",
     "description": "TREE AIRFRESHNER RAINSHINE STRIP 24 CT - Premium quality product from our inventory.",
     "inStock": true,
     "featured": false
@@ -561,7 +561,7 @@ export const products = [
     "price": 14.99,
     "salePrice": null,
     "barcode": "076171101013",
-    "badge": null,
+    "badge": "new",
     "description": "TREE AIRFRESHNER ROYAL PINE STRIP 24 CT - Premium quality product from our inventory.",
     "inStock": true,
     "featured": false
@@ -573,7 +573,7 @@ export const products = [
     "price": 25.0,
     "salePrice": null,
     "barcode": "00076171922236",
-    "badge": null,
+    "badge": "new",
     "description": "AIR FRESHENERS LITTLE TREE SPRAY 12CT MIX - Premium quality product from our inventory.",
     "inStock": true,
     "featured": false
@@ -585,7 +585,7 @@ export const products = [
     "price": 50.0,
     "salePrice": null,
     "barcode": null,
-    "badge": null,
+    "badge": "new",
     "description": "AIR SPRAY 24CT ASSORATED 3.5OZ - Premium quality product from our inventory.",
     "inStock": true,
     "featured": false
@@ -597,7 +597,7 @@ export const products = [
     "price": 13.0,
     "salePrice": null,
     "barcode": "30076171063558",
-    "badge": null,
+    "badge": "new",
     "description": "AIR SPRAY BLACK ICE 06CT 3.5OZ - Premium quality product from our inventory.",
     "inStock": true,
     "featured": false
@@ -629,7 +629,7 @@ export const products = [
   {
     "id": 53,
     "name": "AK-47 TORCH LIGHTER 12CT",
-    "category": "smoking",
+    "category": "lighters-torches",
     "price": 130.0,
     "salePrice": null,
     "barcode": null,
@@ -641,7 +641,7 @@ export const products = [
   {
     "id": 54,
     "name": "AL-FAKHER 10X50",
-    "category": "other",
+    "category": "hookah",
     "price": 19.0,
     "salePrice": null,
     "barcode": null,
@@ -677,7 +677,7 @@ export const products = [
   {
     "id": 57,
     "name": "AL-CAPONE BLUE 10/10PK",
-    "category": "accessories",
+    "category": "cigars",
     "price": 66.0,
     "salePrice": null,
     "barcode": "717519011518",
@@ -689,7 +689,7 @@ export const products = [
   {
     "id": 58,
     "name": "AL-CAPONE FILTER SWEETS 10/10PK",
-    "category": "accessories",
+    "category": "cigars",
     "price": 66.0,
     "salePrice": null,
     "barcode": "717519011143",
@@ -701,7 +701,7 @@ export const products = [
   {
     "id": 59,
     "name": "AL-CAPONE JAMAICAN BLAZE FILTER 10/10PK",
-    "category": "accessories",
+    "category": "cigars",
     "price": 66.0,
     "salePrice": null,
     "barcode": "717519008822",
@@ -713,7 +713,7 @@ export const products = [
   {
     "id": 60,
     "name": "AL CAPOON LEAF WRAP",
-    "category": "accessories",
+    "category": "papers-wraps",
     "price": 15.5,
     "salePrice": null,
     "barcode": null,
@@ -725,7 +725,7 @@ export const products = [
   {
     "id": 61,
     "name": "AL-CAPONE REGULAR SWEETS NON-FILTER COGNAC DIPPED10/10PK",
-    "category": "accessories",
+    "category": "cigars",
     "price": 66.0,
     "salePrice": null,
     "barcode": "717519011105",
@@ -737,7 +737,7 @@ export const products = [
   {
     "id": 62,
     "name": "AL-CAPONE RUM 10/10PK",
-    "category": "accessories",
+    "category": "cigars",
     "price": 66.0,
     "salePrice": null,
     "barcode": "717519011112",
@@ -749,7 +749,7 @@ export const products = [
   {
     "id": 63,
     "name": "AL CAPONE WRAPS ORIGNAL 18CT",
-    "category": "accessories",
+    "category": "glass-pipes",
     "price": 21.5,
     "salePrice": null,
     "barcode": null,
@@ -761,7 +761,7 @@ export const products = [
   {
     "id": 64,
     "name": "AL PRINCE CHARCOAL 33MM",
-    "category": "other",
+    "category": "hookah",
     "price": 6.5,
     "salePrice": null,
     "barcode": "0118456789010027",
@@ -773,7 +773,7 @@ export const products = [
   {
     "id": 65,
     "name": "AL SULTAN CHARCOAL 72CT",
-    "category": "other",
+    "category": "hookah",
     "price": 5.5,
     "salePrice": 4.67,
     "barcode": "6593859225624",
@@ -785,7 +785,7 @@ export const products = [
   {
     "id": 66,
     "name": "AL-CAPONE FILTER SWEETS 2PK",
-    "category": "accessories",
+    "category": "cigars",
     "price": 78.0,
     "salePrice": null,
     "barcode": "717519001052",
@@ -797,7 +797,7 @@ export const products = [
   {
     "id": 67,
     "name": "AL-CAPONE JAMAICAN BLAZE  FILTER 2PK",
-    "category": "accessories",
+    "category": "cigars",
     "price": 78.0,
     "salePrice": null,
     "barcode": "717519000871",
@@ -809,7 +809,7 @@ export const products = [
   {
     "id": 68,
     "name": "AL-CAPONE REGULAR SWEETS NON-FILTER COGNAC DIPPED 2PK",
-    "category": "accessories",
+    "category": "cigars",
     "price": 78.0,
     "salePrice": null,
     "barcode": "717519001076",
@@ -821,7 +821,7 @@ export const products = [
   {
     "id": 69,
     "name": "AL-CAPONE RUM 2PK",
-    "category": "accessories",
+    "category": "cigars",
     "price": 78.0,
     "salePrice": null,
     "barcode": "717519001045",
@@ -881,7 +881,7 @@ export const products = [
   {
     "id": 74,
     "name": "ALKA SELTZER ORIGINAL 2PKS 20CT BOX",
-    "category": "other",
+    "category": "glass-pipes",
     "price": 9.0,
     "salePrice": null,
     "barcode": "815556020606",
@@ -953,7 +953,7 @@ export const products = [
   {
     "id": 80,
     "name": "AMY BOWL C018",
-    "category": "other",
+    "category": "flower-slides",
     "price": 7.5,
     "salePrice": null,
     "barcode": "4260396015613",
@@ -965,7 +965,7 @@ export const products = [
   {
     "id": 81,
     "name": "AMY DELUXE HOT SCREEN",
-    "category": "other",
+    "category": "accessories",
     "price": 19.0,
     "salePrice": 16.15,
     "barcode": null,
@@ -977,7 +977,7 @@ export const products = [
   {
     "id": 82,
     "name": "ANIMAL ASHTRAY",
-    "category": "smoking",
+    "category": "other",
     "price": 5.5,
     "salePrice": null,
     "barcode": null,
@@ -1001,7 +1001,7 @@ export const products = [
   {
     "id": 84,
     "name": "AR-15 TORCH LIGHTER",
-    "category": "smoking",
+    "category": "lighters-torches",
     "price": 15.0,
     "salePrice": 12.75,
     "barcode": "707670213463",
@@ -1013,7 +1013,7 @@ export const products = [
   {
     "id": 85,
     "name": "ARABISQ CHARCOAL 1KG",
-    "category": "other",
+    "category": "hookah",
     "price": 6.0,
     "salePrice": 5.1,
     "barcode": null,
@@ -1037,7 +1037,7 @@ export const products = [
   {
     "id": 87,
     "name": "ASTRAY BIG DESING EMOJI",
-    "category": "smoking",
+    "category": "other",
     "price": 10.0,
     "salePrice": null,
     "barcode": null,
@@ -1049,7 +1049,7 @@ export const products = [
   {
     "id": 88,
     "name": "ASHTRAY GLASS DESIGN",
-    "category": "accessories",
+    "category": "glass-pipes",
     "price": 16.0,
     "salePrice": 13.6,
     "barcode": null,
@@ -1061,7 +1061,7 @@ export const products = [
   {
     "id": 89,
     "name": "HTRAY SILICONE",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 12.5,
     "salePrice": 10.62,
     "barcode": null,
@@ -1073,7 +1073,7 @@ export const products = [
   {
     "id": 90,
     "name": "ASTRAY EMOJI DESING SMALL",
-    "category": "smoking",
+    "category": "other",
     "price": 5.0,
     "salePrice": 4.25,
     "barcode": null,
@@ -1085,7 +1085,7 @@ export const products = [
   {
     "id": 91,
     "name": "ASHTRAY SQUARE",
-    "category": "smoking",
+    "category": "other",
     "price": 15.0,
     "salePrice": null,
     "barcode": "454325610923",
@@ -1097,7 +1097,7 @@ export const products = [
   {
     "id": 92,
     "name": "ASSORTED HOOKAH TIPS 50CT",
-    "category": "accessories",
+    "category": "hookah",
     "price": 3.5,
     "salePrice": 2.98,
     "barcode": null,
@@ -1169,7 +1169,7 @@ export const products = [
   {
     "id": 98,
     "name": "AWS-1KG DIGITAL SCALE (1000 X 0.1G)",
-    "category": "other",
+    "category": "scales",
     "price": 7.49,
     "salePrice": null,
     "barcode": "814859011861",
@@ -1181,7 +1181,7 @@ export const products = [
   {
     "id": 99,
     "name": "AWS MAX 100-DIGITAL SCALE",
-    "category": "other",
+    "category": "scales",
     "price": 7.5,
     "salePrice": null,
     "barcode": "814859014701",
@@ -1229,7 +1229,7 @@ export const products = [
   {
     "id": 103,
     "name": "BADSHA CHARCOAL BURNER DUAL",
-    "category": "other",
+    "category": "hookah",
     "price": 28.5,
     "salePrice": 24.22,
     "barcode": null,
@@ -1241,7 +1241,7 @@ export const products = [
   {
     "id": 104,
     "name": "BADSHA CHARCOAL BURNER SINGLE",
-    "category": "other",
+    "category": "hookah",
     "price": 18.0,
     "salePrice": 15.3,
     "barcode": null,
@@ -1253,7 +1253,7 @@ export const products = [
   {
     "id": 105,
     "name": "BAGGIES 7 GRAM 50CT",
-    "category": "other",
+    "category": "storage",
     "price": 0.15,
     "salePrice": 0.13,
     "barcode": null,
@@ -1265,7 +1265,7 @@ export const products = [
   {
     "id": 106,
     "name": "BAGGIES 3.5 GRAM MULTI COLOR",
-    "category": "other",
+    "category": "storage",
     "price": 0.33,
     "salePrice": 0.28,
     "barcode": null,
@@ -1277,7 +1277,7 @@ export const products = [
   {
     "id": 107,
     "name": "BAGIEES 7 GRAM",
-    "category": "other",
+    "category": "storage",
     "price": 0.1,
     "salePrice": null,
     "barcode": null,
@@ -1289,7 +1289,7 @@ export const products = [
   {
     "id": 108,
     "name": "BAKE GRINDER",
-    "category": "smoking",
+    "category": "grinders",
     "price": 18.5,
     "salePrice": null,
     "barcode": null,
@@ -1313,7 +1313,7 @@ export const products = [
   {
     "id": 110,
     "name": "BANGER GLASS PIPE 08.99",
-    "category": "accessories",
+    "category": "bangers",
     "price": 8.99,
     "salePrice": 7.64,
     "barcode": null,
@@ -1325,7 +1325,7 @@ export const products = [
   {
     "id": 111,
     "name": "BANGER GLASS PIPE 11.99",
-    "category": "accessories",
+    "category": "bangers",
     "price": 11.99,
     "salePrice": 10.19,
     "barcode": null,
@@ -1337,7 +1337,7 @@ export const products = [
   {
     "id": 112,
     "name": "BATTERY CHARGER",
-    "category": "accessories",
+    "category": "other",
     "price": 8.49,
     "salePrice": 7.22,
     "barcode": null,
@@ -1349,7 +1349,7 @@ export const products = [
   {
     "id": 113,
     "name": "BAUBLE PEANUT PIPES [PACK OF 3]",
-    "category": "smoking",
+    "category": "glass-pipes",
     "price": 16.0,
     "salePrice": 13.6,
     "barcode": "12345678954",
@@ -1409,7 +1409,7 @@ export const products = [
   {
     "id": 118,
     "name": "BEAMER GRINDER MIX",
-    "category": "smoking",
+    "category": "grinders",
     "price": 16.0,
     "salePrice": null,
     "barcode": null,
@@ -1421,7 +1421,7 @@ export const products = [
   {
     "id": 119,
     "name": "BEAR TORCH 12CT",
-    "category": "smoking",
+    "category": "lighters-torches",
     "price": 72.0,
     "salePrice": null,
     "barcode": "707670199224",
@@ -1493,7 +1493,7 @@ export const products = [
   {
     "id": 125,
     "name": "BIC LIGHTER FLICK MY BIC 50CT",
-    "category": "smoking",
+    "category": "lighters-torches",
     "price": 64.0,
     "salePrice": null,
     "barcode": "070330620964",
@@ -1517,7 +1517,7 @@ export const products = [
   {
     "id": 127,
     "name": "BIC NFL BEARS LIGHTERS",
-    "category": "smoking",
+    "category": "lighters-torches",
     "price": 70.0,
     "salePrice": null,
     "barcode": "070330619081",
@@ -1529,7 +1529,7 @@ export const products = [
   {
     "id": 128,
     "name": "BIC BIG LIGHTER 12CT-SINGLE",
-    "category": "smoking",
+    "category": "lighters-torches",
     "price": 14.99,
     "salePrice": 12.74,
     "barcode": "00070330911475",
@@ -1541,7 +1541,7 @@ export const products = [
   {
     "id": 129,
     "name": "REGULAR BIC LIGHTER 50 CT+3 TOTAL 53CT",
-    "category": "smoking",
+    "category": "lighters-torches",
     "price": 52.5,
     "salePrice": null,
     "barcode": "070330644809",
@@ -1553,7 +1553,7 @@ export const products = [
   {
     "id": 130,
     "name": "BIC BLACK HWAKS 50 CT LIGHTER",
-    "category": "smoking",
+    "category": "lighters-torches",
     "price": 75.0,
     "salePrice": null,
     "barcode": "070330637092",
@@ -1565,7 +1565,7 @@ export const products = [
   {
     "id": 131,
     "name": "BIC BULL LIGHTER 50CT",
-    "category": "smoking",
+    "category": "lighters-torches",
     "price": 75.0,
     "salePrice": null,
     "barcode": null,
@@ -1601,7 +1601,7 @@ export const products = [
   {
     "id": 134,
     "name": "BIC CHICAGO BULLS LIGHTER 50 COUNT",
-    "category": "smoking",
+    "category": "lighters-torches",
     "price": 70.0,
     "salePrice": null,
     "barcode": "070330643451",
@@ -1613,7 +1613,7 @@ export const products = [
   {
     "id": 135,
     "name": "BIC CLASSIC MOVIES LIGHTER 50CT",
-    "category": "smoking",
+    "category": "lighters-torches",
     "price": 64.99,
     "salePrice": null,
     "barcode": "070330646636",
@@ -1625,7 +1625,7 @@ export const products = [
   {
     "id": 136,
     "name": "BIC CUBS LIGHTER 50 CT",
-    "category": "smoking",
+    "category": "lighters-torches",
     "price": 70.0,
     "salePrice": null,
     "barcode": "070330643932",
@@ -1637,7 +1637,7 @@ export const products = [
   {
     "id": 137,
     "name": "BIC DESING MIX LIGHTER",
-    "category": "smoking",
+    "category": "lighters-torches",
     "price": 55.0,
     "salePrice": null,
     "barcode": null,
@@ -1649,7 +1649,7 @@ export const products = [
   {
     "id": 138,
     "name": "BIC DISPLAY LIGHTER 320 CT",
-    "category": "smoking",
+    "category": "lighters-torches",
     "price": 310.0,
     "salePrice": null,
     "barcode": null,
@@ -1673,7 +1673,7 @@ export const products = [
   {
     "id": 140,
     "name": "BIC FAVORITE LIGHTER 50+3CT",
-    "category": "smoking",
+    "category": "lighters-torches",
     "price": 54.99,
     "salePrice": 46.74,
     "barcode": "070330649613",
@@ -1709,7 +1709,7 @@ export const products = [
   {
     "id": 143,
     "name": "PLAYBOY BIC LIGHTER 50 CT",
-    "category": "smoking",
+    "category": "lighters-torches",
     "price": 70.0,
     "salePrice": null,
     "barcode": "070330633261",
@@ -1733,7 +1733,7 @@ export const products = [
   {
     "id": 145,
     "name": "BIC SMALL LIGHTER 50 CT+3 TOTAL 53CT",
-    "category": "smoking",
+    "category": "lighters-torches",
     "price": 43.5,
     "salePrice": null,
     "barcode": "070330602670",
@@ -1745,7 +1745,7 @@ export const products = [
   {
     "id": 146,
     "name": "BIC NBA WHITE SOX LIGHTER 50CT",
-    "category": "smoking",
+    "category": "lighters-torches",
     "price": 70.0,
     "salePrice": null,
     "barcode": "070330619531",
@@ -1769,7 +1769,7 @@ export const products = [
   {
     "id": 148,
     "name": "BIC ZODIAC LIGHTER 50CT",
-    "category": "smoking",
+    "category": "lighters-torches",
     "price": 75.0,
     "salePrice": null,
     "barcode": null,
@@ -1793,7 +1793,7 @@ export const products = [
   {
     "id": 150,
     "name": "BIG ASHTRAY",
-    "category": "smoking",
+    "category": "other",
     "price": 16.0,
     "salePrice": 13.6,
     "barcode": null,
@@ -1817,7 +1817,7 @@ export const products = [
   {
     "id": 152,
     "name": "BIG GRINDER 110MM 6CT",
-    "category": "smoking",
+    "category": "grinders",
     "price": 57.0,
     "salePrice": null,
     "barcode": null,
@@ -1829,7 +1829,7 @@ export const products = [
   {
     "id": 153,
     "name": "BIG JAR",
-    "category": "other",
+    "category": "storage",
     "price": 3.0,
     "salePrice": 2.55,
     "barcode": null,
@@ -1853,7 +1853,7 @@ export const products = [
   {
     "id": 155,
     "name": "1/8 BLACK EXTRA HEAVY DUTY BAGS 850CT",
-    "category": "other",
+    "category": "storage",
     "price": 12.0,
     "salePrice": null,
     "barcode": null,
@@ -1949,7 +1949,7 @@ export const products = [
   {
     "id": 163,
     "name": "BLAZY SUSAN UNBLEACHED  98MM CONE 50CT",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 15.0,
     "salePrice": 12.75,
     "barcode": "051497243807",
@@ -1961,7 +1961,7 @@ export const products = [
   {
     "id": 164,
     "name": "BLAZY SUSAN PURPLE CONE 98 MM 50CT JAR",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 15.0,
     "salePrice": 12.75,
     "barcode": "051497315603",
@@ -1973,7 +1973,7 @@ export const products = [
   {
     "id": 165,
     "name": "BLAZY SUSSAN BROWN UNBLEACHED CONE 3PACK",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 32.0,
     "salePrice": 27.2,
     "barcode": "051497243791",
@@ -1985,7 +1985,7 @@ export const products = [
   {
     "id": 166,
     "name": "BLAZY SUSSAN CONE 3PACK",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 32.0,
     "salePrice": null,
     "barcode": "051497221713",
@@ -1997,7 +1997,7 @@ export const products = [
   {
     "id": 167,
     "name": "BLAZY SUSAN 53MM SHORTY50CT JAR",
-    "category": "other",
+    "category": "storage",
     "price": 14.0,
     "salePrice": 11.9,
     "barcode": "051497221782",
@@ -2009,7 +2009,7 @@ export const products = [
   {
     "id": 168,
     "name": "BLAZY SUSSAN CONE 6PACK",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 32.0,
     "salePrice": null,
     "barcode": "051497036959",
@@ -2021,7 +2021,7 @@ export const products = [
   {
     "id": 169,
     "name": "BLAZY SUSAN UNBLEACHED BROWN 98MM CONE 50CT",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 15.0,
     "salePrice": 12.75,
     "barcode": null,
@@ -2033,7 +2033,7 @@ export const products = [
   {
     "id": 170,
     "name": "BLAZY SUSAN UNBLEACHED BROWN 53MM SHORTY50CT JAR",
-    "category": "other",
+    "category": "storage",
     "price": 14.0,
     "salePrice": 11.9,
     "barcode": null,
@@ -2045,7 +2045,7 @@ export const products = [
   {
     "id": 171,
     "name": "BLAZY SUSAN UNBLEACHED BROWN 11/4 CONES 50CT/JAR",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 12.0,
     "salePrice": 10.2,
     "barcode": "051497363277",
@@ -2057,7 +2057,7 @@ export const products = [
   {
     "id": 172,
     "name": "BLAZY SUSAN BROWN 1-1/4 CONE 21 CT",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 35.0,
     "salePrice": 29.75,
     "barcode": "051497243777",
@@ -2069,7 +2069,7 @@ export const products = [
   {
     "id": 173,
     "name": "BLAZY SUSAN BROWN UNBLEACHED KING SIZE CONES 50CT/JAR",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 15.5,
     "salePrice": 13.17,
     "barcode": "051497363284",
@@ -2081,7 +2081,7 @@ export const products = [
   {
     "id": 174,
     "name": "BLAZY SUSAN PAPER 1.25 ROLLING",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 29.5,
     "salePrice": null,
     "barcode": "051497011642",
@@ -2093,7 +2093,7 @@ export const products = [
   {
     "id": 175,
     "name": "BLAZY SUSAN PAPER KING SIZE SLIM",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 32.0,
     "salePrice": null,
     "barcode": "051497011635",
@@ -2105,7 +2105,7 @@ export const products = [
   {
     "id": 176,
     "name": "BLAZY SUSAN PINK 1 1/4 CONE 50CT",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 15.5,
     "salePrice": 13.17,
     "barcode": "051497331788",
@@ -2117,7 +2117,7 @@ export const products = [
   {
     "id": 177,
     "name": "BLAZY SUSAN PINK 98MM CONE 50CT",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 15.0,
     "salePrice": 12.75,
     "barcode": "051497221744",
@@ -2129,7 +2129,7 @@ export const products = [
   {
     "id": 178,
     "name": "BLAZY SUSAN PINK ACTIVATED CHARCOAL TIPS 100CT",
-    "category": "accessories",
+    "category": "hookah",
     "price": 15.0,
     "salePrice": null,
     "barcode": null,
@@ -2153,7 +2153,7 @@ export const products = [
   {
     "id": 180,
     "name": "BLAZY SUSAN PINK KING SIZE CONE 50CT JAR",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 15.5,
     "salePrice": 13.17,
     "barcode": "051497331771",
@@ -2177,7 +2177,7 @@ export const products = [
   {
     "id": 182,
     "name": "BLAZY SUSAN PINK QUEEN SIZE CONES 120/400MM 25CT JAR",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 11.0,
     "salePrice": null,
     "barcode": "810134926288",
@@ -2201,7 +2201,7 @@ export const products = [
   {
     "id": 184,
     "name": "BLAZY SUSAN 1 1/4 CONE 21 CT",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 40.0,
     "salePrice": 34.0,
     "barcode": null,
@@ -2213,7 +2213,7 @@ export const products = [
   {
     "id": 185,
     "name": "BLAZY SUSAN PURPLE QUEEN SIZE CONES 120/400MM 25CT JAR",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 11.0,
     "salePrice": null,
     "barcode": "810134926271",
@@ -2249,7 +2249,7 @@ export const products = [
   {
     "id": 188,
     "name": "0BLAZY SUSAN PURPLE 1 1/4 50CT CONE",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 15.0,
     "salePrice": 12.75,
     "barcode": "051497331795",
@@ -2285,7 +2285,7 @@ export const products = [
   {
     "id": 191,
     "name": "BLAZY SUSAN PURPLE CONE 1 1/4",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 32.0,
     "salePrice": null,
     "barcode": "051497315573",
@@ -2297,7 +2297,7 @@ export const products = [
   {
     "id": 192,
     "name": "BLAZY SUSAN PURPLE KING SIZE CONE 50CT JAR",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 15.5,
     "salePrice": 13.17,
     "barcode": "051497363260",
@@ -2309,7 +2309,7 @@ export const products = [
   {
     "id": 193,
     "name": "BLAZY SUSAN PURPLE KINGCONE 21C",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 32.0,
     "salePrice": null,
     "barcode": null,
@@ -2321,7 +2321,7 @@ export const products = [
   {
     "id": 194,
     "name": "BLAZY SUSAN PURPLE PAPER 11/4 ROLLING",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 29.5,
     "salePrice": null,
     "barcode": "051497315511",
@@ -2333,7 +2333,7 @@ export const products = [
   {
     "id": 195,
     "name": "BLAZY SUSAN PURPLE PAPER KING SIZE SLIM ROLLING",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 32.0,
     "salePrice": null,
     "barcode": "051497315535",
@@ -2345,7 +2345,7 @@ export const products = [
   {
     "id": 196,
     "name": "BLAZY SUSAN RESIN GLASS CLEANER 16 OZ",
-    "category": "accessories",
+    "category": "glass-pipes",
     "price": 12.5,
     "salePrice": null,
     "barcode": "051497331719",
@@ -2357,7 +2357,7 @@ export const products = [
   {
     "id": 197,
     "name": "BLAZY SUSAN UNBLEACHED CONE 53MM CONE SHORRLY 50CT",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 11.0,
     "salePrice": 9.35,
     "barcode": "051497243814",
@@ -2381,7 +2381,7 @@ export const products = [
   {
     "id": 199,
     "name": "BLAZY SUSAN X GRATEFUL DEAD 11/4 ROLLING PAPER 50CT",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 30.0,
     "salePrice": null,
     "barcode": "810134923829",
@@ -2393,7 +2393,7 @@ export const products = [
   {
     "id": 200,
     "name": "BLICK CARBON FIBER TORCH 12CT",
-    "category": "smoking",
+    "category": "lighters-torches",
     "price": 32.0,
     "salePrice": 27.2,
     "barcode": "10018505144218",
@@ -2405,7 +2405,7 @@ export const products = [
   {
     "id": 201,
     "name": "BLINK ANGLED MINI TORCH 20",
-    "category": "smoking",
+    "category": "lighters-torches",
     "price": 28.5,
     "salePrice": 24.22,
     "barcode": "100185051430",
@@ -2417,7 +2417,7 @@ export const products = [
   {
     "id": 202,
     "name": "BLINK BIG BLACK LIGHTER",
-    "category": "smoking",
+    "category": "lighters-torches",
     "price": 25.0,
     "salePrice": null,
     "barcode": "10018505143891",
@@ -2429,7 +2429,7 @@ export const products = [
   {
     "id": 203,
     "name": "BLINK CAMO LIGHTER 12PC",
-    "category": "smoking",
+    "category": "lighters-torches",
     "price": 42.0,
     "salePrice": 35.7,
     "barcode": "10018505144201",
@@ -2441,7 +2441,7 @@ export const products = [
   {
     "id": 204,
     "name": "BLINK CIGAR CUTTER 24PCS",
-    "category": "other",
+    "category": "cigars",
     "price": 30.0,
     "salePrice": null,
     "barcode": "10018505144263",
@@ -2453,7 +2453,7 @@ export const products = [
   {
     "id": 205,
     "name": "BLINK EMOJI TORCH 12PC",
-    "category": "smoking",
+    "category": "lighters-torches",
     "price": 42.0,
     "salePrice": 35.7,
     "barcode": "10018505144140",
@@ -2477,7 +2477,7 @@ export const products = [
   {
     "id": 207,
     "name": "BLINK FROSTED GUN LIGHTER 12CT",
-    "category": "smoking",
+    "category": "lighters-torches",
     "price": 28.0,
     "salePrice": 23.8,
     "barcode": "10018505136428",
@@ -2501,7 +2501,7 @@ export const products = [
   {
     "id": 209,
     "name": "BLINK HELIX TORCH 6PC",
-    "category": "smoking",
+    "category": "lighters-torches",
     "price": 44.0,
     "salePrice": null,
     "barcode": "10018505143556",
@@ -2525,7 +2525,7 @@ export const products = [
   {
     "id": 211,
     "name": "BLINK METAL TORCH 12CT",
-    "category": "smoking",
+    "category": "lighters-torches",
     "price": 32.0,
     "salePrice": 27.2,
     "barcode": "10018505",
@@ -2537,7 +2537,7 @@ export const products = [
   {
     "id": 212,
     "name": "BLINK MINI METALLIC  TORCH 20PC",
-    "category": "smoking",
+    "category": "lighters-torches",
     "price": 24.5,
     "salePrice": null,
     "barcode": "10018505143082",
@@ -2549,7 +2549,7 @@ export const products = [
   {
     "id": 213,
     "name": "BLINK MT 01 MED TORCH GUN12CT",
-    "category": "smoking",
+    "category": "lighters-torches",
     "price": 27.5,
     "salePrice": null,
     "barcode": "10018505141156",
@@ -2561,7 +2561,7 @@ export const products = [
   {
     "id": 214,
     "name": "BLINK RASTA LIGHTER 12PC",
-    "category": "smoking",
+    "category": "lighters-torches",
     "price": 42.0,
     "salePrice": 35.7,
     "barcode": "10018505144126",
@@ -2573,7 +2573,7 @@ export const products = [
   {
     "id": 215,
     "name": "BLINK SMALL BLACK LIGHTER",
-    "category": "smoking",
+    "category": "lighters-torches",
     "price": 23.0,
     "salePrice": null,
     "barcode": "10018505143907",
@@ -2585,7 +2585,7 @@ export const products = [
   {
     "id": 216,
     "name": "BLINK TEI DYE TORCH 12CT",
-    "category": "smoking",
+    "category": "lighters-torches",
     "price": 32.0,
     "salePrice": null,
     "barcode": "10018505144164",
@@ -2597,7 +2597,7 @@ export const products = [
   {
     "id": 217,
     "name": "BLINK TORCH LIGHTER CARBINE",
-    "category": "smoking",
+    "category": "lighters-torches",
     "price": 19.99,
     "salePrice": 16.99,
     "barcode": "018505238743",
@@ -2609,7 +2609,7 @@ export const products = [
   {
     "id": 218,
     "name": "BLINK TORCH GUN SKULL 12CT",
-    "category": "smoking",
+    "category": "lighters-torches",
     "price": 32.0,
     "salePrice": 27.2,
     "barcode": "10018505144133",
@@ -2621,7 +2621,7 @@ export const products = [
   {
     "id": 219,
     "name": "BLINK TORCH GUN TRIPPY 12CT",
-    "category": "smoking",
+    "category": "lighters-torches",
     "price": 32.0,
     "salePrice": 27.2,
     "barcode": "05144157",
@@ -2633,7 +2633,7 @@ export const products = [
   {
     "id": 220,
     "name": "BLINK TORCH LIGHTER PERAZZI",
-    "category": "smoking",
+    "category": "lighters-torches",
     "price": 23.99,
     "salePrice": 20.39,
     "barcode": "018505238859",
@@ -2645,7 +2645,7 @@ export const products = [
   {
     "id": 221,
     "name": "BLINK TWO LEAF GUN LIGHTER 12CT",
-    "category": "smoking",
+    "category": "lighters-torches",
     "price": 28.0,
     "salePrice": null,
     "barcode": "10018505144195",
@@ -2657,7 +2657,7 @@ export const products = [
   {
     "id": 222,
     "name": "BLACK JACK RIGOLETTO 5/4 PK",
-    "category": "other",
+    "category": "glass-pipes",
     "price": 45.0,
     "salePrice": null,
     "barcode": null,
@@ -2669,7 +2669,7 @@ export const products = [
   {
     "id": 223,
     "name": "BLN LEAF WRAPS",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 18.0,
     "salePrice": null,
     "barcode": null,
@@ -2681,7 +2681,7 @@ export const products = [
   {
     "id": 224,
     "name": "BLN WRAPS  BLK 25CT",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 16.0,
     "salePrice": 13.6,
     "barcode": null,
@@ -2693,7 +2693,7 @@ export const products = [
   {
     "id": 225,
     "name": "BILLIONAIRE WRAPS MIX",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 15.0,
     "salePrice": 12.75,
     "barcode": null,
@@ -2741,7 +2741,7 @@ export const products = [
   {
     "id": 229,
     "name": "BLUNT AROMA DISPLAY 72CT",
-    "category": "other",
+    "category": "papers-wraps",
     "price": 30.0,
     "salePrice": 25.5,
     "barcode": null,
@@ -2753,7 +2753,7 @@ export const products = [
   {
     "id": 230,
     "name": "BLUNT BLACK 1 OZ 50CT",
-    "category": "other",
+    "category": "papers-wraps",
     "price": 75.0,
     "salePrice": null,
     "barcode": null,
@@ -2765,7 +2765,7 @@ export const products = [
   {
     "id": 231,
     "name": "BLUNT BLACK INCENSE 72PK 12CT",
-    "category": "other",
+    "category": "papers-wraps",
     "price": 25.0,
     "salePrice": 21.25,
     "barcode": "8904227312989",
@@ -2777,7 +2777,7 @@ export const products = [
   {
     "id": 232,
     "name": "BLUNT BLACK SPRAY 18/30ML",
-    "category": "other",
+    "category": "papers-wraps",
     "price": 30.0,
     "salePrice": 25.5,
     "barcode": "8904227315898",
@@ -2789,7 +2789,7 @@ export const products = [
   {
     "id": 233,
     "name": "BLUNT EFFECTS SPRAY 18CT",
-    "category": "other",
+    "category": "papers-wraps",
     "price": 40.0,
     "salePrice": null,
     "barcode": "078687870018",
@@ -2801,7 +2801,7 @@ export const products = [
   {
     "id": 234,
     "name": "BLUNT HOLDER 10 CT",
-    "category": "other",
+    "category": "papers-wraps",
     "price": 34.0,
     "salePrice": null,
     "barcode": null,
@@ -2813,7 +2813,7 @@ export const products = [
   {
     "id": 235,
     "name": "BLUNT LIFE 30STICK 24CT",
-    "category": "other",
+    "category": "papers-wraps",
     "price": 55.0,
     "salePrice": null,
     "barcode": "097868125563",
@@ -2825,7 +2825,7 @@ export const products = [
   {
     "id": 236,
     "name": "BLUNT LIFE HAND DIPPED INCENSE 72CT",
-    "category": "other",
+    "category": "papers-wraps",
     "price": 30.0,
     "salePrice": 25.5,
     "barcode": "097868124467",
@@ -2837,7 +2837,7 @@ export const products = [
   {
     "id": 237,
     "name": "BLUNT LIFE SPRAY 20CT",
-    "category": "other",
+    "category": "papers-wraps",
     "price": 50.0,
     "salePrice": 42.5,
     "barcode": "097868152972",
@@ -2849,7 +2849,7 @@ export const products = [
   {
     "id": 238,
     "name": "BLUNT LIFE SPRAY 24CT",
-    "category": "other",
+    "category": "papers-wraps",
     "price": 72.0,
     "salePrice": null,
     "barcode": null,
@@ -2861,7 +2861,7 @@ export const products = [
   {
     "id": 239,
     "name": "BLUNT LIFE SPRAY 50CT",
-    "category": "other",
+    "category": "papers-wraps",
     "price": 75.0,
     "salePrice": 63.75,
     "barcode": "097868128762",
@@ -2909,7 +2909,7 @@ export const products = [
   {
     "id": 243,
     "name": "BM FILTER REGULAR 2.49",
-    "category": "other",
+    "category": "accessories",
     "price": 22.0,
     "salePrice": null,
     "barcode": "070137831457",
@@ -2993,7 +2993,7 @@ export const products = [
   {
     "id": 250,
     "name": "BLACK & MILD WOODTIP ORIGINAL 5PK",
-    "category": "accessories",
+    "category": "glass-pipes",
     "price": 50.0,
     "salePrice": null,
     "barcode": "070137505259",
@@ -3017,7 +3017,7 @@ export const products = [
   {
     "id": 252,
     "name": "BLACK & MILD CASINO 25CT UPRIGHT 1.19",
-    "category": "other",
+    "category": "glass-pipes",
     "price": 18.0,
     "salePrice": null,
     "barcode": "070137514879",
@@ -3029,7 +3029,7 @@ export const products = [
   {
     "id": 253,
     "name": "BLACK & MILD JAZZ 25CT UPRIGHT 1.19",
-    "category": "other",
+    "category": "glass-pipes",
     "price": 19.0,
     "salePrice": null,
     "barcode": "070137514893",
@@ -3041,7 +3041,7 @@ export const products = [
   {
     "id": 254,
     "name": "BLACK & MILD REGULAR 25CT UPRIGHT 1.19",
-    "category": "other",
+    "category": "glass-pipes",
     "price": 18.5,
     "salePrice": null,
     "barcode": "070137832058",
@@ -3053,7 +3053,7 @@ export const products = [
   {
     "id": 255,
     "name": "BLACK & MILD SWT 25CT UPRIGHT 1.19",
-    "category": "other",
+    "category": "glass-pipes",
     "price": 20.0,
     "salePrice": null,
     "barcode": "070137514916",
@@ -3065,7 +3065,7 @@ export const products = [
   {
     "id": 256,
     "name": "BLACK & MILD SWT WOODTIP  25CT UPRIGHT 1.19",
-    "category": "accessories",
+    "category": "glass-pipes",
     "price": 20.0,
     "salePrice": null,
     "barcode": "070137514923",
@@ -3077,7 +3077,7 @@ export const products = [
   {
     "id": 257,
     "name": "BLACK & MILD WINE 25CT UPRIGHT 1.19",
-    "category": "other",
+    "category": "glass-pipes",
     "price": 18.0,
     "salePrice": null,
     "barcode": "070137832355",
@@ -3089,7 +3089,7 @@ export const products = [
   {
     "id": 258,
     "name": "BLACK & MILD $1.39 REGULAR 25CT UPRIGHT",
-    "category": "other",
+    "category": "glass-pipes",
     "price": 20.0,
     "salePrice": null,
     "barcode": "070137834359",
@@ -3101,7 +3101,7 @@ export const products = [
   {
     "id": 259,
     "name": "BLACK & MILD APPLE 25CT UPRIGHT",
-    "category": "other",
+    "category": "glass-pipes",
     "price": 21.0,
     "salePrice": null,
     "barcode": "070137005889",
@@ -3113,7 +3113,7 @@ export const products = [
   {
     "id": 260,
     "name": "BLACK N MILD CHERRY VANILLA 25CT UPRIGHT",
-    "category": "other",
+    "category": "glass-pipes",
     "price": 23.0,
     "salePrice": null,
     "barcode": null,
@@ -3125,7 +3125,7 @@ export const products = [
   {
     "id": 261,
     "name": "BLACK & MILD CREAM 25CT UPRIGHT",
-    "category": "other",
+    "category": "glass-pipes",
     "price": 21.0,
     "salePrice": null,
     "barcode": "070137005421",
@@ -3149,7 +3149,7 @@ export const products = [
   {
     "id": 263,
     "name": "BLACK & MILD WOODTIP JAZZ 25CT NO PRICE UPRIGHT",
-    "category": "accessories",
+    "category": "glass-pipes",
     "price": 23.0,
     "salePrice": null,
     "barcode": "070137511229",
@@ -3161,7 +3161,7 @@ export const products = [
   {
     "id": 264,
     "name": "BLACK & MILD MILD 25CT UPRIGHT",
-    "category": "other",
+    "category": "glass-pipes",
     "price": 21.0,
     "salePrice": null,
     "barcode": "070137005384",
@@ -3173,7 +3173,7 @@ export const products = [
   {
     "id": 265,
     "name": "BLACK & MILD ORIGINAL 25CT UPRIGHT",
-    "category": "other",
+    "category": "glass-pipes",
     "price": 22.25,
     "salePrice": null,
     "barcode": "070137005186",
@@ -3185,7 +3185,7 @@ export const products = [
   {
     "id": 266,
     "name": "BLACK & MILD WINE 25CT UPRIGHT",
-    "category": "other",
+    "category": "glass-pipes",
     "price": 22.25,
     "salePrice": null,
     "barcode": "070137005230",
@@ -3197,7 +3197,7 @@ export const products = [
   {
     "id": 267,
     "name": "BLACK & MILD WOOD TIP CASINO 25CT UPRIGHT WOOD TIP",
-    "category": "accessories",
+    "category": "glass-pipes",
     "price": 23.0,
     "salePrice": null,
     "barcode": "070137512479",
@@ -3209,7 +3209,7 @@ export const products = [
   {
     "id": 268,
     "name": "BLACK & MILD WOOD TIP ORIGINAL 25CT UPRIGHT",
-    "category": "accessories",
+    "category": "glass-pipes",
     "price": 24.25,
     "salePrice": null,
     "barcode": "070137525257",
@@ -3221,7 +3221,7 @@ export const products = [
   {
     "id": 269,
     "name": "BLACK & MILD WOOD TIP WINE 25CT UPRIGHT",
-    "category": "accessories",
+    "category": "glass-pipes",
     "price": 24.25,
     "salePrice": null,
     "barcode": "070137525295",
@@ -3269,7 +3269,7 @@ export const products = [
   {
     "id": 273,
     "name": "BLACK & MILD CASINO 25CT UPRIGHT 99",
-    "category": "other",
+    "category": "glass-pipes",
     "price": 18.0,
     "salePrice": null,
     "barcode": "070137512776",
@@ -3281,7 +3281,7 @@ export const products = [
   {
     "id": 274,
     "name": "BLACK & MILD JAZZ 25CT UPRIGHT 99",
-    "category": "other",
+    "category": "glass-pipes",
     "price": 19.0,
     "salePrice": null,
     "barcode": "070137512653",
@@ -3293,7 +3293,7 @@ export const products = [
   {
     "id": 275,
     "name": "BLACK & MILD JAZZ WOODTIP 25CT 99\u00a2 UPRIGHT",
-    "category": "accessories",
+    "category": "glass-pipes",
     "price": 18.0,
     "salePrice": null,
     "barcode": "070137512660",
@@ -3305,7 +3305,7 @@ export const products = [
   {
     "id": 276,
     "name": "BLACK & MILD ORIGINAL 99\u00a2 SINGLE CIGAR 25CT UPRIGHT",
-    "category": "other",
+    "category": "glass-pipes",
     "price": 19.0,
     "salePrice": null,
     "barcode": "070137824152",
@@ -3317,7 +3317,7 @@ export const products = [
   {
     "id": 277,
     "name": "BLACK & MILD SWEET 99\u00a2 SINGLE CIGAR 25CT UPRIGHT",
-    "category": "other",
+    "category": "glass-pipes",
     "price": 20.0,
     "salePrice": null,
     "barcode": "070137514237",
@@ -3329,7 +3329,7 @@ export const products = [
   {
     "id": 278,
     "name": "BLACK & MILD SWEET WOODTIP 99\u00a2 SINGLE CIGAR 25CT UPRIGHT",
-    "category": "accessories",
+    "category": "glass-pipes",
     "price": 18.0,
     "salePrice": null,
     "barcode": "070137514244",
@@ -3341,7 +3341,7 @@ export const products = [
   {
     "id": 279,
     "name": "BLACK & MILD WINE 99\u00a2 SINGLE CIGAR 25CT UPRIGHT",
-    "category": "other",
+    "category": "glass-pipes",
     "price": 19.0,
     "salePrice": null,
     "barcode": "070137824251",
@@ -3389,7 +3389,7 @@ export const products = [
   {
     "id": 283,
     "name": "BOBMAR ASHTRAY",
-    "category": "smoking",
+    "category": "other",
     "price": 14.0,
     "salePrice": 11.9,
     "barcode": null,
@@ -3401,7 +3401,7 @@ export const products = [
   {
     "id": 284,
     "name": "BOB MARLEY PRE ROLLED CONE 1-1/4 6PK",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 40.0,
     "salePrice": null,
     "barcode": "10857545012008",
@@ -3413,7 +3413,7 @@ export const products = [
   {
     "id": 285,
     "name": "BOB MARLEY PRE ROLLED CONE KING SIZE 3PK",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 38.0,
     "salePrice": null,
     "barcode": "10857545012022",
@@ -3497,7 +3497,7 @@ export const products = [
   {
     "id": 292,
     "name": "BOSS LEAF STRAWBERRY",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 25.0,
     "salePrice": null,
     "barcode": "644625173666",
@@ -3545,7 +3545,7 @@ export const products = [
   {
     "id": 296,
     "name": "BOTTLE PIPE",
-    "category": "smoking",
+    "category": "glass-pipes",
     "price": 8.0,
     "salePrice": 6.8,
     "barcode": null,
@@ -3557,7 +3557,7 @@ export const products = [
   {
     "id": 297,
     "name": "BACKWOOD BOX BATTERY 12CT",
-    "category": "accessories",
+    "category": "cigars",
     "price": 120.0,
     "salePrice": null,
     "barcode": null,
@@ -3581,7 +3581,7 @@ export const products = [
   {
     "id": 299,
     "name": "BRISTLE PIPE CLEANER BUNDEL",
-    "category": "smoking",
+    "category": "glass-pipes",
     "price": 80.0,
     "salePrice": null,
     "barcode": null,
@@ -3593,7 +3593,7 @@ export const products = [
   {
     "id": 300,
     "name": "BUBLER JAR 20CT",
-    "category": "other",
+    "category": "storage",
     "price": 65.0,
     "salePrice": null,
     "barcode": "JAR20GMB65",
@@ -3617,7 +3617,7 @@ export const products = [
   {
     "id": 302,
     "name": "BURNER CONE 6PK 30CT ZAZA",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 40.0,
     "salePrice": null,
     "barcode": "703364838431",
@@ -3629,7 +3629,7 @@ export const products = [
   {
     "id": 303,
     "name": "BURNER CONE 6PK CLASSIC",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 40.0,
     "salePrice": null,
     "barcode": "703364838530",
@@ -3665,7 +3665,7 @@ export const products = [
   {
     "id": 306,
     "name": "BUTT BUCKET ASHTRAY 6COUNT",
-    "category": "smoking",
+    "category": "other",
     "price": 4.5,
     "salePrice": 3.82,
     "barcode": null,
@@ -3677,7 +3677,7 @@ export const products = [
   {
     "id": 307,
     "name": "BACKWOOD 002 10CT",
-    "category": "other",
+    "category": "cigars",
     "price": 120.0,
     "salePrice": 102.0,
     "barcode": "071610340695",
@@ -3689,7 +3689,7 @@ export const products = [
   {
     "id": 308,
     "name": "BACKWOOD COMBO 20/2PK",
-    "category": "other",
+    "category": "cigars",
     "price": 125.0,
     "salePrice": null,
     "barcode": null,
@@ -3701,7 +3701,7 @@ export const products = [
   {
     "id": 309,
     "name": "BACKWOOD SLIDE",
-    "category": "other",
+    "category": "flower-slides",
     "price": 20.0,
     "salePrice": null,
     "barcode": null,
@@ -3713,7 +3713,7 @@ export const products = [
   {
     "id": 310,
     "name": "BACKWOOD TRUE WRAPS 16*5PK 80 WRAPS",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 75.0,
     "salePrice": null,
     "barcode": "071610341586",
@@ -3725,7 +3725,7 @@ export const products = [
   {
     "id": 311,
     "name": "BACKWOOD / COOKIES CHILLUM",
-    "category": "other",
+    "category": "cigars",
     "price": 85.0,
     "salePrice": 72.25,
     "barcode": null,
@@ -3737,7 +3737,7 @@ export const products = [
   {
     "id": 312,
     "name": "BACKWOOD / COOKIES GLOW IN DARK CHILLUM 30CT",
-    "category": "other",
+    "category": "cigars",
     "price": 90.0,
     "salePrice": null,
     "barcode": null,
@@ -3749,7 +3749,7 @@ export const products = [
   {
     "id": 313,
     "name": "BW/COOKIES BAGS",
-    "category": "other",
+    "category": "storage",
     "price": 28.0,
     "salePrice": 23.8,
     "barcode": null,
@@ -3761,7 +3761,7 @@ export const products = [
   {
     "id": 314,
     "name": "BACKWOOD BARREL CONAG  SINGLES DISPLAY  40CT",
-    "category": "other",
+    "category": "cigars",
     "price": 36.0,
     "salePrice": 30.6,
     "barcode": null,
@@ -3773,7 +3773,7 @@ export const products = [
   {
     "id": 315,
     "name": "BACKWOOD BARREL BANANA SINGLES DISPLAY  40CT",
-    "category": "other",
+    "category": "cigars",
     "price": 90.0,
     "salePrice": 76.5,
     "barcode": "071610340664",
@@ -3785,7 +3785,7 @@ export const products = [
   {
     "id": 316,
     "name": "BACKWOOD BLACK RUSSIAN CREAM SINGLE",
-    "category": "other",
+    "category": "cigars",
     "price": 40.0,
     "salePrice": 34.0,
     "barcode": "071610340176",
@@ -3797,7 +3797,7 @@ export const products = [
   {
     "id": 317,
     "name": "BACKWOOD BLACK STOUT SINGLES 24CT",
-    "category": "other",
+    "category": "cigars",
     "price": 28.0,
     "salePrice": null,
     "barcode": "071610302778",
@@ -3821,7 +3821,7 @@ export const products = [
   {
     "id": 319,
     "name": "BACKWOOD HONEY BERRY SINGLES 24CT",
-    "category": "other",
+    "category": "cigars",
     "price": 28.0,
     "salePrice": null,
     "barcode": "071610302044",
@@ -3833,7 +3833,7 @@ export const products = [
   {
     "id": 320,
     "name": "BACKWOODS HONEY BOURBON SINGLES",
-    "category": "other",
+    "category": "cigars",
     "price": 27.0,
     "salePrice": null,
     "barcode": "071610302372",
@@ -3845,7 +3845,7 @@ export const products = [
   {
     "id": 321,
     "name": "BACKWOOD HONEY SINGLES 24CT",
-    "category": "other",
+    "category": "cigars",
     "price": 23.0,
     "salePrice": null,
     "barcode": "071610340480",
@@ -3857,7 +3857,7 @@ export const products = [
   {
     "id": 322,
     "name": "BACKWOODS ORIGINAL WILD'N MILD SINGLES 24CT POUCHES",
-    "category": "other",
+    "category": "glass-pipes",
     "price": 28.0,
     "salePrice": null,
     "barcode": "071610301962",
@@ -3869,7 +3869,7 @@ export const products = [
   {
     "id": 323,
     "name": "BACKWOOD RUSSIAN CREAM SINGLE",
-    "category": "other",
+    "category": "cigars",
     "price": 28.0,
     "salePrice": null,
     "barcode": "071610303089",
@@ -3881,7 +3881,7 @@ export const products = [
   {
     "id": 324,
     "name": "BACKWOODS SWEET SINGLES 24CT #6180-412",
-    "category": "other",
+    "category": "cigars",
     "price": 28.0,
     "salePrice": null,
     "barcode": "071610301993",
@@ -3941,7 +3941,7 @@ export const products = [
   {
     "id": 329,
     "name": "BACKWOOD 3 PACK HONEY",
-    "category": "other",
+    "category": "cigars",
     "price": 27.0,
     "salePrice": null,
     "barcode": "071610340466",
@@ -3953,7 +3953,7 @@ export const products = [
   {
     "id": 330,
     "name": "BACKWOOD 3 PACK ORIGINAL",
-    "category": "other",
+    "category": "glass-pipes",
     "price": 27.0,
     "salePrice": null,
     "barcode": "071610340671",
@@ -3965,7 +3965,7 @@ export const products = [
   {
     "id": 331,
     "name": "BACKWOOD 3 PAK RUSSIAN",
-    "category": "other",
+    "category": "cigars",
     "price": 27.0,
     "salePrice": null,
     "barcode": "071610340473",
@@ -3977,7 +3977,7 @@ export const products = [
   {
     "id": 332,
     "name": "BACK WOOD BANANA 5PK 30CASE",
-    "category": "accessories",
+    "category": "other",
     "price": 75.0,
     "salePrice": 63.75,
     "barcode": "071610340565",
@@ -4001,7 +4001,7 @@ export const products = [
   {
     "id": 334,
     "name": "BACKWOOD BLACK RUSSIAN CREAM 5PACK",
-    "category": "other",
+    "category": "cigars",
     "price": 65.0,
     "salePrice": 55.25,
     "barcode": "071610340169",
@@ -4013,7 +4013,7 @@ export const products = [
   {
     "id": 335,
     "name": "BACKWOODS BLACK STOUT 5PK 30/CASE",
-    "category": "accessories",
+    "category": "cigars",
     "price": 40.0,
     "salePrice": null,
     "barcode": "071610302730",
@@ -4025,7 +4025,7 @@ export const products = [
   {
     "id": 336,
     "name": "BACKWOOD BOLD 5PK",
-    "category": "other",
+    "category": "cigars",
     "price": 45.0,
     "salePrice": null,
     "barcode": "071610341036",
@@ -4049,7 +4049,7 @@ export const products = [
   {
     "id": 338,
     "name": "BACKWOODS DARKLEAF  5PK",
-    "category": "other",
+    "category": "cigars",
     "price": 45.0,
     "salePrice": 38.25,
     "barcode": "071610340268",
@@ -4061,7 +4061,7 @@ export const products = [
   {
     "id": 339,
     "name": "BW5 GRAPE 5PK 30/CASE",
-    "category": "accessories",
+    "category": "other",
     "price": 50.0,
     "salePrice": 42.5,
     "barcode": "071610341098",
@@ -4073,7 +4073,7 @@ export const products = [
   {
     "id": 340,
     "name": "BACKWOODS HONEYBERRY 5PK",
-    "category": "other",
+    "category": "cigars",
     "price": 38.0,
     "salePrice": null,
     "barcode": "071610301870",
@@ -4085,7 +4085,7 @@ export const products = [
   {
     "id": 341,
     "name": "BACKWOODS HONEY BOURBON 5/8PK",
-    "category": "other",
+    "category": "cigars",
     "price": 40.0,
     "salePrice": null,
     "barcode": "071610302273",
@@ -4097,7 +4097,7 @@ export const products = [
   {
     "id": 342,
     "name": "BACKWOODS HONEY 5PK",
-    "category": "other",
+    "category": "cigars",
     "price": 40.0,
     "salePrice": null,
     "barcode": "071610301849",
@@ -4109,7 +4109,7 @@ export const products = [
   {
     "id": 343,
     "name": "BACKWOODS ORIGINAL WILD 'N MILD 5PK",
-    "category": "other",
+    "category": "glass-pipes",
     "price": 40.0,
     "salePrice": null,
     "barcode": "071610301900",
@@ -4121,7 +4121,7 @@ export const products = [
   {
     "id": 344,
     "name": "BACKWOOD RUSSIAN CREAM 5PK 30/CASE",
-    "category": "accessories",
+    "category": "cigars",
     "price": 40.0,
     "salePrice": null,
     "barcode": "071610302808",
@@ -4133,7 +4133,7 @@ export const products = [
   {
     "id": 345,
     "name": "BACKWOOD SMOOTH 5PK",
-    "category": "other",
+    "category": "cigars",
     "price": 45.0,
     "salePrice": null,
     "barcode": "071610340992",
@@ -4145,7 +4145,7 @@ export const products = [
   {
     "id": 346,
     "name": "BACKWOODS SWEET 5PK",
-    "category": "other",
+    "category": "cigars",
     "price": 40.0,
     "salePrice": null,
     "barcode": "071610301931",
@@ -4181,7 +4181,7 @@ export const products = [
   {
     "id": 349,
     "name": "BACKWOODS WILDRUM  5PK",
-    "category": "other",
+    "category": "cigars",
     "price": 45.0,
     "salePrice": null,
     "barcode": "071610340305",
@@ -4193,7 +4193,7 @@ export const products = [
   {
     "id": 350,
     "name": "BACK WOOD ZAZA 30/CASE",
-    "category": "accessories",
+    "category": "other",
     "price": 50.0,
     "salePrice": null,
     "barcode": "071610340718",
@@ -4229,7 +4229,7 @@ export const products = [
   {
     "id": 353,
     "name": "BYO CHARCOAL BURNER",
-    "category": "other",
+    "category": "hookah",
     "price": 15.0,
     "salePrice": 12.75,
     "barcode": null,
@@ -4409,7 +4409,7 @@ export const products = [
   {
     "id": 368,
     "name": "CAMO LEAF WRAPS 5PK BLUEBERRY",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 20.0,
     "salePrice": null,
     "barcode": "19889382",
@@ -4421,7 +4421,7 @@ export const products = [
   {
     "id": 369,
     "name": "CAMO LEAF WRAPS 5PK CHOCO",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 20.0,
     "salePrice": null,
     "barcode": "19889368",
@@ -4433,7 +4433,7 @@ export const products = [
   {
     "id": 370,
     "name": "CAMO LEAF WRAPS 5PK GOJI BERRY",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 20.0,
     "salePrice": null,
     "barcode": "9776601379951",
@@ -4445,7 +4445,7 @@ export const products = [
   {
     "id": 371,
     "name": "CAMO LEAF WRAPS 5PK GRAPE",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 20.0,
     "salePrice": null,
     "barcode": "19889375",
@@ -4457,7 +4457,7 @@ export const products = [
   {
     "id": 372,
     "name": "CAMO LEAF WRAPS 5PK GUAVA",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 20.0,
     "salePrice": 17.0,
     "barcode": "850030268495",
@@ -4469,7 +4469,7 @@ export const products = [
   {
     "id": 373,
     "name": "CAMO LEAF WRAPS 5PK HONEY",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 20.0,
     "salePrice": 17.0,
     "barcode": "850030268488",
@@ -4481,7 +4481,7 @@ export const products = [
   {
     "id": 374,
     "name": "CAMO LEAF WRAPS 5PK MANGO",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 20.0,
     "salePrice": null,
     "barcode": "19889313",
@@ -4493,7 +4493,7 @@ export const products = [
   {
     "id": 375,
     "name": "CAMO LEAF WRAPS 5PK NATURAL",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 20.0,
     "salePrice": null,
     "barcode": "810113750842",
@@ -4505,7 +4505,7 @@ export const products = [
   {
     "id": 376,
     "name": "CAMO LEAF WRAPS 5PK PASSION FRUIT",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 20.0,
     "salePrice": 17.0,
     "barcode": "20311063",
@@ -4517,7 +4517,7 @@ export const products = [
   {
     "id": 377,
     "name": "CAMO LEAF WRAPS 5PK PEACH",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 20.0,
     "salePrice": null,
     "barcode": "850030268457",
@@ -4529,7 +4529,7 @@ export const products = [
   {
     "id": 378,
     "name": "CAMO LEAF WRAPS 5PK PINEAPPLE",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 20.0,
     "salePrice": 17.0,
     "barcode": "20311056",
@@ -4541,7 +4541,7 @@ export const products = [
   {
     "id": 379,
     "name": "CAMO LEAF WRAPS 5PK RUSSIAN CREAM",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 20.0,
     "salePrice": 17.0,
     "barcode": "850030268501",
@@ -4553,7 +4553,7 @@ export const products = [
   {
     "id": 380,
     "name": "CAMO LEAF WRAPS 5PK STRAWBERRY",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 20.0,
     "salePrice": null,
     "barcode": "20311087",
@@ -4565,7 +4565,7 @@ export const products = [
   {
     "id": 381,
     "name": "CAMO LEAF WRAPS 5PK VANILLA",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 20.0,
     "salePrice": 17.0,
     "barcode": "19889306",
@@ -4577,7 +4577,7 @@ export const products = [
   {
     "id": 382,
     "name": "CAMO LEAF WRAPS 5PK WATERMELON",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 20.0,
     "salePrice": 17.0,
     "barcode": "19889344",
@@ -4589,7 +4589,7 @@ export const products = [
   {
     "id": 383,
     "name": "CAMO WRAP",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 17.5,
     "salePrice": null,
     "barcode": null,
@@ -4637,7 +4637,7 @@ export const products = [
   {
     "id": 387,
     "name": "CAR ASH TRAY SINGLE",
-    "category": "smoking",
+    "category": "other",
     "price": 1.0,
     "salePrice": null,
     "barcode": "756545801229",
@@ -4649,7 +4649,7 @@ export const products = [
   {
     "id": 388,
     "name": "CAR CHARGER 2PORT 24CT",
-    "category": "accessories",
+    "category": "other",
     "price": 27.0,
     "salePrice": 22.95,
     "barcode": "6924040310568",
@@ -4673,7 +4673,7 @@ export const products = [
   {
     "id": 390,
     "name": "CARMAX JAR 12CT",
-    "category": "other",
+    "category": "storage",
     "price": 15.0,
     "salePrice": null,
     "barcode": "083078123154",
@@ -4697,7 +4697,7 @@ export const products = [
   {
     "id": 392,
     "name": "CARMAX STRAWBERRY TUBE 12CT",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 15.0,
     "salePrice": null,
     "barcode": "083078010195",
@@ -4757,7 +4757,7 @@ export const products = [
   {
     "id": 397,
     "name": "CARVER GRINDER",
-    "category": "smoking",
+    "category": "grinders",
     "price": 11.0,
     "salePrice": 9.35,
     "barcode": null,
@@ -4829,7 +4829,7 @@ export const products = [
   {
     "id": 403,
     "name": "CHAPSTICK JAR 48CT",
-    "category": "other",
+    "category": "storage",
     "price": 55.0,
     "salePrice": null,
     "barcode": null,
@@ -4841,7 +4841,7 @@ export const products = [
   {
     "id": 404,
     "name": "CHAPSTICK JAR 72CT",
-    "category": "other",
+    "category": "storage",
     "price": 71.99,
     "salePrice": null,
     "barcode": "305732014814",
@@ -4865,7 +4865,7 @@ export const products = [
   {
     "id": 406,
     "name": "CHARCO FLARE HOOKAH CHARCOAL 17MM 108CT",
-    "category": "other",
+    "category": "hookah",
     "price": 8.5,
     "salePrice": null,
     "barcode": "868253000020",
@@ -4877,7 +4877,7 @@ export const products = [
   {
     "id": 407,
     "name": "CHARCOAL BASKET",
-    "category": "other",
+    "category": "hookah",
     "price": 7.5,
     "salePrice": 6.38,
     "barcode": null,
@@ -4889,7 +4889,7 @@ export const products = [
   {
     "id": 408,
     "name": "CHARCOAL BURNER",
-    "category": "other",
+    "category": "hookah",
     "price": 25.0,
     "salePrice": 21.25,
     "barcode": null,
@@ -4913,7 +4913,7 @@ export const products = [
   {
     "id": 410,
     "name": "CHEECH PIPE 4INCH",
-    "category": "smoking",
+    "category": "glass-pipes",
     "price": 19.99,
     "salePrice": null,
     "barcode": null,
@@ -4925,7 +4925,7 @@ export const products = [
   {
     "id": 411,
     "name": "CHEECH PIPE PURPOSE CLEANER",
-    "category": "smoking",
+    "category": "glass-pipes",
     "price": 6.5,
     "salePrice": null,
     "barcode": "PLAIN-CLEANER",
@@ -4937,7 +4937,7 @@ export const products = [
   {
     "id": 412,
     "name": "CHEECH PIPE SMALL",
-    "category": "smoking",
+    "category": "glass-pipes",
     "price": 8.99,
     "salePrice": null,
     "barcode": null,
@@ -4961,7 +4961,7 @@ export const products = [
   {
     "id": 414,
     "name": "CHILLUM 420 100CT",
-    "category": "other",
+    "category": "cleaners",
     "price": 75.0,
     "salePrice": 63.75,
     "barcode": null,
@@ -5009,7 +5009,7 @@ export const products = [
   {
     "id": 418,
     "name": "CHILLUM LARGE JAR 40CT",
-    "category": "other",
+    "category": "storage",
     "price": 50.0,
     "salePrice": null,
     "barcode": "JAR40CH310",
@@ -5033,7 +5033,7 @@ export const products = [
   {
     "id": 420,
     "name": "CHILLUM SMALL JAR 40CT",
-    "category": "other",
+    "category": "storage",
     "price": 38.99,
     "salePrice": 33.14,
     "barcode": "JAR40CH210",
@@ -5057,7 +5057,7 @@ export const products = [
   {
     "id": 422,
     "name": "PLASTIC STEEL BLADE CIGAR CUTTER 20CT",
-    "category": "other",
+    "category": "cigars",
     "price": 45.0,
     "salePrice": 38.25,
     "barcode": "652290078162",
@@ -5069,7 +5069,7 @@ export const products = [
   {
     "id": 423,
     "name": "CIGAR DISPLAY",
-    "category": "other",
+    "category": "cigars",
     "price": 2250.0,
     "salePrice": null,
     "barcode": null,
@@ -5081,7 +5081,7 @@ export const products = [
   {
     "id": 424,
     "name": "CIGAR POUCH",
-    "category": "other",
+    "category": "cigars",
     "price": 6.0,
     "salePrice": null,
     "barcode": null,
@@ -5093,7 +5093,7 @@ export const products = [
   {
     "id": 425,
     "name": "CIGAR SIGN",
-    "category": "other",
+    "category": "cigars",
     "price": 90.0,
     "salePrice": 76.5,
     "barcode": null,
@@ -5105,7 +5105,7 @@ export const products = [
   {
     "id": 426,
     "name": "CIGAR SPLITTER 48CT JAR DOBEL BARREL",
-    "category": "other",
+    "category": "storage",
     "price": 29.0,
     "salePrice": null,
     "barcode": "794080256869",
@@ -5117,7 +5117,7 @@ export const products = [
   {
     "id": 427,
     "name": "CIGARETTE CASE",
-    "category": "accessories",
+    "category": "cigars",
     "price": 33.0,
     "salePrice": null,
     "barcode": null,
@@ -5129,7 +5129,7 @@ export const products = [
   {
     "id": 428,
     "name": "CIGARETTE SLIDE LIGHTER 30CT",
-    "category": "smoking",
+    "category": "flower-slides",
     "price": 65.0,
     "salePrice": null,
     "barcode": "737488029413",
@@ -5141,7 +5141,7 @@ export const products = [
   {
     "id": 429,
     "name": "CIGGARETTE PAPER FET",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 120.0,
     "salePrice": 102.0,
     "barcode": null,
@@ -5153,7 +5153,7 @@ export const products = [
   {
     "id": 430,
     "name": "GAMBLER 100MM CIGARETTE MACHINE 6CT..",
-    "category": "other",
+    "category": "cigars",
     "price": 29.99,
     "salePrice": null,
     "barcode": "077170260695",
@@ -5177,7 +5177,7 @@ export const products = [
   {
     "id": 432,
     "name": "JOB 1 1/4 PREMIUM CIGARETTE ROLLING MACHINE",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 19.5,
     "salePrice": 16.57,
     "barcode": "086400310017",
@@ -5189,7 +5189,7 @@ export const products = [
   {
     "id": 433,
     "name": "110MM PREMIUM CIGARETTE ROLLING MACHINE",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 22.49,
     "salePrice": 19.12,
     "barcode": "718187101969",
@@ -5225,7 +5225,7 @@ export const products = [
   {
     "id": 436,
     "name": "RW110 RAW ROLLING MACHINE 110MM 12CT",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 19.99,
     "salePrice": null,
     "barcode": "716165152811",
@@ -5237,7 +5237,7 @@ export const products = [
   {
     "id": 437,
     "name": "RW70 RAW ROLLING MACHINE 70MM 12CT",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 17.99,
     "salePrice": null,
     "barcode": "086400320023",
@@ -5249,7 +5249,7 @@ export const products = [
   {
     "id": 438,
     "name": "RW79 RAW ROLLING MACHINE 79MM 12CT",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 17.99,
     "salePrice": null,
     "barcode": "716165152798",
@@ -5297,7 +5297,7 @@ export const products = [
   {
     "id": 442,
     "name": "CIGM SWIFT 100MM CIGARETTE MACHINE",
-    "category": "other",
+    "category": "cigars",
     "price": 55.0,
     "salePrice": null,
     "barcode": "077170104432",
@@ -5309,7 +5309,7 @@ export const products = [
   {
     "id": 443,
     "name": "TOP-O-MATIC CIGARETTE MAKING MACHINE",
-    "category": "other",
+    "category": "cigars",
     "price": 34.99,
     "salePrice": null,
     "barcode": "077170260411",
@@ -5321,7 +5321,7 @@ export const products = [
   {
     "id": 444,
     "name": "TOP-O-MATIC T-2 CIGARETTE MAKING  MACHINE",
-    "category": "other",
+    "category": "cigars",
     "price": 38.99,
     "salePrice": null,
     "barcode": "077170260893",
@@ -5381,7 +5381,7 @@ export const products = [
   {
     "id": 449,
     "name": "CITY LIFE 5 FOR 99\u00a2 CIGAR BERRY BANANA",
-    "category": "other",
+    "category": "cigars",
     "price": 11.0,
     "salePrice": null,
     "barcode": "842426146135",
@@ -5393,7 +5393,7 @@ export const products = [
   {
     "id": 450,
     "name": "CITY LIFE 5 FOR 99\u00a2 CIGAR BLACK SWEETS",
-    "category": "other",
+    "category": "cigars",
     "price": 11.0,
     "salePrice": null,
     "barcode": "842426164016",
@@ -5405,7 +5405,7 @@ export const products = [
   {
     "id": 451,
     "name": "CITY LIFE 5 FOR 99\u00a2 CIGAR DIAMONDS",
-    "category": "other",
+    "category": "cigars",
     "price": 11.0,
     "salePrice": null,
     "barcode": "842426146104",
@@ -5417,7 +5417,7 @@ export const products = [
   {
     "id": 452,
     "name": "CITY LIFE 5 FOR 1.49\u00a2 CIGAR DIAMONDS",
-    "category": "other",
+    "category": "cigars",
     "price": 12.0,
     "salePrice": null,
     "barcode": "842426166621",
@@ -5429,7 +5429,7 @@ export const products = [
   {
     "id": 453,
     "name": "CITY LIFE 5 FOR 99\u00a2 CIGAR GRAPE",
-    "category": "other",
+    "category": "cigars",
     "price": 11.0,
     "salePrice": null,
     "barcode": "818892017781",
@@ -5477,7 +5477,7 @@ export const products = [
   {
     "id": 457,
     "name": "CITY LIFE 5 FOR 99\u00a2 CIGAR SWEET",
-    "category": "other",
+    "category": "cigars",
     "price": 11.0,
     "salePrice": null,
     "barcode": "818892017750",
@@ -5489,7 +5489,7 @@ export const products = [
   {
     "id": 458,
     "name": "CITY LIFE 5 FOR 1.29 CIGAR SWEET",
-    "category": "other",
+    "category": "cigars",
     "price": 12.0,
     "salePrice": null,
     "barcode": "842426166713",
@@ -5501,7 +5501,7 @@ export const products = [
   {
     "id": 459,
     "name": "CITY LIFE 5 FOR 1.49\u00a2 CIGAR WHITE GRAPE",
-    "category": "other",
+    "category": "cigars",
     "price": 12.0,
     "salePrice": null,
     "barcode": null,
@@ -5513,7 +5513,7 @@ export const products = [
   {
     "id": 460,
     "name": "CITY LIFE 5 FOR 99\u00a2 CIGAR WHITE GRAPE",
-    "category": "other",
+    "category": "cigars",
     "price": 11.0,
     "salePrice": null,
     "barcode": "842426157414",
@@ -5537,7 +5537,7 @@ export const products = [
   {
     "id": 462,
     "name": "CLAY BOWL 2.0",
-    "category": "other",
+    "category": "flower-slides",
     "price": 3.5,
     "salePrice": 2.98,
     "barcode": null,
@@ -5585,7 +5585,7 @@ export const products = [
   {
     "id": 466,
     "name": "CLICK IT DOUBLE B LIGHTER 20CT",
-    "category": "smoking",
+    "category": "lighters-torches",
     "price": 200.0,
     "salePrice": 170.0,
     "barcode": null,
@@ -5597,7 +5597,7 @@ export const products = [
   {
     "id": 467,
     "name": "CLICK&FLAME  LONG BBQ LIGHTER",
-    "category": "smoking",
+    "category": "lighters-torches",
     "price": 1.5,
     "salePrice": 1.27,
     "barcode": "676758002261",
@@ -5621,7 +5621,7 @@ export const products = [
   {
     "id": 469,
     "name": "CLIPPER LIGHTER 30CT DISPLAY NEW",
-    "category": "smoking",
+    "category": "lighters-torches",
     "price": 58.0,
     "salePrice": null,
     "barcode": "091585031688",
@@ -5633,7 +5633,7 @@ export const products = [
   {
     "id": 470,
     "name": "CLIPPER LIGHTER 48 DISPLAY",
-    "category": "smoking",
+    "category": "lighters-torches",
     "price": 40.0,
     "salePrice": null,
     "barcode": "091585023065",
@@ -5645,7 +5645,7 @@ export const products = [
   {
     "id": 471,
     "name": "CLOUD CHARCOAL BURNER",
-    "category": "other",
+    "category": "hookah",
     "price": 18.0,
     "salePrice": 15.3,
     "barcode": null,
@@ -5657,7 +5657,7 @@ export const products = [
   {
     "id": 472,
     "name": "CLOUD HOOKAH DOUBLE HOSE",
-    "category": "other",
+    "category": "hookah",
     "price": 15.0,
     "salePrice": 12.75,
     "barcode": null,
@@ -5693,7 +5693,7 @@ export const products = [
   {
     "id": 475,
     "name": "CLOVER BANGER",
-    "category": "other",
+    "category": "bangers",
     "price": 25.0,
     "salePrice": null,
     "barcode": null,
@@ -5705,7 +5705,7 @@ export const products = [
   {
     "id": 476,
     "name": "CLOVER BOWL",
-    "category": "other",
+    "category": "flower-slides",
     "price": 65.0,
     "salePrice": 55.25,
     "barcode": null,
@@ -5729,7 +5729,7 @@ export const products = [
   {
     "id": 478,
     "name": "COCO NARA CHARCOAL LARGE 120CT",
-    "category": "other",
+    "category": "hookah",
     "price": 10.99,
     "salePrice": null,
     "barcode": "5287000553124",
@@ -5741,7 +5741,7 @@ export const products = [
   {
     "id": 479,
     "name": "COCO NARA CHARCOAL SMALL 20CT",
-    "category": "other",
+    "category": "hookah",
     "price": 2.49,
     "salePrice": 2.12,
     "barcode": "5287000553100",
@@ -5753,7 +5753,7 @@ export const products = [
   {
     "id": 480,
     "name": "COCO NARA CHARCOAL MEDIUM 60CT",
-    "category": "other",
+    "category": "hookah",
     "price": 5.99,
     "salePrice": null,
     "barcode": "5287000553117",
@@ -5777,7 +5777,7 @@ export const products = [
   {
     "id": 482,
     "name": "COCO VAPOR LOUNG CHARCOAL 720 P",
-    "category": "other",
+    "category": "hookah",
     "price": 6.5,
     "salePrice": null,
     "barcode": null,
@@ -5789,7 +5789,7 @@ export const products = [
   {
     "id": 483,
     "name": "COCOUS HOOKAH TIPS 50CT",
-    "category": "accessories",
+    "category": "hookah",
     "price": 3.5,
     "salePrice": 2.98,
     "barcode": null,
@@ -5801,7 +5801,7 @@ export const products = [
   {
     "id": 484,
     "name": "COCOVAPOR COCONUT COALS HOOKAH CHARCOAL 1/2KG FLAT 54CT",
-    "category": "other",
+    "category": "hookah",
     "price": 3.99,
     "salePrice": 3.39,
     "barcode": "639103127033",
@@ -5813,7 +5813,7 @@ export const products = [
   {
     "id": 485,
     "name": "COCOYAYA CHARCOAL 72CT",
-    "category": "other",
+    "category": "hookah",
     "price": 6.5,
     "salePrice": 5.52,
     "barcode": null,
@@ -5825,7 +5825,7 @@ export const products = [
   {
     "id": 486,
     "name": "COKE PIPE",
-    "category": "smoking",
+    "category": "glass-pipes",
     "price": 15.0,
     "salePrice": null,
     "barcode": null,
@@ -5861,7 +5861,7 @@ export const products = [
   {
     "id": 489,
     "name": "COLOR CHANGING PEANUT PIPES [PACK OF 3]",
-    "category": "smoking",
+    "category": "glass-pipes",
     "price": 16.5,
     "salePrice": 14.03,
     "barcode": "12345678950",
@@ -5885,7 +5885,7 @@ export const products = [
   {
     "id": 491,
     "name": "CONE FILLER GRINDER 40MM 12CT DSIPLAY",
-    "category": "smoking",
+    "category": "grinders",
     "price": 50.0,
     "salePrice": 42.5,
     "barcode": null,
@@ -5921,7 +5921,7 @@ export const products = [
   {
     "id": 494,
     "name": "COOKIES JAR",
-    "category": "other",
+    "category": "storage",
     "price": 9.0,
     "salePrice": null,
     "barcode": null,
@@ -5933,7 +5933,7 @@ export const products = [
   {
     "id": 495,
     "name": "COOKIES LED AHSTRAY",
-    "category": "smoking",
+    "category": "other",
     "price": 6.25,
     "salePrice": 5.31,
     "barcode": null,
@@ -5945,7 +5945,7 @@ export const products = [
   {
     "id": 496,
     "name": "COOKIES LED TRAY WITH SCALE",
-    "category": "smoking",
+    "category": "scales",
     "price": 18.0,
     "salePrice": null,
     "barcode": null,
@@ -5957,7 +5957,7 @@ export const products = [
   {
     "id": 497,
     "name": "COOKIES METAL PIPE",
-    "category": "smoking",
+    "category": "glass-pipes",
     "price": 8.0,
     "salePrice": null,
     "barcode": null,
@@ -5981,7 +5981,7 @@ export const products = [
   {
     "id": 499,
     "name": "COOKIES WOODBOX JAR, GRINDER, TRAY",
-    "category": "smoking",
+    "category": "grinders",
     "price": 19.99,
     "salePrice": 16.99,
     "barcode": null,
@@ -6017,7 +6017,7 @@ export const products = [
   {
     "id": 502,
     "name": "CUBAN CIGAR",
-    "category": "other",
+    "category": "cigars",
     "price": 1050.0,
     "salePrice": null,
     "barcode": null,
@@ -6041,7 +6041,7 @@ export const products = [
   {
     "id": 504,
     "name": "CURVE SEXY LIGHTER 50CT",
-    "category": "smoking",
+    "category": "lighters-torches",
     "price": 22.0,
     "salePrice": 18.7,
     "barcode": null,
@@ -6053,7 +6053,7 @@ export const products = [
   {
     "id": 505,
     "name": "CUT58 FUJIMA V-SHAPE CIGAR CUTTER 24CT",
-    "category": "other",
+    "category": "cigars",
     "price": 13.99,
     "salePrice": null,
     "barcode": "081635058000",
@@ -6317,7 +6317,7 @@ export const products = [
   {
     "id": 527,
     "name": "DEMON SKULL HOOKAH",
-    "category": "other",
+    "category": "hookah",
     "price": 40.0,
     "salePrice": null,
     "barcode": null,
@@ -6461,7 +6461,7 @@ export const products = [
   {
     "id": 539,
     "name": "DARK HORSE FULL FLAVOR 4.1 HEAVY WEIGHT",
-    "category": "e-liquids",
+    "category": "other",
     "price": 36.0,
     "salePrice": null,
     "barcode": "835196007386",
@@ -6569,7 +6569,7 @@ export const products = [
   {
     "id": 548,
     "name": "DISPLAY BANGER 12CT",
-    "category": "other",
+    "category": "bangers",
     "price": 30.0,
     "salePrice": 25.5,
     "barcode": null,
@@ -6581,7 +6581,7 @@ export const products = [
   {
     "id": 549,
     "name": "DISPLAY BOWL 12CT",
-    "category": "other",
+    "category": "flower-slides",
     "price": 30.0,
     "salePrice": 25.5,
     "barcode": null,
@@ -6605,7 +6605,7 @@ export const products = [
   {
     "id": 551,
     "name": "DISPLAY PIPE 12CT",
-    "category": "smoking",
+    "category": "glass-pipes",
     "price": 36.0,
     "salePrice": null,
     "barcode": null,
@@ -6617,7 +6617,7 @@ export const products = [
   {
     "id": 552,
     "name": "DISPLAY PLASTIC GRINDER 12CT",
-    "category": "smoking",
+    "category": "grinders",
     "price": 12.0,
     "salePrice": null,
     "barcode": null,
@@ -6629,7 +6629,7 @@ export const products = [
   {
     "id": 553,
     "name": "DOG GRINDER 6CT",
-    "category": "smoking",
+    "category": "grinders",
     "price": 6.5,
     "salePrice": null,
     "barcode": null,
@@ -6713,7 +6713,7 @@ export const products = [
   {
     "id": 560,
     "name": "DOUBLE BLOWN HAND PIPES [PACK OF 2]",
-    "category": "smoking",
+    "category": "glass-pipes",
     "price": 24.0,
     "salePrice": 20.4,
     "barcode": "12345678948",
@@ -6725,7 +6725,7 @@ export const products = [
   {
     "id": 561,
     "name": "DOUBLE BLOWN HAND PIPES SHATTER RESISTANT",
-    "category": "smoking",
+    "category": "glass-pipes",
     "price": 12.0,
     "salePrice": null,
     "barcode": "12345678949",
@@ -6737,7 +6737,7 @@ export const products = [
   {
     "id": 562,
     "name": "DOUBLE BLOWN PEANUT PIPES [PACK OF 3]",
-    "category": "smoking",
+    "category": "glass-pipes",
     "price": 25.0,
     "salePrice": 21.25,
     "barcode": "12345678927",
@@ -6749,7 +6749,7 @@ export const products = [
   {
     "id": 563,
     "name": "DOUBLE PEANUT PIPES [PACK OF 3]",
-    "category": "smoking",
+    "category": "glass-pipes",
     "price": 24.5,
     "salePrice": 20.82,
     "barcode": "12345678932",
@@ -6833,7 +6833,7 @@ export const products = [
   {
     "id": 570,
     "name": "DUAL CAR CHARGER 25CT BAG",
-    "category": "accessories",
+    "category": "storage",
     "price": 32.0,
     "salePrice": null,
     "barcode": null,
@@ -6869,7 +6869,7 @@ export const products = [
   {
     "id": 573,
     "name": "DUGOUT BIG JAR 22 CT",
-    "category": "other",
+    "category": "storage",
     "price": 40.0,
     "salePrice": null,
     "barcode": "DUG22-JAR",
@@ -6893,7 +6893,7 @@ export const products = [
   {
     "id": 575,
     "name": "DUGOUT MEDIUM JAR 18CT",
-    "category": "other",
+    "category": "storage",
     "price": 35.0,
     "salePrice": null,
     "barcode": "DUG18-JAR",
@@ -6953,7 +6953,7 @@ export const products = [
   {
     "id": 580,
     "name": "DW CIGAR CUTTER 100 COUNT",
-    "category": "other",
+    "category": "cigars",
     "price": 50.0,
     "salePrice": 42.5,
     "barcode": "8748630049076",
@@ -6977,7 +6977,7 @@ export const products = [
   {
     "id": 582,
     "name": "EAGLE CIG CASE",
-    "category": "accessories",
+    "category": "other",
     "price": 18.0,
     "salePrice": null,
     "barcode": "10853195000631",
@@ -6989,7 +6989,7 @@ export const products = [
   {
     "id": 583,
     "name": "EAGLE MOSSY GUN TORCH LIGHTER 15CT",
-    "category": "smoking",
+    "category": "lighters-torches",
     "price": 40.0,
     "salePrice": null,
     "barcode": "853195002386",
@@ -7001,7 +7001,7 @@ export const products = [
   {
     "id": 584,
     "name": "EAGLE TORCH ANGLE 20PCS",
-    "category": "smoking",
+    "category": "lighters-torches",
     "price": 24.99,
     "salePrice": 21.24,
     "barcode": "10853195000464",
@@ -7013,7 +7013,7 @@ export const products = [
   {
     "id": 585,
     "name": "EAGLE TORCH EMOJI 20PCS",
-    "category": "smoking",
+    "category": "lighters-torches",
     "price": 35.0,
     "salePrice": null,
     "barcode": "10853195000440",
@@ -7025,7 +7025,7 @@ export const products = [
   {
     "id": 586,
     "name": "AGLE TORCH MOSSY PEN",
-    "category": "smoking",
+    "category": "lighters-torches",
     "price": 41.99,
     "salePrice": null,
     "barcode": "10853195000235",
@@ -7037,7 +7037,7 @@ export const products = [
   {
     "id": 587,
     "name": "EAGLE TORCH NEON LIMITED",
-    "category": "smoking",
+    "category": "lighters-torches",
     "price": 39.99,
     "salePrice": null,
     "barcode": "10853195000983",
@@ -7085,7 +7085,7 @@ export const products = [
   {
     "id": 591,
     "name": "ECPOW BATTERY 510 MH DUAL CHARG",
-    "category": "accessories",
+    "category": "other",
     "price": 5.5,
     "salePrice": 4.67,
     "barcode": null,
@@ -7097,7 +7097,7 @@ export const products = [
   {
     "id": 592,
     "name": "EGYPT HOSE PIPE",
-    "category": "smoking",
+    "category": "glass-pipes",
     "price": 2.49,
     "salePrice": 2.12,
     "barcode": null,
@@ -7109,7 +7109,7 @@ export const products = [
   {
     "id": 593,
     "name": "ELECTRIC GRINDER",
-    "category": "smoking",
+    "category": "grinders",
     "price": 5.5,
     "salePrice": 4.67,
     "barcode": null,
@@ -7121,7 +7121,7 @@ export const products = [
   {
     "id": 594,
     "name": "ELEMENT 1 1/4 PAPER",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 25.0,
     "salePrice": 21.25,
     "barcode": "716165177302",
@@ -7133,7 +7133,7 @@ export const products = [
   {
     "id": 595,
     "name": "ELEMENT 1 1/4 PINK PAPER 50 LEAVES 25CT",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 24.0,
     "salePrice": 20.4,
     "barcode": "716165254294",
@@ -7145,7 +7145,7 @@ export const products = [
   {
     "id": 596,
     "name": "EL4 ELEMENTS ULTRA THIN RICE PAPER KING SIZE SLIM  50 COUNT",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 31.0,
     "salePrice": null,
     "barcode": "716165177784",
@@ -7157,7 +7157,7 @@ export const products = [
   {
     "id": 597,
     "name": "ELEMENTS PERFORATED PREMIUM ROLLING TIPS 50CT/BOX",
-    "category": "accessories",
+    "category": "papers-wraps",
     "price": 17.5,
     "salePrice": 14.88,
     "barcode": "716165178880",
@@ -7193,7 +7193,7 @@ export const products = [
   {
     "id": 600,
     "name": "ELEMENTS PINK PAPER KING SLIM",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 40.0,
     "salePrice": null,
     "barcode": "716165254300",
@@ -7205,7 +7205,7 @@ export const products = [
   {
     "id": 601,
     "name": "ELEPHANT CHILLUM JAR 12CT",
-    "category": "other",
+    "category": "storage",
     "price": 40.0,
     "salePrice": null,
     "barcode": "676525539105",
@@ -7229,7 +7229,7 @@ export const products = [
   {
     "id": 603,
     "name": "ENDO HEMP WRAPS",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 15.0,
     "salePrice": null,
     "barcode": null,
@@ -7265,7 +7265,7 @@ export const products = [
   {
     "id": 606,
     "name": "ENDO SMALLZ WRAPS",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 15.0,
     "salePrice": null,
     "barcode": null,
@@ -7481,7 +7481,7 @@ export const products = [
   {
     "id": 624,
     "name": "EXOTIC LEAF ORIGINAL",
-    "category": "other",
+    "category": "glass-pipes",
     "price": 25.0,
     "salePrice": 21.25,
     "barcode": null,
@@ -7529,7 +7529,7 @@ export const products = [
   {
     "id": 628,
     "name": "EXTENDO TORCH LIGHER 12CT",
-    "category": "smoking",
+    "category": "lighters-torches",
     "price": 54.0,
     "salePrice": null,
     "barcode": "10018505238610",
@@ -7553,7 +7553,7 @@ export const products = [
   {
     "id": 630,
     "name": "FANCCY GLASS TIPS",
-    "category": "accessories",
+    "category": "glass-pipes",
     "price": 60.0,
     "salePrice": 51.0,
     "barcode": null,
@@ -7565,7 +7565,7 @@ export const products = [
   {
     "id": 631,
     "name": "FANCY METAL PIPE ASSORTED",
-    "category": "smoking",
+    "category": "glass-pipes",
     "price": 10.0,
     "salePrice": 8.5,
     "barcode": null,
@@ -7589,7 +7589,7 @@ export const products = [
   {
     "id": 633,
     "name": "FLASH PREMIUM QUICK LIGHTING CHARCOAL",
-    "category": "other",
+    "category": "hookah",
     "price": 4.99,
     "salePrice": 4.24,
     "barcode": "10124529",
@@ -7601,7 +7601,7 @@ export const products = [
   {
     "id": 634,
     "name": "FLAVOUR CHARCOAL",
-    "category": "other",
+    "category": "hookah",
     "price": 8.5,
     "salePrice": 7.22,
     "barcode": null,
@@ -7625,7 +7625,7 @@ export const products = [
   {
     "id": 636,
     "name": "FLOWER TOWER GRINDER ROLLER",
-    "category": "smoking",
+    "category": "grinders",
     "price": 79.99,
     "salePrice": null,
     "barcode": null,
@@ -7637,7 +7637,7 @@ export const products = [
   {
     "id": 637,
     "name": "FOLDING POCKET TORCH 16CT",
-    "category": "smoking",
+    "category": "lighters-torches",
     "price": 62.0,
     "salePrice": 52.7,
     "barcode": "707670019027",
@@ -7649,7 +7649,7 @@ export const products = [
   {
     "id": 638,
     "name": "GC420D FORMULA 420 ORIGINAL CLEANER 12CT",
-    "category": "other",
+    "category": "glass-pipes",
     "price": 24.0,
     "salePrice": null,
     "barcode": "721405571208",
@@ -7661,7 +7661,7 @@ export const products = [
   {
     "id": 639,
     "name": "FORMULA 420 GLASS METAL CLEANER 12OZ",
-    "category": "accessories",
+    "category": "glass-pipes",
     "price": 3.99,
     "salePrice": null,
     "barcode": "721405571420",
@@ -7673,7 +7673,7 @@ export const products = [
   {
     "id": 640,
     "name": "FORMULA 420 GLASS METAL CLEANEER 16 OZ",
-    "category": "accessories",
+    "category": "glass-pipes",
     "price": 5.5,
     "salePrice": null,
     "barcode": null,
@@ -7685,7 +7685,7 @@ export const products = [
   {
     "id": 641,
     "name": "FORMULA 420 CLEANING KIT 7CT/BAG",
-    "category": "other",
+    "category": "cleaners",
     "price": 25.0,
     "salePrice": 21.25,
     "barcode": "725987970251",
@@ -7697,7 +7697,7 @@ export const products = [
   {
     "id": 642,
     "name": "FORMULA 710 ADVANCED CLEANER 16OZ",
-    "category": "other",
+    "category": "cleaners",
     "price": 5.5,
     "salePrice": null,
     "barcode": null,
@@ -7709,7 +7709,7 @@ export const products = [
   {
     "id": 643,
     "name": "FORMULA 710 CLEANING KIT 7CT/BA",
-    "category": "other",
+    "category": "cleaners",
     "price": 25.0,
     "salePrice": 21.25,
     "barcode": "725987970398",
@@ -7913,7 +7913,7 @@ export const products = [
   {
     "id": 660,
     "name": "FRUIT ASHTRAY .",
-    "category": "smoking",
+    "category": "other",
     "price": 5.5,
     "salePrice": null,
     "barcode": null,
@@ -7925,7 +7925,7 @@ export const products = [
   {
     "id": 661,
     "name": "CUT 53 FUJIMA 56 GUAGE 3 STYLE MIX CIGAR CUTTER 24CT",
-    "category": "other",
+    "category": "cigars",
     "price": 60.0,
     "salePrice": null,
     "barcode": null,
@@ -7937,7 +7937,7 @@ export const products = [
   {
     "id": 662,
     "name": "FUJIMA 60 DOUBLE BLADE CLEAR CIGAR CUTTER 24CT",
-    "category": "other",
+    "category": "cigars",
     "price": 35.0,
     "salePrice": 29.75,
     "barcode": "1635060003",
@@ -7949,7 +7949,7 @@ export const products = [
   {
     "id": 663,
     "name": "FUJIMA DOUBLE BLADE 70 GUAGE  CIGAR CUTTER 24CT",
-    "category": "other",
+    "category": "cigars",
     "price": 39.0,
     "salePrice": null,
     "barcode": "1635063004",
@@ -7961,7 +7961,7 @@ export const products = [
   {
     "id": 664,
     "name": "EX12 FUJIMA CAR ASHTRAY GLOW IN DARK 12CT",
-    "category": "smoking",
+    "category": "other",
     "price": 14.99,
     "salePrice": null,
     "barcode": "081635400120",
@@ -7973,7 +7973,7 @@ export const products = [
   {
     "id": 665,
     "name": "FUJIMA CIGAR CUTTER  12D",
-    "category": "other",
+    "category": "cigars",
     "price": 35.0,
     "salePrice": null,
     "barcode": "081635512007",
@@ -7985,7 +7985,7 @@ export const products = [
   {
     "id": 666,
     "name": "FUJIMA CIGAR CUTTER 30D",
-    "category": "other",
+    "category": "cigars",
     "price": 24.0,
     "salePrice": null,
     "barcode": "081635303001",
@@ -7997,7 +7997,7 @@ export const products = [
   {
     "id": 667,
     "name": "HA15 FUJIMA MEDIUM CHARCOAL 10X10",
-    "category": "other",
+    "category": "hookah",
     "price": 4.49,
     "salePrice": 3.82,
     "barcode": "081635150155",
@@ -8009,7 +8009,7 @@ export const products = [
   {
     "id": 668,
     "name": "FPD2 FUJIMA SOFT PIPE CLEANER",
-    "category": "smoking",
+    "category": "glass-pipes",
     "price": 26.99,
     "salePrice": null,
     "barcode": "081635990027",
@@ -8021,7 +8021,7 @@ export const products = [
   {
     "id": 669,
     "name": "FUJIMA TARSTOPPER ORIGINAL FILTER 24CT/BOX",
-    "category": "other",
+    "category": "glass-pipes",
     "price": 30.0,
     "salePrice": 25.5,
     "barcode": "081635009248",
@@ -8033,7 +8033,7 @@ export const products = [
   {
     "id": 670,
     "name": "FUMARI CHARCOAL 112CT",
-    "category": "other",
+    "category": "hookah",
     "price": 9.5,
     "salePrice": null,
     "barcode": "036663955654",
@@ -8045,7 +8045,7 @@ export const products = [
   {
     "id": 671,
     "name": "FUMARI CHARCOAL 60COUNT",
-    "category": "other",
+    "category": "hookah",
     "price": 7.5,
     "salePrice": null,
     "barcode": "036663955661",
@@ -8057,7 +8057,7 @@ export const products = [
   {
     "id": 672,
     "name": "FUMARI CHARCOAL BURNER",
-    "category": "other",
+    "category": "hookah",
     "price": 20.0,
     "salePrice": null,
     "barcode": null,
@@ -8069,7 +8069,7 @@ export const products = [
   {
     "id": 673,
     "name": "FUSION TWIN SHOT DUAL FLAME TORCH LIGHTER",
-    "category": "smoking",
+    "category": "lighters-torches",
     "price": 23.99,
     "salePrice": 20.39,
     "barcode": null,
@@ -8093,7 +8093,7 @@ export const products = [
   {
     "id": 675,
     "name": "GARBAGE BAG",
-    "category": "other",
+    "category": "storage",
     "price": 23.0,
     "salePrice": null,
     "barcode": null,
@@ -8333,7 +8333,7 @@ export const products = [
   {
     "id": 695,
     "name": "GLASS ASHTRAY GLOW IN THE DARK 6CT",
-    "category": "accessories",
+    "category": "glass-pipes",
     "price": 15.0,
     "salePrice": null,
     "barcode": null,
@@ -8345,7 +8345,7 @@ export const products = [
   {
     "id": 696,
     "name": "GLASS ASHTRAY R&M 6CT",
-    "category": "accessories",
+    "category": "glass-pipes",
     "price": 15.0,
     "salePrice": 12.75,
     "barcode": "9650834197004",
@@ -8357,7 +8357,7 @@ export const products = [
   {
     "id": 697,
     "name": "GLASS ASHTRAY RECTANGLE 6CT",
-    "category": "accessories",
+    "category": "glass-pipes",
     "price": 15.0,
     "salePrice": 12.75,
     "barcode": "9650834197028",
@@ -8369,7 +8369,7 @@ export const products = [
   {
     "id": 698,
     "name": "GLASS ASHTRAY ROUND 6 CT",
-    "category": "accessories",
+    "category": "glass-pipes",
     "price": 25.0,
     "salePrice": 21.25,
     "barcode": null,
@@ -8381,7 +8381,7 @@ export const products = [
   {
     "id": 699,
     "name": "GLASS JAR 75CT",
-    "category": "accessories",
+    "category": "glass-pipes",
     "price": 79.0,
     "salePrice": 67.15,
     "barcode": null,
@@ -8393,7 +8393,7 @@ export const products = [
   {
     "id": 700,
     "name": "GLASS MINI CHILLUM 35CT",
-    "category": "accessories",
+    "category": "glass-pipes",
     "price": 28.0,
     "salePrice": null,
     "barcode": "812371019815",
@@ -8405,7 +8405,7 @@ export const products = [
   {
     "id": 701,
     "name": "GLASS PIPE 0039",
-    "category": "accessories",
+    "category": "glass-pipes",
     "price": 0.39,
     "salePrice": null,
     "barcode": null,
@@ -8417,7 +8417,7 @@ export const products = [
   {
     "id": 702,
     "name": "GLASS PIPES 0099",
-    "category": "accessories",
+    "category": "glass-pipes",
     "price": 0.99,
     "salePrice": 0.84,
     "barcode": "10124123",
@@ -8429,7 +8429,7 @@ export const products = [
   {
     "id": 703,
     "name": "GLASS PIPES 0149",
-    "category": "accessories",
+    "category": "glass-pipes",
     "price": 1.49,
     "salePrice": 1.27,
     "barcode": "10124369",
@@ -8441,7 +8441,7 @@ export const products = [
   {
     "id": 704,
     "name": "GLASS PIPE 0165",
-    "category": "accessories",
+    "category": "glass-pipes",
     "price": 1.65,
     "salePrice": null,
     "barcode": null,
@@ -8453,7 +8453,7 @@ export const products = [
   {
     "id": 705,
     "name": "GLASS PIPES 0199",
-    "category": "accessories",
+    "category": "glass-pipes",
     "price": 1.99,
     "salePrice": null,
     "barcode": "10124130",
@@ -8465,7 +8465,7 @@ export const products = [
   {
     "id": 706,
     "name": "GLASS PIPES 0249",
-    "category": "accessories",
+    "category": "glass-pipes",
     "price": 2.49,
     "salePrice": 2.12,
     "barcode": "10124147",
@@ -8477,7 +8477,7 @@ export const products = [
   {
     "id": 707,
     "name": "GLASS PIPES 0299",
-    "category": "accessories",
+    "category": "glass-pipes",
     "price": 2.99,
     "salePrice": 2.54,
     "barcode": "10124154",
@@ -8489,7 +8489,7 @@ export const products = [
   {
     "id": 708,
     "name": "GLASS PIPES 0349",
-    "category": "accessories",
+    "category": "glass-pipes",
     "price": 3.49,
     "salePrice": 2.97,
     "barcode": "10124161",
@@ -8501,7 +8501,7 @@ export const products = [
   {
     "id": 709,
     "name": "GLASS PIPES 0399",
-    "category": "accessories",
+    "category": "glass-pipes",
     "price": 3.99,
     "salePrice": 3.39,
     "barcode": "10124178",
@@ -8513,7 +8513,7 @@ export const products = [
   {
     "id": 710,
     "name": "GLASS PIPES 0449..",
-    "category": "accessories",
+    "category": "glass-pipes",
     "price": 4.49,
     "salePrice": 3.82,
     "barcode": null,
@@ -8525,7 +8525,7 @@ export const products = [
   {
     "id": 711,
     "name": "GLASS PIPES 0499",
-    "category": "accessories",
+    "category": "glass-pipes",
     "price": 4.99,
     "salePrice": 4.24,
     "barcode": "10124185",
@@ -8537,7 +8537,7 @@ export const products = [
   {
     "id": 712,
     "name": "GLASS PIPES 0549",
-    "category": "accessories",
+    "category": "glass-pipes",
     "price": 5.49,
     "salePrice": 4.67,
     "barcode": null,
@@ -8549,7 +8549,7 @@ export const products = [
   {
     "id": 713,
     "name": "GLASS PIPES 0599",
-    "category": "accessories",
+    "category": "glass-pipes",
     "price": 5.99,
     "salePrice": 5.09,
     "barcode": "10124192",
@@ -8561,7 +8561,7 @@ export const products = [
   {
     "id": 714,
     "name": "GLASS PIPE 0649",
-    "category": "accessories",
+    "category": "glass-pipes",
     "price": 6.49,
     "salePrice": null,
     "barcode": null,
@@ -8573,7 +8573,7 @@ export const products = [
   {
     "id": 715,
     "name": "GLASS PIPE 0650",
-    "category": "accessories",
+    "category": "glass-pipes",
     "price": 6.5,
     "salePrice": null,
     "barcode": null,
@@ -8585,7 +8585,7 @@ export const products = [
   {
     "id": 716,
     "name": "GLASS PIPES 0699",
-    "category": "accessories",
+    "category": "glass-pipes",
     "price": 6.99,
     "salePrice": null,
     "barcode": "10124208",
@@ -8597,7 +8597,7 @@ export const products = [
   {
     "id": 717,
     "name": "GLASS PIPE 0749",
-    "category": "accessories",
+    "category": "glass-pipes",
     "price": 7.49,
     "salePrice": null,
     "barcode": null,
@@ -8609,7 +8609,7 @@ export const products = [
   {
     "id": 718,
     "name": "GLASS PIPE 0750",
-    "category": "accessories",
+    "category": "glass-pipes",
     "price": 7.5,
     "salePrice": null,
     "barcode": null,
@@ -8621,7 +8621,7 @@ export const products = [
   {
     "id": 719,
     "name": "GLASS PIPES 0799",
-    "category": "accessories",
+    "category": "glass-pipes",
     "price": 7.99,
     "salePrice": null,
     "barcode": "10124215",
@@ -8633,7 +8633,7 @@ export const products = [
   {
     "id": 720,
     "name": "GLASS PIPES 0899",
-    "category": "accessories",
+    "category": "glass-pipes",
     "price": 8.99,
     "salePrice": 7.64,
     "barcode": "10124222",
@@ -8645,7 +8645,7 @@ export const products = [
   {
     "id": 721,
     "name": "GLASS PIPES 0999",
-    "category": "accessories",
+    "category": "glass-pipes",
     "price": 9.99,
     "salePrice": 8.49,
     "barcode": "10124239",
@@ -8657,7 +8657,7 @@ export const products = [
   {
     "id": 722,
     "name": "GLASS PIPE 1099",
-    "category": "accessories",
+    "category": "glass-pipes",
     "price": 10.99,
     "salePrice": null,
     "barcode": null,
@@ -8669,7 +8669,7 @@ export const products = [
   {
     "id": 723,
     "name": "GLASS PIPE 1199",
-    "category": "accessories",
+    "category": "glass-pipes",
     "price": 11.99,
     "salePrice": 10.19,
     "barcode": null,
@@ -8681,7 +8681,7 @@ export const products = [
   {
     "id": 724,
     "name": "GLASS PIPES 1299",
-    "category": "accessories",
+    "category": "glass-pipes",
     "price": 12.99,
     "salePrice": 11.04,
     "barcode": "10124246",
@@ -8693,7 +8693,7 @@ export const products = [
   {
     "id": 725,
     "name": "GLASS PIPES 1399",
-    "category": "accessories",
+    "category": "glass-pipes",
     "price": 13.99,
     "salePrice": 11.89,
     "barcode": "10124253",
@@ -8705,7 +8705,7 @@ export const products = [
   {
     "id": 726,
     "name": "GLASS PIPE 14.99",
-    "category": "accessories",
+    "category": "glass-pipes",
     "price": 14.99,
     "salePrice": 12.74,
     "barcode": null,
@@ -8717,7 +8717,7 @@ export const products = [
   {
     "id": 727,
     "name": "GLASS PIPES 1499",
-    "category": "accessories",
+    "category": "glass-pipes",
     "price": 14.99,
     "salePrice": 12.74,
     "barcode": "10124260",
@@ -8729,7 +8729,7 @@ export const products = [
   {
     "id": 728,
     "name": "GLASS PIPE 15.99",
-    "category": "accessories",
+    "category": "glass-pipes",
     "price": 15.99,
     "salePrice": 13.59,
     "barcode": null,
@@ -8741,7 +8741,7 @@ export const products = [
   {
     "id": 729,
     "name": "GLASS PIPES 1699",
-    "category": "accessories",
+    "category": "glass-pipes",
     "price": 16.99,
     "salePrice": 14.44,
     "barcode": null,
@@ -8753,7 +8753,7 @@ export const products = [
   {
     "id": 730,
     "name": "GLASS PIPE 1799",
-    "category": "accessories",
+    "category": "glass-pipes",
     "price": 17.99,
     "salePrice": 15.29,
     "barcode": null,
@@ -8765,7 +8765,7 @@ export const products = [
   {
     "id": 731,
     "name": "GLASS PIPES 1899",
-    "category": "accessories",
+    "category": "glass-pipes",
     "price": 14.99,
     "salePrice": null,
     "barcode": null,
@@ -8777,7 +8777,7 @@ export const products = [
   {
     "id": 732,
     "name": "GLASS PIPES 1999",
-    "category": "accessories",
+    "category": "glass-pipes",
     "price": 19.99,
     "salePrice": 16.99,
     "barcode": "10124277",
@@ -8789,7 +8789,7 @@ export const products = [
   {
     "id": 733,
     "name": "GLASS PIPES 2199",
-    "category": "accessories",
+    "category": "glass-pipes",
     "price": 21.99,
     "salePrice": 18.69,
     "barcode": null,
@@ -8801,7 +8801,7 @@ export const products = [
   {
     "id": 734,
     "name": "GLASS PIPE 2299",
-    "category": "accessories",
+    "category": "glass-pipes",
     "price": 22.99,
     "salePrice": 19.54,
     "barcode": null,
@@ -8813,7 +8813,7 @@ export const products = [
   {
     "id": 735,
     "name": "GLASS PIPE 2399",
-    "category": "accessories",
+    "category": "glass-pipes",
     "price": 23.99,
     "salePrice": 20.39,
     "barcode": null,
@@ -8825,7 +8825,7 @@ export const products = [
   {
     "id": 736,
     "name": "GLASS PIPES 2499",
-    "category": "accessories",
+    "category": "glass-pipes",
     "price": 24.99,
     "salePrice": 21.24,
     "barcode": "10124284",
@@ -8837,7 +8837,7 @@ export const products = [
   {
     "id": 737,
     "name": "GLASS PIPE 2599",
-    "category": "accessories",
+    "category": "glass-pipes",
     "price": 2599.0,
     "salePrice": 2209.15,
     "barcode": null,
@@ -8849,7 +8849,7 @@ export const products = [
   {
     "id": 738,
     "name": "GLASS PIPE 2699",
-    "category": "accessories",
+    "category": "glass-pipes",
     "price": 26.99,
     "salePrice": 22.94,
     "barcode": null,
@@ -8861,7 +8861,7 @@ export const products = [
   {
     "id": 739,
     "name": "GLASS PIPE 2799",
-    "category": "accessories",
+    "category": "glass-pipes",
     "price": 27.99,
     "salePrice": 23.79,
     "barcode": null,
@@ -8873,7 +8873,7 @@ export const products = [
   {
     "id": 740,
     "name": "GLASS PIPES 2999",
-    "category": "accessories",
+    "category": "glass-pipes",
     "price": 29.99,
     "salePrice": 25.49,
     "barcode": "10124291",
@@ -8885,7 +8885,7 @@ export const products = [
   {
     "id": 741,
     "name": "GLASS PIPES 3099",
-    "category": "accessories",
+    "category": "glass-pipes",
     "price": 22.49,
     "salePrice": null,
     "barcode": null,
@@ -8897,7 +8897,7 @@ export const products = [
   {
     "id": 742,
     "name": "GLASS PIPE 3199",
-    "category": "accessories",
+    "category": "glass-pipes",
     "price": 31.99,
     "salePrice": null,
     "barcode": null,
@@ -8909,7 +8909,7 @@ export const products = [
   {
     "id": 743,
     "name": "GLASS PIPE 3299",
-    "category": "accessories",
+    "category": "glass-pipes",
     "price": 32.99,
     "salePrice": null,
     "barcode": null,
@@ -8921,7 +8921,7 @@ export const products = [
   {
     "id": 744,
     "name": "GLASS PIPE 3499",
-    "category": "accessories",
+    "category": "glass-pipes",
     "price": 34.99,
     "salePrice": 29.74,
     "barcode": null,
@@ -8933,7 +8933,7 @@ export const products = [
   {
     "id": 745,
     "name": "GLASS PIPE 3599",
-    "category": "accessories",
+    "category": "glass-pipes",
     "price": 35.99,
     "salePrice": null,
     "barcode": null,
@@ -8945,7 +8945,7 @@ export const products = [
   {
     "id": 746,
     "name": "GLASS PIPE 3699",
-    "category": "accessories",
+    "category": "glass-pipes",
     "price": 36.99,
     "salePrice": null,
     "barcode": null,
@@ -8957,7 +8957,7 @@ export const products = [
   {
     "id": 747,
     "name": "GLASS PIPES 3999",
-    "category": "accessories",
+    "category": "glass-pipes",
     "price": 39.99,
     "salePrice": 33.99,
     "barcode": "10124307",
@@ -8969,7 +8969,7 @@ export const products = [
   {
     "id": 748,
     "name": "GLASS PIPE 4199",
-    "category": "accessories",
+    "category": "glass-pipes",
     "price": 41.99,
     "salePrice": null,
     "barcode": null,
@@ -8981,7 +8981,7 @@ export const products = [
   {
     "id": 749,
     "name": "GLASS PIPE 4299",
-    "category": "accessories",
+    "category": "glass-pipes",
     "price": 42.99,
     "salePrice": null,
     "barcode": null,
@@ -8993,7 +8993,7 @@ export const products = [
   {
     "id": 750,
     "name": "GLASS PIPES 4499",
-    "category": "accessories",
+    "category": "glass-pipes",
     "price": 44.99,
     "salePrice": null,
     "barcode": null,
@@ -9005,7 +9005,7 @@ export const products = [
   {
     "id": 751,
     "name": "GLASS PIPE 4599",
-    "category": "accessories",
+    "category": "glass-pipes",
     "price": 45.99,
     "salePrice": null,
     "barcode": null,
@@ -9017,7 +9017,7 @@ export const products = [
   {
     "id": 752,
     "name": "GLASS PIPES 4999",
-    "category": "accessories",
+    "category": "glass-pipes",
     "price": 49.99,
     "salePrice": null,
     "barcode": "10124314",
@@ -9029,7 +9029,7 @@ export const products = [
   {
     "id": 753,
     "name": "GLASS PIPE 4INCH 32CT SPOON",
-    "category": "accessories",
+    "category": "glass-pipes",
     "price": 70.0,
     "salePrice": null,
     "barcode": "812371019983",
@@ -9041,7 +9041,7 @@ export const products = [
   {
     "id": 754,
     "name": "GLASS PIPE",
-    "category": "accessories",
+    "category": "glass-pipes",
     "price": 69.99,
     "salePrice": null,
     "barcode": null,
@@ -9053,7 +9053,7 @@ export const products = [
   {
     "id": 755,
     "name": "GLASS PIPE 5499",
-    "category": "accessories",
+    "category": "glass-pipes",
     "price": 54.99,
     "salePrice": null,
     "barcode": null,
@@ -9065,7 +9065,7 @@ export const products = [
   {
     "id": 756,
     "name": "GLASS PIPE 5599",
-    "category": "accessories",
+    "category": "glass-pipes",
     "price": 55.99,
     "salePrice": null,
     "barcode": null,
@@ -9077,7 +9077,7 @@ export const products = [
   {
     "id": 757,
     "name": "GLASS PIPES 5999",
-    "category": "accessories",
+    "category": "glass-pipes",
     "price": 59.99,
     "salePrice": null,
     "barcode": null,
@@ -9089,7 +9089,7 @@ export const products = [
   {
     "id": 758,
     "name": "GLASS PIPE 6499",
-    "category": "accessories",
+    "category": "glass-pipes",
     "price": 64.99,
     "salePrice": null,
     "barcode": null,
@@ -9101,7 +9101,7 @@ export const products = [
   {
     "id": 759,
     "name": "GLASS PIPES 6999",
-    "category": "accessories",
+    "category": "glass-pipes",
     "price": 69.99,
     "salePrice": null,
     "barcode": "10124376",
@@ -9113,7 +9113,7 @@ export const products = [
   {
     "id": 760,
     "name": "GLASS PIPES 7999",
-    "category": "accessories",
+    "category": "glass-pipes",
     "price": 79.99,
     "salePrice": 67.99,
     "barcode": "10124383",
@@ -9125,7 +9125,7 @@ export const products = [
   {
     "id": 761,
     "name": "GLASS PIPES 8499",
-    "category": "accessories",
+    "category": "glass-pipes",
     "price": 84.99,
     "salePrice": null,
     "barcode": null,
@@ -9137,7 +9137,7 @@ export const products = [
   {
     "id": 762,
     "name": "GLASS PIPE BASIC CHILLUM 45 CT",
-    "category": "accessories",
+    "category": "glass-pipes",
     "price": 50.0,
     "salePrice": null,
     "barcode": "812371019969",
@@ -9149,7 +9149,7 @@ export const products = [
   {
     "id": 763,
     "name": "GLASS PIPE BASIC METAL PIPE 65CT",
-    "category": "accessories",
+    "category": "glass-pipes",
     "price": 55.0,
     "salePrice": null,
     "barcode": "812371019778",
@@ -9161,7 +9161,7 @@ export const products = [
   {
     "id": 764,
     "name": "GLASS PIPE COLOR BATS 35CT",
-    "category": "accessories",
+    "category": "glass-pipes",
     "price": 25.0,
     "salePrice": 21.25,
     "barcode": "812371019884",
@@ -9173,7 +9173,7 @@ export const products = [
   {
     "id": 765,
     "name": "GLASS PIPE DISPLAY 50CT",
-    "category": "accessories",
+    "category": "glass-pipes",
     "price": 50.0,
     "salePrice": null,
     "barcode": null,
@@ -9185,7 +9185,7 @@ export const products = [
   {
     "id": 766,
     "name": "GLASS PIPE JAR 2.5 INCH 60PCS SPOON",
-    "category": "accessories",
+    "category": "glass-pipes",
     "price": 45.0,
     "salePrice": null,
     "barcode": "812371019952",
@@ -9197,7 +9197,7 @@ export const products = [
   {
     "id": 767,
     "name": "GLASS PIPE JAR 3INCH 40CT",
-    "category": "accessories",
+    "category": "glass-pipes",
     "price": 65.0,
     "salePrice": null,
     "barcode": "812371019976",
@@ -9209,7 +9209,7 @@ export const products = [
   {
     "id": 768,
     "name": "CHILL GLASS 18 INCH STRAIGHT BREAKER DESIGN 49.99",
-    "category": "accessories",
+    "category": "glass-pipes",
     "price": 49.99,
     "salePrice": 42.49,
     "barcode": null,
@@ -9221,7 +9221,7 @@ export const products = [
   {
     "id": 769,
     "name": "CHILL GLASS 14 INCH ART BREAKER DESIGN 39.99",
-    "category": "accessories",
+    "category": "glass-pipes",
     "price": 39.99,
     "salePrice": 33.99,
     "barcode": null,
@@ -9245,7 +9245,7 @@ export const products = [
   {
     "id": 771,
     "name": "GLASS PIPE METAL PIPE MIX 40CT",
-    "category": "accessories",
+    "category": "glass-pipes",
     "price": 48.0,
     "salePrice": null,
     "barcode": "812371019785",
@@ -9257,7 +9257,7 @@ export const products = [
   {
     "id": 772,
     "name": "GLASS PIPE MINI CHILLUM 70CT",
-    "category": "accessories",
+    "category": "glass-pipes",
     "price": 65.0,
     "salePrice": null,
     "barcode": "812371019921",
@@ -9269,7 +9269,7 @@ export const products = [
   {
     "id": 773,
     "name": "GLASS 9 INCH MALSH CLEAR ZIGZAG W 14MM SLIDER 27.99",
-    "category": "accessories",
+    "category": "flower-slides",
     "price": 27.99,
     "salePrice": 23.79,
     "barcode": null,
@@ -9281,7 +9281,7 @@ export const products = [
   {
     "id": 774,
     "name": "GLASS PIPE 12 INCH CHROMLINE BEND RICK & MORTY 26.99",
-    "category": "accessories",
+    "category": "glass-pipes",
     "price": 26.99,
     "salePrice": 22.94,
     "barcode": null,
@@ -9293,7 +9293,7 @@ export const products = [
   {
     "id": 775,
     "name": "GLASS 8 INCH CLEAR BREAKER DESIGN 22.99",
-    "category": "accessories",
+    "category": "glass-pipes",
     "price": 22.99,
     "salePrice": 19.54,
     "barcode": null,
@@ -9305,7 +9305,7 @@ export const products = [
   {
     "id": 776,
     "name": "GLASS 16 INCH MILKY WHITE DESIGN WITH BREAKER 54.99",
-    "category": "accessories",
+    "category": "glass-pipes",
     "price": 54.99,
     "salePrice": null,
     "barcode": null,
@@ -9317,7 +9317,7 @@ export const products = [
   {
     "id": 777,
     "name": "GLASS PIPE WPMIP660 13.99",
-    "category": "accessories",
+    "category": "glass-pipes",
     "price": 13.99,
     "salePrice": 11.89,
     "barcode": null,
@@ -9329,7 +9329,7 @@ export const products = [
   {
     "id": 778,
     "name": "GLASS 9 INCH CLEAR FLASH LIME 15.99",
-    "category": "accessories",
+    "category": "glass-pipes",
     "price": 15.99,
     "salePrice": 13.59,
     "barcode": null,
@@ -9341,7 +9341,7 @@ export const products = [
   {
     "id": 779,
     "name": "GLASS PIPE WPSLT121 13.99",
-    "category": "accessories",
+    "category": "glass-pipes",
     "price": 13.99,
     "salePrice": 11.89,
     "barcode": null,
@@ -9353,7 +9353,7 @@ export const products = [
   {
     "id": 780,
     "name": "GLASS 8 INCH CLEAR BEND FLOIME DESIGN 14.99",
-    "category": "accessories",
+    "category": "glass-pipes",
     "price": 14.99,
     "salePrice": 12.74,
     "barcode": null,
@@ -9365,7 +9365,7 @@ export const products = [
   {
     "id": 781,
     "name": "GLASS 9 INCH CLEAR ROLAR ZIGZAG LIME 23.99",
-    "category": "accessories",
+    "category": "glass-pipes",
     "price": 23.99,
     "salePrice": 20.39,
     "barcode": null,
@@ -9377,7 +9377,7 @@ export const products = [
   {
     "id": 782,
     "name": "GLASS 12 INCH CLEAR BLIME BREAKER DESIGN 22.99",
-    "category": "accessories",
+    "category": "glass-pipes",
     "price": 22.99,
     "salePrice": 19.54,
     "barcode": null,
@@ -9389,7 +9389,7 @@ export const products = [
   {
     "id": 783,
     "name": "GLASS PIPE 9 INCH STRAIGHT BOLINE CLEAR 23.99",
-    "category": "accessories",
+    "category": "glass-pipes",
     "price": 23.99,
     "salePrice": 20.39,
     "barcode": null,
@@ -9401,7 +9401,7 @@ export const products = [
   {
     "id": 784,
     "name": "GLASS 16 INCH MARIX LINED DOUBLE TREE BREAKER 52.99",
-    "category": "accessories",
+    "category": "glass-pipes",
     "price": 52.99,
     "salePrice": null,
     "barcode": null,
@@ -9413,7 +9413,7 @@ export const products = [
   {
     "id": 785,
     "name": "GLASS 16 INCH CLEAR MOLINE GLASS WITH BREAKER 52.99",
-    "category": "accessories",
+    "category": "glass-pipes",
     "price": 52.99,
     "salePrice": null,
     "barcode": null,
@@ -9425,7 +9425,7 @@ export const products = [
   {
     "id": 786,
     "name": "GLASS 16 INCH BREAKER FLASH DESIGN 46.99",
-    "category": "accessories",
+    "category": "glass-pipes",
     "price": 46.99,
     "salePrice": null,
     "barcode": null,
@@ -9437,7 +9437,7 @@ export const products = [
   {
     "id": 787,
     "name": "GLASS PIPE WPYA816 14.99",
-    "category": "accessories",
+    "category": "glass-pipes",
     "price": 14.99,
     "salePrice": 12.74,
     "barcode": null,
@@ -9449,7 +9449,7 @@ export const products = [
   {
     "id": 788,
     "name": "GLASS PIPE WPYA966 14.99",
-    "category": "accessories",
+    "category": "glass-pipes",
     "price": 14.99,
     "salePrice": 12.74,
     "barcode": null,
@@ -9461,7 +9461,7 @@ export const products = [
   {
     "id": 789,
     "name": "GLASS 9 INCH MOLINE BEND CLEAR DESIGN 23.99",
-    "category": "accessories",
+    "category": "glass-pipes",
     "price": 23.99,
     "salePrice": 20.39,
     "barcode": null,
@@ -9473,7 +9473,7 @@ export const products = [
   {
     "id": 790,
     "name": "GLASS RECTANGLE ASHTRAY 6CT DISPLAY",
-    "category": "accessories",
+    "category": "glass-pipes",
     "price": 14.0,
     "salePrice": 11.9,
     "barcode": null,
@@ -9485,7 +9485,7 @@ export const products = [
   {
     "id": 791,
     "name": "GLASS RUBBER",
-    "category": "accessories",
+    "category": "glass-pipes",
     "price": 25.5,
     "salePrice": null,
     "barcode": null,
@@ -9497,7 +9497,7 @@ export const products = [
   {
     "id": 792,
     "name": "GLASS SKULL ASHTRAY 6CT DISPLAY",
-    "category": "accessories",
+    "category": "glass-pipes",
     "price": 16.0,
     "salePrice": null,
     "barcode": "454325610954",
@@ -9509,7 +9509,7 @@ export const products = [
   {
     "id": 793,
     "name": "GLIDER GLASS AHSTRAY 6CT",
-    "category": "accessories",
+    "category": "glass-pipes",
     "price": 16.0,
     "salePrice": 13.6,
     "barcode": null,
@@ -9521,7 +9521,7 @@ export const products = [
   {
     "id": 794,
     "name": "PACKS GLONES UNBLEACHED NATURAL GLASS CONE 2PK/12CT KING SIZ",
-    "category": "accessories",
+    "category": "glass-pipes",
     "price": 40.0,
     "salePrice": null,
     "barcode": "810127420113",
@@ -9533,7 +9533,7 @@ export const products = [
   {
     "id": 795,
     "name": "PACKS GLONES UNBLEACHED NATURAL GLASS CONE MINI 1-1/4 3PK/12",
-    "category": "accessories",
+    "category": "glass-pipes",
     "price": 45.0,
     "salePrice": null,
     "barcode": "810127420137",
@@ -9545,7 +9545,7 @@ export const products = [
   {
     "id": 796,
     "name": "PACKS GLONES ULTRA THIN GLASS CONES 2PK/12CT - KING SIZE",
-    "category": "accessories",
+    "category": "glass-pipes",
     "price": 40.0,
     "salePrice": null,
     "barcode": "810107137574",
@@ -9557,7 +9557,7 @@ export const products = [
   {
     "id": 797,
     "name": "PACKS GLONES ULTRA THIN GLASS CONES MINI 3PK/12CT - 11/4",
-    "category": "accessories",
+    "category": "glass-pipes",
     "price": 45.0,
     "salePrice": null,
     "barcode": null,
@@ -9569,7 +9569,7 @@ export const products = [
   {
     "id": 798,
     "name": "GLUEGAR ROLLING GLUE 20CT",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 42.5,
     "salePrice": null,
     "barcode": null,
@@ -9581,7 +9581,7 @@ export const products = [
   {
     "id": 799,
     "name": "GLUEGAR ROLLING GLUE 28CT",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 45.0,
     "salePrice": null,
     "barcode": null,
@@ -9593,7 +9593,7 @@ export const products = [
   {
     "id": 800,
     "name": "GOLD CHARCOAL",
-    "category": "other",
+    "category": "hookah",
     "price": 7.5,
     "salePrice": null,
     "barcode": null,
@@ -9701,7 +9701,7 @@ export const products = [
   {
     "id": 809,
     "name": "GOOD TIME WOOD NP 15 CT RESERVE DARK 15CT",
-    "category": "other",
+    "category": "cigars",
     "price": 35.0,
     "salePrice": null,
     "barcode": null,
@@ -9713,7 +9713,7 @@ export const products = [
   {
     "id": 810,
     "name": "GOOD TIME WOOD NP DARK",
-    "category": "other",
+    "category": "cigars",
     "price": 35.0,
     "salePrice": null,
     "barcode": "842426164795",
@@ -9725,7 +9725,7 @@ export const products = [
   {
     "id": 811,
     "name": "GOOD TIME WOOD NO PRICE RESERVE GOLD 15 CT",
-    "category": "other",
+    "category": "cigars",
     "price": 35.0,
     "salePrice": null,
     "barcode": "842426168601",
@@ -9737,7 +9737,7 @@ export const products = [
   {
     "id": 812,
     "name": "GOOD TIMES PAPER $0.79 100CT",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 40.0,
     "salePrice": null,
     "barcode": null,
@@ -9749,7 +9749,7 @@ export const products = [
   {
     "id": 813,
     "name": "GOODSENSE BAGGIES 100CT",
-    "category": "other",
+    "category": "storage",
     "price": 1.0,
     "salePrice": null,
     "barcode": null,
@@ -10073,7 +10073,7 @@ export const products = [
   {
     "id": 840,
     "name": "GRINDER 3 PART",
-    "category": "smoking",
+    "category": "grinders",
     "price": 3.5,
     "salePrice": 2.98,
     "barcode": null,
@@ -10097,7 +10097,7 @@ export const products = [
   {
     "id": 842,
     "name": "COOKIES 40MM GRINDER",
-    "category": "smoking",
+    "category": "grinders",
     "price": 4.5,
     "salePrice": 3.82,
     "barcode": null,
@@ -10109,7 +10109,7 @@ export const products = [
   {
     "id": 843,
     "name": "COOKIES 50MM GRINDER",
-    "category": "smoking",
+    "category": "grinders",
     "price": 5.5,
     "salePrice": 4.67,
     "barcode": null,
@@ -10121,7 +10121,7 @@ export const products = [
   {
     "id": 844,
     "name": "COOKIES 55MM GRINDER",
-    "category": "smoking",
+    "category": "grinders",
     "price": 6.25,
     "salePrice": 5.31,
     "barcode": null,
@@ -10133,7 +10133,7 @@ export const products = [
   {
     "id": 845,
     "name": "COOKIES 63MM GRINDER",
-    "category": "smoking",
+    "category": "grinders",
     "price": 7.25,
     "salePrice": 6.16,
     "barcode": null,
@@ -10145,7 +10145,7 @@ export const products = [
   {
     "id": 846,
     "name": "GR-GT 925 CR 63MM GRINDER",
-    "category": "smoking",
+    "category": "grinders",
     "price": 8.5,
     "salePrice": null,
     "barcode": "GT-925CR",
@@ -10157,7 +10157,7 @@ export const products = [
   {
     "id": 847,
     "name": "MARIO LOGO GRINDER",
-    "category": "smoking",
+    "category": "grinders",
     "price": 4.5,
     "salePrice": 3.82,
     "barcode": "56gor",
@@ -10169,7 +10169,7 @@ export const products = [
   {
     "id": 848,
     "name": "GRINDER 3PART MULTI COLOR",
-    "category": "smoking",
+    "category": "grinders",
     "price": 5.5,
     "salePrice": null,
     "barcode": null,
@@ -10181,7 +10181,7 @@ export const products = [
   {
     "id": 849,
     "name": "GR-X62D-3 63 MM GRINDER",
-    "category": "smoking",
+    "category": "grinders",
     "price": 5.75,
     "salePrice": 4.89,
     "barcode": "643462884162",
@@ -10193,7 +10193,7 @@ export const products = [
   {
     "id": 850,
     "name": "GD-55MM 4PRT HANDLE WINDOW GRINDER",
-    "category": "smoking",
+    "category": "grinders",
     "price": 7.99,
     "salePrice": 6.79,
     "barcode": "10123713",
@@ -10217,7 +10217,7 @@ export const products = [
   {
     "id": 852,
     "name": "HMM7 GR056-4 4PRT JUMBO TOBACCO GRINDER 76MM",
-    "category": "smoking",
+    "category": "grinders",
     "price": 7.99,
     "salePrice": 6.79,
     "barcode": "652369011731",
@@ -10229,7 +10229,7 @@ export const products = [
   {
     "id": 853,
     "name": "GR112-3LS 3PRT GRINDER",
-    "category": "smoking",
+    "category": "grinders",
     "price": 3.99,
     "salePrice": 3.39,
     "barcode": "652369012011",
@@ -10241,7 +10241,7 @@ export const products = [
   {
     "id": 854,
     "name": "GR159 3PRT HAPPY FACE GRINDER",
-    "category": "smoking",
+    "category": "grinders",
     "price": 3.99,
     "salePrice": 3.39,
     "barcode": "652369013230",
@@ -10253,7 +10253,7 @@ export const products = [
   {
     "id": 855,
     "name": "GRINDER THREE PART MH068",
-    "category": "smoking",
+    "category": "grinders",
     "price": 4.25,
     "salePrice": 3.61,
     "barcode": "692345000687",
@@ -10265,7 +10265,7 @@ export const products = [
   {
     "id": 856,
     "name": "GRINDER FOUR PART MH220",
-    "category": "smoking",
+    "category": "grinders",
     "price": 6.0,
     "salePrice": null,
     "barcode": "692345002209",
@@ -10277,7 +10277,7 @@ export const products = [
   {
     "id": 857,
     "name": "GRINDER FOUR PART MH228",
-    "category": "smoking",
+    "category": "grinders",
     "price": 6.5,
     "salePrice": null,
     "barcode": "692345002285",
@@ -10289,7 +10289,7 @@ export const products = [
   {
     "id": 858,
     "name": "GRINDER FOUR PART MH229",
-    "category": "smoking",
+    "category": "grinders",
     "price": 7.5,
     "salePrice": null,
     "barcode": "692345002292",
@@ -10301,7 +10301,7 @@ export const products = [
   {
     "id": 859,
     "name": "GRINDER FOUR PART MH234",
-    "category": "smoking",
+    "category": "grinders",
     "price": 6.25,
     "salePrice": null,
     "barcode": "692345002346",
@@ -10313,7 +10313,7 @@ export const products = [
   {
     "id": 860,
     "name": "GRINDER FOUR PART MH235",
-    "category": "smoking",
+    "category": "grinders",
     "price": 6.5,
     "salePrice": null,
     "barcode": "692345002353",
@@ -10325,7 +10325,7 @@ export const products = [
   {
     "id": 861,
     "name": "GRINDER FOUR PART MH236",
-    "category": "smoking",
+    "category": "grinders",
     "price": 6.5,
     "salePrice": null,
     "barcode": "692345002360",
@@ -10337,7 +10337,7 @@ export const products = [
   {
     "id": 862,
     "name": "HMM121 PLASTIC GRINDER 2 PART",
-    "category": "smoking",
+    "category": "grinders",
     "price": 1.99,
     "salePrice": 1.69,
     "barcode": "088169002905",
@@ -10349,7 +10349,7 @@ export const products = [
   {
     "id": 863,
     "name": "GR001 GRINDER - POKER CHIP GRINDER 12PK DISPLAY",
-    "category": "smoking",
+    "category": "grinders",
     "price": 2.99,
     "salePrice": null,
     "barcode": null,
@@ -10361,7 +10361,7 @@ export const products = [
   {
     "id": 864,
     "name": "HERB GRINDER",
-    "category": "smoking",
+    "category": "grinders",
     "price": 8.5,
     "salePrice": 7.22,
     "barcode": "gr7506",
@@ -10409,7 +10409,7 @@ export const products = [
   {
     "id": 868,
     "name": "GRCK\"S 56MM 4PART GRINDER",
-    "category": "smoking",
+    "category": "grinders",
     "price": 6.5,
     "salePrice": 5.52,
     "barcode": "GRIND56CK",
@@ -10433,7 +10433,7 @@ export const products = [
   {
     "id": 870,
     "name": "GRINDER CUBES",
-    "category": "smoking",
+    "category": "grinders",
     "price": 6.5,
     "salePrice": 5.52,
     "barcode": null,
@@ -10445,7 +10445,7 @@ export const products = [
   {
     "id": 871,
     "name": "GRINDER ME005",
-    "category": "smoking",
+    "category": "grinders",
     "price": 5.5,
     "salePrice": 4.67,
     "barcode": null,
@@ -10457,7 +10457,7 @@ export const products = [
   {
     "id": 872,
     "name": "GRINDER TG-115S",
-    "category": "smoking",
+    "category": "grinders",
     "price": 60.0,
     "salePrice": 51.0,
     "barcode": "707670001664",
@@ -10469,7 +10469,7 @@ export const products = [
   {
     "id": 873,
     "name": "GRINDER TG-124S 6 PC",
-    "category": "smoking",
+    "category": "grinders",
     "price": 60.0,
     "salePrice": 51.0,
     "barcode": "707670001244",
@@ -10481,7 +10481,7 @@ export const products = [
   {
     "id": 874,
     "name": "GRINDER TG-RM2 6PC",
-    "category": "smoking",
+    "category": "grinders",
     "price": 60.0,
     "salePrice": 51.0,
     "barcode": null,
@@ -10493,7 +10493,7 @@ export const products = [
   {
     "id": 875,
     "name": "GRINDER+PIPE",
-    "category": "smoking",
+    "category": "grinders",
     "price": 5.5,
     "salePrice": 4.67,
     "barcode": null,
@@ -10529,7 +10529,7 @@ export const products = [
   {
     "id": 878,
     "name": "GOODTIMES FLAT WRAP 2PK BLACK 99C",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 12.5,
     "salePrice": null,
     "barcode": "818892014254",
@@ -10541,7 +10541,7 @@ export const products = [
   {
     "id": 879,
     "name": "GOODTIMES FLAT WRAP 2PK BLACK SWEET 99C",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 12.5,
     "salePrice": null,
     "barcode": "842426169233",
@@ -10553,7 +10553,7 @@ export const products = [
   {
     "id": 880,
     "name": "GOOD TIME FLAT WARP BLK CHERRY 99C",
-    "category": "other",
+    "category": "cigars",
     "price": 12.5,
     "salePrice": null,
     "barcode": null,
@@ -10565,7 +10565,7 @@ export const products = [
   {
     "id": 881,
     "name": "GOODTIMES FLAT WRAP 2PK BLUEBERRY 99C",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 12.5,
     "salePrice": null,
     "barcode": "812319010171",
@@ -10577,7 +10577,7 @@ export const products = [
   {
     "id": 882,
     "name": "GOODTIMES FLAT WRAP 2PK CHERRY 99C",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 12.5,
     "salePrice": null,
     "barcode": "812319010119",
@@ -10589,7 +10589,7 @@ export const products = [
   {
     "id": 883,
     "name": "GOODTIMES FLAT WRAP 2PK CHOCOLATE 99C",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 12.5,
     "salePrice": null,
     "barcode": "818892019211",
@@ -10601,7 +10601,7 @@ export const products = [
   {
     "id": 884,
     "name": "GOODTIMES FLAT WRAP 2PK DIAMOND 99C",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 12.5,
     "salePrice": null,
     "barcode": "842426169264",
@@ -10613,7 +10613,7 @@ export const products = [
   {
     "id": 885,
     "name": "GOODTIMES FLAT WRAP 2PK FRUIT PUNCH 99C",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 12.5,
     "salePrice": null,
     "barcode": "818892013288",
@@ -10625,7 +10625,7 @@ export const products = [
   {
     "id": 886,
     "name": "GOODTIMES FLAT WRAP 2PK GRAPE 99C",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 12.5,
     "salePrice": null,
     "barcode": "812319010089",
@@ -10637,7 +10637,7 @@ export const products = [
   {
     "id": 887,
     "name": "GOOD TIME FLAT GREEN  99C",
-    "category": "other",
+    "category": "cigars",
     "price": 12.0,
     "salePrice": null,
     "barcode": "818892014285",
@@ -10649,7 +10649,7 @@ export const products = [
   {
     "id": 888,
     "name": "GOODTIMES FLAT WRAP 2PK MANGO LICIOUS 99C",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 12.5,
     "salePrice": null,
     "barcode": "812319010027",
@@ -10661,7 +10661,7 @@ export const products = [
   {
     "id": 889,
     "name": "GOODTIMES FLAT WRAP 2PK NATURAL 99C",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 12.5,
     "salePrice": null,
     "barcode": "812319010294",
@@ -10673,7 +10673,7 @@ export const products = [
   {
     "id": 890,
     "name": "GOODTIMES FLAT WRAP 2PK PASSION 99C",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 12.5,
     "salePrice": null,
     "barcode": "812319010263",
@@ -10685,7 +10685,7 @@ export const products = [
   {
     "id": 891,
     "name": "GOODTIMES FLAT WRAP 2PK PEACH 99C",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 12.5,
     "salePrice": null,
     "barcode": "812319010232",
@@ -10697,7 +10697,7 @@ export const products = [
   {
     "id": 892,
     "name": "GOODTIMES FLAT WRAP 2PK SOUR APPLE 99C",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 12.5,
     "salePrice": null,
     "barcode": "812319010058",
@@ -10709,7 +10709,7 @@ export const products = [
   {
     "id": 893,
     "name": "GOODTIMES FLAT WRAP 2PK STRAWBERRY KIWI 99C",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 12.5,
     "salePrice": null,
     "barcode": "812319010201",
@@ -10721,7 +10721,7 @@ export const products = [
   {
     "id": 894,
     "name": "GOODTIMES FLAT WRAP 2PK WHITE GRAPE 99C",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 12.5,
     "salePrice": null,
     "barcode": "812319010324",
@@ -10733,7 +10733,7 @@ export const products = [
   {
     "id": 895,
     "name": "GOODTIMES FLAT WRAP 2PK WATERMELON 99C",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 12.5,
     "salePrice": null,
     "barcode": "812319010140",
@@ -10985,7 +10985,7 @@ export const products = [
   {
     "id": 916,
     "name": "HANDEL GRINDER SMALL",
-    "category": "smoking",
+    "category": "grinders",
     "price": 6.5,
     "salePrice": null,
     "barcode": null,
@@ -10997,7 +10997,7 @@ export const products = [
   {
     "id": 917,
     "name": "HANDLE GRINDER W/ SLIDE WINDOW 63MM",
-    "category": "smoking",
+    "category": "flower-slides",
     "price": 9.0,
     "salePrice": null,
     "barcode": null,
@@ -11105,7 +11105,7 @@ export const products = [
   {
     "id": 926,
     "name": "HAVANA LEAF STRAWBERRY 8/5PK",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 45.0,
     "salePrice": 38.25,
     "barcode": "657479515353",
@@ -11165,7 +11165,7 @@ export const products = [
   {
     "id": 931,
     "name": "HEMPER QUICK HITTERS FLAVOR 20C",
-    "category": "e-liquids",
+    "category": "other",
     "price": 28.0,
     "salePrice": null,
     "barcode": null,
@@ -11189,7 +11189,7 @@ export const products = [
   {
     "id": 933,
     "name": "HIGH HEMP APPLE  ORGANIC WRAPS 100% TOBACCO FREE 2 FILTER TI",
-    "category": "accessories",
+    "category": "e-liquids",
     "price": 15.0,
     "salePrice": null,
     "barcode": "719499005624",
@@ -11213,7 +11213,7 @@ export const products = [
   {
     "id": 935,
     "name": "HIGH HEMP BAKE COOKIESD  ORGANIC WRAPS 100% TOBACCO FREE 2 F",
-    "category": "accessories",
+    "category": "e-liquids",
     "price": 15.0,
     "salePrice": null,
     "barcode": "719499005587",
@@ -11237,7 +11237,7 @@ export const products = [
   {
     "id": 937,
     "name": "HIGH HEMP BARE BERRY ORGANIC WRAPS 100% TOBACCO FREE 2 FILTE",
-    "category": "accessories",
+    "category": "e-liquids",
     "price": 12.5,
     "salePrice": null,
     "barcode": "719499005310",
@@ -11297,7 +11297,7 @@ export const products = [
   {
     "id": 942,
     "name": "HIGH HEMP DUTCH IRS",
-    "category": "other",
+    "category": "cigars",
     "price": 15.0,
     "salePrice": null,
     "barcode": "719499005556",
@@ -11321,7 +11321,7 @@ export const products = [
   {
     "id": 944,
     "name": "HIGH HEMP HONEY ORGANIC  WRAPS 100% TOBACCO FREE 2 FILTER TI",
-    "category": "accessories",
+    "category": "e-liquids",
     "price": 15.0,
     "salePrice": null,
     "barcode": "719499005112",
@@ -11345,7 +11345,7 @@ export const products = [
   {
     "id": 946,
     "name": "HIGH HEMP HYDRO LEMONADE ORGANIC WRAPS 100% TOBACCO FREE 2 F",
-    "category": "accessories",
+    "category": "e-liquids",
     "price": 15.0,
     "salePrice": null,
     "barcode": "719499005174",
@@ -11357,7 +11357,7 @@ export const products = [
   {
     "id": 947,
     "name": "HIGH HEMP MAUIMANGO ORGANIC WRAPS 100% TOBACCO FREE 2 FILTER",
-    "category": "accessories",
+    "category": "e-liquids",
     "price": 15.0,
     "salePrice": null,
     "barcode": "719499005051",
@@ -11369,7 +11369,7 @@ export const products = [
   {
     "id": 948,
     "name": "HIGH HEMP ORIGNAL 1 1/4 PAPER CONES 6CT-32PK",
-    "category": "smoking",
+    "category": "glass-pipes",
     "price": 42.0,
     "salePrice": null,
     "barcode": "719499006256",
@@ -11381,7 +11381,7 @@ export const products = [
   {
     "id": 949,
     "name": "HH PAPERS 1 1/4 24CT",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 25.0,
     "salePrice": 21.25,
     "barcode": "719499005204",
@@ -11405,7 +11405,7 @@ export const products = [
   {
     "id": 951,
     "name": "HIGH HEMP PINEAPPLE PARADISE ORGANIC WRAPS 100% TOBACCO FREE",
-    "category": "accessories",
+    "category": "e-liquids",
     "price": 12.5,
     "salePrice": null,
     "barcode": "719499005341",
@@ -11417,7 +11417,7 @@ export const products = [
   {
     "id": 952,
     "name": "HIGH HEMP REGULAR ORGANIC WRAPS 100% TOBACCO FREE 2 FILTER T",
-    "category": "accessories",
+    "category": "e-liquids",
     "price": 15.0,
     "salePrice": null,
     "barcode": "719499005044",
@@ -11465,7 +11465,7 @@ export const products = [
   {
     "id": 956,
     "name": "HITS BLUNT PREMIUM WRAP BLUEBERRY",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 15.0,
     "salePrice": 12.75,
     "barcode": "850033061123",
@@ -11477,7 +11477,7 @@ export const products = [
   {
     "id": 957,
     "name": "HITS BLUNT PREMIUM WRAP ORIGINAL",
-    "category": "smoking",
+    "category": "glass-pipes",
     "price": 15.0,
     "salePrice": 12.75,
     "barcode": "850033061048",
@@ -11489,7 +11489,7 @@ export const products = [
   {
     "id": 958,
     "name": "HITS BLUNT PREMIUM WRAP SWEET",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 15.0,
     "salePrice": 12.75,
     "barcode": "850033061062",
@@ -11501,7 +11501,7 @@ export const products = [
   {
     "id": 959,
     "name": "HITS BLUNT PREMIUM WRAP WHITE GRAPE",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 15.0,
     "salePrice": 12.75,
     "barcode": "850033061086",
@@ -11513,7 +11513,7 @@ export const products = [
   {
     "id": 960,
     "name": "HONEY COMB HAND PIPE",
-    "category": "smoking",
+    "category": "glass-pipes",
     "price": 8.0,
     "salePrice": 6.8,
     "barcode": null,
@@ -11573,7 +11573,7 @@ export const products = [
   {
     "id": 965,
     "name": "HOOKAH DIES",
-    "category": "other",
+    "category": "hookah",
     "price": 18.5,
     "salePrice": 15.72,
     "barcode": null,
@@ -11585,7 +11585,7 @@ export const products = [
   {
     "id": 966,
     "name": "HOOKAH SIGN",
-    "category": "other",
+    "category": "hookah",
     "price": 90.0,
     "salePrice": null,
     "barcode": null,
@@ -11717,7 +11717,7 @@ export const products = [
   {
     "id": 977,
     "name": "HOOKHA HEAD SILICON WITH GLASS+",
-    "category": "accessories",
+    "category": "glass-pipes",
     "price": 25.0,
     "salePrice": 21.25,
     "barcode": null,
@@ -11945,7 +11945,7 @@ export const products = [
   {
     "id": 996,
     "name": "ICED BAGS 8LB",
-    "category": "other",
+    "category": "storage",
     "price": 25.0,
     "salePrice": null,
     "barcode": null,
@@ -11957,7 +11957,7 @@ export const products = [
   {
     "id": 997,
     "name": "IGNITUS BUTANE 12CT 300ML",
-    "category": "other",
+    "category": "lighters-torches",
     "price": 16.5,
     "salePrice": null,
     "barcode": "10852812005264",
@@ -12017,7 +12017,7 @@ export const products = [
   {
     "id": 1002,
     "name": "INFUSION MIAMI MAGIC 580G CHARGER 6CT/BOX",
-    "category": "accessories",
+    "category": "other",
     "price": 185.0,
     "salePrice": 157.25,
     "barcode": null,
@@ -12029,7 +12029,7 @@ export const products = [
   {
     "id": 1003,
     "name": "INFUSION MIAMI MAGIC 3.3L XL CYLINDER CHARGER 2CT",
-    "category": "accessories",
+    "category": "other",
     "price": 125.0,
     "salePrice": null,
     "barcode": null,
@@ -12053,7 +12053,7 @@ export const products = [
   {
     "id": 1005,
     "name": "INFUZD 2000G CYLINDER FLAVORED CHARGERS 2CT BOX",
-    "category": "accessories",
+    "category": "other",
     "price": 130.0,
     "salePrice": 110.5,
     "barcode": null,
@@ -12065,7 +12065,7 @@ export const products = [
   {
     "id": 1006,
     "name": "INFUZD 1364G CYLINDER FLAVORED CHARGERS 4CT BOX",
-    "category": "accessories",
+    "category": "other",
     "price": 160.0,
     "salePrice": null,
     "barcode": null,
@@ -12077,7 +12077,7 @@ export const products = [
   {
     "id": 1007,
     "name": "INFUZD 640G CYLINDER FLAVORED CHARGERS 6CT BOX",
-    "category": "accessories",
+    "category": "other",
     "price": 125.0,
     "salePrice": 106.25,
     "barcode": null,
@@ -12089,7 +12089,7 @@ export const products = [
   {
     "id": 1008,
     "name": "INSPECTOR 420 INSTANT DRUG TESTING KIT PANEL 1 SINGLE",
-    "category": "other",
+    "category": "cleaners",
     "price": 5.0,
     "salePrice": 4.25,
     "barcode": "850879000201",
@@ -12101,7 +12101,7 @@ export const products = [
   {
     "id": 1009,
     "name": "INSPECTOR 420 INSTANT DRUG TESTING KIT PANEL 3 SINGLE",
-    "category": "other",
+    "category": "cleaners",
     "price": 7.0,
     "salePrice": null,
     "barcode": "850879000287",
@@ -12197,7 +12197,7 @@ export const products = [
   {
     "id": 1017,
     "name": "JOB 1.0 GOLD BOX OF 24 BOOKLETS ROLLING PAPERS",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 33.99,
     "salePrice": null,
     "barcode": "077170771795",
@@ -12209,7 +12209,7 @@ export const products = [
   {
     "id": 1018,
     "name": "JOB 1.25 GOLD BOX OF 24 BOOKLETS ROLLING PAPERS",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 33.99,
     "salePrice": null,
     "barcode": "079083127249",
@@ -12233,7 +12233,7 @@ export const products = [
   {
     "id": 1020,
     "name": "JOB 1.5 GOLD BOX OF 24 BOOKLETS ROLLING PAPERS",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 33.99,
     "salePrice": null,
     "barcode": "079083157246",
@@ -12257,7 +12257,7 @@ export const products = [
   {
     "id": 1022,
     "name": "JOB CONE 1\u00bc - 6 CONES IN EACH - 32CT",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 32.99,
     "salePrice": null,
     "barcode": "077170119986",
@@ -12269,7 +12269,7 @@ export const products = [
   {
     "id": 1023,
     "name": "JOB CONE 3CT",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 31.0,
     "salePrice": null,
     "barcode": null,
@@ -12317,7 +12317,7 @@ export const products = [
   {
     "id": 1027,
     "name": "JOB JAR 1.25",
-    "category": "other",
+    "category": "storage",
     "price": 88.0,
     "salePrice": null,
     "barcode": null,
@@ -12329,7 +12329,7 @@ export const products = [
   {
     "id": 1028,
     "name": "JOB ORANGE CIGARETTE PAPER 1\u00bc JAR 99\u00a2 (100 CT)",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 59.99,
     "salePrice": null,
     "barcode": "077170101875",
@@ -12377,7 +12377,7 @@ export const products = [
   {
     "id": 1032,
     "name": "JUICY HEMP WRAP BLACKBERRY JAM 25 PACK DISPLAY",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 18.5,
     "salePrice": null,
     "barcode": "716165252108",
@@ -12389,7 +12389,7 @@ export const products = [
   {
     "id": 1033,
     "name": "JUICY HEMP WRAP CHERRY PIE 25 PACK DISPLAY",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 18.5,
     "salePrice": null,
     "barcode": "716165251538",
@@ -12401,7 +12401,7 @@ export const products = [
   {
     "id": 1034,
     "name": "JUICY HEMP WRAP COCONUT CREAM 25 PACK DISPLAY",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 18.5,
     "salePrice": null,
     "barcode": "716165252146",
@@ -12413,7 +12413,7 @@ export const products = [
   {
     "id": 1035,
     "name": "JUICY HEMP WRAP GRAPE SODA 25 PACK DISPLAY",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 18.5,
     "salePrice": null,
     "barcode": "716165252122",
@@ -12425,7 +12425,7 @@ export const products = [
   {
     "id": 1036,
     "name": "JUICY HEMP WRAP NATURAL 25 PACK DISPLAY",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 18.5,
     "salePrice": null,
     "barcode": "716165250609",
@@ -12437,7 +12437,7 @@ export const products = [
   {
     "id": 1037,
     "name": "JUICY HEMP WRAP PAPAYA PUNCH 25 PACK DISPLAY",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 18.5,
     "salePrice": null,
     "barcode": "716165252139",
@@ -12449,7 +12449,7 @@ export const products = [
   {
     "id": 1038,
     "name": "JUICY HEMP WRAP PINEAPPLE SHAKE 25 PACK DISPLAY",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 18.5,
     "salePrice": null,
     "barcode": "716165251552",
@@ -12461,7 +12461,7 @@ export const products = [
   {
     "id": 1039,
     "name": "JUICY HEMP WRAP PURPLE GELATO 25 PACK DISPLAY",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 18.5,
     "salePrice": null,
     "barcode": "716165251569",
@@ -12473,7 +12473,7 @@ export const products = [
   {
     "id": 1040,
     "name": "JUICY HEMP WRAP STRAWBERRY SHERBERT 25 PACK DISPLAY",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 18.5,
     "salePrice": null,
     "barcode": "716165252115",
@@ -12485,7 +12485,7 @@ export const products = [
   {
     "id": 1041,
     "name": "JUICY ROLLER BACKWOOD 6PCS",
-    "category": "other",
+    "category": "cigars",
     "price": 22.0,
     "salePrice": 18.7,
     "barcode": "016165150269",
@@ -12545,7 +12545,7 @@ export const products = [
   {
     "id": 1046,
     "name": "JUST BUTANE 7X 12CT 300 ML",
-    "category": "other",
+    "category": "lighters-torches",
     "price": 18.5,
     "salePrice": null,
     "barcode": "756545500627",
@@ -12557,7 +12557,7 @@ export const products = [
   {
     "id": 1047,
     "name": "JUST BUTANE 9X MINI 20CT",
-    "category": "other",
+    "category": "lighters-torches",
     "price": 16.0,
     "salePrice": null,
     "barcode": "756545110048",
@@ -12569,7 +12569,7 @@ export const products = [
   {
     "id": 1048,
     "name": "JUST BUTANE MINI 11X 20CT",
-    "category": "other",
+    "category": "lighters-torches",
     "price": 17.0,
     "salePrice": null,
     "barcode": "756545110055",
@@ -12581,7 +12581,7 @@ export const products = [
   {
     "id": 1049,
     "name": "JUST BUTANE MINI 3X 20CT",
-    "category": "other",
+    "category": "lighters-torches",
     "price": 15.0,
     "salePrice": 12.75,
     "barcode": "756545110017",
@@ -12593,7 +12593,7 @@ export const products = [
   {
     "id": 1050,
     "name": "JUST BUTANE MINI 5X 20CT",
-    "category": "other",
+    "category": "lighters-torches",
     "price": 15.0,
     "salePrice": 12.75,
     "barcode": "756545110024",
@@ -12605,7 +12605,7 @@ export const products = [
   {
     "id": 1051,
     "name": "JUST BUTANE MINI 7X 20CT",
-    "category": "other",
+    "category": "lighters-torches",
     "price": 16.0,
     "salePrice": 13.6,
     "barcode": "756545110031",
@@ -12629,7 +12629,7 @@ export const products = [
   {
     "id": 1053,
     "name": "JUUL CHARGER PACK 10CT",
-    "category": "accessories",
+    "category": "other",
     "price": 6.5,
     "salePrice": null,
     "barcode": null,
@@ -12641,7 +12641,7 @@ export const products = [
   {
     "id": 1054,
     "name": "JWELERY BAGS",
-    "category": "other",
+    "category": "storage",
     "price": 2.99,
     "salePrice": 2.54,
     "barcode": "10124024",
@@ -12725,7 +12725,7 @@ export const products = [
   {
     "id": 1061,
     "name": "KHALIL MAAMOON HOOKAH BIG",
-    "category": "other",
+    "category": "hookah",
     "price": 59.0,
     "salePrice": null,
     "barcode": null,
@@ -12737,7 +12737,7 @@ export const products = [
   {
     "id": 1062,
     "name": "KHALIL MAAMOON HOOKAH SMALL",
-    "category": "other",
+    "category": "hookah",
     "price": 49.0,
     "salePrice": 41.65,
     "barcode": null,
@@ -12785,7 +12785,7 @@ export const products = [
   {
     "id": 1066,
     "name": "KING APLM CONE 6PK GRAPE  SWISH 30CT DISPLAY",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 42.5,
     "salePrice": null,
     "barcode": "10810089613568",
@@ -12821,7 +12821,7 @@ export const products = [
   {
     "id": 1069,
     "name": "KING APLM GOJI WRAP 4PK NATURAL 15CT DISPLAY",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 26.0,
     "salePrice": null,
     "barcode": "10810089611755",
@@ -12845,7 +12845,7 @@ export const products = [
   {
     "id": 1071,
     "name": "KING BUTANE FUEL 5X REFINED 300ML",
-    "category": "other",
+    "category": "lighters-torches",
     "price": 22.99,
     "salePrice": null,
     "barcode": null,
@@ -12857,7 +12857,7 @@ export const products = [
   {
     "id": 1072,
     "name": "KING PALM 2PACK CONE PRE PRICE 1.99 ROLLIES SIZE CHERY CHRAM",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 29.0,
     "salePrice": null,
     "barcode": "10850018987643",
@@ -12869,7 +12869,7 @@ export const products = [
   {
     "id": 1073,
     "name": "KING PALM 2PACK CONE PRE PRICE 1.99 ROLLIES SIZE GELATO CREA",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 29.0,
     "salePrice": null,
     "barcode": "10850018987667",
@@ -12881,7 +12881,7 @@ export const products = [
   {
     "id": 1074,
     "name": "KING PALM 2PACK CONE PRE PRICE 1.99 ROLLIES SIZE PEACH TREE ",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 29.0,
     "salePrice": null,
     "barcode": "10810089610314",
@@ -12893,7 +12893,7 @@ export const products = [
   {
     "id": 1075,
     "name": "KING PALM 2PACK CONE PRE PRICE 1.99 ROLLIES SIZE PERFECT PEA",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 29.0,
     "salePrice": null,
     "barcode": "10850018987650",
@@ -12917,7 +12917,7 @@ export const products = [
   {
     "id": 1077,
     "name": "KING PALM 2 PACK CONES-MINI SIZE-MANGO OG-20CT",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 35.0,
     "salePrice": null,
     "barcode": "10850018987476",
@@ -12941,7 +12941,7 @@ export const products = [
   {
     "id": 1079,
     "name": "KING PALM 25PK KING PREROLLED CONE 8CT",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 135.0,
     "salePrice": null,
     "barcode": "0110854029008083",
@@ -12953,7 +12953,7 @@ export const products = [
   {
     "id": 1080,
     "name": "KING PALM 25PK SLIM PRE ROLLED CONE 8CT",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 115.0,
     "salePrice": null,
     "barcode": "0110854029008458",
@@ -13085,7 +13085,7 @@ export const products = [
   {
     "id": 1091,
     "name": "KING PALM 3PK KS CONE 30CT SKYWAKER COLOR CONE",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 33.51,
     "salePrice": 28.48,
     "barcode": "10810089616347",
@@ -13193,7 +13193,7 @@ export const products = [
   {
     "id": 1100,
     "name": "ALM 5PK MINI CONES LEMON KIWI",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 45.0,
     "salePrice": null,
     "barcode": null,
@@ -13205,7 +13205,7 @@ export const products = [
   {
     "id": 1101,
     "name": "KING PALM 5PK MINI CONES 15CT-LEMON KIWI",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 50.0,
     "salePrice": 42.5,
     "barcode": "10810089618471",
@@ -13253,7 +13253,7 @@ export const products = [
   {
     "id": 1105,
     "name": "KING PALM CONE 3PK KS MONEY MANGO",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 39.0,
     "salePrice": null,
     "barcode": "10810089613612",
@@ -13265,7 +13265,7 @@ export const products = [
   {
     "id": 1106,
     "name": "KING PALM CONE 6PK KING KIWI DOGWALKER 30CT",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 45.0,
     "salePrice": null,
     "barcode": "10810089616439",
@@ -13277,7 +13277,7 @@ export const products = [
   {
     "id": 1107,
     "name": "KING PALM CONE 6PK LIL LEMON",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 38.5,
     "salePrice": null,
     "barcode": "10810089613551",
@@ -13289,7 +13289,7 @@ export const products = [
   {
     "id": 1108,
     "name": "KING PALM FILTER BANANA 50CT DI",
-    "category": "other",
+    "category": "accessories",
     "price": 34.0,
     "salePrice": null,
     "barcode": "10850018987063",
@@ -13301,7 +13301,7 @@ export const products = [
   {
     "id": 1109,
     "name": "KING PALM FILTER MAGIC MINT  50CT DI",
-    "category": "other",
+    "category": "accessories",
     "price": 34.0,
     "salePrice": 28.9,
     "barcode": "10850018987070",
@@ -13313,7 +13313,7 @@ export const products = [
   {
     "id": 1110,
     "name": "KING PALM FILTER BERRY 50CT DISPLAY",
-    "category": "other",
+    "category": "accessories",
     "price": 34.0,
     "salePrice": 28.9,
     "barcode": "10854029008748",
@@ -13337,7 +13337,7 @@ export const products = [
   {
     "id": 1112,
     "name": "KING PALM GOJI 4PK STRAWBEERY 15 CT DISPLAY",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 24.0,
     "salePrice": null,
     "barcode": "10810089611717",
@@ -13385,7 +13385,7 @@ export const products = [
   {
     "id": 1116,
     "name": "KING PALM MINI 2 PK PRE-PRICED CONE 20CT - MINI PRE ROLL",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 31.0,
     "salePrice": null,
     "barcode": "10810078745164",
@@ -13421,7 +13421,7 @@ export const products = [
   {
     "id": 1119,
     "name": "KING PALM MINI SIZE CONE LEMON HAZE-20CT",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 35.0,
     "salePrice": null,
     "barcode": "10850018987445",
@@ -13661,7 +13661,7 @@ export const products = [
   {
     "id": 1139,
     "name": "KNIFE JAR DISPLAY 48CT",
-    "category": "other",
+    "category": "storage",
     "price": 150.0,
     "salePrice": null,
     "barcode": null,
@@ -13685,7 +13685,7 @@ export const products = [
   {
     "id": 1141,
     "name": "KOL COCONUT CHARCOAL CUBE 10/72",
-    "category": "other",
+    "category": "hookah",
     "price": 7.5,
     "salePrice": 6.38,
     "barcode": "857545008370",
@@ -13745,7 +13745,7 @@ export const products = [
   {
     "id": 1146,
     "name": "LED ASHTRAY",
-    "category": "smoking",
+    "category": "other",
     "price": 5.5,
     "salePrice": 4.67,
     "barcode": null,
@@ -13757,7 +13757,7 @@ export const products = [
   {
     "id": 1147,
     "name": "LED ASHTRAY 6CT",
-    "category": "smoking",
+    "category": "other",
     "price": 15.0,
     "salePrice": 12.75,
     "barcode": "788453114061",
@@ -13769,7 +13769,7 @@ export const products = [
   {
     "id": 1148,
     "name": "LED COLOUR ASHTRAY 12 CT",
-    "category": "smoking",
+    "category": "other",
     "price": 75.0,
     "salePrice": 63.75,
     "barcode": null,
@@ -13781,7 +13781,7 @@ export const products = [
   {
     "id": 1149,
     "name": "LED JAR DISPLAY OF 6",
-    "category": "other",
+    "category": "storage",
     "price": 27.0,
     "salePrice": 22.95,
     "barcode": null,
@@ -13793,7 +13793,7 @@ export const products = [
   {
     "id": 1150,
     "name": "LED JAR GRINDER",
-    "category": "smoking",
+    "category": "grinders",
     "price": 13.99,
     "salePrice": 11.89,
     "barcode": null,
@@ -13853,7 +13853,7 @@ export const products = [
   {
     "id": 1155,
     "name": "LIFE STYLE ASSORTED JAR 40 COUNT",
-    "category": "other",
+    "category": "storage",
     "price": 11.0,
     "salePrice": null,
     "barcode": null,
@@ -13865,7 +13865,7 @@ export const products = [
   {
     "id": 1156,
     "name": "LIGHTER LEASH MIX COLOR 20CT",
-    "category": "smoking",
+    "category": "lighters-torches",
     "price": 20.0,
     "salePrice": 17.0,
     "barcode": null,
@@ -13877,7 +13877,7 @@ export const products = [
   {
     "id": 1157,
     "name": "LIGHTER LEASH YELLOW 30CT",
-    "category": "smoking",
+    "category": "lighters-torches",
     "price": 40.0,
     "salePrice": null,
     "barcode": "854672000505",
@@ -13889,7 +13889,7 @@ export const products = [
   {
     "id": 1158,
     "name": "LIGHTER MIX 50 COUNT",
-    "category": "smoking",
+    "category": "lighters-torches",
     "price": 20.0,
     "salePrice": null,
     "barcode": null,
@@ -13913,7 +13913,7 @@ export const products = [
   {
     "id": 1160,
     "name": "LINES TORCH LIGHTER 15CT",
-    "category": "smoking",
+    "category": "lighters-torches",
     "price": 40.0,
     "salePrice": 34.0,
     "barcode": null,
@@ -13925,7 +13925,7 @@ export const products = [
   {
     "id": 1161,
     "name": "LINSE TORCH LIGHTER 15CT",
-    "category": "smoking",
+    "category": "lighters-torches",
     "price": 30.0,
     "salePrice": 25.5,
     "barcode": "30867885000492",
@@ -13937,7 +13937,7 @@ export const products = [
   {
     "id": 1162,
     "name": "LIQUOR BAG SINGLE BOTTLE 800CT",
-    "category": "other",
+    "category": "storage",
     "price": 25.0,
     "salePrice": 21.25,
     "barcode": null,
@@ -13973,7 +13973,7 @@ export const products = [
   {
     "id": 1165,
     "name": "LISTERINE ORIGINAL 250 ML",
-    "category": "other",
+    "category": "glass-pipes",
     "price": 3.25,
     "salePrice": null,
     "barcode": "3574661177120",
@@ -14021,7 +14021,7 @@ export const products = [
   {
     "id": 1169,
     "name": "LOOKHA COONECT COIL 5PK",
-    "category": "accessories",
+    "category": "coils",
     "price": 26.5,
     "salePrice": 22.52,
     "barcode": null,
@@ -14045,7 +14045,7 @@ export const products = [
   {
     "id": 1171,
     "name": "LOOKHA GLASS 16 LAYER DESING",
-    "category": "accessories",
+    "category": "glass-pipes",
     "price": 99.99,
     "salePrice": 84.99,
     "barcode": null,
@@ -14057,7 +14057,7 @@ export const products = [
   {
     "id": 1172,
     "name": "LOOKHA GLASS DRUM DESING",
-    "category": "accessories",
+    "category": "glass-pipes",
     "price": 86.99,
     "salePrice": null,
     "barcode": null,
@@ -14069,7 +14069,7 @@ export const products = [
   {
     "id": 1173,
     "name": "LOOKHA GLASS ICE CATCHER AND FU",
-    "category": "accessories",
+    "category": "glass-pipes",
     "price": 115.99,
     "salePrice": null,
     "barcode": null,
@@ -14093,7 +14093,7 @@ export const products = [
   {
     "id": 1175,
     "name": "LOOKHA SEAHORSE SEE THROUGH COIL",
-    "category": "accessories",
+    "category": "coils",
     "price": 26.5,
     "salePrice": 22.52,
     "barcode": null,
@@ -14117,7 +14117,7 @@ export const products = [
   {
     "id": 1177,
     "name": "LOOKHA SEAHORSE X COIL",
-    "category": "accessories",
+    "category": "coils",
     "price": 24.5,
     "salePrice": null,
     "barcode": null,
@@ -14129,7 +14129,7 @@ export const products = [
   {
     "id": 1178,
     "name": "LOOKHA SERDINE HOT KNIFE  DAB TOOL",
-    "category": "other",
+    "category": "dab-accessories",
     "price": 32.0,
     "salePrice": null,
     "barcode": null,
@@ -14153,7 +14153,7 @@ export const products = [
   {
     "id": 1180,
     "name": "LOOPER WHIP CREAM CHARGER CAINS",
-    "category": "accessories",
+    "category": "other",
     "price": 120.0,
     "salePrice": null,
     "barcode": null,
@@ -14225,7 +14225,7 @@ export const products = [
   {
     "id": 1186,
     "name": "LOOSE LEAF 2PK $2.99 20CT/BOX RUBY DREAM",
-    "category": "other",
+    "category": "inserts",
     "price": 40.0,
     "salePrice": null,
     "barcode": "769577921391",
@@ -14249,7 +14249,7 @@ export const products = [
   {
     "id": 1188,
     "name": "LOOSE LEAF WRAPS 5PK 8CT/BX (BANANA)",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 50.0,
     "salePrice": 42.5,
     "barcode": "658238734787",
@@ -14261,7 +14261,7 @@ export const products = [
   {
     "id": 1189,
     "name": "LOOSE LEAF WRAPS 5PK 8CT/BX (FREE YSL SPECIAL EDITION)",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 50.0,
     "salePrice": 42.5,
     "barcode": "658238735517",
@@ -14285,7 +14285,7 @@ export const products = [
   {
     "id": 1191,
     "name": "LOOSE LEAF WRAPS 5PK 8CT/BX (GRAPE)",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 50.0,
     "salePrice": 42.5,
     "barcode": "742978846647",
@@ -14297,7 +14297,7 @@ export const products = [
   {
     "id": 1192,
     "name": "LOOSE LEAF WRAPS 5PK 8CT/BX (HONEY BOURBON SPECIAL EDITION)",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 50.0,
     "salePrice": 42.5,
     "barcode": "616663964971",
@@ -14309,7 +14309,7 @@ export const products = [
   {
     "id": 1193,
     "name": "LOOSE LEAF WRAPS 5PK 8CT/BX (ICE COLD SPECIAL EDITION)",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 75.0,
     "salePrice": 63.75,
     "barcode": "658238734800",
@@ -14321,7 +14321,7 @@ export const products = [
   {
     "id": 1194,
     "name": "LOOSE LEAF MINI STRAWBERRY DREAM 8-5 PACKS 40 LEAF WRAPS",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 45.0,
     "salePrice": null,
     "barcode": "658238734909",
@@ -14369,7 +14369,7 @@ export const products = [
   {
     "id": 1198,
     "name": "LOOSE LEAF WRAPS 5PK 8CT/BX (RED RUM SPECIAL EDITION)",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 75.0,
     "salePrice": 63.75,
     "barcode": "658238735029",
@@ -14405,7 +14405,7 @@ export const products = [
   {
     "id": 1201,
     "name": "LOOSE LEAF WRAPS 5PK 8CT/BX (STRAWBERRY DREAM)",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 65.0,
     "salePrice": 55.25,
     "barcode": "742978846142",
@@ -14429,7 +14429,7 @@ export const products = [
   {
     "id": 1203,
     "name": "LOOSE LEAF WRAPS 5PK 8CT/BX (WATERMELON DREAM)",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 65.0,
     "salePrice": 55.25,
     "barcode": "658238735616",
@@ -14501,7 +14501,7 @@ export const products = [
   {
     "id": 1209,
     "name": "GOODTIMES LITTLE-N-WILD PLASTIC TIP CIGARS 2/99 10/2PK 40COU",
-    "category": "accessories",
+    "category": "cigars",
     "price": 13.49,
     "salePrice": 11.47,
     "barcode": null,
@@ -14513,7 +14513,7 @@ export const products = [
   {
     "id": 1210,
     "name": "GOODTIMES LITTLE-N-WILD PLASTIC TIP CIGARS 25 COUNT 49C",
-    "category": "accessories",
+    "category": "cigars",
     "price": 6.75,
     "salePrice": 5.74,
     "barcode": null,
@@ -14669,7 +14669,7 @@ export const products = [
   {
     "id": 1223,
     "name": "BEECHNUT ORIGNAL",
-    "category": "other",
+    "category": "glass-pipes",
     "price": 100.0,
     "salePrice": null,
     "barcode": "035106057078",
@@ -14681,7 +14681,7 @@ export const products = [
   {
     "id": 1224,
     "name": "BEECHNUT ORIGNAL 3PK",
-    "category": "other",
+    "category": "glass-pipes",
     "price": 90.0,
     "salePrice": null,
     "barcode": "035106006779",
@@ -15137,7 +15137,7 @@ export const products = [
   {
     "id": 1262,
     "name": "SKOAL ORIGINAL FINECUT WINTERGREEN 5-CAN ROLL",
-    "category": "other",
+    "category": "glass-pipes",
     "price": 29.0,
     "salePrice": null,
     "barcode": "073100010934",
@@ -15341,7 +15341,7 @@ export const products = [
   {
     "id": 1279,
     "name": "M3 FUJIMA BUTANE 18ML 25CT",
-    "category": "other",
+    "category": "lighters-torches",
     "price": 7.99,
     "salePrice": null,
     "barcode": "081635100037",
@@ -15377,7 +15377,7 @@ export const products = [
   {
     "id": 1282,
     "name": "MAGNETIC LARGE TRAY WITH LID",
-    "category": "smoking",
+    "category": "other",
     "price": 12.5,
     "salePrice": null,
     "barcode": null,
@@ -15389,7 +15389,7 @@ export const products = [
   {
     "id": 1283,
     "name": "MEGNETIC TRAY WITH LID MEDIUM",
-    "category": "smoking",
+    "category": "other",
     "price": 5.5,
     "salePrice": 4.67,
     "barcode": null,
@@ -15401,7 +15401,7 @@ export const products = [
   {
     "id": 1284,
     "name": "MEGNETIC TRAY WITH LID SMALL",
-    "category": "smoking",
+    "category": "other",
     "price": 5.5,
     "salePrice": 4.67,
     "barcode": null,
@@ -15437,7 +15437,7 @@ export const products = [
   {
     "id": 1287,
     "name": "MALE 144MM BANGER BNGF 25JAR",
-    "category": "other",
+    "category": "bangers",
     "price": 50.0,
     "salePrice": null,
     "barcode": "BNGF25JAR",
@@ -15473,7 +15473,7 @@ export const products = [
   {
     "id": 1290,
     "name": "MAYA HOOKAH",
-    "category": "other",
+    "category": "hookah",
     "price": 35.0,
     "salePrice": null,
     "barcode": null,
@@ -15497,7 +15497,7 @@ export const products = [
   {
     "id": 1292,
     "name": "MAZYA HOOKHA  PIPE HOSE",
-    "category": "smoking",
+    "category": "glass-pipes",
     "price": 1.8,
     "salePrice": 1.53,
     "barcode": null,
@@ -15545,7 +15545,7 @@ export const products = [
   {
     "id": 1296,
     "name": "SMALL DESIGNER TRAY",
-    "category": "smoking",
+    "category": "other",
     "price": 3.99,
     "salePrice": 3.39,
     "barcode": null,
@@ -15557,7 +15557,7 @@ export const products = [
   {
     "id": 1297,
     "name": "METAL CIG PIPE DISPLAY 100CT",
-    "category": "smoking",
+    "category": "glass-pipes",
     "price": 60.0,
     "salePrice": 51.0,
     "barcode": null,
@@ -15569,7 +15569,7 @@ export const products = [
   {
     "id": 1298,
     "name": "METAL CIG PIPE SMALL",
-    "category": "smoking",
+    "category": "glass-pipes",
     "price": 35.0,
     "salePrice": 29.75,
     "barcode": null,
@@ -15581,7 +15581,7 @@ export const products = [
   {
     "id": 1299,
     "name": "METALCIG.PIPE",
-    "category": "smoking",
+    "category": "glass-pipes",
     "price": 0.79,
     "salePrice": null,
     "barcode": null,
@@ -15593,7 +15593,7 @@ export const products = [
   {
     "id": 1300,
     "name": "METAL SKULLS JEWLERY PIPE 12CT",
-    "category": "smoking",
+    "category": "glass-pipes",
     "price": 32.0,
     "salePrice": null,
     "barcode": null,
@@ -15629,7 +15629,7 @@ export const products = [
   {
     "id": 1303,
     "name": "MINI TRAY SINGLE",
-    "category": "smoking",
+    "category": "other",
     "price": 3.0,
     "salePrice": 2.55,
     "barcode": null,
@@ -15641,7 +15641,7 @@ export const products = [
   {
     "id": 1304,
     "name": "MIRAG GRINDER BIG",
-    "category": "smoking",
+    "category": "grinders",
     "price": 6.5,
     "salePrice": null,
     "barcode": null,
@@ -15665,7 +15665,7 @@ export const products = [
   {
     "id": 1306,
     "name": "MK GRIP LIGHTER 50CT",
-    "category": "smoking",
+    "category": "lighters-torches",
     "price": 28.0,
     "salePrice": null,
     "barcode": "6945161122021",
@@ -15677,7 +15677,7 @@ export const products = [
   {
     "id": 1307,
     "name": "MK-GRIP MINI LIGHTER 50CT",
-    "category": "smoking",
+    "category": "lighters-torches",
     "price": 17.0,
     "salePrice": 14.45,
     "barcode": "6945170602231",
@@ -15689,7 +15689,7 @@ export const products = [
   {
     "id": 1308,
     "name": "MK JET LIGHTER 50CT",
-    "category": "smoking",
+    "category": "lighters-torches",
     "price": 19.99,
     "salePrice": null,
     "barcode": "10855553008242",
@@ -15701,7 +15701,7 @@ export const products = [
   {
     "id": 1309,
     "name": "MOB CHARCOAL BURNER SUPREME",
-    "category": "other",
+    "category": "hookah",
     "price": 17.5,
     "salePrice": 14.88,
     "barcode": "61354320220021",
@@ -15869,7 +15869,7 @@ export const products = [
   {
     "id": 1323,
     "name": "MULTI FLAME TORCH LIGHTER 25CT",
-    "category": "smoking",
+    "category": "lighters-torches",
     "price": 45.0,
     "salePrice": null,
     "barcode": "707670101562",
@@ -15893,7 +15893,7 @@ export const products = [
   {
     "id": 1325,
     "name": "MYLER BAG EXTRA LARGE 1 LB - SINGLE CT SMELL PROOF",
-    "category": "other",
+    "category": "storage",
     "price": 1.15,
     "salePrice": null,
     "barcode": null,
@@ -15905,7 +15905,7 @@ export const products = [
   {
     "id": 1326,
     "name": "MYLER BAG SMELL PROOF BUNDLE OF 50CT (0.5 GM)",
-    "category": "other",
+    "category": "storage",
     "price": 4.5,
     "salePrice": 3.82,
     "barcode": null,
@@ -15917,7 +15917,7 @@ export const products = [
   {
     "id": 1327,
     "name": "MYLER BAG SMELL PROOF BUNDLE OF 50CT (1 GM)",
-    "category": "other",
+    "category": "storage",
     "price": 4.85,
     "salePrice": 4.12,
     "barcode": null,
@@ -15929,7 +15929,7 @@ export const products = [
   {
     "id": 1328,
     "name": "MYLER BAG SMELL PROOF BUNDLE OF 50CT (1/2 LB)",
-    "category": "other",
+    "category": "storage",
     "price": 0.75,
     "salePrice": null,
     "barcode": null,
@@ -15941,7 +15941,7 @@ export const products = [
   {
     "id": 1329,
     "name": "MYLER BAG SMELL PROOF BUNDLE OF 50CT (01OZ)",
-    "category": "other",
+    "category": "storage",
     "price": 8.5,
     "salePrice": null,
     "barcode": null,
@@ -15953,7 +15953,7 @@ export const products = [
   {
     "id": 1330,
     "name": "MYLER BAG SMELL PROOF BUNDLE OF 50CT (3.5 GM)",
-    "category": "other",
+    "category": "storage",
     "price": 5.25,
     "salePrice": 4.46,
     "barcode": null,
@@ -15965,7 +15965,7 @@ export const products = [
   {
     "id": 1331,
     "name": "MYLER BAG SMELL PROOF BUNDLE OF 50CT (7 GM)",
-    "category": "other",
+    "category": "storage",
     "price": 6.25,
     "salePrice": 5.31,
     "barcode": null,
@@ -16001,7 +16001,7 @@ export const products = [
   {
     "id": 1334,
     "name": "NARINE CHARCOAL 1KG  25MM",
-    "category": "other",
+    "category": "hookah",
     "price": 5.5,
     "salePrice": null,
     "barcode": "6298044054279",
@@ -16025,7 +16025,7 @@ export const products = [
   {
     "id": 1336,
     "name": "NEON PREMIUM BUTANE 5X",
-    "category": "other",
+    "category": "lighters-torches",
     "price": 20.0,
     "salePrice": null,
     "barcode": null,
@@ -16037,7 +16037,7 @@ export const products = [
   {
     "id": 1337,
     "name": "NEON PREMIUM BUTANE",
-    "category": "other",
+    "category": "lighters-torches",
     "price": 19.0,
     "salePrice": null,
     "barcode": "10855553008167",
@@ -16049,7 +16049,7 @@ export const products = [
   {
     "id": 1338,
     "name": "NEON BUTANE FUEL GAS 11X300ML 12 COUNT",
-    "category": "other",
+    "category": "lighters-torches",
     "price": 21.99,
     "salePrice": null,
     "barcode": "6945151116153",
@@ -16061,7 +16061,7 @@ export const products = [
   {
     "id": 1339,
     "name": "NEON BUTANE LIGHTER 20PC",
-    "category": "smoking",
+    "category": "lighters-torches",
     "price": 11.5,
     "salePrice": 9.78,
     "barcode": "10855553008402",
@@ -16073,7 +16073,7 @@ export const products = [
   {
     "id": 1340,
     "name": "NEON LIGHTER FLUID 10.14OZ 12 COUNT",
-    "category": "smoking",
+    "category": "lighters-torches",
     "price": 20.0,
     "salePrice": 17.0,
     "barcode": "10855553008143",
@@ -16085,7 +16085,7 @@ export const products = [
   {
     "id": 1341,
     "name": "NEON TORCH LIGHTER 50 PC",
-    "category": "smoking",
+    "category": "lighters-torches",
     "price": 25.0,
     "salePrice": 21.25,
     "barcode": "018505141265",
@@ -16097,7 +16097,7 @@ export const products = [
   {
     "id": 1342,
     "name": "NEW SHAE BAGGIES 50CT",
-    "category": "other",
+    "category": "storage",
     "price": 8.5,
     "salePrice": 7.22,
     "barcode": null,
@@ -16109,7 +16109,7 @@ export const products = [
   {
     "id": 1343,
     "name": "NITRO WHIP CHARGER 24CT 25/BOX",
-    "category": "accessories",
+    "category": "other",
     "price": 230.0,
     "salePrice": null,
     "barcode": "065626840171",
@@ -16121,7 +16121,7 @@ export const products = [
   {
     "id": 1344,
     "name": "NITRO WHIP CHARGER 50CT 12/BOX",
-    "category": "accessories",
+    "category": "other",
     "price": 225.0,
     "salePrice": null,
     "barcode": "065626840188",
@@ -16193,7 +16193,7 @@ export const products = [
   {
     "id": 1350,
     "name": "OCB BAMBO CONE  1.25 6PACK",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 42.0,
     "salePrice": null,
     "barcode": "077170122436",
@@ -16205,7 +16205,7 @@ export const products = [
   {
     "id": 1351,
     "name": "OCB BAMBOO 11/4 PAPER WITH TIPS",
-    "category": "accessories",
+    "category": "papers-wraps",
     "price": 50.0,
     "salePrice": null,
     "barcode": "086400904957",
@@ -16217,7 +16217,7 @@ export const products = [
   {
     "id": 1352,
     "name": "OCB BAMBOO CONE 1-1/4 TOWER 50C",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 15.0,
     "salePrice": 12.75,
     "barcode": "077170127127",
@@ -16229,7 +16229,7 @@ export const products = [
   {
     "id": 1353,
     "name": "OCB BAMBOO CONE 1-1/4 TOWER 75C",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 25.0,
     "salePrice": 21.25,
     "barcode": "077170127332",
@@ -16241,7 +16241,7 @@ export const products = [
   {
     "id": 1354,
     "name": "OB BAMBOO CONE 3PK KING",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 42.0,
     "salePrice": null,
     "barcode": "077170122450",
@@ -16253,7 +16253,7 @@ export const products = [
   {
     "id": 1355,
     "name": "OCB BAMBOO CONE 70 10PACK",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 56.0,
     "salePrice": 47.6,
     "barcode": "077170122702",
@@ -16265,7 +16265,7 @@ export const products = [
   {
     "id": 1356,
     "name": "OCB BAMBOO CONE 78 8PACK",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 50.0,
     "salePrice": null,
     "barcode": "077170122689",
@@ -16277,7 +16277,7 @@ export const products = [
   {
     "id": 1357,
     "name": "OCB BAMBOO PAPER 11/4 (OB114) 24CT/BOX",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 35.0,
     "salePrice": null,
     "barcode": "086400904919",
@@ -16289,7 +16289,7 @@ export const products = [
   {
     "id": 1358,
     "name": "OCB BAMBOO PAPER SLIM (OBKSS) 24CT/BOX",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 35.0,
     "salePrice": null,
     "barcode": "086400904933",
@@ -16301,7 +16301,7 @@ export const products = [
   {
     "id": 1359,
     "name": "OCB BAMBOO SLIM PAPER WITH TIPS",
-    "category": "accessories",
+    "category": "papers-wraps",
     "price": 40.0,
     "salePrice": 34.0,
     "barcode": "086400904971",
@@ -16313,7 +16313,7 @@ export const products = [
   {
     "id": 1360,
     "name": "OCB OG HEMP SINGLE WIDE PAPER",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 25.0,
     "salePrice": 21.25,
     "barcode": "086400901062",
@@ -16325,7 +16325,7 @@ export const products = [
   {
     "id": 1361,
     "name": "OCB OG HEMP SLIM PAPER WITH TIPS",
-    "category": "accessories",
+    "category": "papers-wraps",
     "price": 50.0,
     "salePrice": null,
     "barcode": "086400903318",
@@ -16337,7 +16337,7 @@ export const products = [
   {
     "id": 1362,
     "name": "OCB OH CONE 1-1/4 TOWER 75CT",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 20.0,
     "salePrice": 17.0,
     "barcode": "077170127356",
@@ -16349,7 +16349,7 @@ export const products = [
   {
     "id": 1363,
     "name": "OCB PREMIUM 1-1/4 ROLLING PAPER 24CT",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 28.0,
     "salePrice": 23.8,
     "barcode": "086400901758",
@@ -16361,7 +16361,7 @@ export const products = [
   {
     "id": 1364,
     "name": "OCB PREMIUM 1 1/4 SIZE ROLLING PAPER + TIP 24 CT DISPLAY",
-    "category": "accessories",
+    "category": "papers-wraps",
     "price": 35.0,
     "salePrice": null,
     "barcode": "086400903257",
@@ -16373,7 +16373,7 @@ export const products = [
   {
     "id": 1365,
     "name": "OCB PREMIUM SLIM SIZE ROLLING PAPER + TIP 24CT",
-    "category": "accessories",
+    "category": "papers-wraps",
     "price": 35.0,
     "salePrice": null,
     "barcode": "086400903271",
@@ -16385,7 +16385,7 @@ export const products = [
   {
     "id": 1366,
     "name": "OCB PREMIUM SLIM SIZE ROLLING PPAER 24 CT DISPLAY",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 25.5,
     "salePrice": 21.68,
     "barcode": "3057067451242",
@@ -16409,7 +16409,7 @@ export const products = [
   {
     "id": 1368,
     "name": "OCB SOLAIRE SLIM PAPERS",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 48.0,
     "salePrice": null,
     "barcode": "086400901642",
@@ -16421,7 +16421,7 @@ export const products = [
   {
     "id": 1369,
     "name": "OCB ULTIMATE 1-1/4 PAPERS 25CT",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 28.0,
     "salePrice": 23.8,
     "barcode": "3057067404255",
@@ -16433,7 +16433,7 @@ export const products = [
   {
     "id": 1370,
     "name": "OCB UNBLEACHED VIRGIN SLIM PAPER 24CT/BOX",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 35.0,
     "salePrice": null,
     "barcode": "086400901161",
@@ -16457,7 +16457,7 @@ export const products = [
   {
     "id": 1372,
     "name": "OCB VIRGIN 11/4 PAPER W/TIPS",
-    "category": "accessories",
+    "category": "papers-wraps",
     "price": 48.0,
     "salePrice": null,
     "barcode": "086400903332",
@@ -16469,7 +16469,7 @@ export const products = [
   {
     "id": 1373,
     "name": "OCB VIRGIN CONE 1-1/4 TOWER 50C",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 15.0,
     "salePrice": 12.75,
     "barcode": "077170127103",
@@ -16481,7 +16481,7 @@ export const products = [
   {
     "id": 1374,
     "name": "OCB VIRGIN CONE 1-1/4 TOWER 75C",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 20.0,
     "salePrice": 17.0,
     "barcode": "077170127318",
@@ -16493,7 +16493,7 @@ export const products = [
   {
     "id": 1375,
     "name": "OCB CONE VITGIN 1.25 6PACK",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 36.0,
     "salePrice": null,
     "barcode": "077170120135",
@@ -16505,7 +16505,7 @@ export const products = [
   {
     "id": 1376,
     "name": "OCB VIRGI  CONE KING 3PACK",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 32.0,
     "salePrice": null,
     "barcode": "077170120159",
@@ -16517,7 +16517,7 @@ export const products = [
   {
     "id": 1377,
     "name": "OCB UNBLEACHED VIRGIN SINGLE WIDE CIGARETTE PAPER 24CT/BOX",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 35.0,
     "salePrice": null,
     "barcode": "086400901352",
@@ -16529,7 +16529,7 @@ export const products = [
   {
     "id": 1378,
     "name": "OCB VIRGIN UNBLEACHED 1 1/4 SIZE ROLLING PAPER 24 CT DISPLAY",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 35.0,
     "salePrice": null,
     "barcode": "086400901154",
@@ -16553,7 +16553,7 @@ export const products = [
   {
     "id": 1380,
     "name": "OCB VIRGIN UNBLEACHED ROLLING K",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 35.0,
     "salePrice": null,
     "barcode": null,
@@ -16565,7 +16565,7 @@ export const products = [
   {
     "id": 1381,
     "name": "OCB VIRGIN UNBLEACHED SLIM SIZE ROLLING PAPER 24 CT DISPLAY",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 22.5,
     "salePrice": null,
     "barcode": null,
@@ -16577,7 +16577,7 @@ export const products = [
   {
     "id": 1382,
     "name": "OCB X PERT SLIM SIZE ROLLING PAPER 324CT DISPLAY",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 22.0,
     "salePrice": null,
     "barcode": "3057067452249",
@@ -16613,7 +16613,7 @@ export const products = [
   {
     "id": 1385,
     "name": "OIL BURNER JAR 90CT",
-    "category": "other",
+    "category": "storage",
     "price": 25.0,
     "salePrice": 21.25,
     "barcode": "793945673483",
@@ -16673,7 +16673,7 @@ export const products = [
   {
     "id": 1390,
     "name": "ONE HITTER CIG PIPE",
-    "category": "smoking",
+    "category": "glass-pipes",
     "price": 6.0,
     "salePrice": 5.1,
     "barcode": null,
@@ -16685,7 +16685,7 @@ export const products = [
   {
     "id": 1391,
     "name": "OOZE CHARGER 30CT",
-    "category": "accessories",
+    "category": "other",
     "price": 35.0,
     "salePrice": 29.75,
     "barcode": "852384006389",
@@ -16697,7 +16697,7 @@ export const products = [
   {
     "id": 1392,
     "name": "OOZE RESOLUTION GEL CLEANER 240 ML GREEN",
-    "category": "other",
+    "category": "cleaners",
     "price": 6.5,
     "salePrice": null,
     "barcode": "840212405213",
@@ -16805,7 +16805,7 @@ export const products = [
   {
     "id": 1401,
     "name": "OZIUM AIR SANITIZER 0.8OZ SPRAY (ORIGINAL)",
-    "category": "other",
+    "category": "glass-pipes",
     "price": 4.0,
     "salePrice": 3.4,
     "barcode": "30812421030532",
@@ -16877,7 +16877,7 @@ export const products = [
   {
     "id": 1407,
     "name": "OZIUM AIR SANITIZER 3.5OZ SPRAY (ORIGINAL)",
-    "category": "other",
+    "category": "glass-pipes",
     "price": 6.5,
     "salePrice": null,
     "barcode": "30812421030723",
@@ -16913,7 +16913,7 @@ export const products = [
   {
     "id": 1410,
     "name": "OZIUM AIR SANITIZER 8OZ SPRAY (ORIGINAL)",
-    "category": "other",
+    "category": "glass-pipes",
     "price": 8.0,
     "salePrice": null,
     "barcode": "812421030760",
@@ -16985,7 +16985,7 @@ export const products = [
   {
     "id": 1416,
     "name": "ACID BLONDIE",
-    "category": "other",
+    "category": "cigars",
     "price": 145.0,
     "salePrice": null,
     "barcode": "876742001335",
@@ -16997,7 +16997,7 @@ export const products = [
   {
     "id": 1417,
     "name": "ACID KRUSH BLUE CONNECTICUT 4*23 5 TIN 10PACK",
-    "category": "other",
+    "category": "cigars",
     "price": 85.0,
     "salePrice": null,
     "barcode": "876742000048",
@@ -17009,7 +17009,7 @@ export const products = [
   {
     "id": 1418,
     "name": "P-ACID KRUSH RED CAMEROON 4*23 5 TIN OF 10",
-    "category": "other",
+    "category": "cigars",
     "price": 85.0,
     "salePrice": null,
     "barcode": "876742000062",
@@ -17021,7 +17021,7 @@ export const products = [
   {
     "id": 1419,
     "name": "ACID KUBA KUBA",
-    "category": "other",
+    "category": "cigars",
     "price": 145.5,
     "salePrice": null,
     "barcode": "876742001342",
@@ -17045,7 +17045,7 @@ export const products = [
   {
     "id": 1421,
     "name": "P-CAMACHO BACCARAT THE GAME TORO HAVANA 25BX",
-    "category": "other",
+    "category": "cigars",
     "price": 94.5,
     "salePrice": null,
     "barcode": "7423825002036",
@@ -17129,7 +17129,7 @@ export const products = [
   {
     "id": 1428,
     "name": "MACANUDO HYDE PARK COURT CAFE 5.5*49 25/BOX",
-    "category": "other",
+    "category": "devices",
     "price": 170.0,
     "salePrice": null,
     "barcode": "689674015130",
@@ -17225,7 +17225,7 @@ export const products = [
   {
     "id": 1436,
     "name": "ROMEO Y JULIETA MINI ORIG 20CT",
-    "category": "other",
+    "category": "glass-pipes",
     "price": 60.0,
     "salePrice": null,
     "barcode": null,
@@ -17237,7 +17237,7 @@ export const products = [
   {
     "id": 1437,
     "name": "ROMEO Y JULIETA MINI ORIGNAL 5*20",
-    "category": "other",
+    "category": "glass-pipes",
     "price": 48.0,
     "salePrice": null,
     "barcode": "076452361150",
@@ -17429,7 +17429,7 @@ export const products = [
   {
     "id": 1453,
     "name": "ACID 1400CC 5X50,18/BOX",
-    "category": "other",
+    "category": "cigars",
     "price": 135.0,
     "salePrice": null,
     "barcode": null,
@@ -17441,7 +17441,7 @@ export const products = [
   {
     "id": 1454,
     "name": "ACID BLONDE BELICOSO 5X54 , 24/BX",
-    "category": "other",
+    "category": "cigars",
     "price": 145.0,
     "salePrice": null,
     "barcode": null,
@@ -17453,7 +17453,7 @@ export const products = [
   {
     "id": 1455,
     "name": "ACID BLONDIE 4X38",
-    "category": "other",
+    "category": "cigars",
     "price": 150.0,
     "salePrice": null,
     "barcode": null,
@@ -17465,7 +17465,7 @@ export const products = [
   {
     "id": 1456,
     "name": "ACID BLONDIE 4X38 , 40/BX MADURO",
-    "category": "other",
+    "category": "cigars",
     "price": 150.0,
     "salePrice": null,
     "barcode": null,
@@ -17477,7 +17477,7 @@ export const products = [
   {
     "id": 1457,
     "name": "ACID DEEP DISH 5X58 24/BOX",
-    "category": "other",
+    "category": "cigars",
     "price": 165.0,
     "salePrice": null,
     "barcode": null,
@@ -17489,7 +17489,7 @@ export const products = [
   {
     "id": 1458,
     "name": "ACID EX OR LARRY 6X60,10/BOX",
-    "category": "other",
+    "category": "cigars",
     "price": 95.0,
     "salePrice": null,
     "barcode": null,
@@ -17501,7 +17501,7 @@ export const products = [
   {
     "id": 1459,
     "name": "ACID KRUSH BLUE CONNECTICUT 4*32, 5 TINS OF 10",
-    "category": "other",
+    "category": "cigars",
     "price": 75.0,
     "salePrice": null,
     "barcode": null,
@@ -17513,7 +17513,7 @@ export const products = [
   {
     "id": 1460,
     "name": "ACID KRUSH CLASSIC GOLD TIN",
-    "category": "other",
+    "category": "cigars",
     "price": 75.0,
     "salePrice": null,
     "barcode": null,
@@ -17525,7 +17525,7 @@ export const products = [
   {
     "id": 1461,
     "name": "ACID KRUSH CLASSIC GREEN CANDELLA TIN",
-    "category": "other",
+    "category": "cigars",
     "price": 75.0,
     "salePrice": null,
     "barcode": null,
@@ -17537,7 +17537,7 @@ export const products = [
   {
     "id": 1462,
     "name": "ACID KRUSH MARADO MADRUO TIN",
-    "category": "other",
+    "category": "cigars",
     "price": 75.0,
     "salePrice": null,
     "barcode": null,
@@ -17549,7 +17549,7 @@ export const products = [
   {
     "id": 1463,
     "name": "ACID KRUSH RED CAMEROON 4X32, 5 TINS OF 10",
-    "category": "other",
+    "category": "cigars",
     "price": 75.0,
     "salePrice": null,
     "barcode": null,
@@ -17561,7 +17561,7 @@ export const products = [
   {
     "id": 1464,
     "name": "ACID KUBA GRANDE",
-    "category": "other",
+    "category": "cigars",
     "price": 90.0,
     "salePrice": null,
     "barcode": null,
@@ -17573,7 +17573,7 @@ export const products = [
   {
     "id": 1465,
     "name": "ACID KUBA KUBA",
-    "category": "other",
+    "category": "cigars",
     "price": 150.0,
     "salePrice": null,
     "barcode": null,
@@ -17585,7 +17585,7 @@ export const products = [
   {
     "id": 1466,
     "name": "ACID ONE 5X54,24/BOX",
-    "category": "other",
+    "category": "cigars",
     "price": 150.0,
     "salePrice": null,
     "barcode": null,
@@ -17597,7 +17597,7 @@ export const products = [
   {
     "id": 1467,
     "name": "ACID WINDY CITY 6X50 24/BOX",
-    "category": "other",
+    "category": "cigars",
     "price": 145.0,
     "salePrice": null,
     "barcode": null,
@@ -17609,7 +17609,7 @@ export const products = [
   {
     "id": 1468,
     "name": "CAMACHO BACCARAT THE GAME BELICOSO MADURO 20/BX",
-    "category": "other",
+    "category": "cigars",
     "price": 90.0,
     "salePrice": null,
     "barcode": null,
@@ -17621,7 +17621,7 @@ export const products = [
   {
     "id": 1469,
     "name": "CAMACHO BACCARAT THE GAME BELICOSO 20/BX",
-    "category": "other",
+    "category": "cigars",
     "price": 90.0,
     "salePrice": null,
     "barcode": null,
@@ -17633,7 +17633,7 @@ export const products = [
   {
     "id": 1470,
     "name": "CAMACHO BACCARAT THE GAME GORDO HAVANA 20/BX",
-    "category": "other",
+    "category": "cigars",
     "price": 100.0,
     "salePrice": null,
     "barcode": null,
@@ -17645,7 +17645,7 @@ export const products = [
   {
     "id": 1471,
     "name": "CAMACHO BACCARAT THE GAME TORO HAVANA 25/BX",
-    "category": "other",
+    "category": "cigars",
     "price": 90.0,
     "salePrice": null,
     "barcode": null,
@@ -17741,7 +17741,7 @@ export const products = [
   {
     "id": 1479,
     "name": "DON RAFA CUBAN SEED HAND MADE CIGAR",
-    "category": "other",
+    "category": "cigars",
     "price": 40.0,
     "salePrice": 34.0,
     "barcode": null,
@@ -17813,7 +17813,7 @@ export const products = [
   {
     "id": 1485,
     "name": "MACANUDO HYDE PARK COURT CAFE 51/2X49 25/BX",
-    "category": "other",
+    "category": "devices",
     "price": 180.0,
     "salePrice": null,
     "barcode": null,
@@ -17933,7 +17933,7 @@ export const products = [
   {
     "id": 1495,
     "name": "ROMEO Y JULIETA MINI ORIGINAL 5*20",
-    "category": "other",
+    "category": "glass-pipes",
     "price": 105.0,
     "salePrice": 89.25,
     "barcode": null,
@@ -18041,7 +18041,7 @@ export const products = [
   {
     "id": 1504,
     "name": "PD CAR CHARGER 2 IN 1 (C-C)",
-    "category": "accessories",
+    "category": "other",
     "price": 6.0,
     "salePrice": 5.1,
     "barcode": "880414617410",
@@ -18053,7 +18053,7 @@ export const products = [
   {
     "id": 1505,
     "name": "PD CAR CHARGER 2 IN 1 (IP-C)",
-    "category": "accessories",
+    "category": "other",
     "price": 6.0,
     "salePrice": 5.1,
     "barcode": "880196276546",
@@ -18089,7 +18089,7 @@ export const products = [
   {
     "id": 1508,
     "name": "PEN BATTERY 24 CT 1100",
-    "category": "accessories",
+    "category": "other",
     "price": 105.0,
     "salePrice": 89.25,
     "barcode": null,
@@ -18101,7 +18101,7 @@ export const products = [
   {
     "id": 1509,
     "name": "PEN BATTERY 30 CT",
-    "category": "accessories",
+    "category": "other",
     "price": 100.0,
     "salePrice": 85.0,
     "barcode": null,
@@ -18113,7 +18113,7 @@ export const products = [
   {
     "id": 1510,
     "name": "PEN BATTERY 30CT 1100 MH",
-    "category": "accessories",
+    "category": "other",
     "price": 125.0,
     "salePrice": 106.25,
     "barcode": null,
@@ -18305,7 +18305,7 @@ export const products = [
   {
     "id": 1526,
     "name": "PHILLIE BLUNT TITAN 2/PK WHITE 100CT",
-    "category": "other",
+    "category": "papers-wraps",
     "price": 85.0,
     "salePrice": null,
     "barcode": "070235501269",
@@ -18329,7 +18329,7 @@ export const products = [
   {
     "id": 1528,
     "name": "PHILLIES BLACK CIGAR 2/99",
-    "category": "other",
+    "category": "cigars",
     "price": 23.0,
     "salePrice": null,
     "barcode": "070235300046",
@@ -18341,7 +18341,7 @@ export const products = [
   {
     "id": 1529,
     "name": "PHILLIES SWEET CIGAR 2/99",
-    "category": "other",
+    "category": "cigars",
     "price": 22.0,
     "salePrice": null,
     "barcode": null,
@@ -18353,7 +18353,7 @@ export const products = [
   {
     "id": 1530,
     "name": "PHILLIES  UNSWEET CIGAR 2/99",
-    "category": "other",
+    "category": "cigars",
     "price": 22.0,
     "salePrice": null,
     "barcode": "070235506578",
@@ -18365,7 +18365,7 @@ export const products = [
   {
     "id": 1531,
     "name": "PHILLIES  WHITE GRAPE CIGAR 2/99",
-    "category": "other",
+    "category": "cigars",
     "price": 19.0,
     "salePrice": null,
     "barcode": "070235506615",
@@ -18377,7 +18377,7 @@ export const products = [
   {
     "id": 1532,
     "name": "PHILLIES SWEET CIGAR 1.49",
-    "category": "other",
+    "category": "cigars",
     "price": 26.0,
     "salePrice": null,
     "barcode": "070235300015",
@@ -18389,7 +18389,7 @@ export const products = [
   {
     "id": 1533,
     "name": "PHILLIES UNSWEET CIGAR 1.49",
-    "category": "other",
+    "category": "cigars",
     "price": 26.0,
     "salePrice": null,
     "barcode": "070235300022",
@@ -18401,7 +18401,7 @@ export const products = [
   {
     "id": 1534,
     "name": "PHILLIES  W GRAPE CIGAR 1.49",
-    "category": "other",
+    "category": "cigars",
     "price": 26.0,
     "salePrice": null,
     "barcode": null,
@@ -18413,7 +18413,7 @@ export const products = [
   {
     "id": 1535,
     "name": "PHONE ADAPTER 12CT",
-    "category": "other",
+    "category": "accessories",
     "price": 16.99,
     "salePrice": null,
     "barcode": null,
@@ -18437,7 +18437,7 @@ export const products = [
   {
     "id": 1537,
     "name": "PINK BOWL SX 118",
-    "category": "other",
+    "category": "flower-slides",
     "price": 5.0,
     "salePrice": 4.25,
     "barcode": null,
@@ -18473,7 +18473,7 @@ export const products = [
   {
     "id": 1540,
     "name": "PIPE JAR 7CT",
-    "category": "smoking",
+    "category": "glass-pipes",
     "price": 55.0,
     "salePrice": 46.75,
     "barcode": "WP81P-7-JAR",
@@ -18485,7 +18485,7 @@ export const products = [
   {
     "id": 1541,
     "name": "PIPE SCREEN BRASS",
-    "category": "smoking",
+    "category": "glass-pipes",
     "price": 9.99,
     "salePrice": 8.49,
     "barcode": "6923510368498",
@@ -18497,7 +18497,7 @@ export const products = [
   {
     "id": 1542,
     "name": "PIPE SCREEN SILVER",
-    "category": "smoking",
+    "category": "glass-pipes",
     "price": 9.99,
     "salePrice": 8.49,
     "barcode": "123541132548635",
@@ -18509,7 +18509,7 @@ export const products = [
   {
     "id": 1543,
     "name": "PISTOL LIGHTER 16CT",
-    "category": "smoking",
+    "category": "lighters-torches",
     "price": 50.0,
     "salePrice": null,
     "barcode": "737488028607",
@@ -18521,7 +18521,7 @@ export const products = [
   {
     "id": 1544,
     "name": "PISTOL LIGHTER 6CT",
-    "category": "smoking",
+    "category": "lighters-torches",
     "price": 52.0,
     "salePrice": null,
     "barcode": "707670090729",
@@ -18545,7 +18545,7 @@ export const products = [
   {
     "id": 1546,
     "name": "PLASMA PIPE DISPLAY",
-    "category": "smoking",
+    "category": "glass-pipes",
     "price": 58.0,
     "salePrice": null,
     "barcode": null,
@@ -18557,7 +18557,7 @@ export const products = [
   {
     "id": 1547,
     "name": "PLASTIC GRINDER DISPLAY",
-    "category": "smoking",
+    "category": "grinders",
     "price": 10.0,
     "salePrice": 8.5,
     "barcode": null,
@@ -18617,7 +18617,7 @@ export const products = [
   {
     "id": 1552,
     "name": "POP CONE 1 1/4 6PK 24 CT TROPICAL MANGO",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 38.0,
     "salePrice": null,
     "barcode": "850029799764",
@@ -18629,7 +18629,7 @@ export const products = [
   {
     "id": 1553,
     "name": "POP CONE 1 1/4 6 PK 24 CT BANANA  CREAM",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 38.0,
     "salePrice": null,
     "barcode": "850029799733",
@@ -18641,7 +18641,7 @@ export const products = [
   {
     "id": 1554,
     "name": "POP CONE 1 1/4 6PK 24CT STRAWBERRY JAM",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 38.0,
     "salePrice": null,
     "barcode": "850029799740",
@@ -18653,7 +18653,7 @@ export const products = [
   {
     "id": 1555,
     "name": "POP CONE 1 1/4 6PK 24CT SUPER SWEET",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 38.0,
     "salePrice": null,
     "barcode": "850029799757",
@@ -18665,7 +18665,7 @@ export const products = [
   {
     "id": 1556,
     "name": "POP CONE 1 1/4 6PK 24CT WILD GRAPE",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 38.0,
     "salePrice": null,
     "barcode": "850029799672",
@@ -18677,7 +18677,7 @@ export const products = [
   {
     "id": 1557,
     "name": "POP CONE 3 PK 24CT STRAWBERRY JAM",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 38.5,
     "salePrice": null,
     "barcode": "850029799832",
@@ -18689,7 +18689,7 @@ export const products = [
   {
     "id": 1558,
     "name": "POP CONE 3PK 24 CT BANANA CREAM",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 38.0,
     "salePrice": null,
     "barcode": "850029799825",
@@ -18701,7 +18701,7 @@ export const products = [
   {
     "id": 1559,
     "name": "POP CONE 3PK 24CT SUPER SWEET",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 38.5,
     "salePrice": null,
     "barcode": "850029799849",
@@ -18713,7 +18713,7 @@ export const products = [
   {
     "id": 1560,
     "name": "POP CONES FLAVOURED CONES 11/4 6/24CT- BANANA CREAM",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 45.0,
     "salePrice": null,
     "barcode": "850029799153",
@@ -18725,7 +18725,7 @@ export const products = [
   {
     "id": 1561,
     "name": "POP CONES FLAVOURED CONES 11/4 6/24CT- STRAWBERRY JAM",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 45.0,
     "salePrice": null,
     "barcode": "850029799030",
@@ -18737,7 +18737,7 @@ export const products = [
   {
     "id": 1562,
     "name": "POP CONES FLAVOURED CONES 11/4 6/24CT- SUPER SWEET",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 45.0,
     "salePrice": null,
     "barcode": "850029799139",
@@ -18749,7 +18749,7 @@ export const products = [
   {
     "id": 1563,
     "name": "POP CONES FLAVOURED CONES 11/4 6/24CT- TROPICAL MANGO",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 45.0,
     "salePrice": null,
     "barcode": "850029799122",
@@ -18761,7 +18761,7 @@ export const products = [
   {
     "id": 1564,
     "name": "POP CONES FLAVOURED CONES KING SIZE 3/24CT- BANANA CREAM",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 45.0,
     "salePrice": null,
     "barcode": "850029799115",
@@ -18773,7 +18773,7 @@ export const products = [
   {
     "id": 1565,
     "name": "POP CONES FLAVOURED CONES KING SIZE 3/24CT- STRAWBERRY JAM",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 45.0,
     "salePrice": null,
     "barcode": "850029799085",
@@ -18785,7 +18785,7 @@ export const products = [
   {
     "id": 1566,
     "name": "POP CONES FLAVOURED CONES KING SIZE 3/24CT- SUPER SWEET",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 45.0,
     "salePrice": null,
     "barcode": "850029799092",
@@ -18797,7 +18797,7 @@ export const products = [
   {
     "id": 1567,
     "name": "POP CONES FLAVOURED CONES KING SIZE 3/24CT- TROPICAL MANGO",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 45.0,
     "salePrice": null,
     "barcode": "850029799108",
@@ -18809,7 +18809,7 @@ export const products = [
   {
     "id": 1568,
     "name": "POP CONES ULTRA THIN VARIETY PACK 1-1/4 6CT/25PK DISPLAY",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 45.0,
     "salePrice": null,
     "barcode": "850042376300",
@@ -18821,7 +18821,7 @@ export const products = [
   {
     "id": 1569,
     "name": "POP CONES ULTRA THIN VARIETY PACK KING SIZE 3CT/25PK DISPLAY",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 45.0,
     "salePrice": null,
     "barcode": "850042376317",
@@ -18833,7 +18833,7 @@ export const products = [
   {
     "id": 1570,
     "name": "POP CONES UNBLEACHED VARIETY PACK KING SIZE 3CT/25PK DISPLAY",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 45.0,
     "salePrice": null,
     "barcode": "850042376294",
@@ -18845,7 +18845,7 @@ export const products = [
   {
     "id": 1571,
     "name": "POP CONES KING SIZE 3 PACK 3/24 CT",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 38.0,
     "salePrice": null,
     "barcode": null,
@@ -18857,7 +18857,7 @@ export const products = [
   {
     "id": 1572,
     "name": "POP CONES FLAVORED CONE 1 1/4 6 PACK 24CT",
-    "category": "e-liquids",
+    "category": "papers-wraps",
     "price": 38.0,
     "salePrice": null,
     "barcode": null,
@@ -18893,7 +18893,7 @@ export const products = [
   {
     "id": 1575,
     "name": "PREMIER TIP  BAG BOX OF 18",
-    "category": "accessories",
+    "category": "storage",
     "price": 40.0,
     "salePrice": null,
     "barcode": "066619100470",
@@ -18905,7 +18905,7 @@ export const products = [
   {
     "id": 1576,
     "name": "PREMIUM CAR CHARGER 25CT",
-    "category": "accessories",
+    "category": "other",
     "price": 75.0,
     "salePrice": null,
     "barcode": "721003417458",
@@ -18917,7 +18917,7 @@ export const products = [
   {
     "id": 1577,
     "name": "PREMIUM CIGAR",
-    "category": "other",
+    "category": "cigars",
     "price": 110.0,
     "salePrice": null,
     "barcode": null,
@@ -18929,7 +18929,7 @@ export const products = [
   {
     "id": 1578,
     "name": "PREMIUM HOME CHARGER 16CT",
-    "category": "accessories",
+    "category": "other",
     "price": 45.0,
     "salePrice": null,
     "barcode": null,
@@ -19025,7 +19025,7 @@ export const products = [
   {
     "id": 1586,
     "name": "GC12 RANDY'S BLACK LABEL GLASS CLEANER",
-    "category": "accessories",
+    "category": "glass-pipes",
     "price": 3.49,
     "salePrice": null,
     "barcode": "648658016402",
@@ -19037,7 +19037,7 @@ export const products = [
   {
     "id": 1587,
     "name": "GC12 RANDY'S ORANGE LABEL GLASS CLEANER",
-    "category": "accessories",
+    "category": "glass-pipes",
     "price": 4.25,
     "salePrice": null,
     "barcode": null,
@@ -19049,7 +19049,7 @@ export const products = [
   {
     "id": 1588,
     "name": "RANDY'S PIPE CLEANER 48CT",
-    "category": "smoking",
+    "category": "glass-pipes",
     "price": 26.99,
     "salePrice": null,
     "barcode": "850004557075",
@@ -19073,7 +19073,7 @@ export const products = [
   {
     "id": 1590,
     "name": "RANDY GREEN LABEL CLEANER 12OZ",
-    "category": "other",
+    "category": "cleaners",
     "price": 5.5,
     "salePrice": null,
     "barcode": "648658016235",
@@ -19085,7 +19085,7 @@ export const products = [
   {
     "id": 1591,
     "name": "RANDY ORANGE LABEL CLEANER 12OZ",
-    "category": "other",
+    "category": "cleaners",
     "price": 5.5,
     "salePrice": null,
     "barcode": "850387007273",
@@ -19109,7 +19109,7 @@ export const products = [
   {
     "id": 1593,
     "name": "RW16 RAW ROLLING PAPERS CLASSIC ARTESANO KING SLIM 15/BOX",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 45.0,
     "salePrice": 38.25,
     "barcode": "716165200550",
@@ -19121,7 +19121,7 @@ export const products = [
   {
     "id": 1594,
     "name": "RAW PAPER 1.5",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 26.99,
     "salePrice": 22.94,
     "barcode": null,
@@ -19133,7 +19133,7 @@ export const products = [
   {
     "id": 1595,
     "name": "RAW 2 WAY ROLLER 70MM 12PCK BX",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 24.99,
     "salePrice": 21.24,
     "barcode": "716165158356",
@@ -19145,7 +19145,7 @@ export const products = [
   {
     "id": 1596,
     "name": "RAW 2 WAY ROLLER 79MM 12PCK BOX",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 23.99,
     "salePrice": 20.39,
     "barcode": "716165250692",
@@ -19157,7 +19157,7 @@ export const products = [
   {
     "id": 1597,
     "name": "RAW 30CM 20CT",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 42.5,
     "salePrice": null,
     "barcode": null,
@@ -19169,7 +19169,7 @@ export const products = [
   {
     "id": 1598,
     "name": "RAW 98 MM SPECIAL CONE 12PACK 20CT DISPLAY",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 45.0,
     "salePrice": null,
     "barcode": "716165203278",
@@ -19181,7 +19181,7 @@ export const products = [
   {
     "id": 1599,
     "name": "RAW BIC LIGHTER 50CT",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 62.0,
     "salePrice": null,
     "barcode": null,
@@ -19193,7 +19193,7 @@ export const products = [
   {
     "id": 1600,
     "name": "RAW BLACK KING SIZE SLIM 50CT",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 45.0,
     "salePrice": 38.25,
     "barcode": "716165250326",
@@ -19205,7 +19205,7 @@ export const products = [
   {
     "id": 1601,
     "name": "RWB1 RAW BLACK NATURAL UNREFINED 1\u00bc 24CT",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 24.99,
     "salePrice": 21.24,
     "barcode": "716165250319",
@@ -19217,7 +19217,7 @@ export const products = [
   {
     "id": 1602,
     "name": "RAW BLACK ORG HEMP PAPER 1 1/4",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 25.0,
     "salePrice": 21.25,
     "barcode": "716165252443",
@@ -19241,7 +19241,7 @@ export const products = [
   {
     "id": 1604,
     "name": "RAW BLACK TIP 50/BOX",
-    "category": "accessories",
+    "category": "papers-wraps",
     "price": 28.0,
     "salePrice": 23.8,
     "barcode": "716165251682",
@@ -19253,7 +19253,7 @@ export const products = [
   {
     "id": 1605,
     "name": "RAW BLK CLASSIC KS CONE 75CT",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 25.0,
     "salePrice": 21.25,
     "barcode": "716165301080",
@@ -19265,7 +19265,7 @@ export const products = [
   {
     "id": 1606,
     "name": "RAW BLK PRE ROLL 1 1/4 84/24 MM 20 PK DISPLAY OF 12CT",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 45.0,
     "salePrice": null,
     "barcode": "716165253020",
@@ -19277,7 +19277,7 @@ export const products = [
   {
     "id": 1607,
     "name": "RAW BLK WIDE PREROLLED W/TIPS 20 PK/BOX",
-    "category": "accessories",
+    "category": "papers-wraps",
     "price": 30.0,
     "salePrice": 25.5,
     "barcode": "716165253815",
@@ -19289,7 +19289,7 @@ export const products = [
   {
     "id": 1608,
     "name": "RAW BUD WRAP TERPENE INFUSED CONES LEMONADE FLAVOUR",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 40.0,
     "salePrice": null,
     "barcode": "716165252672",
@@ -19301,7 +19301,7 @@ export const products = [
   {
     "id": 1609,
     "name": "RAW CANDLE TERPENE SENSORY ENHANCED",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 5.5,
     "salePrice": null,
     "barcode": "716165156611",
@@ -19313,7 +19313,7 @@ export const products = [
   {
     "id": 1610,
     "name": "RW3 RAW CLASSIC KING SIZE SILM ROLLING PAPERS 50/BOX",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 47.99,
     "salePrice": 40.79,
     "barcode": "716165177364",
@@ -19325,7 +19325,7 @@ export const products = [
   {
     "id": 1611,
     "name": "RW8 RAW CLASSIC PAPER 1.5 25 CT",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 21.99,
     "salePrice": 18.69,
     "barcode": "716165177326",
@@ -19337,7 +19337,7 @@ export const products = [
   {
     "id": 1612,
     "name": "RAW CLASSIC 11/4 CONE 75CT",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 25.0,
     "salePrice": 21.25,
     "barcode": "716165301134",
@@ -19349,7 +19349,7 @@ export const products = [
   {
     "id": 1613,
     "name": "RW24 RAW CLASSIC UNREFINED 1\u00bc 300'S 20CT",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 44.99,
     "salePrice": null,
     "barcode": "716165179870",
@@ -19361,7 +19361,7 @@ export const products = [
   {
     "id": 1614,
     "name": "RW15 RAW CLASSIC ASTESANO 1\u00bc  -SIZE 15/BOX",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 35.99,
     "salePrice": null,
     "barcode": "716165201045",
@@ -19373,7 +19373,7 @@ export const products = [
   {
     "id": 1615,
     "name": "RAW CLASSIC CONE BLK 3PK 24 CT",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 45.0,
     "salePrice": null,
     "barcode": "716165254478",
@@ -19385,7 +19385,7 @@ export const products = [
   {
     "id": 1616,
     "name": "RAW CLASSIC ETHERNAL 11/4 SIZE PAPER 24CT",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 45.0,
     "salePrice": null,
     "barcode": "716165255628",
@@ -19397,7 +19397,7 @@ export const products = [
   {
     "id": 1617,
     "name": "RAW CLASSIC ETHERNAL KING SIZE SLIM PAPER 50CT",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 60.0,
     "salePrice": null,
     "barcode": "716165255635",
@@ -19409,7 +19409,7 @@ export const products = [
   {
     "id": 1618,
     "name": "RAW CLASSIC KS CONE 75CT",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 25.0,
     "salePrice": 21.25,
     "barcode": "716165299554",
@@ -19421,7 +19421,7 @@ export const products = [
   {
     "id": 1619,
     "name": "RAW CLASSIC LEAN CONE 11033/40M",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 45.0,
     "salePrice": null,
     "barcode": "716165203346",
@@ -19433,7 +19433,7 @@ export const products = [
   {
     "id": 1620,
     "name": "RAW CLASSIC PRE ROLL 1/14 84MM 24/MM 20PK DISPLAY OF 12CT",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 45.0,
     "salePrice": null,
     "barcode": "716165252948",
@@ -19445,7 +19445,7 @@ export const products = [
   {
     "id": 1621,
     "name": "RAW CLASSIC PRE ROLL KING SIZE 84MM 24/MM 20PK DISPLAY OF 12",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 45.0,
     "salePrice": null,
     "barcode": "716165252955",
@@ -19457,7 +19457,7 @@ export const products = [
   {
     "id": 1622,
     "name": "RAW CLASSIC RAWKET 20 STAGE",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 60.0,
     "salePrice": null,
     "barcode": "716165203285",
@@ -19469,7 +19469,7 @@ export const products = [
   {
     "id": 1623,
     "name": "RW21 RAW CLASSIC CIGARETTE PAPER SINGLE WIDE 25CT",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 21.99,
     "salePrice": null,
     "barcode": "716165174240",
@@ -19481,7 +19481,7 @@ export const products = [
   {
     "id": 1624,
     "name": "RAW CLASSIC SNGLE CONE SIZE 70/45 20CT UNIT 12 UNIT S/BX",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 50.0,
     "salePrice": null,
     "barcode": "716165252412",
@@ -19493,7 +19493,7 @@ export const products = [
   {
     "id": 1625,
     "name": "RAW CLASSIC UNREFIND SUPER NATURAL  SIZE 15PCS PACK",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 40.0,
     "salePrice": null,
     "barcode": "716165202394",
@@ -19505,7 +19505,7 @@ export const products = [
   {
     "id": 1626,
     "name": "RC2 RAW CLASSIC CONE  1\u00bc - 6 CONES IN EACH 32CT",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 42.0,
     "salePrice": null,
     "barcode": "716165177128",
@@ -19517,7 +19517,7 @@ export const products = [
   {
     "id": 1627,
     "name": "RC1 RAW CLASSIC KING SIZE CONE 3PK CONES IN EACH 96 CONES",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 40.0,
     "salePrice": null,
     "barcode": "716165174585",
@@ -19529,7 +19529,7 @@ export const products = [
   {
     "id": 1628,
     "name": "RAW CONE BLK 1-1/4 6PK",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 65.0,
     "salePrice": 55.25,
     "barcode": "716165254461",
@@ -19541,7 +19541,7 @@ export const products = [
   {
     "id": 1629,
     "name": "RAW CONE BLK KS 3PK",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 50.0,
     "salePrice": null,
     "barcode": "716165252061",
@@ -19553,7 +19553,7 @@ export const products = [
   {
     "id": 1630,
     "name": "RAW CONE BLLK 1 1/4 6PK",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 51.0,
     "salePrice": 43.35,
     "barcode": "716165252054",
@@ -19565,7 +19565,7 @@ export const products = [
   {
     "id": 1631,
     "name": "RAW 32 CONE PER PACK KING SIZE CLASSIC",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 62.5,
     "salePrice": null,
     "barcode": "716165250005",
@@ -19577,7 +19577,7 @@ export const products = [
   {
     "id": 1632,
     "name": "RAW CONE CLASSIC 98 SPECIAL 20PK",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 65.0,
     "salePrice": 55.25,
     "barcode": null,
@@ -19589,7 +19589,7 @@ export const products = [
   {
     "id": 1633,
     "name": "RAW CONE CUTTER 12CT DISPLAY",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 24.0,
     "salePrice": null,
     "barcode": "716165252221",
@@ -19601,7 +19601,7 @@ export const products = [
   {
     "id": 1634,
     "name": "RAW CONE FILLER/SHOOTER 1.25",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 7.75,
     "salePrice": 6.59,
     "barcode": "716165154396",
@@ -19613,7 +19613,7 @@ export const products = [
   {
     "id": 1635,
     "name": "RAW CONE FILLER/SHOOTER KING",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 7.75,
     "salePrice": 6.59,
     "barcode": "716165154419",
@@ -19625,7 +19625,7 @@ export const products = [
   {
     "id": 1636,
     "name": "RAW CONE LOADER FOR 1.25 SIZE AND LEAN CONE",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 6.5,
     "salePrice": 5.52,
     "barcode": "716165281696",
@@ -19637,7 +19637,7 @@ export const products = [
   {
     "id": 1637,
     "name": "RAW CONE LOADER FOR KING&98 SPECIAL",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 6.5,
     "salePrice": 5.52,
     "barcode": "716165280064",
@@ -19697,7 +19697,7 @@ export const products = [
   {
     "id": 1642,
     "name": "RAW CONE RAWKET 5 STAGE",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 40.0,
     "salePrice": 34.0,
     "barcode": "716165202493",
@@ -19709,7 +19709,7 @@ export const products = [
   {
     "id": 1643,
     "name": "CT1 RAW CONE TIPS PERFECTO 24CT",
-    "category": "accessories",
+    "category": "papers-wraps",
     "price": 22.0,
     "salePrice": 18.7,
     "barcode": "716165179924",
@@ -19721,7 +19721,7 @@ export const products = [
   {
     "id": 1644,
     "name": "RW23 RAW CONNOISSEUR CIGARETTE PAPER 1\u00bc SIZE + TIPS  24CT",
-    "category": "accessories",
+    "category": "papers-wraps",
     "price": 35.99,
     "salePrice": 30.59,
     "barcode": "716165176114",
@@ -19733,7 +19733,7 @@ export const products = [
   {
     "id": 1645,
     "name": "RW10 RAW CONNOISSEUR CIGARETTE PAPER KING SIZE WITH TIP 24/B",
-    "category": "accessories",
+    "category": "papers-wraps",
     "price": 43.99,
     "salePrice": 37.39,
     "barcode": "716165174028",
@@ -19745,7 +19745,7 @@ export const products = [
   {
     "id": 1646,
     "name": "RAW CONNOSSEUR 1 1/4 ORGANIC + WITH TIP",
-    "category": "accessories",
+    "category": "e-liquids",
     "price": 40.0,
     "salePrice": null,
     "barcode": "716165176138",
@@ -19757,7 +19757,7 @@ export const products = [
   {
     "id": 1647,
     "name": "RAW DLX CANNON 12CT",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 32.0,
     "salePrice": null,
     "barcode": "716165254171",
@@ -19769,7 +19769,7 @@ export const products = [
   {
     "id": 1648,
     "name": "RAW EMPERADOR CONE 24CT",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 27.99,
     "salePrice": null,
     "barcode": "716165202417",
@@ -19781,7 +19781,7 @@ export const products = [
   {
     "id": 1649,
     "name": "RAW 3PK",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 32.0,
     "salePrice": 27.2,
     "barcode": null,
@@ -19793,7 +19793,7 @@ export const products = [
   {
     "id": 1650,
     "name": "RW106 RAW HEMPWICK 10FT/3METER 40 CT",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 31.99,
     "salePrice": null,
     "barcode": "716165250166",
@@ -19805,7 +19805,7 @@ export const products = [
   {
     "id": 1651,
     "name": "RW105 RAW HEMPWICK 20FT/6METER 20 CT",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 31.99,
     "salePrice": null,
     "barcode": "716165250173",
@@ -19817,7 +19817,7 @@ export const products = [
   {
     "id": 1652,
     "name": "RW4 RAW CLASSIC KING SIZE SUPREME PAPER 24CT",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 29.99,
     "salePrice": null,
     "barcode": "716165171454",
@@ -19829,7 +19829,7 @@ export const products = [
   {
     "id": 1653,
     "name": "RAW NATURAL PAPER 1/14 300 BLOC BOX /40",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 80.0,
     "salePrice": null,
     "barcode": "716165177340",
@@ -19853,7 +19853,7 @@ export const products = [
   {
     "id": 1655,
     "name": "RW11 RAW ORGANIC HEMP CONNOISSEUR KING SIZE SLIM + TIPS 24CT",
-    "category": "accessories",
+    "category": "e-liquids",
     "price": 43.99,
     "salePrice": 37.39,
     "barcode": "716165177586",
@@ -19877,7 +19877,7 @@ export const products = [
   {
     "id": 1657,
     "name": "RAW ORG HEMP 1/14 300 BLOC 300 CT DISPLAY OF 40",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 80.0,
     "salePrice": null,
     "barcode": "716165177173",
@@ -19901,7 +19901,7 @@ export const products = [
   {
     "id": 1659,
     "name": "RAW PERFECTO  PRE ROLL CONE TIP 20BOX 24CT",
-    "category": "accessories",
+    "category": "papers-wraps",
     "price": 20.0,
     "salePrice": null,
     "barcode": "716165154969",
@@ -19913,7 +19913,7 @@ export const products = [
   {
     "id": 1660,
     "name": "RAW PERFECTO PRE-ROLL CONE TIP",
-    "category": "accessories",
+    "category": "papers-wraps",
     "price": 24.5,
     "salePrice": null,
     "barcode": "716165159582",
@@ -19925,7 +19925,7 @@ export const products = [
   {
     "id": 1661,
     "name": "RAW PERFORATED NATURAL UNREFINED GUMMED TIPS",
-    "category": "accessories",
+    "category": "papers-wraps",
     "price": 25.0,
     "salePrice": 21.25,
     "barcode": "716165200253",
@@ -19937,7 +19937,7 @@ export const products = [
   {
     "id": 1662,
     "name": "RT4 RAW  TIPS PERFORATED 50CT",
-    "category": "accessories",
+    "category": "papers-wraps",
     "price": 39.99,
     "salePrice": 33.99,
     "barcode": "716165177562",
@@ -19949,7 +19949,7 @@ export const products = [
   {
     "id": 1663,
     "name": "RAW PRE ROLL CONE 20PK 12CT DIS",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 50.0,
     "salePrice": null,
     "barcode": "716165253013",
@@ -19961,7 +19961,7 @@ export const products = [
   {
     "id": 1664,
     "name": "RAW PRE ROLL WIDE TIP 180CT BAG",
-    "category": "accessories",
+    "category": "papers-wraps",
     "price": 8.5,
     "salePrice": 7.22,
     "barcode": "716165300069",
@@ -19973,7 +19973,7 @@ export const products = [
   {
     "id": 1665,
     "name": "RAW PRE ROLLED TIP TIN 100",
-    "category": "accessories",
+    "category": "papers-wraps",
     "price": 39.99,
     "salePrice": 33.99,
     "barcode": "716165250685",
@@ -19985,7 +19985,7 @@ export const products = [
   {
     "id": 1666,
     "name": "RAW PRE ROLLED TIP WIDE HERBLE USE 20 PACK DISPLAY",
-    "category": "accessories",
+    "category": "papers-wraps",
     "price": 36.5,
     "salePrice": 31.02,
     "barcode": "716165251477",
@@ -19997,7 +19997,7 @@ export const products = [
   {
     "id": 1667,
     "name": "RT1 RAW NATURAL UNREFINED PRE ROLLED TIPS 20CT",
-    "category": "accessories",
+    "category": "papers-wraps",
     "price": 22.0,
     "salePrice": 18.7,
     "barcode": "716165253822",
@@ -20009,7 +20009,7 @@ export const products = [
   {
     "id": 1668,
     "name": "RAW PREROLLED TIP 200 BAG",
-    "category": "accessories",
+    "category": "papers-wraps",
     "price": 9.0,
     "salePrice": 7.65,
     "barcode": "716165299981",
@@ -20021,7 +20021,7 @@ export const products = [
   {
     "id": 1669,
     "name": "RAW PRESSED BUD WARP CONE 3PK DISPLAY 12",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 30.0,
     "salePrice": 25.5,
     "barcode": "716165253129",
@@ -20033,7 +20033,7 @@ export const products = [
   {
     "id": 1670,
     "name": "RAW PRESSED BUD WARP CONE 1/14 6PK DISPLAY 12",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 30.0,
     "salePrice": null,
     "barcode": null,
@@ -20045,7 +20045,7 @@ export const products = [
   {
     "id": 1671,
     "name": "RAW PRO TIP 21K 24CT DISPLAY",
-    "category": "accessories",
+    "category": "papers-wraps",
     "price": 28.5,
     "salePrice": 24.22,
     "barcode": "716165252375",
@@ -20057,7 +20057,7 @@ export const products = [
   {
     "id": 1672,
     "name": "RAW COTTON REGULAR FILTER 200CT",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 1.85,
     "salePrice": null,
     "barcode": "716165150374",
@@ -20069,7 +20069,7 @@ export const products = [
   {
     "id": 1673,
     "name": "RAW RESERVA WEARABLE STASH CAN",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 6.5,
     "salePrice": 5.52,
     "barcode": "716165291039",
@@ -20081,7 +20081,7 @@ export const products = [
   {
     "id": 1674,
     "name": "RAW CLASSIC SINGLE WIDE 50CT BOX",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 30.0,
     "salePrice": 25.5,
     "barcode": "716165173670",
@@ -20093,7 +20093,7 @@ export const products = [
   {
     "id": 1675,
     "name": "RAW SIX SHOOTER KING SIZE CONE",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 16.0,
     "salePrice": 13.6,
     "barcode": "716165284437",
@@ -20105,7 +20105,7 @@ export const products = [
   {
     "id": 1676,
     "name": "RAW2 RAW COTTON SLIM FILTER 200CT",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 1.85,
     "salePrice": null,
     "barcode": "716165179955",
@@ -20117,7 +20117,7 @@ export const products = [
   {
     "id": 1677,
     "name": "RAW TERRACOTA HUMIDIFYING STONE 20",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 18.5,
     "salePrice": 15.72,
     "barcode": "716165158790",
@@ -20129,7 +20129,7 @@ export const products = [
   {
     "id": 1678,
     "name": "RT2 RAW TIPS ORIGINAL 50CT",
-    "category": "accessories",
+    "category": "glass-pipes",
     "price": 17.99,
     "salePrice": null,
     "barcode": "716165177401",
@@ -20141,7 +20141,7 @@ export const products = [
   {
     "id": 1679,
     "name": "RAW TIPS PRE ROLLED 20 CT",
-    "category": "accessories",
+    "category": "papers-wraps",
     "price": 22.0,
     "salePrice": null,
     "barcode": "716165179498",
@@ -20153,7 +20153,7 @@ export const products = [
   {
     "id": 1680,
     "name": "RAW PREROLLED TIPS TIN 6/100",
-    "category": "accessories",
+    "category": "papers-wraps",
     "price": 40.0,
     "salePrice": 34.0,
     "barcode": null,
@@ -20165,7 +20165,7 @@ export const products = [
   {
     "id": 1681,
     "name": "RAW NATURAL UNREFINED 1 1/2 PAPERS 25CT",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 22.0,
     "salePrice": 18.7,
     "barcode": "716165178439",
@@ -20177,7 +20177,7 @@ export const products = [
   {
     "id": 1682,
     "name": "RAW WIDE PERFORATED TIPS 50CT",
-    "category": "accessories",
+    "category": "papers-wraps",
     "price": 25.0,
     "salePrice": 21.25,
     "barcode": null,
@@ -20393,7 +20393,7 @@ export const products = [
   {
     "id": 1700,
     "name": "RICK N MORTY BATTERY DISPLAY 18CT",
-    "category": "accessories",
+    "category": "other",
     "price": 65.0,
     "salePrice": null,
     "barcode": null,
@@ -20429,7 +20429,7 @@ export const products = [
   {
     "id": 1703,
     "name": "RICK & MORTY DISPLAY 12CT GLASS PIPE",
-    "category": "accessories",
+    "category": "glass-pipes",
     "price": 42.0,
     "salePrice": null,
     "barcode": null,
@@ -20441,7 +20441,7 @@ export const products = [
   {
     "id": 1704,
     "name": "RIG DRY PIPE 12CT",
-    "category": "smoking",
+    "category": "glass-pipes",
     "price": 150.0,
     "salePrice": null,
     "barcode": "SGWP-12-JAR",
@@ -20465,7 +20465,7 @@ export const products = [
   {
     "id": 1706,
     "name": "RING CHARCOAL 38MM 100CT",
-    "category": "other",
+    "category": "hookah",
     "price": 16.0,
     "salePrice": 13.6,
     "barcode": "5907768210380",
@@ -20501,7 +20501,7 @@ export const products = [
   {
     "id": 1709,
     "name": "ROLL A LEAF BANANA CREAM 10-5 50 LEAF WRAPS",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 50.0,
     "salePrice": 42.5,
     "barcode": "764046845901",
@@ -20513,7 +20513,7 @@ export const products = [
   {
     "id": 1710,
     "name": "ROLL A LEAF DARK EDITION 10-5 50 LEAF WRAPS",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 50.0,
     "salePrice": 42.5,
     "barcode": "762221575957",
@@ -20525,7 +20525,7 @@ export const products = [
   {
     "id": 1711,
     "name": "ROLL A LEAF FRESH MINT 10-5 50 LEAF WRAPS",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 50.0,
     "salePrice": 42.5,
     "barcode": "764046845895",
@@ -20537,7 +20537,7 @@ export const products = [
   {
     "id": 1712,
     "name": "ROLL A LEAF GRAPE 10-5 50 LEAF WRAPS",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 50.0,
     "salePrice": 42.5,
     "barcode": "762221575971",
@@ -20549,7 +20549,7 @@ export const products = [
   {
     "id": 1713,
     "name": "ROLL A LEAF HONEY BOURBON 10-5 50 LEAF WRAPS",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 50.0,
     "salePrice": 42.5,
     "barcode": "764046845925",
@@ -20585,7 +20585,7 @@ export const products = [
   {
     "id": 1716,
     "name": "ROLL A LEAF RUSSIAN CREAM 10-5 50 LEAF WRAPS",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 50.0,
     "salePrice": 42.5,
     "barcode": "762221575919",
@@ -20597,7 +20597,7 @@ export const products = [
   {
     "id": 1717,
     "name": "ROLL A LEAF STRAWBERRY 08-6 48 LEAF WRAPS",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 50.0,
     "salePrice": 42.5,
     "barcode": null,
@@ -20621,7 +20621,7 @@ export const products = [
   {
     "id": 1719,
     "name": "ROLLING STANDARD SIZE 40 PK",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 35.0,
     "salePrice": 29.75,
     "barcode": "077170901727",
@@ -20633,7 +20633,7 @@ export const products = [
   {
     "id": 1720,
     "name": "RONSONOL LIGHTER  08 0Z",
-    "category": "smoking",
+    "category": "lighters-torches",
     "price": 3.5,
     "salePrice": 2.98,
     "barcode": "037900990629",
@@ -20645,7 +20645,7 @@ export const products = [
   {
     "id": 1721,
     "name": "RONSONOL LIGHTER  120Z",
-    "category": "smoking",
+    "category": "lighters-torches",
     "price": 3.5,
     "salePrice": null,
     "barcode": "037900990636",
@@ -20657,7 +20657,7 @@ export const products = [
   {
     "id": 1722,
     "name": "RONSONOL LIGHTER  5OZ",
-    "category": "smoking",
+    "category": "lighters-torches",
     "price": 2.5,
     "salePrice": 2.12,
     "barcode": "037900990612",
@@ -20669,7 +20669,7 @@ export const products = [
   {
     "id": 1723,
     "name": "ROOR GLASS CLEANER 12OZ",
-    "category": "accessories",
+    "category": "glass-pipes",
     "price": 5.5,
     "salePrice": 4.67,
     "barcode": "7502539168242",
@@ -20705,7 +20705,7 @@ export const products = [
   {
     "id": 1726,
     "name": "84ROZY PINK CONE 1 1/4 1PK 24CT",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 12.5,
     "salePrice": 10.62,
     "barcode": "840212411580",
@@ -20717,7 +20717,7 @@ export const products = [
   {
     "id": 1727,
     "name": "ROZY PINK CONE 1 1/4 50CT JAR",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 13.0,
     "salePrice": 11.05,
     "barcode": "840212411597",
@@ -20729,7 +20729,7 @@ export const products = [
   {
     "id": 1728,
     "name": "ROZY PINK CONE 1 1/4 6PK 24CT",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 34.0,
     "salePrice": 28.9,
     "barcode": "840212411658",
@@ -20741,7 +20741,7 @@ export const products = [
   {
     "id": 1729,
     "name": "ROZY PINK CONE KS 1PK 24CT",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 12.0,
     "salePrice": 10.2,
     "barcode": "840212411627",
@@ -20753,7 +20753,7 @@ export const products = [
   {
     "id": 1730,
     "name": "ROZY PINK CONE KS 1PK 50CT",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 13.0,
     "salePrice": 11.05,
     "barcode": "840212411634",
@@ -20765,7 +20765,7 @@ export const products = [
   {
     "id": 1731,
     "name": "ROZY PINK CONE KS 3PK CONE 24CT",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 34.0,
     "salePrice": 28.9,
     "barcode": "840212411702",
@@ -20801,7 +20801,7 @@ export const products = [
   {
     "id": 1734,
     "name": "RUBBING ALCOHOL 5PERCENT",
-    "category": "other",
+    "category": "cleaners",
     "price": 1.5,
     "salePrice": 1.27,
     "barcode": null,
@@ -20873,7 +20873,7 @@ export const products = [
   {
     "id": 1740,
     "name": "RUNTZ WRAPS AGAVE 6PK-10/BOX",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 45.0,
     "salePrice": null,
     "barcode": "765105170347",
@@ -20885,7 +20885,7 @@ export const products = [
   {
     "id": 1741,
     "name": "RUNTZ WRAPS BANANA SPLIT 6PK-10/BOX",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 45.0,
     "salePrice": null,
     "barcode": "765105170330",
@@ -20897,7 +20897,7 @@ export const products = [
   {
     "id": 1742,
     "name": "RUNTZ WRAPS FRESH STRAWBERRY 6PK-10/BOX",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 45.0,
     "salePrice": null,
     "barcode": "765105170354",
@@ -20909,7 +20909,7 @@ export const products = [
   {
     "id": 1743,
     "name": "RUNTZ WRAPS NATURAL 6PK-10/BOX",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 45.0,
     "salePrice": null,
     "barcode": "765105170323",
@@ -20921,7 +20921,7 @@ export const products = [
   {
     "id": 1744,
     "name": "RUNTZ WRAPS VANILLA CREAM 6PK-10/BOX",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 45.0,
     "salePrice": null,
     "barcode": "765105170361",
@@ -20957,7 +20957,7 @@ export const products = [
   {
     "id": 1747,
     "name": "SANDWICH BAG I PCS",
-    "category": "other",
+    "category": "storage",
     "price": 1.1,
     "salePrice": 0.94,
     "barcode": "850007395339",
@@ -20969,7 +20969,7 @@ export const products = [
   {
     "id": 1748,
     "name": "DIGITAL SCALE RW-10 1000GX0.1G",
-    "category": "other",
+    "category": "scales",
     "price": 4.5,
     "salePrice": 3.82,
     "barcode": "742271563326",
@@ -20981,7 +20981,7 @@ export const products = [
   {
     "id": 1749,
     "name": "DIGITAL SCALE RW-12 1000GX0.1G",
-    "category": "other",
+    "category": "scales",
     "price": 5.75,
     "salePrice": 4.89,
     "barcode": "742271563357",
@@ -20993,7 +20993,7 @@ export const products = [
   {
     "id": 1750,
     "name": "DIGITAL SCALE RW-13 1000GX0.1G",
-    "category": "other",
+    "category": "scales",
     "price": 5.75,
     "salePrice": 4.89,
     "barcode": "742271563371",
@@ -21005,7 +21005,7 @@ export const products = [
   {
     "id": 1751,
     "name": "DIGITAL SCALE RW-2 1000GX0.1G",
-    "category": "other",
+    "category": "scales",
     "price": 5.75,
     "salePrice": 4.89,
     "barcode": "742271562169",
@@ -21017,7 +21017,7 @@ export const products = [
   {
     "id": 1752,
     "name": "DIGITAL SCALE RW-3 650GX0.1G",
-    "category": "other",
+    "category": "scales",
     "price": 5.75,
     "salePrice": 4.89,
     "barcode": "742271562190",
@@ -21029,7 +21029,7 @@ export const products = [
   {
     "id": 1753,
     "name": "DIGITAL SCALE RW-4 1000GX0.1G",
-    "category": "other",
+    "category": "scales",
     "price": 5.75,
     "salePrice": 4.89,
     "barcode": "742271563418",
@@ -21041,7 +21041,7 @@ export const products = [
   {
     "id": 1754,
     "name": "DIGITAL SCALE RW-6 1000GX0.1G",
-    "category": "other",
+    "category": "scales",
     "price": 4.25,
     "salePrice": 3.61,
     "barcode": "742271562237",
@@ -21053,7 +21053,7 @@ export const products = [
   {
     "id": 1755,
     "name": "DIGITAL SCALE RW-8 1000X0.1G",
-    "category": "other",
+    "category": "scales",
     "price": 4.25,
     "salePrice": 3.61,
     "barcode": "742271562244",
@@ -21065,7 +21065,7 @@ export const products = [
   {
     "id": 1756,
     "name": "DT POCKET SCALE 750G*0.1G",
-    "category": "other",
+    "category": "scales",
     "price": 4.5,
     "salePrice": 3.82,
     "barcode": "850046584237",
@@ -21077,7 +21077,7 @@ export const products = [
   {
     "id": 1757,
     "name": "DT POCKET SCALE 100G*0.1G",
-    "category": "other",
+    "category": "scales",
     "price": 6.25,
     "salePrice": 5.31,
     "barcode": "850046584244",
@@ -21089,7 +21089,7 @@ export const products = [
   {
     "id": 1758,
     "name": "DT POCKET SCALE 600G*0.1G",
-    "category": "other",
+    "category": "scales",
     "price": 5.0,
     "salePrice": 4.25,
     "barcode": "850046584251",
@@ -21101,7 +21101,7 @@ export const products = [
   {
     "id": 1759,
     "name": "DT POCKET SCALE 150G*0.01G",
-    "category": "other",
+    "category": "scales",
     "price": 7.75,
     "salePrice": 6.59,
     "barcode": "850046584190",
@@ -21113,7 +21113,7 @@ export const products = [
   {
     "id": 1760,
     "name": "DT POCKET SCALE 700G*0.1G",
-    "category": "other",
+    "category": "scales",
     "price": 5.0,
     "salePrice": 4.25,
     "barcode": "850046584220",
@@ -21125,7 +21125,7 @@ export const products = [
   {
     "id": 1761,
     "name": "DT POCKET SCALE 650G*0.1G",
-    "category": "other",
+    "category": "scales",
     "price": 4.0,
     "salePrice": 3.4,
     "barcode": "850046584312",
@@ -21137,7 +21137,7 @@ export const products = [
   {
     "id": 1762,
     "name": "DT POCKET SCALE 650G*0.1G",
-    "category": "other",
+    "category": "scales",
     "price": 4.5,
     "salePrice": 3.82,
     "barcode": "850046584268",
@@ -21149,7 +21149,7 @@ export const products = [
   {
     "id": 1763,
     "name": "DT POCKET SCALE 750G*0.1G",
-    "category": "other",
+    "category": "scales",
     "price": 7.5,
     "salePrice": 6.38,
     "barcode": "850046584299",
@@ -21161,7 +21161,7 @@ export const products = [
   {
     "id": 1764,
     "name": "DT POCKET SCALE 120G*0.01G",
-    "category": "other",
+    "category": "scales",
     "price": 5.5,
     "salePrice": 4.67,
     "barcode": "850046584305",
@@ -21173,7 +21173,7 @@ export const products = [
   {
     "id": 1765,
     "name": "SCALE AWS-700",
-    "category": "other",
+    "category": "scales",
     "price": 5.99,
     "salePrice": null,
     "barcode": "814859014732",
@@ -21185,7 +21185,7 @@ export const products = [
   {
     "id": 1766,
     "name": "SC B6-1000 DIGITAL SCALE",
-    "category": "other",
+    "category": "scales",
     "price": 4.99,
     "salePrice": 4.24,
     "barcode": "204040610001",
@@ -21197,7 +21197,7 @@ export const products = [
   {
     "id": 1767,
     "name": "SC COOKIES AND BACKWOOD",
-    "category": "other",
+    "category": "cigars",
     "price": 6.0,
     "salePrice": null,
     "barcode": null,
@@ -21209,7 +21209,7 @@ export const products = [
   {
     "id": 1768,
     "name": "DIGITAL JEWWLRY SCALE  DD1-100  (100X0.01G)",
-    "category": "other",
+    "category": "scales",
     "price": 7.99,
     "salePrice": 6.79,
     "barcode": "204040101004",
@@ -21221,7 +21221,7 @@ export const products = [
   {
     "id": 1769,
     "name": "SC DIABLO FP-100 DIGITAL SCALE",
-    "category": "other",
+    "category": "scales",
     "price": 7.5,
     "salePrice": 6.38,
     "barcode": "742271561322",
@@ -21233,7 +21233,7 @@ export const products = [
   {
     "id": 1770,
     "name": "SCALE DIGITAL POCKET SCALE",
-    "category": "other",
+    "category": "scales",
     "price": 5.5,
     "salePrice": null,
     "barcode": null,
@@ -21245,7 +21245,7 @@ export const products = [
   {
     "id": 1771,
     "name": "SCALE DW 100 AC",
-    "category": "other",
+    "category": "scales",
     "price": 5.35,
     "salePrice": null,
     "barcode": "853570006725",
@@ -21257,7 +21257,7 @@ export const products = [
   {
     "id": 1772,
     "name": "SCALE  100 AS 100G *0.01G",
-    "category": "other",
+    "category": "scales",
     "price": 8.75,
     "salePrice": null,
     "barcode": "852027004079",
@@ -21269,7 +21269,7 @@ export const products = [
   {
     "id": 1773,
     "name": "SCALE DW BX 1000",
-    "category": "other",
+    "category": "scales",
     "price": 4.95,
     "salePrice": null,
     "barcode": "852027004024",
@@ -21281,7 +21281,7 @@ export const products = [
   {
     "id": 1774,
     "name": "DIGITZ DZ1-600 SCALE (600X0.1G)",
-    "category": "other",
+    "category": "scales",
     "price": 3.99,
     "salePrice": 3.39,
     "barcode": "814859012899",
@@ -21293,7 +21293,7 @@ export const products = [
   {
     "id": 1775,
     "name": "SCALE DZ3-100",
-    "category": "other",
+    "category": "scales",
     "price": 9.99,
     "salePrice": 8.49,
     "barcode": "814859013667",
@@ -21305,7 +21305,7 @@ export const products = [
   {
     "id": 1776,
     "name": "DIGITZ DZ-650 SCALE (650G/0.1G)",
-    "category": "other",
+    "category": "scales",
     "price": 5.0,
     "salePrice": null,
     "barcode": "814859014510",
@@ -21317,7 +21317,7 @@ export const products = [
   {
     "id": 1777,
     "name": "FUZION FC-200 SCALE",
-    "category": "other",
+    "category": "scales",
     "price": 5.99,
     "salePrice": null,
     "barcode": "742271562084",
@@ -21353,7 +21353,7 @@ export const products = [
   {
     "id": 1780,
     "name": "SCALE FUZION PL 20",
-    "category": "other",
+    "category": "scales",
     "price": 13.5,
     "salePrice": null,
     "barcode": "742271561452",
@@ -21377,7 +21377,7 @@ export const products = [
   {
     "id": 1782,
     "name": "RED4-100 DIGITAL SCALE",
-    "category": "other",
+    "category": "scales",
     "price": 6.5,
     "salePrice": 5.52,
     "barcode": "204040401005",
@@ -21389,7 +21389,7 @@ export const products = [
   {
     "id": 1783,
     "name": "SCALE Z SERIES",
-    "category": "other",
+    "category": "scales",
     "price": 5.25,
     "salePrice": null,
     "barcode": "852027004000",
@@ -21401,7 +21401,7 @@ export const products = [
   {
     "id": 1784,
     "name": "SCALE 3D",
-    "category": "other",
+    "category": "scales",
     "price": 6.75,
     "salePrice": 5.74,
     "barcode": null,
@@ -21485,7 +21485,7 @@ export const products = [
   {
     "id": 1791,
     "name": "SHARPSTONE METAL GRINDER 40MM",
-    "category": "smoking",
+    "category": "grinders",
     "price": 5.5,
     "salePrice": null,
     "barcode": null,
@@ -21497,7 +21497,7 @@ export const products = [
   {
     "id": 1792,
     "name": "SHARPSTONE METAL GRINDER 50MM",
-    "category": "smoking",
+    "category": "grinders",
     "price": 6.5,
     "salePrice": 5.52,
     "barcode": null,
@@ -21509,7 +21509,7 @@ export const products = [
   {
     "id": 1793,
     "name": "SHARPSTONE METAL GRINDER 63MM",
-    "category": "smoking",
+    "category": "grinders",
     "price": 7.5,
     "salePrice": null,
     "barcode": null,
@@ -21605,7 +21605,7 @@ export const products = [
   {
     "id": 1801,
     "name": "SHERLOCK DESING HAND PIPE",
-    "category": "smoking",
+    "category": "glass-pipes",
     "price": 15.99,
     "salePrice": 13.59,
     "barcode": null,
@@ -21617,7 +21617,7 @@ export const products = [
   {
     "id": 1802,
     "name": "SHISHA SIGN",
-    "category": "other",
+    "category": "hookah",
     "price": 90.0,
     "salePrice": null,
     "barcode": null,
@@ -21641,7 +21641,7 @@ export const products = [
   {
     "id": 1804,
     "name": "SINGEL BATTERY LOOSE",
-    "category": "accessories",
+    "category": "other",
     "price": 6.5,
     "salePrice": 5.52,
     "barcode": null,
@@ -21653,7 +21653,7 @@ export const products = [
   {
     "id": 1805,
     "name": "SINGLE BLOWN HAND PIPES [PACK OF 3]",
-    "category": "smoking",
+    "category": "glass-pipes",
     "price": 8.0,
     "salePrice": 6.8,
     "barcode": "12345678108",
@@ -21689,7 +21689,7 @@ export const products = [
   {
     "id": 1808,
     "name": "SKULL AHSTRSKULL AHSTRAYAY",
-    "category": "smoking",
+    "category": "other",
     "price": 24.0,
     "salePrice": null,
     "barcode": null,
@@ -21701,7 +21701,7 @@ export const products = [
   {
     "id": 1809,
     "name": "EMBOSS SKULL GRINDER",
-    "category": "smoking",
+    "category": "grinders",
     "price": 6.0,
     "salePrice": 5.1,
     "barcode": "652369010802",
@@ -21713,7 +21713,7 @@ export const products = [
   {
     "id": 1810,
     "name": "SKULL LIGHTER 50CT",
-    "category": "smoking",
+    "category": "lighters-torches",
     "price": 15.0,
     "salePrice": 12.75,
     "barcode": null,
@@ -21725,7 +21725,7 @@ export const products = [
   {
     "id": 1811,
     "name": "SKULL METAL PIPE WITH JEWEL DESIGN 12CT DISPLAY",
-    "category": "smoking",
+    "category": "glass-pipes",
     "price": 40.0,
     "salePrice": 34.0,
     "barcode": null,
@@ -21737,7 +21737,7 @@ export const products = [
   {
     "id": 1812,
     "name": "SKY TORCH CHEECH N CHONG",
-    "category": "smoking",
+    "category": "lighters-torches",
     "price": 35.0,
     "salePrice": null,
     "barcode": "10853195000624",
@@ -21749,7 +21749,7 @@ export const products = [
   {
     "id": 1813,
     "name": "SLAPWOOD CONES",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 135.0,
     "salePrice": null,
     "barcode": "738607282993",
@@ -21761,7 +21761,7 @@ export const products = [
   {
     "id": 1814,
     "name": "SLICONE MASHROOM HAND PIPE",
-    "category": "smoking",
+    "category": "glass-pipes",
     "price": 4.5,
     "salePrice": 3.82,
     "barcode": null,
@@ -21773,7 +21773,7 @@ export const products = [
   {
     "id": 1815,
     "name": "SLICONE PIPE JAR 20CT",
-    "category": "smoking",
+    "category": "glass-pipes",
     "price": 44.0,
     "salePrice": null,
     "barcode": null,
@@ -21785,7 +21785,7 @@ export const products = [
   {
     "id": 1816,
     "name": "SLICONE PIPE COLOR FULL 3.99",
-    "category": "smoking",
+    "category": "glass-pipes",
     "price": 3.99,
     "salePrice": 3.39,
     "barcode": null,
@@ -21797,7 +21797,7 @@ export const products = [
   {
     "id": 1817,
     "name": "SLIDERS JAR 30CT",
-    "category": "other",
+    "category": "flower-slides",
     "price": 60.0,
     "salePrice": null,
     "barcode": "JARBOWL30",
@@ -21809,7 +21809,7 @@ export const products = [
   {
     "id": 1818,
     "name": "SLIME PEANUT PIPES [PACK OF 3]",
-    "category": "smoking",
+    "category": "glass-pipes",
     "price": 21.0,
     "salePrice": 17.85,
     "barcode": "12345678929",
@@ -21821,7 +21821,7 @@ export const products = [
   {
     "id": 1819,
     "name": "SMALL BAGGIES 1 GRAM 50CT",
-    "category": "other",
+    "category": "storage",
     "price": 7.5,
     "salePrice": 6.38,
     "barcode": null,
@@ -21833,7 +21833,7 @@ export const products = [
   {
     "id": 1820,
     "name": "SMALL BAGGIES 1 GRAM MULTI COLOR",
-    "category": "other",
+    "category": "storage",
     "price": 12.5,
     "salePrice": 10.62,
     "barcode": null,
@@ -21845,7 +21845,7 @@ export const products = [
   {
     "id": 1821,
     "name": "SMALL HOOKAH",
-    "category": "other",
+    "category": "hookah",
     "price": 7.99,
     "salePrice": 6.79,
     "barcode": null,
@@ -21857,7 +21857,7 @@ export const products = [
   {
     "id": 1822,
     "name": "SMALL JAR",
-    "category": "other",
+    "category": "storage",
     "price": 2.3,
     "salePrice": 1.95,
     "barcode": "10125144",
@@ -21869,7 +21869,7 @@ export const products = [
   {
     "id": 1823,
     "name": "SMALL PEANUT PIPES [PACK OF 10]",
-    "category": "smoking",
+    "category": "glass-pipes",
     "price": 16.0,
     "salePrice": 13.6,
     "barcode": "12345678220",
@@ -21881,7 +21881,7 @@ export const products = [
   {
     "id": 1824,
     "name": "SMALL PEANUT PIPES 2 [PACK OF 5]",
-    "category": "smoking",
+    "category": "glass-pipes",
     "price": 10.0,
     "salePrice": 8.5,
     "barcode": "12345678109",
@@ -21905,7 +21905,7 @@ export const products = [
   {
     "id": 1826,
     "name": "SMALL SMELL PROOF JAR",
-    "category": "other",
+    "category": "storage",
     "price": 2.99,
     "salePrice": 2.54,
     "barcode": null,
@@ -21917,7 +21917,7 @@ export const products = [
   {
     "id": 1827,
     "name": "SMALL TRAY",
-    "category": "smoking",
+    "category": "other",
     "price": 1.75,
     "salePrice": 1.49,
     "barcode": null,
@@ -21929,7 +21929,7 @@ export const products = [
   {
     "id": 1828,
     "name": "MAYLER BAG SMALL 50CT SMELL PROOF 1/8",
-    "category": "other",
+    "category": "storage",
     "price": 5.99,
     "salePrice": 5.09,
     "barcode": "10124673",
@@ -21941,7 +21941,7 @@ export const products = [
   {
     "id": 1829,
     "name": "SMOK BUDDY SMALL PERSONAL AIR FILTER",
-    "category": "other",
+    "category": "accessories",
     "price": 9.99,
     "salePrice": 8.49,
     "barcode": null,
@@ -21953,7 +21953,7 @@ export const products = [
   {
     "id": 1830,
     "name": "SMOKE BUDDY FILTER",
-    "category": "other",
+    "category": "accessories",
     "price": 12.0,
     "salePrice": null,
     "barcode": null,
@@ -22001,7 +22001,7 @@ export const products = [
   {
     "id": 1834,
     "name": "SMOKERS GLASS MOUTH TIPS 50CT",
-    "category": "accessories",
+    "category": "glass-pipes",
     "price": 30.0,
     "salePrice": null,
     "barcode": null,
@@ -22013,7 +22013,7 @@ export const products = [
   {
     "id": 1835,
     "name": "SMOKIN CLEAN PIPE SOFT CLEANER 24PC",
-    "category": "smoking",
+    "category": "glass-pipes",
     "price": 15.0,
     "salePrice": null,
     "barcode": "018505124596",
@@ -22037,7 +22037,7 @@ export const products = [
   {
     "id": 1837,
     "name": "SMOQ GLASS 20 DOUBLE DRINK FANC",
-    "category": "accessories",
+    "category": "glass-pipes",
     "price": 75.0,
     "salePrice": 63.75,
     "barcode": null,
@@ -22049,7 +22049,7 @@ export const products = [
   {
     "id": 1838,
     "name": "SMOQ GLASS 20 FANCY HEAD DESING",
-    "category": "accessories",
+    "category": "glass-pipes",
     "price": 75.0,
     "salePrice": null,
     "barcode": null,
@@ -22061,7 +22061,7 @@ export const products = [
   {
     "id": 1839,
     "name": "SMOQ GLASS PROXY ATTECMENT AMER",
-    "category": "accessories",
+    "category": "glass-pipes",
     "price": 26.99,
     "salePrice": null,
     "barcode": null,
@@ -22073,7 +22073,7 @@ export const products = [
   {
     "id": 1840,
     "name": "SMOXY LIGHTER 20CT SL104",
-    "category": "smoking",
+    "category": "lighters-torches",
     "price": 24.5,
     "salePrice": null,
     "barcode": "761736762029",
@@ -22085,7 +22085,7 @@ export const products = [
   {
     "id": 1841,
     "name": "SMOXY LIGHTER 20CT SL102",
-    "category": "smoking",
+    "category": "lighters-torches",
     "price": 25.5,
     "salePrice": null,
     "barcode": "761736762005",
@@ -22097,7 +22097,7 @@ export const products = [
   {
     "id": 1842,
     "name": "SMOXY TORCH  20CT SL112",
-    "category": "smoking",
+    "category": "lighters-torches",
     "price": 32.0,
     "salePrice": null,
     "barcode": "761736762104",
@@ -22109,7 +22109,7 @@ export const products = [
   {
     "id": 1843,
     "name": "SMOXY TORCH 20CT SL105",
-    "category": "smoking",
+    "category": "lighters-torches",
     "price": 28.5,
     "salePrice": null,
     "barcode": "761736762036",
@@ -22121,7 +22121,7 @@ export const products = [
   {
     "id": 1844,
     "name": "SMOXY TORCH 20CT SL106",
-    "category": "smoking",
+    "category": "lighters-torches",
     "price": 28.5,
     "salePrice": null,
     "barcode": "761736762043",
@@ -22133,7 +22133,7 @@ export const products = [
   {
     "id": 1845,
     "name": "SMOXY TORCH 20CT SL107",
-    "category": "smoking",
+    "category": "lighters-torches",
     "price": 28.5,
     "salePrice": null,
     "barcode": "761736762050",
@@ -22145,7 +22145,7 @@ export const products = [
   {
     "id": 1846,
     "name": "SMOXY TORCH 20CT SL109",
-    "category": "smoking",
+    "category": "lighters-torches",
     "price": 28.5,
     "salePrice": null,
     "barcode": "761736762074",
@@ -22157,7 +22157,7 @@ export const products = [
   {
     "id": 1847,
     "name": "SMOXY TORCH 20CT SL110",
-    "category": "smoking",
+    "category": "lighters-torches",
     "price": 28.5,
     "salePrice": 24.22,
     "barcode": "761736762081",
@@ -22169,7 +22169,7 @@ export const products = [
   {
     "id": 1848,
     "name": "SMOXY TORCH 20CT SL113",
-    "category": "smoking",
+    "category": "lighters-torches",
     "price": 35.0,
     "salePrice": null,
     "barcode": "761736762111",
@@ -22253,7 +22253,7 @@ export const products = [
   {
     "id": 1855,
     "name": "SOFT PIPE CLEANER 16OZ",
-    "category": "smoking",
+    "category": "glass-pipes",
     "price": 30.0,
     "salePrice": null,
     "barcode": "099651048745",
@@ -22289,7 +22289,7 @@ export const products = [
   {
     "id": 1858,
     "name": "SPECIAL BUTANE 9X BUTANE 12/300ML",
-    "category": "other",
+    "category": "lighters-torches",
     "price": 20.0,
     "salePrice": null,
     "barcode": "811490903111",
@@ -22301,7 +22301,7 @@ export const products = [
   {
     "id": 1859,
     "name": "SPECIAL BLUE LIGHTER 20CT DISPLAY",
-    "category": "smoking",
+    "category": "lighters-torches",
     "price": 25.5,
     "salePrice": 21.68,
     "barcode": "811490567832",
@@ -22337,7 +22337,7 @@ export const products = [
   {
     "id": 1862,
     "name": "SPECIAL BLUE ULTRA BUTANE 12/42 ML",
-    "category": "other",
+    "category": "lighters-torches",
     "price": 40.0,
     "salePrice": 34.0,
     "barcode": "811490904316",
@@ -22349,7 +22349,7 @@ export const products = [
   {
     "id": 1863,
     "name": "SPECIAL BUTAIN 5X BUTANE 12/300ML",
-    "category": "other",
+    "category": "lighters-torches",
     "price": 18.0,
     "salePrice": null,
     "barcode": "1490901117",
@@ -22373,7 +22373,7 @@ export const products = [
   {
     "id": 1865,
     "name": "SPECIAL BUTANE 9X BUTANE 12/540 ML",
-    "category": "other",
+    "category": "lighters-torches",
     "price": 54.0,
     "salePrice": null,
     "barcode": "811490903418",
@@ -22385,7 +22385,7 @@ export const products = [
   {
     "id": 1866,
     "name": "SPICE HERB GRINDER 6 CT",
-    "category": "smoking",
+    "category": "grinders",
     "price": 60.0,
     "salePrice": 51.0,
     "barcode": "707670002883",
@@ -22409,7 +22409,7 @@ export const products = [
   {
     "id": 1868,
     "name": "SQUARED PEANUT PIPES [PACK OF 3]",
-    "category": "smoking",
+    "category": "glass-pipes",
     "price": 22.5,
     "salePrice": 19.12,
     "barcode": "12345678931",
@@ -22421,7 +22421,7 @@ export const products = [
   {
     "id": 1869,
     "name": "SCORCH TORCH DUAL FUNCTION SINGLE & DOUBLE TORCH 61573-1 6CT",
-    "category": "smoking",
+    "category": "lighters-torches",
     "price": 9.5,
     "salePrice": null,
     "barcode": "818766013758",
@@ -22433,7 +22433,7 @@ export const products = [
   {
     "id": 1870,
     "name": "SCORCH TORCH GUN STYLE TORCH ASSORTED 61650-2 9CT (5)",
-    "category": "smoking",
+    "category": "lighters-torches",
     "price": 8.5,
     "salePrice": null,
     "barcode": "818766014540",
@@ -22457,7 +22457,7 @@ export const products = [
   {
     "id": 1872,
     "name": "SCORCH TORCH OMBRE LAMP 61596-1 6CT (6)",
-    "category": "smoking",
+    "category": "lighters-torches",
     "price": 8.0,
     "salePrice": 6.8,
     "barcode": "818766013987",
@@ -22469,7 +22469,7 @@ export const products = [
   {
     "id": 1873,
     "name": "SCORCH TORCH ADJUSTABLE ANGLE TORCH 6CT 61673-1 (13)",
-    "category": "smoking",
+    "category": "lighters-torches",
     "price": 9.75,
     "salePrice": null,
     "barcode": "818766014779",
@@ -22481,7 +22481,7 @@ export const products = [
   {
     "id": 1874,
     "name": "SCORCH TORCH BENDABLE TORCH ASST  9CT 61685-1 (15)",
-    "category": "smoking",
+    "category": "lighters-torches",
     "price": 8.5,
     "salePrice": 7.22,
     "barcode": "818766014892",
@@ -22493,7 +22493,7 @@ export const products = [
   {
     "id": 1875,
     "name": "SCORCH TORCH EASY HAND-HELD 61565-1 9CT (16)",
-    "category": "smoking",
+    "category": "lighters-torches",
     "price": 7.5,
     "salePrice": 6.38,
     "barcode": "818766013659",
@@ -22505,7 +22505,7 @@ export const products = [
   {
     "id": 1876,
     "name": "SCORCH TORCH EXLARGE TORCH/ASSORTED OMBRE COLOR 61626-1 6CT ",
-    "category": "smoking",
+    "category": "lighters-torches",
     "price": 9.65,
     "salePrice": null,
     "barcode": "818766014281",
@@ -22517,7 +22517,7 @@ export const products = [
   {
     "id": 1877,
     "name": "SCORCH TORCH PREMIUM TORCH 80/DEGREE/TWO-TONE61646-1 9CT (11",
-    "category": "smoking",
+    "category": "lighters-torches",
     "price": 10.5,
     "salePrice": null,
     "barcode": "818766014502",
@@ -22529,7 +22529,7 @@ export const products = [
   {
     "id": 1878,
     "name": "SCORCH TORCH TABLE TORCH 45/DEG LOCK 61675-1 9CT (10)",
-    "category": "smoking",
+    "category": "lighters-torches",
     "price": 9.75,
     "salePrice": null,
     "barcode": "818766014793",
@@ -22541,7 +22541,7 @@ export const products = [
   {
     "id": 1879,
     "name": "SCORCH TORCH TABLE TORCH 45 DEG/ASST DESIGN & COLORS 61668-1",
-    "category": "smoking",
+    "category": "lighters-torches",
     "price": 10.5,
     "salePrice": null,
     "barcode": "818766014724",
@@ -22553,7 +22553,7 @@ export const products = [
   {
     "id": 1880,
     "name": "SCORCH TORCH TORCH TURBO 45 DEGREE PUSH BUTTON 61652-1 6CT (",
-    "category": "smoking",
+    "category": "lighters-torches",
     "price": 10.0,
     "salePrice": null,
     "barcode": "818766014564",
@@ -22565,7 +22565,7 @@ export const products = [
   {
     "id": 1881,
     "name": "SCORCH TORCH TURBO JET W/ASSORTED COLOR 61468-1 6CT (20)",
-    "category": "smoking",
+    "category": "lighters-torches",
     "price": 10.5,
     "salePrice": null,
     "barcode": "818766012386",
@@ -22577,7 +22577,7 @@ export const products = [
   {
     "id": 1882,
     "name": "SCORCH TORCH TURBO PENCIL TORCH W/HOLD BUTTON 61663-1 9CT (1",
-    "category": "smoking",
+    "category": "lighters-torches",
     "price": 10.6,
     "salePrice": null,
     "barcode": "818766014670",
@@ -22589,7 +22589,7 @@ export const products = [
   {
     "id": 1883,
     "name": "SCORCH TORCH U-TORCH/ADJUSTABLE ANGLE 61669-1 9 CT (9)",
-    "category": "smoking",
+    "category": "lighters-torches",
     "price": 8.5,
     "salePrice": 7.22,
     "barcode": "818766014731",
@@ -22601,7 +22601,7 @@ export const products = [
   {
     "id": 1884,
     "name": "SCORCH TORCH VENUS SCORCH PUSH/HOLD BUTTON ASSORTED COLORS 6",
-    "category": "smoking",
+    "category": "lighters-torches",
     "price": 10.5,
     "salePrice": null,
     "barcode": "818766013925",
@@ -22613,7 +22613,7 @@ export const products = [
   {
     "id": 1885,
     "name": "SCORCH TORCH W/ADJUSTABLE HEAD/ ASSORTEDCOLOR 61536-1 9CT (8",
-    "category": "smoking",
+    "category": "lighters-torches",
     "price": 8.0,
     "salePrice": 6.8,
     "barcode": "818766013314",
@@ -22625,7 +22625,7 @@ export const products = [
   {
     "id": 1886,
     "name": "SCORCH TORCH W/PULL BACK TRIGGER 61456-1 6CT (17)",
-    "category": "smoking",
+    "category": "glass-pipes",
     "price": 9.3,
     "salePrice": null,
     "barcode": "818766012355",
@@ -22637,7 +22637,7 @@ export const products = [
   {
     "id": 1887,
     "name": "SCORCH TORCH TURBO CC TORCH 61644-1 9 CT (3)",
-    "category": "smoking",
+    "category": "lighters-torches",
     "price": 9.25,
     "salePrice": 7.86,
     "barcode": "818766014465",
@@ -22649,7 +22649,7 @@ export const products = [
   {
     "id": 1888,
     "name": "SCORCH TORCH TURBO CC TORCH W/HOLD BUTTON/MANDALA LEAF 61644",
-    "category": "smoking",
+    "category": "lighters-torches",
     "price": 9.25,
     "salePrice": 7.86,
     "barcode": null,
@@ -22661,7 +22661,7 @@ export const products = [
   {
     "id": 1889,
     "name": "SCORCH TURBO TORCH SWIRLY 61696-1 6 CT (7)",
-    "category": "smoking",
+    "category": "lighters-torches",
     "price": 8.25,
     "salePrice": 7.01,
     "barcode": "818766015004",
@@ -22673,7 +22673,7 @@ export const products = [
   {
     "id": 1890,
     "name": "STAR QUALITY LIGHTER RICKY MORTY ZIPPO LIGHTER 12PK SHEET",
-    "category": "smoking",
+    "category": "lighters-torches",
     "price": 20.0,
     "salePrice": 17.0,
     "barcode": null,
@@ -22685,7 +22685,7 @@ export const products = [
   {
     "id": 1891,
     "name": "STARBUZZ HOOKAH CHARCOAL 35MM",
-    "category": "other",
+    "category": "hookah",
     "price": 11.5,
     "salePrice": null,
     "barcode": "847244018459",
@@ -22697,7 +22697,7 @@ export const products = [
   {
     "id": 1892,
     "name": "STARBUZZ HOOKAH CHARCOAL 40MM",
-    "category": "other",
+    "category": "hookah",
     "price": 14.99,
     "salePrice": 12.74,
     "barcode": "847244018466",
@@ -22709,7 +22709,7 @@ export const products = [
   {
     "id": 1893,
     "name": "STARBUZZ HOOKHA  BOWL",
-    "category": "other",
+    "category": "flower-slides",
     "price": 6.5,
     "salePrice": null,
     "barcode": "847244021114",
@@ -22733,7 +22733,7 @@ export const products = [
   {
     "id": 1895,
     "name": "STARLIGHT CHARCOAL 33MM",
-    "category": "other",
+    "category": "hookah",
     "price": 5.99,
     "salePrice": null,
     "barcode": "683964900014",
@@ -22793,7 +22793,7 @@ export const products = [
   {
     "id": 1900,
     "name": "STIIIZY LEAF WRAP 8/5PK (BLUE RAZZ",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 45.0,
     "salePrice": null,
     "barcode": null,
@@ -22805,7 +22805,7 @@ export const products = [
   {
     "id": 1901,
     "name": "STIIIZY LEAF WRAP 8/5PK (GOLDEN)",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 45.0,
     "salePrice": null,
     "barcode": null,
@@ -22817,7 +22817,7 @@ export const products = [
   {
     "id": 1902,
     "name": "STIIIZY LEAF WRAP 8/5PK (HONEY ROASTED)",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 45.0,
     "salePrice": null,
     "barcode": null,
@@ -22829,7 +22829,7 @@ export const products = [
   {
     "id": 1903,
     "name": "STIIIZY LEAF WRAP 8/5PK (ORIGINAL)",
-    "category": "smoking",
+    "category": "glass-pipes",
     "price": 45.0,
     "salePrice": null,
     "barcode": null,
@@ -22841,7 +22841,7 @@ export const products = [
   {
     "id": 1904,
     "name": "STIIIZY LEAF WRAP 8/5PK (RUSSIAN CREAM)",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 45.0,
     "salePrice": null,
     "barcode": null,
@@ -22853,7 +22853,7 @@ export const products = [
   {
     "id": 1905,
     "name": "STIIIZY LEAF WRAP 8/5PK (SOUR GREEN APPLE)",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 45.0,
     "salePrice": null,
     "barcode": null,
@@ -22961,7 +22961,7 @@ export const products = [
   {
     "id": 1914,
     "name": "SULTAN CHARCOAL 10X10X35MM 100CT",
-    "category": "other",
+    "category": "hookah",
     "price": 9.0,
     "salePrice": null,
     "barcode": "074265015963",
@@ -22973,7 +22973,7 @@ export const products = [
   {
     "id": 1915,
     "name": "SUNGLASS DISPLAY",
-    "category": "accessories",
+    "category": "glass-pipes",
     "price": 99.0,
     "salePrice": null,
     "barcode": null,
@@ -22985,7 +22985,7 @@ export const products = [
   {
     "id": 1916,
     "name": "SUNGLASSES 12PCS BOX",
-    "category": "accessories",
+    "category": "glass-pipes",
     "price": 28.0,
     "salePrice": null,
     "barcode": null,
@@ -22997,7 +22997,7 @@ export const products = [
   {
     "id": 1917,
     "name": "SUNLIGHT CHARCOAL 33MM 10ROLL",
-    "category": "other",
+    "category": "hookah",
     "price": 4.99,
     "salePrice": null,
     "barcode": "705377733888",
@@ -23285,7 +23285,7 @@ export const products = [
   {
     "id": 1941,
     "name": "PREMIER FULL FLAVOR 100MM 250 TUBES TUBES 4 PACK",
-    "category": "e-liquids",
+    "category": "other",
     "price": 16.5,
     "salePrice": null,
     "barcode": "066619519166",
@@ -23321,7 +23321,7 @@ export const products = [
   {
     "id": 1944,
     "name": "PREMIER FULL FLAVOR KING TUBES 5PK",
-    "category": "e-liquids",
+    "category": "other",
     "price": 12.5,
     "salePrice": null,
     "barcode": "066619501321",
@@ -23369,7 +23369,7 @@ export const products = [
   {
     "id": 1948,
     "name": "SMOKERS BEST TUBE KING FULL FLAVOR 5 PACK",
-    "category": "e-liquids",
+    "category": "other",
     "price": 6.99,
     "salePrice": null,
     "barcode": "851682002390",
@@ -23717,7 +23717,7 @@ export const products = [
   {
     "id": 1977,
     "name": "TAMPAX PEARL PLASTIC SUPER",
-    "category": "other",
+    "category": "marbles",
     "price": 5.0,
     "salePrice": null,
     "barcode": "073010006881",
@@ -23777,7 +23777,7 @@ export const products = [
   {
     "id": 1982,
     "name": "TARU CHARCOAL 80CT",
-    "category": "other",
+    "category": "hookah",
     "price": 5.5,
     "salePrice": 4.67,
     "barcode": "016165007242",
@@ -23789,7 +23789,7 @@ export const products = [
   {
     "id": 1983,
     "name": "TECH NO TORCH US PAT PENDIND SMALL",
-    "category": "smoking",
+    "category": "lighters-torches",
     "price": 27.0,
     "salePrice": null,
     "barcode": "707670105584",
@@ -23801,7 +23801,7 @@ export const products = [
   {
     "id": 1984,
     "name": "TECH NO  ACE TORCH 15CT",
-    "category": "smoking",
+    "category": "lighters-torches",
     "price": 50.0,
     "salePrice": null,
     "barcode": "707670092891",
@@ -23813,7 +23813,7 @@ export const products = [
   {
     "id": 1985,
     "name": "TECH NO  ANGLE TORCH 15CT",
-    "category": "smoking",
+    "category": "lighters-torches",
     "price": 30.0,
     "salePrice": null,
     "barcode": null,
@@ -23825,7 +23825,7 @@ export const products = [
   {
     "id": 1986,
     "name": "TECH NO TORCH 16CT BIG US PAT PENDING",
-    "category": "smoking",
+    "category": "lighters-torches",
     "price": 25.0,
     "salePrice": null,
     "barcode": "707670107021",
@@ -23849,7 +23849,7 @@ export const products = [
   {
     "id": 1988,
     "name": "TECH NO PISTOL LIGHTER 12CT",
-    "category": "smoking",
+    "category": "lighters-torches",
     "price": 45.0,
     "salePrice": null,
     "barcode": "707670059184",
@@ -23861,7 +23861,7 @@ export const products = [
   {
     "id": 1989,
     "name": "TECH NO TORCH 1PCS",
-    "category": "smoking",
+    "category": "lighters-torches",
     "price": 16.5,
     "salePrice": 14.03,
     "barcode": "707670821026",
@@ -23873,7 +23873,7 @@ export const products = [
   {
     "id": 1990,
     "name": "TECH NO TORCH BIG 12CT",
-    "category": "smoking",
+    "category": "lighters-torches",
     "price": 125.0,
     "salePrice": null,
     "barcode": null,
@@ -23885,7 +23885,7 @@ export const products = [
   {
     "id": 1991,
     "name": "TECH NO TORCH BIG BOM 6CT",
-    "category": "smoking",
+    "category": "lighters-torches",
     "price": 60.0,
     "salePrice": null,
     "barcode": null,
@@ -23897,7 +23897,7 @@ export const products = [
   {
     "id": 1992,
     "name": "TECH NO TORCH BOMB SHAPE LIGHTER",
-    "category": "smoking",
+    "category": "lighters-torches",
     "price": 7.5,
     "salePrice": null,
     "barcode": null,
@@ -23909,7 +23909,7 @@ export const products = [
   {
     "id": 1993,
     "name": "TECH NO TORCH BOTTEL OPNER LIGHTER 25",
-    "category": "smoking",
+    "category": "lighters-torches",
     "price": 37.5,
     "salePrice": null,
     "barcode": "707670000636",
@@ -23921,7 +23921,7 @@ export const products = [
   {
     "id": 1994,
     "name": "TECH NO TORCH GIFT BOX",
-    "category": "smoking",
+    "category": "lighters-torches",
     "price": 14.5,
     "salePrice": null,
     "barcode": "707670158115",
@@ -23933,7 +23933,7 @@ export const products = [
   {
     "id": 1995,
     "name": "TECH NO TORCH GIFT BOX",
-    "category": "smoking",
+    "category": "lighters-torches",
     "price": 14.5,
     "salePrice": null,
     "barcode": "707670190092",
@@ -23945,7 +23945,7 @@ export const products = [
   {
     "id": 1996,
     "name": "TECH NO TORCH MIX DESINGE LIGHTER 15CT",
-    "category": "smoking",
+    "category": "lighters-torches",
     "price": 35.0,
     "salePrice": null,
     "barcode": null,
@@ -23957,7 +23957,7 @@ export const products = [
   {
     "id": 1997,
     "name": "TECH NO TORCH PEN 15CT",
-    "category": "smoking",
+    "category": "lighters-torches",
     "price": 40.0,
     "salePrice": null,
     "barcode": "707670191563",
@@ -23969,7 +23969,7 @@ export const products = [
   {
     "id": 1998,
     "name": "TECH NO TORCH QUAD LIGHTER 12PC",
-    "category": "smoking",
+    "category": "lighters-torches",
     "price": 60.0,
     "salePrice": 51.0,
     "barcode": "707670263666",
@@ -23981,7 +23981,7 @@ export const products = [
   {
     "id": 1999,
     "name": "TECH NO TORCH TARNPARENT 16CT",
-    "category": "smoking",
+    "category": "lighters-torches",
     "price": 28.0,
     "salePrice": null,
     "barcode": "707670019089",
@@ -23993,7 +23993,7 @@ export const products = [
   {
     "id": 2000,
     "name": "TECH NO TORCH BIG MAN 20CT",
-    "category": "smoking",
+    "category": "lighters-torches",
     "price": 32.0,
     "salePrice": null,
     "barcode": "707670001367",
@@ -24005,7 +24005,7 @@ export const products = [
   {
     "id": 2001,
     "name": "TECHNO ANGEL TORCH 9CT",
-    "category": "smoking",
+    "category": "lighters-torches",
     "price": 20.0,
     "salePrice": 17.0,
     "barcode": "707670001398",
@@ -24017,7 +24017,7 @@ export const products = [
   {
     "id": 2002,
     "name": "TECHNO SLANT TORCH 6CT",
-    "category": "smoking",
+    "category": "lighters-torches",
     "price": 52.0,
     "salePrice": null,
     "barcode": "707670822191",
@@ -24029,7 +24029,7 @@ export const products = [
   {
     "id": 2003,
     "name": "TECHNO TORCH 72CT DISPLAY",
-    "category": "smoking",
+    "category": "lighters-torches",
     "price": 140.0,
     "salePrice": null,
     "barcode": "707670296077",
@@ -24041,7 +24041,7 @@ export const products = [
   {
     "id": 2004,
     "name": "TECH NO TORCH GIFT BOX",
-    "category": "smoking",
+    "category": "lighters-torches",
     "price": 14.5,
     "salePrice": null,
     "barcode": "707670196995",
@@ -24053,7 +24053,7 @@ export const products = [
   {
     "id": 2005,
     "name": "TECHNO TORCH TRANSPARENT 15CT",
-    "category": "smoking",
+    "category": "lighters-torches",
     "price": 30.0,
     "salePrice": 25.5,
     "barcode": "707670011694",
@@ -24137,7 +24137,7 @@ export const products = [
   {
     "id": 2012,
     "name": "THICK TWO TONE PEANUT PIPES",
-    "category": "smoking",
+    "category": "glass-pipes",
     "price": 10.0,
     "salePrice": 8.5,
     "barcode": "12345678961",
@@ -24161,7 +24161,7 @@ export const products = [
   {
     "id": 2014,
     "name": "THREE KING CHARCOAL 33MM 10ROLL",
-    "category": "other",
+    "category": "hookah",
     "price": 9.99,
     "salePrice": null,
     "barcode": "8716294331004",
@@ -24173,7 +24173,7 @@ export const products = [
   {
     "id": 2015,
     "name": "THREE KING CHARCOAL 40MM 10ROLL",
-    "category": "other",
+    "category": "hookah",
     "price": 14.99,
     "salePrice": null,
     "barcode": "8716294401004",
@@ -24221,7 +24221,7 @@ export const products = [
   {
     "id": 2019,
     "name": "THROW BACK NATURAL LEAF CIGAR 5/10PK",
-    "category": "other",
+    "category": "cigars",
     "price": 30.0,
     "salePrice": 25.5,
     "barcode": "20860004671613",
@@ -24233,7 +24233,7 @@ export const products = [
   {
     "id": 2020,
     "name": "THROW BACK RUSSAIN CREAM  LEAF CIGAR 5/10PK",
-    "category": "other",
+    "category": "cigars",
     "price": 30.0,
     "salePrice": 25.5,
     "barcode": "20860004671637",
@@ -24245,7 +24245,7 @@ export const products = [
   {
     "id": 2021,
     "name": "THROW BACK SWEET LEAF CIGAR 5/10PK",
-    "category": "other",
+    "category": "cigars",
     "price": 30.0,
     "salePrice": 25.5,
     "barcode": "20860004671606",
@@ -24353,7 +24353,7 @@ export const products = [
   {
     "id": 2030,
     "name": "TITANIUM CHARCOAL 108CT",
-    "category": "other",
+    "category": "hookah",
     "price": 15.0,
     "salePrice": 12.75,
     "barcode": null,
@@ -24365,7 +24365,7 @@ export const products = [
   {
     "id": 2031,
     "name": "TITANIUM CHARCOAL 120CT",
-    "category": "other",
+    "category": "hookah",
     "price": 8.25,
     "salePrice": null,
     "barcode": "646263999981",
@@ -24377,7 +24377,7 @@ export const products = [
   {
     "id": 2032,
     "name": "TITANIUM CHARCOAL CUBE 72CT",
-    "category": "other",
+    "category": "hookah",
     "price": 11.0,
     "salePrice": 9.35,
     "barcode": null,
@@ -24389,7 +24389,7 @@ export const products = [
   {
     "id": 2033,
     "name": "TITANUM FLAT GREEN CHARCOAL",
-    "category": "other",
+    "category": "hookah",
     "price": 8.5,
     "salePrice": 7.22,
     "barcode": "852668154997",
@@ -24401,7 +24401,7 @@ export const products = [
   {
     "id": 2034,
     "name": "TITANUM RED CHARCOAL",
-    "category": "other",
+    "category": "hookah",
     "price": 8.5,
     "salePrice": null,
     "barcode": "881314515998",
@@ -24413,7 +24413,7 @@ export const products = [
   {
     "id": 2035,
     "name": "TOBACCO GRINDER 29RB",
-    "category": "smoking",
+    "category": "grinders",
     "price": 6.25,
     "salePrice": 5.31,
     "barcode": null,
@@ -24437,7 +24437,7 @@ export const products = [
   {
     "id": 2037,
     "name": "TOP CONE 3PCK KING SIZE 70MM",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 32.0,
     "salePrice": null,
     "barcode": "077170129800",
@@ -24449,7 +24449,7 @@ export const products = [
   {
     "id": 2038,
     "name": "TOP CONE 6PCK 84MM",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 32.0,
     "salePrice": null,
     "barcode": "077170129824",
@@ -24473,7 +24473,7 @@ export const products = [
   {
     "id": 2040,
     "name": "TOP FILTERS  30CT 15MM LENGTH",
-    "category": "other",
+    "category": "accessories",
     "price": 20.99,
     "salePrice": null,
     "barcode": "10077170260104",
@@ -24521,7 +24521,7 @@ export const products = [
   {
     "id": 2044,
     "name": "TOP CIGARETTE PAPER 24 BOOKLETS",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 24.5,
     "salePrice": null,
     "barcode": "077170510011",
@@ -24533,7 +24533,7 @@ export const products = [
   {
     "id": 2045,
     "name": "TOP PAPER JAR 200 CT",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 165.0,
     "salePrice": null,
     "barcode": "077170511445",
@@ -24581,7 +24581,7 @@ export const products = [
   {
     "id": 2049,
     "name": "TORCH GUN LEAF",
-    "category": "smoking",
+    "category": "lighters-torches",
     "price": 28.0,
     "salePrice": null,
     "barcode": null,
@@ -24593,7 +24593,7 @@ export const products = [
   {
     "id": 2050,
     "name": "TORCH GUN LIGHTER TATTO 12PCS",
-    "category": "smoking",
+    "category": "lighters-torches",
     "price": 32.0,
     "salePrice": 27.2,
     "barcode": "10018505144171",
@@ -24617,7 +24617,7 @@ export const products = [
   {
     "id": 2052,
     "name": "TR BEAR SKIN RAW 6CT",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 16.0,
     "salePrice": null,
     "barcode": "022600001553",
@@ -24797,7 +24797,7 @@ export const products = [
   {
     "id": 2067,
     "name": "TROJAN MAGNUM 48CT JAR",
-    "category": "other",
+    "category": "storage",
     "price": 21.99,
     "salePrice": 18.69,
     "barcode": "815556020125",
@@ -25001,7 +25001,7 @@ export const products = [
   {
     "id": 2084,
     "name": "TRAY LARGE",
-    "category": "smoking",
+    "category": "other",
     "price": 4.0,
     "salePrice": null,
     "barcode": null,
@@ -25241,7 +25241,7 @@ export const products = [
   {
     "id": 2104,
     "name": "TWISTED HAND PIPES [PACK OF 3]",
-    "category": "smoking",
+    "category": "glass-pipes",
     "price": 33.0,
     "salePrice": 28.05,
     "barcode": "12345678947",
@@ -25337,7 +25337,7 @@ export const products = [
   {
     "id": 2112,
     "name": "TYSON PRE ROLLED CONES 3PK KING SIZE 3PK/30CT DISPLAY",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 45.0,
     "salePrice": 38.25,
     "barcode": "20819500025635",
@@ -25349,7 +25349,7 @@ export const products = [
   {
     "id": 2113,
     "name": "TYSON RANCH - PRE ROLLED BLUNT CONES (12TUBES/BOX)",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 36.99,
     "salePrice": 31.44,
     "barcode": "20819500025628",
@@ -25361,7 +25361,7 @@ export const products = [
   {
     "id": 2114,
     "name": "TYSON RANCH WRAPS DISPLAY",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 60.0,
     "salePrice": 51.0,
     "barcode": "20819500025611",
@@ -25421,7 +25421,7 @@ export const products = [
   {
     "id": 2119,
     "name": "ULTRA PURE BUTANE 420 ML 12CT",
-    "category": "other",
+    "category": "lighters-torches",
     "price": 46.99,
     "salePrice": null,
     "barcode": null,
@@ -25445,7 +25445,7 @@ export const products = [
   {
     "id": 2121,
     "name": "USB-C POWER ADAPTER W/CABLE LIGHTNING",
-    "category": "other",
+    "category": "accessories",
     "price": 6.0,
     "salePrice": 5.1,
     "barcode": "880760139017",
@@ -25469,7 +25469,7 @@ export const products = [
   {
     "id": 2123,
     "name": "USB C POWER ADAPTER KIT (C-C)",
-    "category": "other",
+    "category": "accessories",
     "price": 6.0,
     "salePrice": 5.1,
     "barcode": null,
@@ -25481,7 +25481,7 @@ export const products = [
   {
     "id": 2124,
     "name": "USB SMART CHARGER 30CT",
-    "category": "accessories",
+    "category": "other",
     "price": 25.0,
     "salePrice": 21.25,
     "barcode": "739406442120",
@@ -25505,7 +25505,7 @@ export const products = [
   {
     "id": 2126,
     "name": "HAPPY VALENTINE GLASS ROSE 6\" 24CT",
-    "category": "accessories",
+    "category": "glass-pipes",
     "price": 24.99,
     "salePrice": null,
     "barcode": null,
@@ -25541,7 +25541,7 @@ export const products = [
   {
     "id": 2129,
     "name": "VAPOR HOOKAH HOSE",
-    "category": "other",
+    "category": "hookah",
     "price": 2.5,
     "salePrice": 2.12,
     "barcode": null,
@@ -25577,7 +25577,7 @@ export const products = [
   {
     "id": 2132,
     "name": "VIBES CONE 11/4 SIZE 6PACK RED",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 30.0,
     "salePrice": null,
     "barcode": "810084712368",
@@ -25589,7 +25589,7 @@ export const products = [
   {
     "id": 2133,
     "name": "VIBES CONE CALI 2GM 3PK 8CT",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 24.0,
     "salePrice": null,
     "barcode": null,
@@ -25601,7 +25601,7 @@ export const products = [
   {
     "id": 2134,
     "name": "VIBES CONE CALI 2GM RICE 3PK",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 24.0,
     "salePrice": null,
     "barcode": null,
@@ -25613,7 +25613,7 @@ export const products = [
   {
     "id": 2135,
     "name": "VIBES CONE CALI 2GM ULTRA THIN 3PK 8CT",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 24.0,
     "salePrice": null,
     "barcode": null,
@@ -25625,7 +25625,7 @@ export const products = [
   {
     "id": 2136,
     "name": "VIBES CONE CUBANO RICE 1PK",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 36.0,
     "salePrice": null,
     "barcode": null,
@@ -25637,7 +25637,7 @@ export const products = [
   {
     "id": 2137,
     "name": "VIBES CONE CUBANO ULTRA THIN 1PK",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 36.0,
     "salePrice": null,
     "barcode": null,
@@ -25649,7 +25649,7 @@ export const products = [
   {
     "id": 2138,
     "name": "VIBES CONE KING SIZE 3PACK RED",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 38.0,
     "salePrice": 32.3,
     "barcode": "814725025145",
@@ -25661,7 +25661,7 @@ export const products = [
   {
     "id": 2139,
     "name": "VIBES CONE OG HEMP 11/4 6PK",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 30.0,
     "salePrice": null,
     "barcode": "810055132201",
@@ -25673,7 +25673,7 @@ export const products = [
   {
     "id": 2140,
     "name": "VIBES CONE RICE BLUE CUBANO",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 35.0,
     "salePrice": null,
     "barcode": "840124402317",
@@ -25685,7 +25685,7 @@ export const products = [
   {
     "id": 2141,
     "name": "VIBES CONE ULTRA THIN BLACK 11/4 6PK",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 40.0,
     "salePrice": 34.0,
     "barcode": "814725025138",
@@ -25697,7 +25697,7 @@ export const products = [
   {
     "id": 2142,
     "name": "VIBES CONE ULTRA THIN CUBANO BLACK",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 39.0,
     "salePrice": null,
     "barcode": "814725024773",
@@ -25709,7 +25709,7 @@ export const products = [
   {
     "id": 2143,
     "name": "VIBES CONE ULTRA THIN KING SIZE 24/BOOKLET",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 42.0,
     "salePrice": null,
     "barcode": null,
@@ -25721,7 +25721,7 @@ export const products = [
   {
     "id": 2144,
     "name": "VIBES CONES CUBANO HEMP 24CT RED",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 36.0,
     "salePrice": null,
     "barcode": null,
@@ -25733,7 +25733,7 @@ export const products = [
   {
     "id": 2145,
     "name": "VIBES ORG HEMP K/S CONE 3PK",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 30.0,
     "salePrice": null,
     "barcode": "810055132188",
@@ -25745,7 +25745,7 @@ export const products = [
   {
     "id": 2146,
     "name": "VIBES PAPER KING SIZE 50CT",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 42.0,
     "salePrice": null,
     "barcode": null,
@@ -25757,7 +25757,7 @@ export const products = [
   {
     "id": 2147,
     "name": "VIBES PAPER OG 11/4+TIPS 24CT",
-    "category": "accessories",
+    "category": "papers-wraps",
     "price": 40.0,
     "salePrice": null,
     "barcode": null,
@@ -25769,7 +25769,7 @@ export const products = [
   {
     "id": 2148,
     "name": "VIBES PAPER OG KING SIZE 24/BOOKLETS",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 42.0,
     "salePrice": null,
     "barcode": null,
@@ -25781,7 +25781,7 @@ export const products = [
   {
     "id": 2149,
     "name": "VIBES PAPER OG KING SIZE 50/BOOKLET",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 42.0,
     "salePrice": null,
     "barcode": null,
@@ -25793,7 +25793,7 @@ export const products = [
   {
     "id": 2150,
     "name": "VIBES PAPER ULTRA THIN KING 24/BOKLETS",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 42.0,
     "salePrice": null,
     "barcode": null,
@@ -25805,7 +25805,7 @@ export const products = [
   {
     "id": 2151,
     "name": "VIBES ULTRA THIN CONE SIZE BLACK 3PK",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 25.0,
     "salePrice": null,
     "barcode": "814725027767",
@@ -25949,7 +25949,7 @@ export const products = [
   {
     "id": 2163,
     "name": "ALIEN EXOTICS MINISERIES PRE ROLL 5CT/JAR 25CT/BOX",
-    "category": "other",
+    "category": "storage",
     "price": 175.0,
     "salePrice": null,
     "barcode": null,
@@ -26093,7 +26093,7 @@ export const products = [
   {
     "id": 2175,
     "name": "ALTO HEIGHTS 1200MG CBD CIGARETTE 10CT",
-    "category": "other",
+    "category": "cigars",
     "price": 5.5,
     "salePrice": null,
     "barcode": "725272730706",
@@ -26297,7 +26297,7 @@ export const products = [
   {
     "id": 2192,
     "name": "CAKE BATTERY 650MAH 10CT",
-    "category": "accessories",
+    "category": "other",
     "price": 80.0,
     "salePrice": null,
     "barcode": null,
@@ -26345,7 +26345,7 @@ export const products = [
   {
     "id": 2196,
     "name": "CLOVER FLAT TOP QUARTZ BANGER 20MM 4MM 14MM MALE 12CT DISPLA",
-    "category": "other",
+    "category": "bangers",
     "price": 28.0,
     "salePrice": 23.8,
     "barcode": "7907117021",
@@ -26357,7 +26357,7 @@ export const products = [
   {
     "id": 2197,
     "name": "CLOVER FLAT TOP QUARTZ BANGER 25MM 4MM 14MM MALE 12CT DISPLA",
-    "category": "other",
+    "category": "bangers",
     "price": 32.0,
     "salePrice": 27.2,
     "barcode": "7907117025",
@@ -26585,7 +26585,7 @@ export const products = [
   {
     "id": 2216,
     "name": "VP-DAB TOOL",
-    "category": "other",
+    "category": "dab-accessories",
     "price": 2.99,
     "salePrice": 2.54,
     "barcode": null,
@@ -26597,7 +26597,7 @@ export const products = [
   {
     "id": 2217,
     "name": "DABBER SILVER DEIGN",
-    "category": "other",
+    "category": "dabbers",
     "price": 3.0,
     "salePrice": 2.55,
     "barcode": null,
@@ -26693,7 +26693,7 @@ export const products = [
   {
     "id": 2225,
     "name": "DOUBLE DOINKS DELTA MUNCHIES THC-A DIAMOND INFUSED 2*1.5GM P",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 70.0,
     "salePrice": 59.5,
     "barcode": "251260883654",
@@ -26729,7 +26729,7 @@ export const products = [
   {
     "id": 2228,
     "name": "VP--E-SLIM BATTERY",
-    "category": "accessories",
+    "category": "other",
     "price": 5.0,
     "salePrice": 4.25,
     "barcode": "6939287908874",
@@ -26753,7 +26753,7 @@ export const products = [
   {
     "id": 2230,
     "name": "ECPOW 510 THREAD PEN BATTERY DUAL CHARGING PORT 650MAH",
-    "category": "accessories",
+    "category": "other",
     "price": 5.5,
     "salePrice": 4.67,
     "barcode": null,
@@ -26789,7 +26789,7 @@ export const products = [
   {
     "id": 2233,
     "name": "GLASS PIPE & GRINDER BLISTER SET 10CT",
-    "category": "accessories",
+    "category": "grinders",
     "price": 28.0,
     "salePrice": 23.8,
     "barcode": null,
@@ -26813,7 +26813,7 @@ export const products = [
   {
     "id": 2235,
     "name": "VP-HYDE EDGE 10CT",
-    "category": "other",
+    "category": "devices",
     "price": 85.0,
     "salePrice": null,
     "barcode": null,
@@ -26825,7 +26825,7 @@ export const products = [
   {
     "id": 2236,
     "name": "I PURE BATTERY 3VARIABLE VAOLTAGE BATTERY",
-    "category": "accessories",
+    "category": "other",
     "price": 15.0,
     "salePrice": null,
     "barcode": null,
@@ -27005,7 +27005,7 @@ export const products = [
   {
     "id": 2251,
     "name": "JUUL CHARGER",
-    "category": "accessories",
+    "category": "other",
     "price": 5.75,
     "salePrice": 4.89,
     "barcode": null,
@@ -27017,7 +27017,7 @@ export const products = [
   {
     "id": 2252,
     "name": "VP-JUUL CHARGER  JUUGO BOX 12CT",
-    "category": "accessories",
+    "category": "other",
     "price": 42.0,
     "salePrice": null,
     "barcode": null,
@@ -27029,7 +27029,7 @@ export const products = [
   {
     "id": 2253,
     "name": "JUUL USB CHARGER",
-    "category": "accessories",
+    "category": "other",
     "price": 19.0,
     "salePrice": null,
     "barcode": null,
@@ -27053,7 +27053,7 @@ export const products = [
   {
     "id": 2255,
     "name": "KOKO DELTA8 THC 500MG NUGGZ JAR BIRTHDAY CAKE",
-    "category": "other",
+    "category": "storage",
     "price": 15.0,
     "salePrice": null,
     "barcode": "753459709900",
@@ -27065,7 +27065,7 @@ export const products = [
   {
     "id": 2256,
     "name": "KOKO DELTA8 THC 500MG NUGGZ JAR CEREAL MILK",
-    "category": "other",
+    "category": "storage",
     "price": 15.0,
     "salePrice": null,
     "barcode": "753459709955",
@@ -27077,7 +27077,7 @@ export const products = [
   {
     "id": 2257,
     "name": "KOKO DELTA8 THC 500MG NUGGZ JAR COOKIES & CREAM",
-    "category": "other",
+    "category": "storage",
     "price": 15.0,
     "salePrice": null,
     "barcode": "753459710418",
@@ -27089,7 +27089,7 @@ export const products = [
   {
     "id": 2258,
     "name": "KOKO DELTA8 THC 500MG NUGGZ JAR COOKIE DOUGH",
-    "category": "other",
+    "category": "storage",
     "price": 15.0,
     "salePrice": null,
     "barcode": "753459713006",
@@ -27101,7 +27101,7 @@ export const products = [
   {
     "id": 2259,
     "name": "KOKO DELTA8 THC 500MG NUGGZ JAR PEANUT BUTTER",
-    "category": "other",
+    "category": "storage",
     "price": 15.0,
     "salePrice": null,
     "barcode": "753459711897",
@@ -27113,7 +27113,7 @@ export const products = [
   {
     "id": 2260,
     "name": "KOKO DELTA8 THC 500MG NUGGZ JAR PINK RUNTZ",
-    "category": "other",
+    "category": "storage",
     "price": 15.0,
     "salePrice": null,
     "barcode": "753459705018",
@@ -27161,7 +27161,7 @@ export const products = [
   {
     "id": 2264,
     "name": "LAW 1100MAH BATTERY CHARGER KIT``",
-    "category": "accessories",
+    "category": "other",
     "price": 4.49,
     "salePrice": 3.82,
     "barcode": "636391350778",
@@ -27173,7 +27173,7 @@ export const products = [
   {
     "id": 2265,
     "name": "LAW 350MH BATTERY",
-    "category": "accessories",
+    "category": "other",
     "price": 3.0,
     "salePrice": 2.55,
     "barcode": null,
@@ -27185,7 +27185,7 @@ export const products = [
   {
     "id": 2266,
     "name": "LEAF BUDDY USB CHARGER 30CT",
-    "category": "accessories",
+    "category": "other",
     "price": 26.5,
     "salePrice": 22.52,
     "barcode": "6009513001959",
@@ -27197,7 +27197,7 @@ export const products = [
   {
     "id": 2267,
     "name": "LED COKKIES TRAY",
-    "category": "smoking",
+    "category": "other",
     "price": 25.0,
     "salePrice": 21.25,
     "barcode": null,
@@ -27233,7 +27233,7 @@ export const products = [
   {
     "id": 2270,
     "name": "LOOKHA BEAR 510 BATTERY",
-    "category": "accessories",
+    "category": "other",
     "price": 15.5,
     "salePrice": null,
     "barcode": "6973199599904",
@@ -27245,7 +27245,7 @@ export const products = [
   {
     "id": 2271,
     "name": "LOOKHA TURTLE 510 BATTERY",
-    "category": "accessories",
+    "category": "other",
     "price": 17.0,
     "salePrice": null,
     "barcode": "6942167101234",
@@ -27257,7 +27257,7 @@ export const products = [
   {
     "id": 2272,
     "name": "NORD COIL 0.80 10CT",
-    "category": "accessories",
+    "category": "coils",
     "price": 6.5,
     "salePrice": 5.52,
     "barcode": "6940695643875",
@@ -27497,7 +27497,7 @@ export const products = [
   {
     "id": 2292,
     "name": "OILAX TINAO BATTERY 510 CARTIDGES MIX COLOR",
-    "category": "accessories",
+    "category": "other",
     "price": 9.99,
     "salePrice": null,
     "barcode": null,
@@ -27509,7 +27509,7 @@ export const products = [
   {
     "id": 2293,
     "name": "ONE HITTER MINI PLASTIC PIPE 2.5\" 50CT JAR",
-    "category": "smoking",
+    "category": "glass-pipes",
     "price": 40.0,
     "salePrice": 34.0,
     "barcode": "454325700037",
@@ -27521,7 +27521,7 @@ export const products = [
   {
     "id": 2294,
     "name": "OOZE TWIST BATTERY",
-    "category": "accessories",
+    "category": "other",
     "price": 8.5,
     "salePrice": null,
     "barcode": null,
@@ -27797,7 +27797,7 @@ export const products = [
   {
     "id": 2317,
     "name": "QUAD BATTERY 25CT",
-    "category": "accessories",
+    "category": "other",
     "price": 90.0,
     "salePrice": 76.5,
     "barcode": null,
@@ -27821,7 +27821,7 @@ export const products = [
   {
     "id": 2319,
     "name": "RESIN SHERLOCK HAND PIPE DESIGN#702 $6.99",
-    "category": "smoking",
+    "category": "glass-pipes",
     "price": 6.99,
     "salePrice": 5.94,
     "barcode": "454325610022",
@@ -27833,7 +27833,7 @@ export const products = [
   {
     "id": 2320,
     "name": "RESIN SHERLOCK HAND PIPE DESIGN#703 $6.99",
-    "category": "smoking",
+    "category": "glass-pipes",
     "price": 6.99,
     "salePrice": 5.94,
     "barcode": "454325610039",
@@ -27845,7 +27845,7 @@ export const products = [
   {
     "id": 2321,
     "name": "RESIN SHERLOCK HAND PIPE DESIGN#704 $6.99",
-    "category": "smoking",
+    "category": "glass-pipes",
     "price": 6.99,
     "salePrice": 5.94,
     "barcode": "454325610046",
@@ -27857,7 +27857,7 @@ export const products = [
   {
     "id": 2322,
     "name": "RESIN SHERLOCK HAND PIPE DESIGN#708 $6.99",
-    "category": "smoking",
+    "category": "glass-pipes",
     "price": 6.99,
     "salePrice": 5.94,
     "barcode": "454325610084",
@@ -27869,7 +27869,7 @@ export const products = [
   {
     "id": 2323,
     "name": "RESIN SHERLOCK HAND PIPE DESIGN#709 $6.99",
-    "category": "smoking",
+    "category": "glass-pipes",
     "price": 6.99,
     "salePrice": 5.94,
     "barcode": "454325610091",
@@ -27881,7 +27881,7 @@ export const products = [
   {
     "id": 2324,
     "name": "RESIN SHERLOCK HAND PIPE DESIGN#710 $6.99",
-    "category": "smoking",
+    "category": "glass-pipes",
     "price": 6.99,
     "salePrice": 5.94,
     "barcode": "454325610107",
@@ -28049,7 +28049,7 @@ export const products = [
   {
     "id": 2338,
     "name": "VP-S TEC 510 BATTERY 10CT",
-    "category": "accessories",
+    "category": "other",
     "price": 100.0,
     "salePrice": null,
     "barcode": "6571582412245",
@@ -28061,7 +28061,7 @@ export const products = [
   {
     "id": 2339,
     "name": "SHRUUMZ DIAMOND INFUSED CONES 2PK PER PACK 5CT/BOX (STRAWBER",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 16.0,
     "salePrice": 13.6,
     "barcode": "810133320087",
@@ -28073,7 +28073,7 @@ export const products = [
   {
     "id": 2340,
     "name": "SHRUUMZ DIAMOND INFUSED CONES 2PK PER PACK 5CT/BOX (COOKIES ",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 16.0,
     "salePrice": 13.6,
     "barcode": "810133320025",
@@ -28085,7 +28085,7 @@ export const products = [
   {
     "id": 2341,
     "name": "SHRUUMZ DIAMOND INFUSED CONES 2PK PER PACK 5CT/BOX (DOUBLE C",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 16.0,
     "salePrice": 13.6,
     "barcode": "810133320001",
@@ -28097,7 +28097,7 @@ export const products = [
   {
     "id": 2342,
     "name": "SHRUUMZ DIAMOND INFUSED CONES 2PK PER PACK 5CT/BOX (MINT CHO",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 16.0,
     "salePrice": 13.6,
     "barcode": "810133320049",
@@ -28109,7 +28109,7 @@ export const products = [
   {
     "id": 2343,
     "name": "SHRUUMZ DIAMOND INFUSED CONES 2PK PER PACK 5CT/BOX (SPRINKLE",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 16.0,
     "salePrice": 13.6,
     "barcode": "810133320063",
@@ -28193,7 +28193,7 @@ export const products = [
   {
     "id": 2350,
     "name": "SMALL LED TRAY 1PCS",
-    "category": "smoking",
+    "category": "other",
     "price": 10.0,
     "salePrice": null,
     "barcode": "643462886814",
@@ -28289,7 +28289,7 @@ export const products = [
   {
     "id": 2358,
     "name": "NOVO 2 COIL",
-    "category": "accessories",
+    "category": "coils",
     "price": 7.5,
     "salePrice": null,
     "barcode": null,
@@ -28517,7 +28517,7 @@ export const products = [
   {
     "id": 2377,
     "name": "NOVO 4 LP1 COIL 0.8",
-    "category": "accessories",
+    "category": "coils",
     "price": 10.99,
     "salePrice": 9.34,
     "barcode": null,
@@ -28529,7 +28529,7 @@ export const products = [
   {
     "id": 2378,
     "name": "NOVO 4 LP1 COIL 1.2",
-    "category": "accessories",
+    "category": "coils",
     "price": 10.99,
     "salePrice": null,
     "barcode": null,
@@ -28637,7 +28637,7 @@ export const products = [
   {
     "id": 2387,
     "name": "VP-SMOK RPM COIL",
-    "category": "accessories",
+    "category": "coils",
     "price": 12.0,
     "salePrice": 10.2,
     "barcode": null,
@@ -28697,7 +28697,7 @@ export const products = [
   {
     "id": 2392,
     "name": "VP-SMOKE RPM 2 COIL",
-    "category": "accessories",
+    "category": "coils",
     "price": 15.0,
     "salePrice": 12.75,
     "barcode": null,
@@ -28733,7 +28733,7 @@ export const products = [
   {
     "id": 2395,
     "name": "SNOW CONE BY GOOD EXTRACTS THZ-A PREMIUM 3PK PRE ROLLS 3GM J",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 50.0,
     "salePrice": null,
     "barcode": null,
@@ -28745,7 +28745,7 @@ export const products = [
   {
     "id": 2396,
     "name": "SNOW CONE BY GOOD EXTRACTS THZ-A PREMIUM 3PK PRE ROLLS 3GM J",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 50.0,
     "salePrice": null,
     "barcode": null,
@@ -28757,7 +28757,7 @@ export const products = [
   {
     "id": 2397,
     "name": "SNOW CONE BY GOOD EXTRACTS THZ-A PREMIUM 3PK PRE ROLLS 3GM J",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 50.0,
     "salePrice": null,
     "barcode": "850051606467",
@@ -28769,7 +28769,7 @@ export const products = [
   {
     "id": 2398,
     "name": "SNOW CONE BY GOOD EXTRACTS THZ-A PREMIUM 3PK PRE ROLLS 3GM J",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 50.0,
     "salePrice": null,
     "barcode": "850051606528",
@@ -28781,7 +28781,7 @@ export const products = [
   {
     "id": 2399,
     "name": "SNOW CONE BY GOOD EXTRACTS THZ-A PREMIUM 3PK PRE ROLLS 3GM J",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 50.0,
     "salePrice": null,
     "barcode": null,
@@ -28793,7 +28793,7 @@ export const products = [
   {
     "id": 2400,
     "name": "SNOW CONE BY GOOD EXTRACTS THZ-A PREMIUM 3PK PRE ROLLS 3GM J",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 50.0,
     "salePrice": null,
     "barcode": null,
@@ -29189,7 +29189,7 @@ export const products = [
   {
     "id": 2433,
     "name": "STNR D8 CAVIAR CONES 400MG PREROLLS JOINTS 25CT/JAR (BUBBA K",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 125.0,
     "salePrice": 106.25,
     "barcode": "745051125479",
@@ -29201,7 +29201,7 @@ export const products = [
   {
     "id": 2434,
     "name": "STNR D8 CAVIAR CONES 400MG PREROLLS JOINTS 25CT/JAR (GRAPE A",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 125.0,
     "salePrice": 106.25,
     "barcode": "745051125462",
@@ -29213,7 +29213,7 @@ export const products = [
   {
     "id": 2435,
     "name": "STNR D8 CAVIAR CONES 400MG PREROLLS JOINTS 25CT/JAR (TANGERI",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 125.0,
     "salePrice": 106.25,
     "barcode": "745051125455",
@@ -29225,7 +29225,7 @@ export const products = [
   {
     "id": 2436,
     "name": "STNR D8 CAVIAR CONES 400MG PREROLLS JOINTS 25CT/JAR (WHITE W",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 125.0,
     "salePrice": 106.25,
     "barcode": "745051125431",
@@ -29321,7 +29321,7 @@ export const products = [
   {
     "id": 2444,
     "name": "SWAG BATTERY 1100 MAH SINGLE",
-    "category": "accessories",
+    "category": "other",
     "price": 4.0,
     "salePrice": 3.4,
     "barcode": null,
@@ -29333,7 +29333,7 @@ export const products = [
   {
     "id": 2445,
     "name": "SWEET BABY JAR 5CT",
-    "category": "other",
+    "category": "storage",
     "price": 8.0,
     "salePrice": 6.8,
     "barcode": null,
@@ -29345,7 +29345,7 @@ export const products = [
   {
     "id": 2446,
     "name": "TORCH CAVIAR SAUCE 2.2GM INFUSED FLOWER BLUNTS 10CT/BOX (BER",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 50.0,
     "salePrice": null,
     "barcode": "810142470346",
@@ -29357,7 +29357,7 @@ export const products = [
   {
     "id": 2447,
     "name": "TORCH CAVIAR SAUCE 2.2GM INFUSED FLOWER BLUNTS 10CT/BOX (CRU",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 50.0,
     "salePrice": null,
     "barcode": "810142470360",
@@ -29369,7 +29369,7 @@ export const products = [
   {
     "id": 2448,
     "name": "TORCH CAVIAR SAUCE 2.2GM INFUSED FLOWER BLUNTS 10CT/BOX (SPA",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 50.0,
     "salePrice": null,
     "barcode": "810142470445",
@@ -29381,7 +29381,7 @@ export const products = [
   {
     "id": 2449,
     "name": "TORCH CAVIAR SAUCE 2.2GM INFUSED FLOWER BLUNTS 10CT/BOX (STA",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 50.0,
     "salePrice": null,
     "barcode": "810142470384",
@@ -29393,7 +29393,7 @@ export const products = [
   {
     "id": 2450,
     "name": "TORCH CAVIAR SAUCE 2.2GM INFUSED FLOWER BLUNTS 10CT/BOX (SUG",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 50.0,
     "salePrice": null,
     "barcode": "810142470407",
@@ -29405,7 +29405,7 @@ export const products = [
   {
     "id": 2451,
     "name": "TORCH CAVIAR SAUCE 2.2GM INFUSED FLOWER BLUNTS 10CT/BOX (TRU",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 50.0,
     "salePrice": null,
     "barcode": "810142470421",
@@ -29477,7 +29477,7 @@ export const products = [
   {
     "id": 2457,
     "name": "VP-VAPARZOR BACKWOOD COOKIES ROCKY",
-    "category": "other",
+    "category": "cigars",
     "price": 20.0,
     "salePrice": null,
     "barcode": null,
@@ -29621,7 +29621,7 @@ export const products = [
   {
     "id": 2469,
     "name": "VISION SPINNER  BATTERY",
-    "category": "accessories",
+    "category": "spinner-caps",
     "price": 4.0,
     "salePrice": null,
     "barcode": null,
@@ -29801,7 +29801,7 @@ export const products = [
   {
     "id": 2484,
     "name": "VP-YOCAN STIX BATTERY 50CT DISP (RAINBOW)",
-    "category": "accessories",
+    "category": "other",
     "price": 190.0,
     "salePrice": null,
     "barcode": null,
@@ -29813,7 +29813,7 @@ export const products = [
   {
     "id": 2485,
     "name": "VP-YOCAN STIX BATTERY 50CT DISP",
-    "category": "accessories",
+    "category": "other",
     "price": 200.0,
     "salePrice": null,
     "barcode": null,
@@ -29909,7 +29909,7 @@ export const products = [
   {
     "id": 2493,
     "name": "WALL CHARGER 25CT BLACK AND WHI",
-    "category": "accessories",
+    "category": "other",
     "price": 35.0,
     "salePrice": null,
     "barcode": null,
@@ -29921,7 +29921,7 @@ export const products = [
   {
     "id": 2494,
     "name": "WARNER 2USB CAR CHARGER 12CT",
-    "category": "accessories",
+    "category": "other",
     "price": 26.0,
     "salePrice": null,
     "barcode": null,
@@ -29945,7 +29945,7 @@ export const products = [
   {
     "id": 2496,
     "name": "WARNER CAR CHARGER DISPLAY 16CT",
-    "category": "accessories",
+    "category": "other",
     "price": 26.0,
     "salePrice": null,
     "barcode": "10812934024888",
@@ -29957,7 +29957,7 @@ export const products = [
   {
     "id": 2497,
     "name": "WARNER TRAVEL CHARGER 16CT",
-    "category": "accessories",
+    "category": "other",
     "price": 30.0,
     "salePrice": null,
     "barcode": "10812934026165",
@@ -29993,7 +29993,7 @@ export const products = [
   {
     "id": 2500,
     "name": "WARNER WALL CHARGER JAR 20CT",
-    "category": "accessories",
+    "category": "storage",
     "price": 30.0,
     "salePrice": null,
     "barcode": "812934022276",
@@ -30041,7 +30041,7 @@ export const products = [
   {
     "id": 2504,
     "name": "WHIP-IT ORIGINAL CHARGER 100CT",
-    "category": "accessories",
+    "category": "glass-pipes",
     "price": 280.0,
     "salePrice": null,
     "barcode": null,
@@ -30053,7 +30053,7 @@ export const products = [
   {
     "id": 2505,
     "name": "WHIP-IT ORIGINAL CHARGER 24CT, 25 BOX CASE",
-    "category": "accessories",
+    "category": "glass-pipes",
     "price": 280.0,
     "salePrice": null,
     "barcode": "065626846661",
@@ -30065,7 +30065,7 @@ export const products = [
   {
     "id": 2506,
     "name": "WHIP-IT ORIGINAL CHARGER 50CT 12 BOX CASE",
-    "category": "accessories",
+    "category": "glass-pipes",
     "price": 280.0,
     "salePrice": null,
     "barcode": null,
@@ -30077,7 +30077,7 @@ export const products = [
   {
     "id": 2507,
     "name": "WHIP IT CYLINDER 580G (N.W - 7.7LB) N20 CREAM CHARGER 6CT/BO",
-    "category": "accessories",
+    "category": "other",
     "price": 165.0,
     "salePrice": null,
     "barcode": null,
@@ -30113,7 +30113,7 @@ export const products = [
   {
     "id": 2510,
     "name": "WHIP IT FLAVOR 12*50",
-    "category": "e-liquids",
+    "category": "other",
     "price": 235.0,
     "salePrice": null,
     "barcode": null,
@@ -30125,7 +30125,7 @@ export const products = [
   {
     "id": 2511,
     "name": "WHIP IT TORCH",
-    "category": "smoking",
+    "category": "lighters-torches",
     "price": 11.5,
     "salePrice": null,
     "barcode": null,
@@ -30137,7 +30137,7 @@ export const products = [
   {
     "id": 2512,
     "name": "WHIP IT UTRA PURE BUTANE 420ML",
-    "category": "other",
+    "category": "lighters-torches",
     "price": 30.0,
     "salePrice": null,
     "barcode": null,
@@ -30173,7 +30173,7 @@ export const products = [
   {
     "id": 2515,
     "name": "64996WHWRAP RAZZLE TAZZ 4/99",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 15.0,
     "salePrice": null,
     "barcode": "649964321617",
@@ -30185,7 +30185,7 @@ export const products = [
   {
     "id": 2516,
     "name": "WHWRAP RUSSIAN CREAM 4/99",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 15.0,
     "salePrice": null,
     "barcode": "649964321570",
@@ -30197,7 +30197,7 @@ export const products = [
   {
     "id": 2517,
     "name": "WILD HEMP WRAPS BANANA  4/99C 20CT",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 15.0,
     "salePrice": 12.75,
     "barcode": "649964327213",
@@ -30209,7 +30209,7 @@ export const products = [
   {
     "id": 2518,
     "name": "WILD HEMP WRAPS GELATO 4/99C 20CT",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 16.0,
     "salePrice": 13.6,
     "barcode": null,
@@ -30221,7 +30221,7 @@ export const products = [
   {
     "id": 2519,
     "name": "WILD HEMP WRAPS HONEY LEMON 4/99C 20CT",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 16.0,
     "salePrice": 13.6,
     "barcode": null,
@@ -30233,7 +30233,7 @@ export const products = [
   {
     "id": 2520,
     "name": "WILD HEMP WRAPS ISLAND TWIST 4/99C 20CT",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 16.0,
     "salePrice": 13.6,
     "barcode": "817458027127",
@@ -30245,7 +30245,7 @@ export const products = [
   {
     "id": 2521,
     "name": "WILD HEMP WRAPS LIMEAIDE 4/99C 20CT",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 16.0,
     "salePrice": 13.6,
     "barcode": "817458027134",
@@ -30257,7 +30257,7 @@ export const products = [
   {
     "id": 2522,
     "name": "WILD HEMP WRAPS NATURAL  4/99C 20CT",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 16.0,
     "salePrice": 13.6,
     "barcode": "817458027080",
@@ -30269,7 +30269,7 @@ export const products = [
   {
     "id": 2523,
     "name": "WILD HEMP WRAPS PURPZ 4/99C 20CT",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 16.0,
     "salePrice": 13.6,
     "barcode": "817458027097",
@@ -30281,7 +30281,7 @@ export const products = [
   {
     "id": 2524,
     "name": "WILD HEMP WRAPS STRAWBERRY  4/99C 20CT",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 16.0,
     "salePrice": 13.6,
     "barcode": "649964327220",
@@ -30293,7 +30293,7 @@ export const products = [
   {
     "id": 2525,
     "name": "WILD HEMP WRAPS SWEET   4/99C 20CT",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 16.0,
     "salePrice": 13.6,
     "barcode": "817458027103",
@@ -30305,7 +30305,7 @@ export const products = [
   {
     "id": 2526,
     "name": "WILD HEMP WRAPS TROPICAL BUZZ    4/99C 20CT",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 16.0,
     "salePrice": 13.6,
     "barcode": "817458027110",
@@ -30329,7 +30329,7 @@ export const products = [
   {
     "id": 2528,
     "name": "WILD BERRY INCENSE BAG",
-    "category": "other",
+    "category": "storage",
     "price": 6.0,
     "salePrice": null,
     "barcode": null,
@@ -30401,7 +30401,7 @@ export const products = [
   {
     "id": 2534,
     "name": "WOOD GRINDER 6CT",
-    "category": "smoking",
+    "category": "grinders",
     "price": 6.5,
     "salePrice": null,
     "barcode": null,
@@ -30413,7 +30413,7 @@ export const products = [
   {
     "id": 2535,
     "name": "WOODEN TOBACCO PIPE JAR 30CT JAR",
-    "category": "smoking",
+    "category": "glass-pipes",
     "price": 65.0,
     "salePrice": 55.25,
     "barcode": "454325700044",
@@ -30425,7 +30425,7 @@ export const products = [
   {
     "id": 2536,
     "name": "WHITE RHINO GLASS CHILLUM 100CT",
-    "category": "accessories",
+    "category": "glass-pipes",
     "price": 74.99,
     "salePrice": null,
     "barcode": "10124567",
@@ -30461,7 +30461,7 @@ export const products = [
   {
     "id": 2539,
     "name": "WHITE RHINO GLASS STRAW 100CT",
-    "category": "accessories",
+    "category": "glass-pipes",
     "price": 99.99,
     "salePrice": null,
     "barcode": "10124581",
@@ -30485,7 +30485,7 @@ export const products = [
   {
     "id": 2541,
     "name": "XEZ SPLITZ JAR SMALL 60CT",
-    "category": "other",
+    "category": "storage",
     "price": 25.0,
     "salePrice": null,
     "barcode": null,
@@ -30521,7 +30521,7 @@ export const products = [
   {
     "id": 2544,
     "name": "YELLOW PIPE",
-    "category": "smoking",
+    "category": "glass-pipes",
     "price": 15.0,
     "salePrice": null,
     "barcode": null,
@@ -30533,7 +30533,7 @@ export const products = [
   {
     "id": 2545,
     "name": "YOCAN STIX 2.0 PEN BATTERY",
-    "category": "accessories",
+    "category": "other",
     "price": 70.0,
     "salePrice": null,
     "barcode": "6971154226575",
@@ -30569,7 +30569,7 @@ export const products = [
   {
     "id": 2548,
     "name": "CLIPPER MIXGO LIGHTER 30PCS",
-    "category": "smoking",
+    "category": "lighters-torches",
     "price": 41.0,
     "salePrice": null,
     "barcode": null,
@@ -30773,7 +30773,7 @@ export const products = [
   {
     "id": 2565,
     "name": "ZEN MENTHOL FILTER",
-    "category": "other",
+    "category": "accessories",
     "price": 2.0,
     "salePrice": 1.7,
     "barcode": "016165004197",
@@ -30785,7 +30785,7 @@ export const products = [
   {
     "id": 2566,
     "name": "ZEN PIPE CLEANER BRISTLE 48 CT",
-    "category": "smoking",
+    "category": "glass-pipes",
     "price": 35.0,
     "salePrice": 29.75,
     "barcode": "016165003961",
@@ -30797,7 +30797,7 @@ export const products = [
   {
     "id": 2567,
     "name": "ZEN PIPE CLEANER SOFT 48 CT",
-    "category": "smoking",
+    "category": "glass-pipes",
     "price": 35.0,
     "salePrice": 29.75,
     "barcode": "016165003985",
@@ -30845,7 +30845,7 @@ export const products = [
   {
     "id": 2571,
     "name": "ZENGAZ LIGHTER DISPLAY 48CT",
-    "category": "smoking",
+    "category": "lighters-torches",
     "price": 110.0,
     "salePrice": 93.5,
     "barcode": null,
@@ -30857,7 +30857,7 @@ export const products = [
   {
     "id": 2572,
     "name": "ZIGZAG 1-1/2 ULTRA THIN PAPER",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 55.0,
     "salePrice": 46.75,
     "barcode": "008660097347",
@@ -30869,7 +30869,7 @@ export const products = [
   {
     "id": 2573,
     "name": "ZIGZAG 1-1/4 UNBLEACHED PAPER",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 35.0,
     "salePrice": null,
     "barcode": "008660007353",
@@ -30881,7 +30881,7 @@ export const products = [
   {
     "id": 2574,
     "name": "ZIG ZAG KING SIZE MACHINE",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 17.0,
     "salePrice": null,
     "barcode": "3057069016128",
@@ -30893,7 +30893,7 @@ export const products = [
   {
     "id": 2575,
     "name": "8ZIGZAG ROSE CONE 3CT 8PK",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 80.0,
     "salePrice": null,
     "barcode": "840439106788",
@@ -30905,7 +30905,7 @@ export const products = [
   {
     "id": 2576,
     "name": "ZIGZAG ORIGINAL TIPS 50CT",
-    "category": "accessories",
+    "category": "glass-pipes",
     "price": 20.0,
     "salePrice": 17.0,
     "barcode": "008660008725",
@@ -30929,7 +30929,7 @@ export const products = [
   {
     "id": 2578,
     "name": "ZIPPER LOCK BAGS",
-    "category": "other",
+    "category": "storage",
     "price": 1.0,
     "salePrice": 0.85,
     "barcode": "898391002501",
@@ -30965,7 +30965,7 @@ export const products = [
   {
     "id": 2581,
     "name": "ZIPPO LIGHTER FLUID 4OZ",
-    "category": "smoking",
+    "category": "lighters-torches",
     "price": 33.99,
     "salePrice": 28.89,
     "barcode": "041689464103",
@@ -30977,7 +30977,7 @@ export const products = [
   {
     "id": 2582,
     "name": "ZIPPO LIGHTER FUEL 12OZ",
-    "category": "smoking",
+    "category": "lighters-torches",
     "price": 4.25,
     "salePrice": 3.61,
     "barcode": "041689301224",
@@ -31013,7 +31013,7 @@ export const products = [
   {
     "id": 2585,
     "name": "ZTC TYPE-C CHARGER 50CT JAR",
-    "category": "accessories",
+    "category": "storage",
     "price": 35.0,
     "salePrice": 29.75,
     "barcode": "288943741079",
@@ -31025,7 +31025,7 @@ export const products = [
   {
     "id": 2586,
     "name": "ZTC USB SMART CHARGER 50CT JAR",
-    "category": "accessories",
+    "category": "storage",
     "price": 35.0,
     "salePrice": 29.75,
     "barcode": null,
@@ -31301,7 +31301,7 @@ export const products = [
   {
     "id": 2609,
     "name": "ZIGZAG 70'S UNBLEACHED CONES MINI 24CT",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 40.0,
     "salePrice": null,
     "barcode": "008660008855",
@@ -31313,7 +31313,7 @@ export const products = [
   {
     "id": 2610,
     "name": "ZIG ZAG CONE 1 1/4 SIZE",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 36.0,
     "salePrice": null,
     "barcode": "008660007575",
@@ -31337,7 +31337,7 @@ export const products = [
   {
     "id": 2612,
     "name": "ZIG ZAG SMALL 6PACK",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 26.0,
     "salePrice": null,
     "barcode": "008660007179",
@@ -31349,7 +31349,7 @@ export const products = [
   {
     "id": 2613,
     "name": "ZZ CONE UNBLEACHED 1 1/4 6CT 36PK PROMO DISPLAY",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 40.0,
     "salePrice": null,
     "barcode": "008660008176",
@@ -31361,7 +31361,7 @@ export const products = [
   {
     "id": 2614,
     "name": "ZZ CONE UNBLEACHED 1/14 6PK",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 27.0,
     "salePrice": null,
     "barcode": "008660007681",
@@ -31373,7 +31373,7 @@ export const products = [
   {
     "id": 2615,
     "name": "ZIGZAG UNBLEACHED 11/4 SIZE CONE 24CT",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 40.0,
     "salePrice": null,
     "barcode": "008660006073",
@@ -31385,7 +31385,7 @@ export const products = [
   {
     "id": 2616,
     "name": "ZZ CONE UNBLEACHED 3PK KS",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 26.0,
     "salePrice": null,
     "barcode": "008660007759",
@@ -31397,7 +31397,7 @@ export const products = [
   {
     "id": 2617,
     "name": "ZIG ZAG CONE KING SZIE 6/3PK",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 35.0,
     "salePrice": null,
     "barcode": "008660007582",
@@ -31409,7 +31409,7 @@ export const products = [
   {
     "id": 2618,
     "name": "ZIG ZAG KING SIZE",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 40.0,
     "salePrice": null,
     "barcode": "008660007117",
@@ -31421,7 +31421,7 @@ export const products = [
   {
     "id": 2619,
     "name": "ZIG ZAG CIGARETTE PAPER KUTCORNERS 24CT",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 40.0,
     "salePrice": null,
     "barcode": "008660007421",
@@ -31433,7 +31433,7 @@ export const products = [
   {
     "id": 2620,
     "name": "ZIG ZAG CIGARETTE PAPER 1\u00bc ORANGE 24CT",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 40.0,
     "salePrice": null,
     "barcode": "008660007247",
@@ -31457,7 +31457,7 @@ export const products = [
   {
     "id": 2622,
     "name": "ZIG ZAG ULTRA THIN 1.25",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 40.0,
     "salePrice": null,
     "barcode": "008660007315",
@@ -31469,7 +31469,7 @@ export const products = [
   {
     "id": 2623,
     "name": "ZIG ZAG WHITE 24CT",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 40.0,
     "salePrice": null,
     "barcode": "008660007025",
@@ -31481,7 +31481,7 @@ export const products = [
   {
     "id": 2624,
     "name": "ZIG ZAG WRAPS RILLO  GOLD  4/99",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 12.0,
     "salePrice": null,
     "barcode": null,
@@ -31493,7 +31493,7 @@ export const products = [
   {
     "id": 2625,
     "name": "ZIG ZAG WRAPS RILLO BLUEBRRY 4/99",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 12.0,
     "salePrice": null,
     "barcode": null,
@@ -31505,7 +31505,7 @@ export const products = [
   {
     "id": 2626,
     "name": "ZIG ZAG WRAPS RILLO GRAPE 4/99",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 12.0,
     "salePrice": null,
     "barcode": null,
@@ -31517,7 +31517,7 @@ export const products = [
   {
     "id": 2627,
     "name": "ZIG ZAG WRAPS RILLO GREEN  4/99",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 12.0,
     "salePrice": null,
     "barcode": null,
@@ -31529,7 +31529,7 @@ export const products = [
   {
     "id": 2628,
     "name": "ZIG ZAG WRAPS RILLO PINK 4/99",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 12.0,
     "salePrice": null,
     "barcode": null,
@@ -31541,7 +31541,7 @@ export const products = [
   {
     "id": 2629,
     "name": "ZIG ZAG WRAPS RILLO  PURPEL 4/99",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 12.0,
     "salePrice": null,
     "barcode": null,
@@ -31553,7 +31553,7 @@ export const products = [
   {
     "id": 2630,
     "name": "ZIG ZAG WRAPS RILLO STRAIGHT UP   4/99",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 12.0,
     "salePrice": null,
     "barcode": null,
@@ -31565,7 +31565,7 @@ export const products = [
   {
     "id": 2631,
     "name": "ZIG ZAG WRAPS RILLO  SWEET  4/99",
-    "category": "smoking",
+    "category": "papers-wraps",
     "price": 12.0,
     "salePrice": null,
     "barcode": null,
@@ -31579,10 +31579,33 @@ export const products = [
 export const categories = [
   { id: "all", name: "All Products", icon: "grid" },
   { id: "devices", name: "Vape Devices", icon: "zap" },
-  { id: "accessories", name: "Accessories", icon: "settings" },
   { id: "e-liquids", name: "E-Liquids", icon: "droplet" },
-  { id: "smoking", name: "Smoking Accessories", icon: "flame" },
-  { id: "other", name: "Other Products", icon: "package" },
+  { id: "glass-pipes", name: "Glass & Pipes", icon: "wind" },
+  { id: "grinders", name: "Grinders", icon: "settings" },
+  { id: "papers-wraps", name: "Papers & Wraps", icon: "file" },
+  { id: "lighters-torches", name: "Lighters & Torches", icon: "flame" },
+  { id: "bangers", name: "Bangers", icon: "circle" },
+  { id: "carb-caps", name: "Carb Caps", icon: "disc" },
+  { id: "coils", name: "Coils", icon: "refresh-cw" },
+  { id: "dab-accessories", name: "Dab Accessories", icon: "tool" },
+  { id: "dabbers", name: "Dabbers", icon: "edit-3" },
+  { id: "down-stems", name: "Down Stems", icon: "arrow-down" },
+  { id: "flower-slides", name: "Flower Slides", icon: "square" },
+  { id: "ash-catchers", name: "Ash Catchers", icon: "filter" },
+  { id: "reclaim-catchers", name: "Reclaim Catchers", icon: "save" },
+  { id: "inserts", name: "Inserts", icon: "plus-circle" },
+  { id: "marbles", name: "Marbles & Pearls", icon: "circle" },
+  { id: "spinner-caps", name: "Spinner Caps", icon: "rotate-cw" },
+  { id: "mood-mats", name: "Mood Mats", icon: "square" },
+  { id: "heady-accessories", name: "Heady Accessories", icon: "star" },
+  { id: "dunk-stations", name: "Dunk Stations", icon: "inbox" },
+  { id: "cleaners", name: "Cleaners", icon: "droplet" },
+  { id: "storage", name: "Storage", icon: "box" },
+  { id: "scales", name: "Scales", icon: "sliders" },
+  { id: "hookah", name: "Hookah & Shisha", icon: "cloud" },
+  { id: "cigars", name: "Cigars", icon: "minus" },
+  { id: "accessories", name: "Accessories", icon: "package" },
+  { id: "other", name: "Other Products", icon: "more-horizontal" },
   { id: "sale", name: "On Sale", icon: "tag" }
 ];
 
@@ -31596,9 +31619,23 @@ export const featuredCollections = [
   },
   {
     id: 2,
-    title: "Accessories",
-    description: "Everything you need",
-    image: "/images/collection-accessories.jpg",
-    link: "/products?category=accessories"
+    title: "Glass & Pipes",
+    description: "Quality glass pieces",
+    image: "/images/collection-glass.jpg",
+    link: "/products?category=glass-pipes"
+  },
+  {
+    id: 3,
+    title: "Grinders",
+    description: "Premium grinders",
+    image: "/images/collection-grinders.jpg",
+    link: "/products?category=grinders"
+  },
+  {
+    id: 4,
+    title: "Dab Accessories",
+    description: "Everything for dabbing",
+    image: "/images/collection-dab.jpg",
+    link: "/products?category=dab-accessories"
   }
 ];
