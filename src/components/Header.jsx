@@ -55,8 +55,7 @@ export default function Header() {
 
                     {/* Logo */}
                     <Link to="/" className="logo">
-                        <span className="logo-icon">⚡</span>
-                        <span className="logo-text">VAPOR<span className="logo-accent">LUXE</span></span>
+                        <img src="/logo.jpg" alt="VaporLuxe" className="logo-image" />
                     </Link>
 
                     {/* Desktop Navigation */}

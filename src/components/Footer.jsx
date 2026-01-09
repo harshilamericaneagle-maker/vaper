@@ -39,8 +39,7 @@ export default function Footer() {
                         {/* Brand Column */}
                         <div className="footer-brand">
                             <Link to="/" className="footer-logo">
-                                <span className="footer-logo-icon">⚡</span>
-                                <span className="footer-logo-text">VAPOR<span>LUXE</span></span>
+                                <img src="/logo.jpg" alt="VaporLuxe" className="footer-logo-image" />
                             </Link>
                             <p className="footer-tagline">
                                 Premium vaporizers and accessories for the discerning enthusiast.
