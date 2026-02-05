@@ -1,0 +1,219 @@
+.policy-page {
+  min-height: 100vh;
+  padding: 4rem 0;
+  background: linear-gradient(180deg, rgba(100, 108, 255, 0.05) 0%, transparent 50%);
+}
+
+.policy-page .container {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 0 1.5rem;
+}
+
+.policy-header {
+  text-align: center;
+  margin-bottom: 3rem;
+  padding-bottom: 2rem;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.policy-header h1 {
+  font-size: 3rem;
+  font-weight: 700;
+  background: linear-gradient(135deg, #646cff, #a855f7);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  margin-bottom: 0.5rem;
+}
+
+.policy-header .last-updated {
+  color: rgba(255, 255, 255, 0.5);
+  font-size: 0.9rem;
+}
+
+.policy-intro {
+  background: rgba(100, 108, 255, 0.1);
+  border: 1px solid rgba(100, 108, 255, 0.2);
+  border-radius: 12px;
+  padding: 1.5rem;
+  margin-bottom: 2rem;
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.policy-intro svg {
+  color: #646cff;
+  flex-shrink: 0;
+}
+
+.policy-intro p {
+  margin: 0;
+  color: rgba(255, 255, 255, 0.8);
+  line-height: 1.6;
+}
+
+.policy-sections {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+
+.policy-card {
+  background: rgba(255, 255, 255, 0.03);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  border-radius: 16px;
+  padding: 2rem;
+  transition: all 0.3s ease;
+}
+
+.policy-card:hover {
+  background: rgba(255, 255, 255, 0.05);
+  border-color: rgba(100, 108, 255, 0.3);
+  transform: translateY(-2px);
+}
+
+.policy-card-header {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  margin-bottom: 1rem;
+}
+
+.policy-card-icon {
+  width: 48px;
+  height: 48px;
+  background: linear-gradient(135deg, rgba(100, 108, 255, 0.2), rgba(168, 85, 247, 0.2));
+  border-radius: 12px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #646cff;
+}
+
+.policy-card h2 {
+  font-size: 1.4rem;
+  font-weight: 600;
+  color: #fff;
+  margin: 0;
+}
+
+.policy-card p {
+  color: rgba(255, 255, 255, 0.7);
+  line-height: 1.7;
+  margin: 0;
+}
+
+.policy-card p + p {
+  margin-top: 1rem;
+}
+
+.policy-highlight {
+  background: rgba(100, 108, 255, 0.15);
+  border-left: 3px solid #646cff;
+  padding: 1rem 1.5rem;
+  border-radius: 0 8px 8px 0;
+  margin: 1rem 0;
+}
+
+.policy-highlight p {
+  color: rgba(255, 255, 255, 0.9);
+  margin: 0;
+}
+
+.policy-list {
+  list-style: none;
+  padding: 0;
+  margin: 1rem 0 0 0;
+}
+
+.policy-list li {
+  position: relative;
+  padding-left: 1.5rem;
+  margin-bottom: 0.75rem;
+  color: rgba(255, 255, 255, 0.7);
+  line-height: 1.6;
+}
+
+.policy-list li::before {
+  content: '✓';
+  position: absolute;
+  left: 0;
+  color: #22c55e;
+  font-weight: bold;
+}
+
+.policy-cta {
+  background: linear-gradient(135deg, rgba(100, 108, 255, 0.15), rgba(168, 85, 247, 0.15));
+  border: 1px solid rgba(100, 108, 255, 0.3);
+  border-radius: 16px;
+  padding: 2rem;
+  text-align: center;
+  margin-top: 2rem;
+}
+
+.policy-cta h3 {
+  font-size: 1.3rem;
+  margin-bottom: 0.5rem;
+  color: #fff;
+}
+
+.policy-cta p {
+  color: rgba(255, 255, 255, 0.7);
+  margin-bottom: 1rem;
+}
+
+.policy-cta a {
+  color: #646cff;
+  text-decoration: none;
+  font-weight: 600;
+  transition: color 0.3s ease;
+}
+
+.policy-cta a:hover {
+  color: #a855f7;
+}
+
+/* Stats/Info boxes */
+.policy-stats {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  gap: 1rem;
+  margin: 1.5rem 0;
+}
+
+.policy-stat {
+  background: rgba(100, 108, 255, 0.1);
+  border-radius: 12px;
+  padding: 1.25rem;
+  text-align: center;
+}
+
+.policy-stat-value {
+  font-size: 1.75rem;
+  font-weight: 700;
+  color: #646cff;
+  display: block;
+}
+
+.policy-stat-label {
+  font-size: 0.85rem;
+  color: rgba(255, 255, 255, 0.6);
+  margin-top: 0.25rem;
+}
+
+@media (max-width: 768px) {
+  .policy-header h1 {
+    font-size: 2rem;
+  }
+  
+  .policy-card {
+    padding: 1.5rem;
+  }
+  
+  .policy-intro {
+    flex-direction: column;
+    text-align: center;
+  }
+}

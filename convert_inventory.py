@@ -3,7 +3,10 @@ import json
 import re
 
 # Read Excel file
-df = pd.read_excel(r'C:\Users\harsh\.gemini\antigravity\scratch\vape-store\Vape accessories inventory.xlsx')
+import os
+base_dir = os.path.dirname(os.path.abspath(__file__))
+excel_path = os.path.join(base_dir, 'Vape accessories inventory.xlsx')
+df = pd.read_excel(excel_path)
 df = df.dropna(subset=['Description'])
 df = df[df['Description'].str.strip() != '']
 df = df[df['Price'] > 0]
@@ -242,7 +245,9 @@ export const featuredCollections = [
 '''
 
 # Write to file
-with open(r'C:\Users\harsh\.gemini\antigravity\scratch\vape-store\src\data\products.js', 'w', encoding='utf-8') as f:
+output_path = os.path.join(base_dir, 'src', 'data', 'products.js')
+os.makedirs(os.path.dirname(output_path), exist_ok=True)
+with open(output_path, 'w', encoding='utf-8') as f:
     f.write(js_content)
 
 print(f"\nSuccessfully wrote {len(products)} products to products.js")
