@@ -37,8 +37,8 @@ export default function ContactPage() {
                                 <div>
                                     <h3 style={{ margin: 0, fontSize: '1.1rem' }}>Address</h3>
                                     <p style={{ margin: 0 }}>
-                                        123 Vape Street<br />
-                                        Los Angeles, CA 90001
+                                        4350 Lincoln Hwy Suite 210 C<br />
+                                        Matteson, IL 60443
                                     </p>
                                 </div>
                             </div>
