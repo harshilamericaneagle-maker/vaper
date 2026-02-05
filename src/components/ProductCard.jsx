@@ -31,17 +31,17 @@ export default function ProductCard({ product, index = 0 }) {
         }
     };
 
-    // Generate a gradient based on product id for placeholder
-    const gradients = [
-        'linear-gradient(135deg, #667eea 0%, #764ba2 100%)',
-        'linear-gradient(135deg, #f093fb 0%, #f5576c 100%)',
-        'linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)',
-        'linear-gradient(135deg, #43e97b 0%, #38f9d7 100%)',
-        'linear-gradient(135deg, #fa709a 0%, #fee140 100%)',
-        'linear-gradient(135deg, #a8edea 0%, #fed6e3 100%)',
-        'linear-gradient(135deg, #ff9a9e 0%, #fecfef 100%)',
-        'linear-gradient(135deg, #667eea 0%, #764ba2 100%)'
+    // Product images array - cycle through available images
+    const productImages = [
+        '/images/product-1.jpg',
+        '/images/product-2.jpg',
+        '/images/product-3.jpg',
+        '/images/product-4.jpg',
+        '/images/product-5.jpg'
     ];
+
+    // Get image based on product id
+    const productImage = productImages[(product.id - 1) % productImages.length];
 
     return (
         <article
@@ -51,15 +51,13 @@ export default function ProductCard({ product, index = 0 }) {
             onMouseLeave={() => setIsHovered(false)}
         >
             <div className="product-image-container">
-                {/* Placeholder gradient with emoji */}
-                <div
-                    className="product-image-placeholder"
-                    style={{ background: gradients[product.id % gradients.length] }}
-                >
-                    <span className="product-emoji">
-                        {product.category === 'devices' ? '🌬️' : '⚙️'}
-                    </span>
-                </div>
+                {/* Product Image */}
+                <img
+                    src={productImage}
+                    alt={product.name}
+                    className="product-image"
+                    loading="lazy"
+                />
 
                 {/* Badge */}
                 {product.badge && (
