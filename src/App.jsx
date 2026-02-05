@@ -12,6 +12,7 @@ import AgePolicyPage from './pages/AgePolicyPage';
 import ShippingPage from './pages/ShippingPage';
 import ReturnsPage from './pages/ReturnsPage';
 import ContactPage from './pages/ContactPage';
+import CheckoutPage from './pages/CheckoutPage';
 import './index.css';
 
 import ScrollToTop from './components/ScrollToTop';
@@ -28,6 +29,7 @@ function App() {
             <Route path="/" element={<HomePage />} />
             <Route path="/products" element={<ProductsPage />} />
             <Route path="/cart" element={<CartPage />} />
+            <Route path="/checkout" element={<CheckoutPage />} />
             <Route path="/terms" element={<TermsPage />} />
             <Route path="/privacy" element={<PrivacyPage />} />
             <Route path="/age-policy" element={<AgePolicyPage />} />

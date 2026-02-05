@@ -142,10 +142,10 @@ export default function CartPage() {
                             </div>
                         </div>
 
-                        <button className="btn btn-primary checkout-btn">
+                        <Link to="/checkout" className="btn btn-primary checkout-btn">
                             Proceed to Checkout
                             <ArrowRight size={18} />
-                        </button>
+                        </Link>
 
                         <div className="summary-badges">
                             <span>🔒 Secure Checkout</span>
