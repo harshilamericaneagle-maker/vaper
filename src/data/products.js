@@ -2031,6 +2031,124 @@ export const products = [
     "inStock": true,
     "featured": false
   }
+,
+  {
+    "id": 157,
+    "name": "Smoke Odor Exterminator Candle",
+    "category": "accessories",
+    "categoryLabel": "New Arrivals",
+    "price": 48.0,
+    "salePrice": null,
+    "description": "Enzyme-based, Sandalwood scent (13oz).",
+    "image": "/images/20260220_153721.jpg",
+    "badge": "new",
+    "inStock": true,
+    "featured": false
+  },
+  {
+    "id": 158,
+    "name": "Arya Odor Eliminator Candle",
+    "category": "accessories",
+    "categoryLabel": "New Arrivals",
+    "price": 79.96,
+    "salePrice": null,
+    "description": "8oz jar, specifically for smoke removal.",
+    "image": "/images/20260220_153808.jpg",
+    "badge": "new",
+    "inStock": true,
+    "featured": false
+  },
+  {
+    "id": 159,
+    "name": "Hostess Cherry Fruit Pie Candle",
+    "category": "accessories",
+    "categoryLabel": "New Arrivals",
+    "price": 47.8,
+    "salePrice": null,
+    "description": "Scented candle; 3oz or 14oz (3-wick).",
+    "image": "/images/20260220_154023.jpg",
+    "badge": "new",
+    "inStock": true,
+    "featured": false
+  },
+  {
+    "id": 160,
+    "name": "Hershey’s 3-Wick Candle",
+    "category": "accessories",
+    "categoryLabel": "New Arrivals",
+    "price": 79.96,
+    "salePrice": null,
+    "description": "14oz jar with triple wick.",
+    "image": "/images/20260220_154031.jpg",
+    "badge": "new",
+    "inStock": true,
+    "featured": false
+  },
+  {
+    "id": 161,
+    "name": "Silicone Pipe with Glass Bowl",
+    "category": "glass-pipes",
+    "categoryLabel": "New Arrivals",
+    "price": 39.96,
+    "salePrice": null,
+    "description": "Heat-resistant silicone with removable glass insert.",
+    "image": "/images/20260220_154036.jpg",
+    "badge": "new",
+    "inStock": true,
+    "featured": false
+  },
+  {
+    "id": 162,
+    "name": "Hammer-Style Metal Pipe",
+    "category": "glass-pipes",
+    "categoryLabel": "New Arrivals",
+    "price": 40.0,
+    "salePrice": null,
+    "description": "Durable aluminum alloy, detachable parts.",
+    "image": "/images/20260220_154053.jpg",
+    "badge": "new",
+    "inStock": true,
+    "featured": false
+  },
+  {
+    "id": 163,
+    "name": "Ghost Rider Skull Drip Tip",
+    "category": "glass-pipes",
+    "categoryLabel": "New Arrivals",
+    "price": 52.0,
+    "salePrice": null,
+    "description": "510/810 compatible, custom glass/resin design.",
+    "image": "/images/20260220_154913.jpg",
+    "badge": "new",
+    "inStock": true,
+    "featured": false
+  },
+  {
+    "id": 164,
+    "name": "Acrylic Replacement Mouthpiece",
+    "category": "glass-pipes",
+    "categoryLabel": "New Arrivals",
+    "price": 32.0,
+    "salePrice": null,
+    "description": "Curved or straight stems for tobacco pipes.",
+    "image": "/images/20260220_154938.jpg",
+    "badge": "new",
+    "inStock": true,
+    "featured": false
+  },
+  {
+    "id": 165,
+    "name": "Spring-Lock Wire Connectors",
+    "category": "accessories",
+    "categoryLabel": "New Arrivals",
+    "price": 1.0,
+    "salePrice": null,
+    "description": "Electrical connectors with internal spring inserts.",
+    "image": "/images/20260220_155000.jpg",
+    "badge": "new",
+    "inStock": true,
+    "featured": false
+  }
 ];
 
 export const categories = [
