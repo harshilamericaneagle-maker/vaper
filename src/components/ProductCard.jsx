@@ -6,6 +6,7 @@ import './ProductCard.css';
 export default function ProductCard({ product, index = 0 }) {
     const [isHovered, setIsHovered] = useState(false);
     const [isLiked, setIsLiked] = useState(false);
+    const [imgError, setImgError] = useState(false);
     const { addToCart } = useCart();
 
     const handleAddToCart = (e) => {
@@ -31,17 +32,17 @@ export default function ProductCard({ product, index = 0 }) {
         }
     };
 
-    // Product images array - cycle through available images
-    const productImages = [
+    // Use the real product image from data, fallback to placeholder on error
+    const fallbackImages = [
         '/images/product-1.jpg',
         '/images/product-2.jpg',
         '/images/product-3.jpg',
         '/images/product-4.jpg',
         '/images/product-5.jpg'
     ];
-
-    // Get image based on product id
-    const productImage = productImages[(product.id - 1) % productImages.length];
+    const productImage = (!imgError && product.image)
+        ? product.image
+        : fallbackImages[(product.id - 1) % fallbackImages.length];
 
     return (
         <article
@@ -51,12 +52,13 @@ export default function ProductCard({ product, index = 0 }) {
             onMouseLeave={() => setIsHovered(false)}
         >
             <div className="product-image-container">
-                {/* Product Image */}
+                {/* Real Product Image */}
                 <img
                     src={productImage}
                     alt={product.name}
                     className="product-image"
                     loading="lazy"
+                    onError={() => setImgError(true)}
                 />
 
                 {/* Badge */}
@@ -92,8 +94,11 @@ export default function ProductCard({ product, index = 0 }) {
             </div>
 
             <div className="product-info">
-                <span className="product-category">{product.category}</span>
+                <span className="product-category">{product.categoryLabel || product.category}</span>
                 <h3 className="product-name">{product.name}</h3>
+                {product.description && (
+                    <p className="product-description">{product.description}</p>
+                )}
                 <div className="product-pricing">
                     {product.salePrice ? (
                         <>
