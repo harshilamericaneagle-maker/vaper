@@ -2040,7 +2040,7 @@ export const products = [
     "price": 48.0,
     "salePrice": null,
     "description": "Enzyme-based, Sandalwood scent (13oz).",
-    "image": "/images/20260220_153721.jpg",
+    "image": "/images/product-1.jpg",
     "badge": "new",
     "inStock": true,
     "featured": false
@@ -2053,7 +2053,7 @@ export const products = [
     "price": 79.96,
     "salePrice": null,
     "description": "8oz jar, specifically for smoke removal.",
-    "image": "/images/20260220_153808.jpg",
+    "image": "/images/product-2.jpg",
     "badge": "new",
     "inStock": true,
     "featured": false
@@ -2066,7 +2066,7 @@ export const products = [
     "price": 47.8,
     "salePrice": null,
     "description": "Scented candle; 3oz or 14oz (3-wick).",
-    "image": "/images/20260220_154023.jpg",
+    "image": "/images/product-3.jpg",
     "badge": "new",
     "inStock": true,
     "featured": false
@@ -2079,7 +2079,7 @@ export const products = [
     "price": 79.96,
     "salePrice": null,
     "description": "14oz jar with triple wick.",
-    "image": "/images/20260220_154031.jpg",
+    "image": "/images/product-4.jpg",
     "badge": "new",
     "inStock": true,
     "featured": false
@@ -2092,7 +2092,7 @@ export const products = [
     "price": 39.96,
     "salePrice": null,
     "description": "Heat-resistant silicone with removable glass insert.",
-    "image": "/images/20260220_154036.jpg",
+    "image": "/images/product-5.jpg",
     "badge": "new",
     "inStock": true,
     "featured": false
@@ -2105,7 +2105,7 @@ export const products = [
     "price": 40.0,
     "salePrice": null,
     "description": "Durable aluminum alloy, detachable parts.",
-    "image": "/images/20260220_154053.jpg",
+    "image": "/images/product-1.jpg",
     "badge": "new",
     "inStock": true,
     "featured": false
@@ -2118,7 +2118,7 @@ export const products = [
     "price": 52.0,
     "salePrice": null,
     "description": "510/810 compatible, custom glass/resin design.",
-    "image": "/images/20260220_154913.jpg",
+    "image": "/images/product-2.jpg",
     "badge": "new",
     "inStock": true,
     "featured": false
@@ -2131,7 +2131,7 @@ export const products = [
     "price": 32.0,
     "salePrice": null,
     "description": "Curved or straight stems for tobacco pipes.",
-    "image": "/images/20260220_154938.jpg",
+    "image": "/images/product-3.jpg",
     "badge": "new",
     "inStock": true,
     "featured": false
@@ -2144,7 +2144,7 @@ export const products = [
     "price": 1.0,
     "salePrice": null,
     "description": "Electrical connectors with internal spring inserts.",
-    "image": "/images/20260220_155000.jpg",
+    "image": "/images/product-4.jpg",
     "badge": "new",
     "inStock": true,
     "featured": false
