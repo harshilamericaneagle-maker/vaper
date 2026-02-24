@@ -3,9 +3,15 @@ import { ArrowRight } from 'lucide-react';
 import Hero from '../components/Hero';
 import ProductCard from '../components/ProductCard';
 import { products } from '../data/products';
+import usePageSEO from '../hooks/usePageSEO';
 import './HomePage.css';
 
 export default function HomePage() {
+    usePageSEO(
+        'Vaper Store | Premium Vape, Glass & Smoking Accessories',
+        'Shop 165+ premium vaping products — lighters, torches, glass pipes, grinders, rolling papers, hemp wraps, and more. Free shipping on orders over $75. Authentic products guaranteed.',
+        { canonical: 'https://www.vaporluxe.ai/' }
+    );
     const featuredProducts = products.filter(p => p.featured).slice(0, 4);
     const newArrivals = products.filter(p => p.badge === 'new' || p.badge === 'hot').slice(0, 4);
     const saleProducts = products.filter(p => p.salePrice).slice(0, 4);

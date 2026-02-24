@@ -1,9 +1,15 @@
 import React from 'react';
 import { Mail, Phone, MapPin, Clock } from 'lucide-react';
+import usePageSEO from '../hooks/usePageSEO';
 import './HomePage.css'; // Re-use some styles
 import './LegalPage.css';
 
 export default function ContactPage() {
+    usePageSEO(
+        'Contact Us | Vaper Store',
+        'Get in touch with the Vaper Store team. Located at 4350 Lincoln Hwy Suite 210 C, Matteson, IL. Email: info.vaporluxe@gmail.com. Phone: (224) 256-0947.',
+        { canonical: 'https://www.vaporluxe.ai/contact' }
+    );
     return (
         <div className="legal-page">
             <div className="container">

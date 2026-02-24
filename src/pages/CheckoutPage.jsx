@@ -2,9 +2,11 @@ import React, { useState } from 'react';
 import { Link, useNavigate } from 'react-router-dom';
 import { ArrowLeft, CreditCard, Lock, CheckCircle } from 'lucide-react';
 import { useCart } from '../context/CartContext';
+import usePageSEO from '../hooks/usePageSEO';
 import './PolicyPage.css';
 
 export default function CheckoutPage() {
+    usePageSEO('Checkout | Vaper Store', 'Secure checkout at Vaper Store.', { noindex: true });
     const { items, getCartTotal, clearCart } = useCart();
     const navigate = useNavigate();
     const [isProcessing, setIsProcessing] = useState(false);

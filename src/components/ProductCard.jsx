@@ -55,7 +55,7 @@ export default function ProductCard({ product, index = 0 }) {
                 {/* Real Product Image */}
                 <img
                     src={productImage}
-                    alt={product.name}
+                    alt={`${product.name} - ${product.categoryLabel || product.category}`}
                     className="product-image"
                     loading="lazy"
                     onError={() => setImgError(true)}

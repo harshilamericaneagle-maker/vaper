@@ -1,0 +1,16 @@
+User-agent: *
+Allow: /
+
+# Don't index private pages
+Disallow: /cart
+Disallow: /checkout
+
+# Allow all major crawlers
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+# Sitemap location
+Sitemap: https://www.vaporluxe.ai/sitemap.xml

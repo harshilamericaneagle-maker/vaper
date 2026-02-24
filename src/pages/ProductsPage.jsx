@@ -3,9 +3,15 @@ import { useSearchParams } from 'react-router-dom';
 import { Filter, Grid, List, ChevronDown } from 'lucide-react';
 import ProductCard from '../components/ProductCard';
 import { products, categories } from '../data/products';
+import usePageSEO from '../hooks/usePageSEO';
 import './ProductsPage.css';
 
 export default function ProductsPage() {
+    usePageSEO(
+        'All Products | Vaper Store',
+        'Browse our full collection of 165+ vaping accessories — glass pipes, lighters, torches, grinders, rolling papers, hemp wraps, bubblers, and more. Premium quality, fast shipping.',
+        { canonical: 'https://www.vaporluxe.ai/products' }
+    );
     const [searchParams, setSearchParams] = useSearchParams();
     const [sortBy, setSortBy] = useState('featured');
     const [isFilterOpen, setIsFilterOpen] = useState(false);

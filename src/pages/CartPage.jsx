@@ -1,9 +1,11 @@
 import { Link } from 'react-router-dom';
 import { Trash2, Plus, Minus, ShoppingBag, ArrowRight, ArrowLeft } from 'lucide-react';
 import { useCart } from '../context/CartContext';
+import usePageSEO from '../hooks/usePageSEO';
 import './CartPage.css';
 
 export default function CartPage() {
+    usePageSEO('Shopping Cart | Vaper Store', 'Your shopping cart at Vaper Store.', { noindex: true });
     const { items, removeFromCart, updateQuantity, getCartTotal, clearCart } = useCart();
 
     const subtotal = getCartTotal();
