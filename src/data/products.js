@@ -1,8 +1,8 @@
 // Product data - Auto-generated from Final 108 products Excel
-// All 108 products with real images, names, descriptions, and prices
+// Products with verified real images only
 
 export const products = [
-  {
+{
     "id": 1,
     "name": "Novelty Revolver Pistol Lighter",
     "category": "lighters-torches",
@@ -15,7 +15,7 @@ export const products = [
     "inStock": true,
     "featured": true
   },
-  {
+{
     "id": 2,
     "name": "Blink Torch Lighter (Red)",
     "category": "lighters-torches",
@@ -28,7 +28,7 @@ export const products = [
     "inStock": true,
     "featured": true
   },
-  {
+{
     "id": 3,
     "name": "Scorch Torch Lighter (Green/White)",
     "category": "lighters-torches",
@@ -41,7 +41,7 @@ export const products = [
     "inStock": true,
     "featured": true
   },
-  {
+{
     "id": 4,
     "name": "Zen Superslim Filter Tips (Menthol)",
     "category": "papers-wraps",
@@ -54,7 +54,7 @@ export const products = [
     "inStock": true,
     "featured": true
   },
-  {
+{
     "id": 5,
     "name": "Zen Regular Filter Tips (Menthol)",
     "category": "papers-wraps",
@@ -67,7 +67,7 @@ export const products = [
     "inStock": true,
     "featured": true
   },
-  {
+{
     "id": 6,
     "name": "Lucky Clover Gold Bar Lighter",
     "category": "lighters-torches",
@@ -80,7 +80,7 @@ export const products = [
     "inStock": true,
     "featured": true
   },
-  {
+{
     "id": 7,
     "name": "5ml Plastic Syringe (Blue)",
     "category": "accessories",
@@ -93,7 +93,7 @@ export const products = [
     "inStock": true,
     "featured": true
   },
-  {
+{
     "id": 8,
     "name": "Billionaire Hemp Wraps (Banana Cream)",
     "category": "papers-wraps",
@@ -106,7 +106,7 @@ export const products = [
     "inStock": true,
     "featured": true
   },
-  {
+{
     "id": 9,
     "name": "Techno Cylinder Torch Lighter (Blue)",
     "category": "lighters-torches",
@@ -119,7 +119,7 @@ export const products = [
     "inStock": true,
     "featured": true
   },
-  {
+{
     "id": 10,
     "name": "Blink Dual-Barrel Torch (White)",
     "category": "lighters-torches",
@@ -132,7 +132,7 @@ export const products = [
     "inStock": true,
     "featured": true
   },
-  {
+{
     "id": 11,
     "name": "Blink Torch Lighter (Silver)",
     "category": "lighters-torches",
@@ -145,7 +145,7 @@ export const products = [
     "inStock": true,
     "featured": true
   },
-  {
+{
     "id": 12,
     "name": "Blink Torch Lighter (Black)",
     "category": "lighters-torches",
@@ -158,7 +158,7 @@ export const products = [
     "inStock": true,
     "featured": true
   },
-  {
+{
     "id": 13,
     "name": "Pink Bear Novelty Lighter",
     "category": "lighters-torches",
@@ -171,7 +171,7 @@ export const products = [
     "inStock": true,
     "featured": false
   },
-  {
+{
     "id": 14,
     "name": "Mini Handgun Lighter (Green/Tan)",
     "category": "lighters-torches",
@@ -184,7 +184,7 @@ export const products = [
     "inStock": true,
     "featured": false
   },
-  {
+{
     "id": 15,
     "name": "Rose Gold Sneaker Lighter",
     "category": "lighters-torches",
@@ -197,7 +197,7 @@ export const products = [
     "inStock": true,
     "featured": false
   },
-  {
+{
     "id": 16,
     "name": "Blink Dual-Barrel Torch (Blue)",
     "category": "lighters-torches",
@@ -210,7 +210,7 @@ export const products = [
     "inStock": true,
     "featured": false
   },
-  {
+{
     "id": 17,
     "name": "Techno Torch Lighter (Blue/Pink)",
     "category": "lighters-torches",
@@ -223,7 +223,7 @@ export const products = [
     "inStock": true,
     "featured": false
   },
-  {
+{
     "id": 18,
     "name": "Hunter Double Bullet Lighter",
     "category": "lighters-torches",
@@ -236,7 +236,7 @@ export const products = [
     "inStock": true,
     "featured": false
   },
-  {
+{
     "id": 19,
     "name": "Skull Ace Card Lighter",
     "category": "lighters-torches",
@@ -249,7 +249,7 @@ export const products = [
     "inStock": true,
     "featured": false
   },
-  {
+{
     "id": 20,
     "name": "Middle Finger Novelty Lighter",
     "category": "lighters-torches",
@@ -262,7 +262,7 @@ export const products = [
     "inStock": true,
     "featured": false
   },
-  {
+{
     "id": 21,
     "name": "OCB x Wakit Electric Grinder",
     "category": "grinders",
@@ -275,7 +275,7 @@ export const products = [
     "inStock": true,
     "featured": false
   },
-  {
+{
     "id": 22,
     "name": "Billionaire Hemp Wraps (Majestic Grape)",
     "category": "papers-wraps",
@@ -288,7 +288,7 @@ export const products = [
     "inStock": true,
     "featured": false
   },
-  {
+{
     "id": 23,
     "name": "Billionaire Hemp Wraps (Russian Cream)",
     "category": "papers-wraps",
@@ -301,7 +301,7 @@ export const products = [
     "inStock": true,
     "featured": false
   },
-  {
+{
     "id": 24,
     "name": "Billionaire Hemp Wraps (Milli Mango)",
     "category": "papers-wraps",
@@ -314,7 +314,7 @@ export const products = [
     "inStock": true,
     "featured": false
   },
-  {
+{
     "id": 25,
     "name": "Billionaire Hemp Wraps (Baldacci Black)",
     "category": "papers-wraps",
@@ -327,7 +327,7 @@ export const products = [
     "inStock": true,
     "featured": false
   },
-  {
+{
     "id": 26,
     "name": "Cartoon Graphic Water Pipe",
     "category": "glass-pipes",
@@ -340,7 +340,7 @@ export const products = [
     "inStock": true,
     "featured": false
   },
-  {
+{
     "id": 27,
     "name": "Mini Glass Water Pipe (Black Neck)",
     "category": "glass-pipes",
@@ -353,7 +353,7 @@ export const products = [
     "inStock": true,
     "featured": false
   },
-  {
+{
     "id": 28,
     "name": "Amber Glass Ash Catcher",
     "category": "glass-pipes",
@@ -366,7 +366,7 @@ export const products = [
     "inStock": true,
     "featured": false
   },
-  {
+{
     "id": 29,
     "name": "Amber Wide Pinch Glass Bowl",
     "category": "glass-pipes",
@@ -379,7 +379,7 @@ export const products = [
     "inStock": true,
     "featured": false
   },
-  {
+{
     "id": 30,
     "name": "Amber Horn Handled Glass Bowl",
     "category": "glass-pipes",
@@ -392,7 +392,7 @@ export const products = [
     "inStock": true,
     "featured": false
   },
-  {
+{
     "id": 31,
     "name": "Green Heart Shaped Glass Bowl",
     "category": "glass-pipes",
@@ -405,7 +405,7 @@ export const products = [
     "inStock": true,
     "featured": false
   },
-  {
+{
     "id": 32,
     "name": "Swirl Glass Bubbler (Yellow)",
     "category": "glass-pipes",
@@ -418,7 +418,7 @@ export const products = [
     "inStock": true,
     "featured": false
   },
-  {
+{
     "id": 33,
     "name": "Spotted Glass Bubbler (White/Black)",
     "category": "glass-pipes",
@@ -431,7 +431,7 @@ export const products = [
     "inStock": true,
     "featured": false
   },
-  {
+{
     "id": 34,
     "name": "Swirl Glass Bubbler (Red)",
     "category": "glass-pipes",
@@ -444,7 +444,7 @@ export const products = [
     "inStock": true,
     "featured": false
   },
-  {
+{
     "id": 35,
     "name": "Zig-Zag 1 1/4 Ultra Thin Papers",
     "category": "papers-wraps",
@@ -457,7 +457,7 @@ export const products = [
     "inStock": true,
     "featured": false
   },
-  {
+{
     "id": 36,
     "name": "Zig-Zag 1 1/4 Combo Pack",
     "category": "papers-wraps",
@@ -470,7 +470,7 @@ export const products = [
     "inStock": true,
     "featured": false
   },
-  {
+{
     "id": 37,
     "name": "Zig-Zag French Orange King Size",
     "category": "papers-wraps",
@@ -483,7 +483,7 @@ export const products = [
     "inStock": true,
     "featured": false
   },
-  {
+{
     "id": 38,
     "name": "OCB Bamboo King Size Cones (3 Pack)",
     "category": "papers-wraps",
@@ -496,7 +496,7 @@ export const products = [
     "inStock": true,
     "featured": false
   },
-  {
+{
     "id": 39,
     "name": "OCB Brown Rice Mini Cones (10 Pack)",
     "category": "papers-wraps",
@@ -509,7 +509,7 @@ export const products = [
     "inStock": true,
     "featured": false
   },
-  {
+{
     "id": 40,
     "name": "OCB Bamboo 1 1/4 Cones (100 Box)",
     "category": "papers-wraps",
@@ -522,7 +522,7 @@ export const products = [
     "inStock": true,
     "featured": false
   },
-  {
+{
     "id": 41,
     "name": "OCB Organic Hemp 1 1/4 Cones (50 Box)",
     "category": "papers-wraps",
@@ -535,7 +535,7 @@ export const products = [
     "inStock": true,
     "featured": false
   },
-  {
+{
     "id": 42,
     "name": "OCB Bamboo 1 1/4 Cones (50 Box)",
     "category": "papers-wraps",
@@ -548,7 +548,7 @@ export const products = [
     "inStock": true,
     "featured": false
   },
-  {
+{
     "id": 43,
     "name": "Pop Cones Wild Grape King Size (3 Pack)",
     "category": "papers-wraps",
@@ -561,7 +561,7 @@ export const products = [
     "inStock": true,
     "featured": false
   },
-  {
+{
     "id": 44,
     "name": "RAW Classic 1 1/4 Size Cone",
     "category": "papers-wraps",
@@ -574,7 +574,7 @@ export const products = [
     "inStock": true,
     "featured": false
   },
-  {
+{
     "id": 45,
     "name": "King Palm 5 King Real Leaf Tubes",
     "category": "papers-wraps",
@@ -587,7 +587,7 @@ export const products = [
     "inStock": true,
     "featured": false
   },
-  {
+{
     "id": 46,
     "name": "King Palm Perfect Pear 2 Minis",
     "category": "papers-wraps",
@@ -600,7 +600,7 @@ export const products = [
     "inStock": true,
     "featured": false
   },
-  {
+{
     "id": 47,
     "name": "King Palm 5 Rollies Real Leaf Tubes",
     "category": "papers-wraps",
@@ -613,7 +613,7 @@ export const products = [
     "inStock": true,
     "featured": false
   },
-  {
+{
     "id": 48,
     "name": "King Palm Gold Rose Cones (3 Pack)",
     "category": "papers-wraps",
@@ -626,7 +626,7 @@ export const products = [
     "inStock": true,
     "featured": false
   },
-  {
+{
     "id": 49,
     "name": "King Palm Pink Lemonade 2 Minis",
     "category": "papers-wraps",
@@ -639,7 +639,7 @@ export const products = [
     "inStock": true,
     "featured": false
   },
-  {
+{
     "id": 50,
     "name": "King Palm Banana Pineapple 2 Minis",
     "category": "papers-wraps",
@@ -652,7 +652,7 @@ export const products = [
     "inStock": true,
     "featured": false
   },
-  {
+{
     "id": 51,
     "name": "King Palm Margarita 2 Slims",
     "category": "papers-wraps",
@@ -665,7 +665,7 @@ export const products = [
     "inStock": true,
     "featured": false
   },
-  {
+{
     "id": 52,
     "name": "King Palm Mango OG 2 Minis",
     "category": "papers-wraps",
@@ -678,7 +678,7 @@ export const products = [
     "inStock": true,
     "featured": false
   },
-  {
+{
     "id": 53,
     "name": "King Palm Watermelon Wave 2 Minis",
     "category": "papers-wraps",
@@ -691,7 +691,7 @@ export const products = [
     "inStock": true,
     "featured": false
   },
-  {
+{
     "id": 54,
     "name": "King Palm Perfect Pear 2 Rollies",
     "category": "papers-wraps",
@@ -704,7 +704,7 @@ export const products = [
     "inStock": true,
     "featured": false
   },
-  {
+{
     "id": 55,
     "name": "King Palm Red Reign 2 Minis",
     "category": "papers-wraps",
@@ -717,7 +717,7 @@ export const products = [
     "inStock": true,
     "featured": false
   },
-  {
+{
     "id": 56,
     "name": "Pepper Spray Defense Keychain",
     "category": "accessories",
@@ -730,7 +730,7 @@ export const products = [
     "inStock": true,
     "featured": false
   },
-  {
+{
     "id": 57,
     "name": "Tsunami Premium Dry Herb Grinder",
     "category": "grinders",
@@ -743,7 +743,7 @@ export const products = [
     "inStock": true,
     "featured": false
   },
-  {
+{
     "id": 58,
     "name": "Rick & Morty Rubik\'s Cube Grinder",
     "category": "grinders",
@@ -756,7 +756,7 @@ export const products = [
     "inStock": true,
     "featured": false
   },
-  {
+{
     "id": 59,
     "name": "High Hemp Wraps Box (Honey Pot Swirl)",
     "category": "papers-wraps",
@@ -769,7 +769,7 @@ export const products = [
     "inStock": true,
     "featured": false
   },
-  {
+{
     "id": 60,
     "name": "Kong Wraps CBD+ (Mango Tango)",
     "category": "papers-wraps",
@@ -782,7 +782,7 @@ export const products = [
     "inStock": true,
     "featured": false
   },
-  {
+{
     "id": 61,
     "name": "Royal Blunts EZ Roll Tube (Purple Haze)",
     "category": "papers-wraps",
@@ -795,7 +795,7 @@ export const products = [
     "inStock": true,
     "featured": false
   },
-  {
+{
     "id": 62,
     "name": "Twisted Hemp Wraps Box (California Dream)",
     "category": "papers-wraps",
@@ -808,7 +808,7 @@ export const products = [
     "inStock": true,
     "featured": false
   },
-  {
+{
     "id": 63,
     "name": "Silver $100 Bill Playing Cards",
     "category": "novelty",
@@ -821,7 +821,7 @@ export const products = [
     "inStock": true,
     "featured": false
   },
-  {
+{
     "id": 64,
     "name": "Gold $100 Bill Playing Cards",
     "category": "novelty",
@@ -834,7 +834,7 @@ export const products = [
     "inStock": true,
     "featured": false
   },
-  {
+{
     "id": 65,
     "name": "RAW Black Organic Hemp 1 1/4 Cones (75 Box)",
     "category": "papers-wraps",
@@ -847,7 +847,7 @@ export const products = [
     "inStock": true,
     "featured": false
   },
-  {
+{
     "id": 66,
     "name": "RAW Black King Size Slim Papers (50 Box)",
     "category": "papers-wraps",
@@ -860,7 +860,7 @@ export const products = [
     "inStock": true,
     "featured": false
   },
-  {
+{
     "id": 67,
     "name": "RAW Organic Hemp 1 1/2 Size Papers (25 Box)",
     "category": "papers-wraps",
@@ -873,7 +873,7 @@ export const products = [
     "inStock": true,
     "featured": false
   },
-  {
+{
     "id": 68,
     "name": "RAW Classic King Size Slim Papers (50 Box)",
     "category": "papers-wraps",
@@ -886,7 +886,7 @@ export const products = [
     "inStock": true,
     "featured": false
   },
-  {
+{
     "id": 69,
     "name": "RAW Pre-Rolled Tips (200 Bag)",
     "category": "papers-wraps",
@@ -899,7 +899,7 @@ export const products = [
     "inStock": true,
     "featured": false
   },
-  {
+{
     "id": 70,
     "name": "RAW Artesano Organic Hemp King Size Slim",
     "category": "papers-wraps",
@@ -912,7 +912,7 @@ export const products = [
     "inStock": true,
     "featured": false
   },
-  {
+{
     "id": 71,
     "name": "RAW Classic King Size Cones (32 Pack)",
     "category": "papers-wraps",
@@ -925,7 +925,7 @@ export const products = [
     "inStock": true,
     "featured": false
   },
-  {
+{
     "id": 72,
     "name": "RAW Uncoated Tree Tips (Jar)",
     "category": "papers-wraps",
@@ -938,7 +938,7 @@ export const products = [
     "inStock": true,
     "featured": false
   },
-  {
+{
     "id": 73,
     "name": "RAW Connoisseur King Size Slim + Tips (24 Box)",
     "category": "papers-wraps",
@@ -951,7 +951,7 @@ export const products = [
     "inStock": true,
     "featured": false
   },
-  {
+{
     "id": 74,
     "name": "RAW Black Single Wide Classic Papers (25 Box)",
     "category": "papers-wraps",
@@ -964,7 +964,7 @@ export const products = [
     "inStock": true,
     "featured": false
   },
-  {
+{
     "id": 75,
     "name": "RAW Ethereal Classic Tips (50 Box)",
     "category": "papers-wraps",
@@ -977,7 +977,7 @@ export const products = [
     "inStock": true,
     "featured": false
   },
-  {
+{
     "id": 76,
     "name": "Mega Gold S.W.A.G. Male Enhancement",
     "category": "supplements",
@@ -990,7 +990,7 @@ export const products = [
     "inStock": true,
     "featured": false
   },
-  {
+{
     "id": 77,
     "name": "Black Bull 10000K Male Enhancement (Box)",
     "category": "supplements",
@@ -1003,7 +1003,7 @@ export const products = [
     "inStock": true,
     "featured": false
   },
-  {
+{
     "id": 78,
     "name": "Shilajit 200K Male Enhancement XXL",
     "category": "supplements",
@@ -1016,7 +1016,7 @@ export const products = [
     "inStock": true,
     "featured": false
   },
-  {
+{
     "id": 79,
     "name": "Twang Chile Lime Snack Salt",
     "category": "other",
@@ -1029,7 +1029,7 @@ export const products = [
     "inStock": true,
     "featured": false
   },
-  {
+{
     "id": 80,
     "name": "Black Bull Extreme Male Enhancement (Tube)",
     "category": "supplements",
@@ -1042,7 +1042,7 @@ export const products = [
     "inStock": true,
     "featured": false
   },
-  {
+{
     "id": 81,
     "name": "Rhino 11 Liquid Shot For Man",
     "category": "supplements",
@@ -1055,7 +1055,7 @@ export const products = [
     "inStock": true,
     "featured": false
   },
-  {
+{
     "id": 82,
     "name": "Pink Pussycat Sensual Honey",
     "category": "supplements",
@@ -1068,7 +1068,7 @@ export const products = [
     "inStock": true,
     "featured": false
   },
-  {
+{
     "id": 83,
     "name": "Zig-Zag Mini Cones Box (70\'s Size)",
     "category": "papers-wraps",
@@ -1081,7 +1081,7 @@ export const products = [
     "inStock": true,
     "featured": false
   },
-  {
+{
     "id": 84,
     "name": "Zig-Zag Original White Papers (White Box)",
     "category": "papers-wraps",
@@ -1094,7 +1094,7 @@ export const products = [
     "inStock": true,
     "featured": false
   },
-  {
+{
     "id": 85,
     "name": "Zig-Zag Original White Papers (Orange Box)",
     "category": "papers-wraps",
@@ -1107,7 +1107,7 @@ export const products = [
     "inStock": true,
     "featured": false
   },
-  {
+{
     "id": 86,
     "name": "Zig-Zag 1 1/4 Ultra Thin Papers (24 Box)",
     "category": "papers-wraps",
@@ -1120,7 +1120,7 @@ export const products = [
     "inStock": true,
     "featured": false
   },
-  {
+{
     "id": 87,
     "name": "ARYA Odor Eliminator Candle (Papaya Cream)",
     "category": "accessories",
@@ -1133,7 +1133,7 @@ export const products = [
     "inStock": true,
     "featured": false
   },
-  {
+{
     "id": 88,
     "name": "Bob Marley Hemp Wraps (Caribbean Cream)",
     "category": "papers-wraps",
@@ -1146,7 +1146,7 @@ export const products = [
     "inStock": true,
     "featured": false
   },
-  {
+{
     "id": 89,
     "name": "Swisher Sweets Leaf Wraps (Peach Brandy)",
     "category": "papers-wraps",
@@ -1159,7 +1159,7 @@ export const products = [
     "inStock": true,
     "featured": false
   },
-  {
+{
     "id": 90,
     "name": "High Hemp Wraps Box (Fuzzy Peach)",
     "category": "papers-wraps",
@@ -1172,7 +1172,7 @@ export const products = [
     "inStock": true,
     "featured": false
   },
-  {
+{
     "id": 91,
     "name": "Glass Spoon Pipe (Green/Yellow)",
     "category": "glass-pipes",
@@ -1185,7 +1185,7 @@ export const products = [
     "inStock": true,
     "featured": false
   },
-  {
+{
     "id": 92,
     "name": "Glass Spoon Pipe (Opaque Yellow)",
     "category": "glass-pipes",
@@ -1198,7 +1198,7 @@ export const products = [
     "inStock": true,
     "featured": false
   },
-  {
+{
     "id": 93,
     "name": "Glass Spoon Pipe (Swirl/Striped)",
     "category": "glass-pipes",
@@ -1211,7 +1211,7 @@ export const products = [
     "inStock": true,
     "featured": false
   },
-  {
+{
     "id": 94,
     "name": "Pokeball Style 3-Piece Grinder",
     "category": "grinders",
@@ -1224,7 +1224,7 @@ export const products = [
     "inStock": true,
     "featured": false
   },
-  {
+{
     "id": 95,
     "name": "Classic Metal Hand Pipe (Assorted Colors)",
     "category": "glass-pipes",
@@ -1237,7 +1237,7 @@ export const products = [
     "inStock": true,
     "featured": false
   },
-  {
+{
     "id": 96,
     "name": "Brass Bullet Novelty Pipe",
     "category": "glass-pipes",
@@ -1250,7 +1250,7 @@ export const products = [
     "inStock": true,
     "featured": false
   },
-  {
+{
     "id": 97,
     "name": "Glass Chillum / One Hitter",
     "category": "glass-pipes",
@@ -1263,7 +1263,7 @@ export const products = [
     "inStock": true,
     "featured": false
   },
-  {
+{
     "id": 98,
     "name": "Silicone Spoon Pipe (Assorted Swirls)",
     "category": "glass-pipes",
@@ -1276,7 +1276,7 @@ export const products = [
     "inStock": true,
     "featured": false
   },
-  {
+{
     "id": 99,
     "name": "Glass Steamroller Pipe",
     "category": "glass-pipes",
@@ -1289,7 +1289,7 @@ export const products = [
     "inStock": true,
     "featured": false
   },
-  {
+{
     "id": 100,
     "name": "Graphic 4-Piece Metal Grinder",
     "category": "grinders",
@@ -1302,7 +1302,7 @@ export const products = [
     "inStock": true,
     "featured": false
   },
-  {
+{
     "id": 101,
     "name": "Classic Wood Dugout with Bat",
     "category": "papers-wraps",
@@ -1315,7 +1315,7 @@ export const products = [
     "inStock": true,
     "featured": false
   },
-  {
+{
     "id": 102,
     "name": "Spring-Loaded Cigarette One Hitter",
     "category": "papers-wraps",
@@ -1328,7 +1328,7 @@ export const products = [
     "inStock": true,
     "featured": false
   },
-  {
+{
     "id": 103,
     "name": "Sneak-a-Toke Metal Pipe",
     "category": "glass-pipes",
@@ -1341,7 +1341,7 @@ export const products = [
     "inStock": true,
     "featured": false
   },
-  {
+{
     "id": 104,
     "name": "Solid Color 4-Piece Metal Grinder",
     "category": "grinders",
@@ -1354,7 +1354,7 @@ export const products = [
     "inStock": true,
     "featured": false
   },
-  {
+{
     "id": 105,
     "name": "Stinger Detox 5x Extra Strength (Grape)",
     "category": "supplements",
@@ -1367,7 +1367,7 @@ export const products = [
     "inStock": true,
     "featured": false
   },
-  {
+{
     "id": 106,
     "name": "Stinger Detox Whole Body Cleanser (Fruit Punch)",
     "category": "supplements",
@@ -1380,7 +1380,7 @@ export const products = [
     "inStock": true,
     "featured": false
   },
-  {
+{
     "id": 107,
     "name": "On Balance Digital Pocket Scale",
     "category": "accessories",
@@ -1393,7 +1393,7 @@ export const products = [
     "inStock": true,
     "featured": false
   },
-  {
+{
     "id": 108,
     "name": "Carbon-Lined Smell-Proof Pouch",
     "category": "storage",
@@ -1405,9 +1405,8 @@ export const products = [
     "badge": null,
     "inStock": true,
     "featured": false
-  }
-,
-  {
+  },
+{
     "id": 109,
     "name": "Kong Organic Hemp Wraps (Yellow/Original)",
     "category": "papers-wraps",
@@ -1420,7 +1419,7 @@ export const products = [
     "inStock": true,
     "featured": false
   },
-  {
+{
     "id": 110,
     "name": "Kong Organic Hemp Wraps (Blue)",
     "category": "papers-wraps",
@@ -1433,7 +1432,7 @@ export const products = [
     "inStock": true,
     "featured": false
   },
-  {
+{
     "id": 111,
     "name": "Kong Wraps CBD+ - Kush Berry",
     "category": "papers-wraps",
@@ -1446,7 +1445,7 @@ export const products = [
     "inStock": true,
     "featured": false
   },
-  {
+{
     "id": 112,
     "name": "Bling/Rhinestone Pepper Spray Keychain - White",
     "category": "papers-wraps",
@@ -1459,7 +1458,7 @@ export const products = [
     "inStock": true,
     "featured": false
   },
-  {
+{
     "id": 113,
     "name": "Royal Blunts EZ Roll Tube - Sour Apple",
     "category": "papers-wraps",
@@ -1472,7 +1471,7 @@ export const products = [
     "inStock": true,
     "featured": false
   },
-  {
+{
     "id": 114,
     "name": "Royal Blunts EZ Roll Tube - Blueberry",
     "category": "papers-wraps",
@@ -1485,7 +1484,7 @@ export const products = [
     "inStock": true,
     "featured": false
   },
-  {
+{
     "id": 115,
     "name": "$100 Bill Novelty Metal Stash Box - Silver",
     "category": "papers-wraps",
@@ -1498,7 +1497,7 @@ export const products = [
     "inStock": true,
     "featured": false
   },
-  {
+{
     "id": 116,
     "name": "$100 Bill Novelty Metal Stash Box - Gold",
     "category": "papers-wraps",
@@ -1511,7 +1510,7 @@ export const products = [
     "inStock": true,
     "featured": false
   },
-  {
+{
     "id": 117,
     "name": "RAW Organic Hemp Rolling Papers 1 1/4 Size (24-Pack Box)",
     "category": "papers-wraps",
@@ -1524,7 +1523,7 @@ export const products = [
     "inStock": true,
     "featured": false
   },
-  {
+{
     "id": 118,
     "name": "Electric Herb Grinder with Skull Design (USB Rechargeable)",
     "category": "papers-wraps",
@@ -1537,7 +1536,7 @@ export const products = [
     "inStock": true,
     "featured": false
   },
-  {
+{
     "id": 119,
     "name": "Glass water pipe/bong (teal accents; matrix percolator)",
     "category": "glass-pipes",
@@ -1550,7 +1549,7 @@ export const products = [
     "inStock": true,
     "featured": false
   },
-  {
+{
     "id": 120,
     "name": "Glass water pipe/bong (green accents; bent neck)",
     "category": "glass-pipes",
@@ -1563,7 +1562,7 @@ export const products = [
     "inStock": true,
     "featured": false
   },
-  {
+{
     "id": 121,
     "name": "French Bulldog novelty resin ashtray",
     "category": "glass-pipes",
@@ -1576,7 +1575,7 @@ export const products = [
     "inStock": true,
     "featured": false
   },
-  {
+{
     "id": 122,
     "name": "Baby Stoner 63mm Zinc Alloy 4-layer grinder",
     "category": "glass-pipes",
@@ -1589,7 +1588,7 @@ export const products = [
     "inStock": true,
     "featured": false
   },
-  {
+{
     "id": 123,
     "name": "Glass stash jar (white sugar skull design)",
     "category": "glass-pipes",
@@ -1602,7 +1601,7 @@ export const products = [
     "inStock": true,
     "featured": false
   },
-  {
+{
     "id": 124,
     "name": "Glass stash jar (green skull and red roses design)",
     "category": "glass-pipes",
@@ -1615,7 +1614,7 @@ export const products = [
     "inStock": true,
     "featured": false
   },
-  {
+{
     "id": 125,
     "name": "Flaming skull glass/resin bowl piece (Angle 1)",
     "category": "glass-pipes",
@@ -1628,7 +1627,7 @@ export const products = [
     "inStock": true,
     "featured": false
   },
-  {
+{
     "id": 126,
     "name": "Flaming skull glass/resin bowl piece (Angle 2)",
     "category": "glass-pipes",
@@ -1641,7 +1640,7 @@ export const products = [
     "inStock": true,
     "featured": false
   },
-  {
+{
     "id": 127,
     "name": "Hostess Twinkies Scented Candle (14 oz 3-wick)",
     "category": "glass-pipes",
@@ -1654,7 +1653,7 @@ export const products = [
     "inStock": true,
     "featured": false
   },
-  {
+{
     "id": 128,
     "name": "Jolly Rancher Blue Raspberry Scented Candle (14 oz 3-wick)",
     "category": "glass-pipes",
@@ -1667,111 +1666,7 @@ export const products = [
     "inStock": true,
     "featured": false
   },
-  {
-    "id": 129,
-    "name": "Peace River Smoke Odor Exterminator Candle",
-    "category": "accessories",
-    "categoryLabel": "Candle",
-    "price": 47.96,
-    "salePrice": null,
-    "description": "Peace River Smoke Odor Exterminator Candle - 13 oz",
-    "image": "/images/product-1.jpg",
-    "badge": "new",
-    "inStock": true,
-    "featured": false
-  },
-  {
-    "id": 130,
-    "name": "Cherry Bomb Smoke Odor Exterminator Candle",
-    "category": "accessories",
-    "categoryLabel": "Candle",
-    "price": 47.96,
-    "salePrice": null,
-    "description": "Cherry Bomb Smoke Odor Exterminator Candle - 13 oz",
-    "image": "/images/product-1.jpg",
-    "badge": "new",
-    "inStock": true,
-    "featured": false
-  },
-  {
-    "id": 131,
-    "name": "Groov'n Grape Smoke Odor Exterminator Candle",
-    "category": "accessories",
-    "categoryLabel": "Candle",
-    "price": 47.96,
-    "salePrice": null,
-    "description": "Groov'n Grape Smoke Odor Exterminator Candle - 13 oz",
-    "image": "/images/product-1.jpg",
-    "badge": "new",
-    "inStock": true,
-    "featured": false
-  },
-  {
-    "id": 132,
-    "name": "High Hemp Organic Wraps (Natural CBD)",
-    "category": "papers-wraps",
-    "categoryLabel": "Wraps",
-    "price": 99.96,
-    "salePrice": null,
-    "description": "High Hemp Organic Wraps (Natural CBD) - 1 Box (25 pouches)",
-    "image": "/images/product-1.jpg",
-    "badge": "new",
-    "inStock": true,
-    "featured": false
-  },
-  {
-    "id": 133,
-    "name": "Johnnie Smoker \"Black Lable\" Bottle Pipe",
-    "category": "glass-pipes",
-    "categoryLabel": "Glassware",
-    "price": 180.0,
-    "salePrice": null,
-    "description": "Johnnie Smoker \"Black Lable\" Bottle Pipe - 1 Unit",
-    "image": "/images/product-1.jpg",
-    "badge": "new",
-    "inStock": true,
-    "featured": false
-  },
-  {
-    "id": 134,
-    "name": "Mini Blue & White Swirl Bell-Base Pipe",
-    "category": "glass-pipes",
-    "categoryLabel": "Glassware",
-    "price": 79.96,
-    "salePrice": null,
-    "description": "Mini Blue & White Swirl Bell-Base Pipe - 1 Unit",
-    "image": "/images/product-1.jpg",
-    "badge": "new",
-    "inStock": true,
-    "featured": false
-  },
-  {
-    "id": 135,
-    "name": "Rectangular Comic Strip Novelty Pipe",
-    "category": "glass-pipes",
-    "categoryLabel": "Glassware",
-    "price": 159.96,
-    "salePrice": null,
-    "description": "Rectangular Comic Strip Novelty Pipe - 1 Unit",
-    "image": "/images/product-1.jpg",
-    "badge": "new",
-    "inStock": true,
-    "featured": false
-  },
-  {
-    "id": 136,
-    "name": "Teal Accent Multi-Chamber Percolator Pipe",
-    "category": "glass-pipes",
-    "categoryLabel": "Glassware",
-    "price": 199.96,
-    "salePrice": null,
-    "description": "Teal Accent Multi-Chamber Percolator Pipe - 1 Unit",
-    "image": "/images/product-1.jpg",
-    "badge": "new",
-    "inStock": true,
-    "featured": false
-  },
-  {
+{
     "id": 137,
     "name": "Camo Pistol Novelty Lighter",
     "category": "glass-pipes",
@@ -1784,7 +1679,7 @@ export const products = [
     "inStock": true,
     "featured": false
   },
-  {
+{
     "id": 138,
     "name": "Green & Purple Accent Glass Bubbler",
     "category": "glass-pipes",
@@ -1797,7 +1692,7 @@ export const products = [
     "inStock": true,
     "featured": false
   },
-  {
+{
     "id": 139,
     "name": "Clear Glass Bubbler with Amber Perc",
     "category": "glass-pipes",
@@ -1810,7 +1705,7 @@ export const products = [
     "inStock": true,
     "featured": false
   },
-  {
+{
     "id": 140,
     "name": "Rick and Morty Graphic Stash Jar / Pipe Box",
     "category": "glass-pipes",
@@ -1823,7 +1718,7 @@ export const products = [
     "inStock": true,
     "featured": false
   },
-  {
+{
     "id": 141,
     "name": "Rick and Morty Themed Glass Bubbler",
     "category": "glass-pipes",
@@ -1836,7 +1731,7 @@ export const products = [
     "inStock": true,
     "featured": false
   },
-  {
+{
     "id": 142,
     "name": "Miniature Acoustic Guitar Novelty Lighter",
     "category": "glass-pipes",
@@ -1849,7 +1744,7 @@ export const products = [
     "inStock": true,
     "featured": false
   },
-  {
+{
     "id": 143,
     "name": "Blue Bull/Cow Resin Ashtray",
     "category": "glass-pipes",
@@ -1862,7 +1757,7 @@ export const products = [
     "inStock": true,
     "featured": false
   },
-  {
+{
     "id": 144,
     "name": "Glass Nectar Collector Kit with Padded Case",
     "category": "glass-pipes",
@@ -1875,7 +1770,7 @@ export const products = [
     "inStock": true,
     "featured": false
   },
-  {
+{
     "id": 145,
     "name": "Blue & White Swirl Mini Beaker Bong (Angle 1)",
     "category": "glass-pipes",
@@ -1888,7 +1783,7 @@ export const products = [
     "inStock": true,
     "featured": false
   },
-  {
+{
     "id": 146,
     "name": "Blue & White Swirl Mini Beaker Bong (Angle 2)",
     "category": "glass-pipes",
@@ -1901,7 +1796,7 @@ export const products = [
     "inStock": true,
     "featured": false
   },
-  {
+{
     "id": 147,
     "name": "Novelty Comic Glass Bottle Bong",
     "category": "glass-pipes",
@@ -1914,7 +1809,7 @@ export const products = [
     "inStock": true,
     "featured": false
   },
-  {
+{
     "id": 148,
     "name": "Rick and Morty Rubik's Cube Grinder",
     "category": "glass-pipes",
@@ -1927,7 +1822,7 @@ export const products = [
     "inStock": true,
     "featured": false
   },
-  {
+{
     "id": 149,
     "name": "Blue & White Swirl Glass Bowl Piece",
     "category": "glass-pipes",
@@ -1940,7 +1835,7 @@ export const products = [
     "inStock": true,
     "featured": false
   },
-  {
+{
     "id": 150,
     "name": "Light Blue Dog with Cigar Ashtray",
     "category": "glass-pipes",
@@ -1953,7 +1848,7 @@ export const products = [
     "inStock": true,
     "featured": false
   },
-  {
+{
     "id": 151,
     "name": "Dark Blue Dog with Cigar Ashtray",
     "category": "glass-pipes",
@@ -1966,7 +1861,7 @@ export const products = [
     "inStock": true,
     "featured": false
   },
-  {
+{
     "id": 152,
     "name": "Dog in Wooden Cart Ashtray",
     "category": "glass-pipes",
@@ -1979,7 +1874,7 @@ export const products = [
     "inStock": true,
     "featured": false
   },
-  {
+{
     "id": 153,
     "name": "Camo Pink Rolling Tray & Accessory Set",
     "category": "glass-pipes",
@@ -1992,7 +1887,7 @@ export const products = [
     "inStock": true,
     "featured": false
   },
-  {
+{
     "id": 154,
     "name": "Sugar Skull Glass Stash Jar (Bamboo Lid)",
     "category": "glass-pipes",
@@ -2005,7 +1900,7 @@ export const products = [
     "inStock": true,
     "featured": false
   },
-  {
+{
     "id": 155,
     "name": "Palpitate Rick & Morty Metal Window Grinder",
     "category": "glass-pipes",
@@ -2018,7 +1913,7 @@ export const products = [
     "inStock": true,
     "featured": false
   },
-  {
+{
     "id": 156,
     "name": "Palpitate Wood-Grain Leaf Window Grinder",
     "category": "glass-pipes",
@@ -2027,124 +1922,6 @@ export const products = [
     "salePrice": null,
     "description": "Palpitate Wood-Grain Leaf Window Grinder",
     "image": "/images/20260220_154750.jpg",
-    "badge": "new",
-    "inStock": true,
-    "featured": false
-  }
-,
-  {
-    "id": 157,
-    "name": "Smoke Odor Exterminator Candle",
-    "category": "accessories",
-    "categoryLabel": "New Arrivals",
-    "price": 48.0,
-    "salePrice": null,
-    "description": "Enzyme-based, Sandalwood scent (13oz).",
-    "image": "/images/product-1.jpg",
-    "badge": "new",
-    "inStock": true,
-    "featured": false
-  },
-  {
-    "id": 158,
-    "name": "Arya Odor Eliminator Candle",
-    "category": "accessories",
-    "categoryLabel": "New Arrivals",
-    "price": 79.96,
-    "salePrice": null,
-    "description": "8oz jar, specifically for smoke removal.",
-    "image": "/images/product-2.jpg",
-    "badge": "new",
-    "inStock": true,
-    "featured": false
-  },
-  {
-    "id": 159,
-    "name": "Hostess Cherry Fruit Pie Candle",
-    "category": "accessories",
-    "categoryLabel": "New Arrivals",
-    "price": 47.8,
-    "salePrice": null,
-    "description": "Scented candle; 3oz or 14oz (3-wick).",
-    "image": "/images/product-3.jpg",
-    "badge": "new",
-    "inStock": true,
-    "featured": false
-  },
-  {
-    "id": 160,
-    "name": "Hershey’s 3-Wick Candle",
-    "category": "accessories",
-    "categoryLabel": "New Arrivals",
-    "price": 79.96,
-    "salePrice": null,
-    "description": "14oz jar with triple wick.",
-    "image": "/images/product-4.jpg",
-    "badge": "new",
-    "inStock": true,
-    "featured": false
-  },
-  {
-    "id": 161,
-    "name": "Silicone Pipe with Glass Bowl",
-    "category": "glass-pipes",
-    "categoryLabel": "New Arrivals",
-    "price": 39.96,
-    "salePrice": null,
-    "description": "Heat-resistant silicone with removable glass insert.",
-    "image": "/images/product-5.jpg",
-    "badge": "new",
-    "inStock": true,
-    "featured": false
-  },
-  {
-    "id": 162,
-    "name": "Hammer-Style Metal Pipe",
-    "category": "glass-pipes",
-    "categoryLabel": "New Arrivals",
-    "price": 40.0,
-    "salePrice": null,
-    "description": "Durable aluminum alloy, detachable parts.",
-    "image": "/images/product-1.jpg",
-    "badge": "new",
-    "inStock": true,
-    "featured": false
-  },
-  {
-    "id": 163,
-    "name": "Ghost Rider Skull Drip Tip",
-    "category": "glass-pipes",
-    "categoryLabel": "New Arrivals",
-    "price": 52.0,
-    "salePrice": null,
-    "description": "510/810 compatible, custom glass/resin design.",
-    "image": "/images/product-2.jpg",
-    "badge": "new",
-    "inStock": true,
-    "featured": false
-  },
-  {
-    "id": 164,
-    "name": "Acrylic Replacement Mouthpiece",
-    "category": "glass-pipes",
-    "categoryLabel": "New Arrivals",
-    "price": 32.0,
-    "salePrice": null,
-    "description": "Curved or straight stems for tobacco pipes.",
-    "image": "/images/product-3.jpg",
-    "badge": "new",
-    "inStock": true,
-    "featured": false
-  },
-  {
-    "id": 165,
-    "name": "Spring-Lock Wire Connectors",
-    "category": "accessories",
-    "categoryLabel": "New Arrivals",
-    "price": 1.0,
-    "salePrice": null,
-    "description": "Electrical connectors with internal spring inserts.",
-    "image": "/images/product-4.jpg",
     "badge": "new",
     "inStock": true,
     "featured": false
