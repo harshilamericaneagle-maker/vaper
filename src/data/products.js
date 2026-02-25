@@ -1,7 +1,8 @@
-// Product data - generated from products_sheet_master_updated.csv
+// Product data - generated from products_sheet_master_complete.csv
+// 113 products, all images verified
 
 export const products = [
-  {
+{
     "id": 1,
     "name": "Clear Glass Beaker Water Pipe with Cartoon Art Design",
     "price": 196.68,
@@ -12,7 +13,7 @@ export const products = [
     "featured": true,
     "inStock": true
   },
-  {
+{
     "id": 2,
     "name": "Cool Dog Sunglasses Ashtray Holder",
     "price": 43.36,
@@ -23,7 +24,7 @@ export const products = [
     "featured": true,
     "inStock": true
   },
-  {
+{
     "id": 3,
     "name": "Rasta Silicone Hand Pipe with Black Stem",
     "price": 38.36,
@@ -34,7 +35,7 @@ export const products = [
     "featured": true,
     "inStock": true
   },
-  {
+{
     "id": 4,
     "name": "Arya Papaya Cream Odor Eliminator Candle 8oz",
     "price": 67.88,
@@ -45,7 +46,7 @@ export const products = [
     "featured": true,
     "inStock": true
   },
-  {
+{
     "id": 5,
     "name": "Swisher Sweets Leaf Wraps Peach Brandy (3 Pack)",
     "price": 9.52,
@@ -56,7 +57,7 @@ export const products = [
     "featured": true,
     "inStock": true
   },
-  {
+{
     "id": 6,
     "name": "Sandalwood Smoke Odor Exterminator Candle 13oz",
     "price": 39.4,
@@ -67,7 +68,7 @@ export const products = [
     "featured": true,
     "inStock": true
   },
-  {
+{
     "id": 7,
     "name": "Mango Tanga Kong Wraps CBD+ Hemp Wraps (2 Wraps)",
     "price": 16.56,
@@ -78,7 +79,7 @@ export const products = [
     "featured": true,
     "inStock": true
   },
-  {
+{
     "id": 8,
     "name": "Twisted Hemp Wraps California Dream (4 Wraps)",
     "price": 35.04,
@@ -89,7 +90,7 @@ export const products = [
     "featured": true,
     "inStock": true
   },
-  {
+{
     "id": 9,
     "name": "RAW Organic Hemp Rolling Papers 1 1/2 Size (25 Pack Box)",
     "price": 23.44,
@@ -100,7 +101,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 10,
     "name": "10000K Black Bull Male Enhancement Capsules Extra Strength",
     "price": 139.08,
@@ -111,7 +112,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 11,
     "name": "RAW Classic Pre-Rolled Cone 1 1/4 Size",
     "price": 24.44,
@@ -122,7 +123,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 12,
     "name": "5 Rollies Real Leaf Tubes 0.5g Each (5 Pack)",
     "price": 62.4,
@@ -133,7 +134,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 13,
     "name": "Green Glass Bottle Style Water Pipe with Bowl",
     "price": 234.16,
@@ -144,7 +145,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 14,
     "name": "Yellow Glass Replacement Bowl Piece 14mm",
     "price": 89.2,
@@ -155,7 +156,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 15,
     "name": "Blink Torch Lighter White Carbon Style",
     "price": 101.96,
@@ -166,7 +167,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 16,
     "name": "Hunter Double Bullet Torch Lighter Gold Finish",
     "price": 74.36,
@@ -177,7 +178,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 17,
     "name": "Blink Torch Lighter Red Carbon Style",
     "price": 91.2,
@@ -188,7 +189,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 18,
     "name": "Scorch Torch Lighter White & Green",
     "price": 123.12,
@@ -199,7 +200,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 19,
     "name": "Ace Skull Design Refillable Lighter",
     "price": 148.44,
@@ -210,7 +211,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 20,
     "name": "Zen Superslim Menthol Filter Tips 200 Count",
     "price": 33.68,
@@ -221,7 +222,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 21,
     "name": "Zen Regular Filter Tips Menthol 200 Count",
     "price": 125.4,
@@ -232,7 +233,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 22,
     "name": "Gold Bar 999.9 Novelty Torch Lighter",
     "price": 141.88,
@@ -243,7 +244,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 23,
     "name": "Gold Bar 999.9 Metallic Torch Lighter",
     "price": 174.08,
@@ -254,7 +255,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 24,
     "name": "Middle Finger Metal Torch Lighter Bronze Finish",
     "price": 110.24,
@@ -265,7 +266,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 25,
     "name": "Rick & Morty Design Cube Grinder",
     "price": 104.56,
@@ -276,7 +277,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 26,
     "name": "Billionaire Majestic Grape Hemp Wraps",
     "price": 21.24,
@@ -287,7 +288,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 27,
     "name": "Billionaire Russian Cream Hemp Wraps",
     "price": 21.92,
@@ -298,7 +299,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 28,
     "name": "Billionaire Milli Mango Hemp Wraps",
     "price": 21.12,
@@ -309,7 +310,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 29,
     "name": "Cartoon Print Mini Water Pipe with Green Cap",
     "price": 393.12,
@@ -320,7 +321,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 30,
     "name": "Billionaire Baldacci Black Hemp Wraps",
     "price": 18.44,
@@ -331,7 +332,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 31,
     "name": "Clear Glass Water Pipe with Black Neck",
     "price": 328.96,
@@ -342,7 +343,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 32,
     "name": "Amber Triple Chamber Glass Water Pipe",
     "price": 265.56,
@@ -353,7 +354,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 33,
     "name": "Amber Glass Replacement Bowl 14mm",
     "price": 51.48,
@@ -364,7 +365,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 34,
     "name": "Billionaire Banana Cream Hemp Wraps (2 Wraps)",
     "price": 15.0,
@@ -375,7 +376,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 35,
     "name": "Amber Curved Handle Glass Bowl 14mm",
     "price": 89.32,
@@ -386,7 +387,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 36,
     "name": "Green Heart Shape Glass Bowl 14mm",
     "price": 50.96,
@@ -397,7 +398,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 37,
     "name": "Yellow Swirl Glass Sherlock Water Pipe",
     "price": 303.36,
@@ -408,7 +409,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 38,
     "name": "Spotted Glass Character Water Pipe",
     "price": 193.04,
@@ -419,7 +420,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 39,
     "name": "Red Swirl Glass Sherlock Water Pipe",
     "price": 413.28,
@@ -430,7 +431,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 40,
     "name": "Techno Blue Adjustable Torch Lighter",
     "price": 190.6,
@@ -441,7 +442,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 41,
     "name": "Blink Silver Plasma Arc Lighter",
     "price": 174.68,
@@ -452,7 +453,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 42,
     "name": "Blink Carbon Fiber Torch Lighter",
     "price": 187.04,
@@ -463,7 +464,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 43,
     "name": "Pink Bear Table Torch Lighter",
     "price": 102.56,
@@ -474,7 +475,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 44,
     "name": "Gun Style Table Torch Lighter",
     "price": 120.72,
@@ -485,7 +486,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 45,
     "name": "Rose Gold Sneaker Novelty Lighter",
     "price": 116.64,
@@ -496,7 +497,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 46,
     "name": "Blue Blink Table Torch Lighter",
     "price": 193.52,
@@ -507,7 +508,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 47,
     "name": "Pistol Revolver Torch Lighter",
     "price": 164.72,
@@ -518,7 +519,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 48,
     "name": "Techno Mini Torch Lighter Purple Pink",
     "price": 198.48,
@@ -529,7 +530,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 49,
     "name": "Hunter Double Bullet Torch Lighter Gold",
     "price": 122.72,
@@ -540,7 +541,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 50,
     "name": "RAW Classic Black King Size Slim Papers Box (50 Packs)",
     "price": 24.48,
@@ -551,7 +552,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 51,
     "name": "RAW Classic King Size Slim Papers Box (50 Packs)",
     "price": 84.04,
@@ -562,7 +563,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 52,
     "name": "RAW Pre-Rolled Tips 200 Count Bag",
     "price": 87.2,
@@ -573,7 +574,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 53,
     "name": "RAW Organic Hemp Artesano King Size Slim",
     "price": 22.72,
@@ -584,7 +585,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 54,
     "name": "RAW Classic King Size Cones (32 Pack)",
     "price": 72.08,
@@ -592,6 +593,629 @@ export const products = [
     "category": "papers-wraps",
     "description": "RAW Classic King Size pre-rolled cones; 32 cones per pack.",
     
+    "featured": false,
+    "inStock": true
+  },
+{
+    "id": 55,
+    "name": "RAW Uncoated Wooden Rolling Tips 15mm Jar",
+    "price": 74.76,
+    "image": "/images/20260220_160400.jpg",
+    "category": "papers-wraps",
+    "description": "RAW uncoated wooden rolling tips; 15mm diameter; spiral tip design; jar packaging.",
+    "badge": "new",
+    "featured": false,
+    "inStock": true
+  },
+{
+    "id": 56,
+    "name": "RAW Black Single Wide Classic Papers Box (25 Packs)",
+    "price": 21.16,
+    "image": "/images/20260220_160423.jpg",
+    "category": "papers-wraps",
+    "description": "RAW Black Single Wide classic rolling papers; 25 packs per box; 100 leaves per pack.",
+    "badge": "new",
+    "featured": false,
+    "inStock": true
+  },
+{
+    "id": 57,
+    "name": "RAW Phenomenal Rolling Tips Classic (50 Box)",
+    "price": 53.56,
+    "image": "/images/20260220_160436.jpg",
+    "category": "papers-wraps",
+    "description": "RAW Phenomenal Classic rolling tips; premium boxed packaging.",
+    "badge": "new",
+    "featured": false,
+    "inStock": true
+  },
+{
+    "id": 58,
+    "name": "Mega Gold S.W.A.G Male Enhancement Capsules",
+    "price": 207.8,
+    "image": "/images/20260220_160613.jpg",
+    "category": "accessories",
+    "description": "Mega Gold S.W.A.G male enhancement supplement; fast acting formula.",
+    "featured": false,
+    "inStock": true
+  },
+{
+    "id": 59,
+    "name": "200K Shilajit XXL Male Enhancement",
+    "price": 159.84,
+    "image": "/images/20260220_160716.jpg",
+    "category": "accessories",
+    "description": "200K Shilajit XXL male enhancement supplement; stamina support.",
+    "featured": false,
+    "inStock": true
+  },
+{
+    "id": 60,
+    "name": "Black Bull Extreme Male Enhancement Supplement",
+    "price": 221.76,
+    "image": "/images/20260220_160752.jpg",
+    "category": "accessories",
+    "description": "Black Bull Extreme male enhancement supplement; performance support.",
+    "featured": false,
+    "inStock": true
+  },
+{
+    "id": 61,
+    "name": "Rhino 77 Liquid Shot Male Enhancement",
+    "price": 184.6,
+    "image": "/images/20260220_160812.jpg",
+    "category": "accessories",
+    "description": "Rhino 77 liquid shot male enhancement formula.",
+    "featured": false,
+    "inStock": true
+  },
+{
+    "id": 62,
+    "name": "Zig-Zag Mini Ultra Thin Cones 70mm (8 Pack)",
+    "price": 70.56,
+    "image": "/images/20260220_160857.jpg",
+    "category": "papers-wraps",
+    "description": "Zig-Zag Mini Ultra Thin cones; 70mm size; 8 cones per pack.",
+    "badge": "new",
+    "featured": false,
+    "inStock": true
+  },
+{
+    "id": 63,
+    "name": "Zig-Zag Original White 1 1/4 Rolling Papers",
+    "price": 75.12,
+    "image": "/images/20260220_160931.jpg",
+    "category": "papers-wraps",
+    "description": "Zig-Zag Original White 1 1/4 rolling papers; natural gum arabic.",
+    "badge": "new",
+    "featured": false,
+    "inStock": true
+  },
+{
+    "id": 64,
+    "name": "Zig-Zag Ultra Thin 1 1/4 Rolling Papers",
+    "price": 34.4,
+    "image": "/images/20260220_160940.jpg",
+    "category": "papers-wraps",
+    "description": "Zig-Zag Ultra Thin 1 1/4 rolling papers.",
+    "badge": "new",
+    "featured": false,
+    "inStock": true
+  },
+{
+    "id": 65,
+    "name": "Zig-Zag Combo Pack 1 1/4 Papers + Tips",
+    "price": 52.0,
+    "image": "/images/20260220_160947.jpg",
+    "category": "papers-wraps",
+    "description": "Zig-Zag combo pack; 50 leaves plus 50 tips.",
+    "badge": "new",
+    "featured": false,
+    "inStock": true
+  },
+{
+    "id": 66,
+    "name": "Zig-Zag King Size French Orange Papers",
+    "price": 55.52,
+    "image": "/images/20260220_160955.jpg",
+    "category": "papers-wraps",
+    "description": "Zig-Zag King Size French Orange rolling papers.",
+    "badge": "new",
+    "featured": false,
+    "inStock": true
+  },
+{
+    "id": 67,
+    "name": "OCB Bamboo King Size Cones (3 Pack)",
+    "price": 23.72,
+    "image": "/images/20260220_161003.jpg",
+    "category": "papers-wraps",
+    "description": "OCB Bamboo King Size pre-rolled cones; 3 pack.",
+    "badge": "new",
+    "featured": false,
+    "inStock": true
+  },
+{
+    "id": 68,
+    "name": "OCB Brown Rice Mini Cones (10 Pack)",
+    "price": 64.52,
+    "image": "/images/20260220_161014.jpg",
+    "category": "papers-wraps",
+    "description": "OCB Brown Rice Mini cones; 10 pack.",
+    "badge": "new",
+    "featured": false,
+    "inStock": true
+  },
+{
+    "id": 69,
+    "name": "OCB Bamboo 1 1/4 Unbleached Cones (100 Box)",
+    "price": 66.16,
+    "image": "/images/20260220_161042.jpg",
+    "category": "papers-wraps",
+    "description": "OCB Bamboo 1 1/4 unbleached cones; 100 per box.",
+    "badge": "new",
+    "featured": false,
+    "inStock": true
+  },
+{
+    "id": 70,
+    "name": "OCB Organic Hemp 1 1/4 Cones (50 Box)",
+    "price": 83.92,
+    "image": "/images/20260220_161054.jpg",
+    "category": "papers-wraps",
+    "description": "OCB Organic Hemp 1 1/4 cones; 50 per box.",
+    "badge": "new",
+    "featured": false,
+    "inStock": true
+  },
+{
+    "id": 71,
+    "name": "POP Cones Wild Grape King Size (3 Pack)",
+    "price": 52.32,
+    "image": "/images/20260220_161115.jpg",
+    "category": "papers-wraps",
+    "description": "POP Cones Wild Grape flavor king size cones; 3 pack.",
+    "featured": false,
+    "inStock": true
+  },
+{
+    "id": 72,
+    "name": "RAW Classic 1 1/4 Pre-Rolled Cone",
+    "price": 23.96,
+    "image": "/images/20260220_161242.jpg",
+    "category": "papers-wraps",
+    "description": "RAW Classic 1 1/4 size pre-rolled cone; natural unbleached rolling paper.",
+    "badge": "new",
+    "featured": false,
+    "inStock": true
+  },
+{
+    "id": 73,
+    "name": "King Palm 5 King Real Leaf Tubes (2G Each)",
+    "price": 29.04,
+    "image": "/images/20260220_161400.jpg",
+    "category": "papers-wraps",
+    "description": "King Palm 5 King size real leaf tubes; all natural; 2 grams each.",
+    "badge": "new",
+    "featured": false,
+    "inStock": true
+  },
+{
+    "id": 74,
+    "name": "King Palm Perfect Pear 2 Minis (1G Each)",
+    "price": 30.84,
+    "image": "/images/20260220_161431.jpg",
+    "category": "papers-wraps",
+    "description": "King Palm Perfect Pear flavor; 2 mini rolls; terpene infused; 1 gram each.",
+    "badge": "new",
+    "featured": false,
+    "inStock": true
+  },
+{
+    "id": 75,
+    "name": "King Palm Gold Rose Cones King Size (3 Pack)",
+    "price": 33.72,
+    "image": "/images/20260220_161435.jpg",
+    "category": "papers-wraps",
+    "description": "King Palm Gold Rose king size cones; 3 per pack; premium edition.",
+    "badge": "new",
+    "featured": false,
+    "inStock": true
+  },
+{
+    "id": 76,
+    "name": "King Palm Pink Lemonade Mini 1G Roll (2 Pack)",
+    "price": 77.4,
+    "image": "/images/20260220_161457.jpg",
+    "category": "papers-wraps",
+    "description": "King Palm Pink Lemonade flavor; 2 minis; squeeze & pop flavor tip.",
+    "badge": "new",
+    "featured": false,
+    "inStock": true
+  },
+{
+    "id": 77,
+    "name": "King Palm Palm Leaf Banana Pineapple 1G Roll (2 Pack)",
+    "price": 67.52,
+    "image": "/images/20260220_161559.jpg",
+    "category": "papers-wraps",
+    "description": "King Palm Banana Pineapple flavor; 2 pack; terpene infused; tobacco free.",
+    "badge": "new",
+    "featured": false,
+    "inStock": true
+  },
+{
+    "id": 78,
+    "name": "King Palm Margarita 2 Slims (1.5G Each)",
+    "price": 72.52,
+    "image": "/images/20260220_161641.jpg",
+    "category": "papers-wraps",
+    "description": "King Palm Margarita flavor; 2 slim rolls; holds 1.5 grams each.",
+    "badge": "new",
+    "featured": false,
+    "inStock": true
+  },
+{
+    "id": 79,
+    "name": "King Palm Mango OG 2 Minis (1G Each)",
+    "price": 42.8,
+    "image": "/images/20260220_161642.jpg",
+    "category": "accessories",
+    "description": "King Palm Mango OG flavor; 2 minis; squeeze & pop flavor activation.",
+    "badge": "new",
+    "featured": false,
+    "inStock": true
+  },
+{
+    "id": 80,
+    "name": "King Palm Watermelon Wave 2 Minis (1G Each)",
+    "price": 57.32,
+    "image": "/images/20260220_161651.jpg",
+    "category": "papers-wraps",
+    "description": "King Palm Watermelon Wave flavor; 2 mini rolls; terpene infused.",
+    "badge": "new",
+    "featured": false,
+    "inStock": true
+  },
+{
+    "id": 81,
+    "name": "King Palm Perfect Pear 2 Rollies (0.5G Each)",
+    "price": 57.56,
+    "image": "/images/20260220_161707.jpg",
+    "category": "papers-wraps",
+    "description": "King Palm Perfect Pear; 2 rollies; half gram each; flavor tip activated.",
+    "badge": "new",
+    "featured": false,
+    "inStock": true
+  },
+{
+    "id": 82,
+    "name": "King Palm Red Reign Energy Drink Leaf Tubes Mini Rolls",
+    "price": 40.24,
+    "image": "/images/20260220_161727.jpg",
+    "category": "papers-wraps",
+    "description": "King Palm Red Reign special edition; mini leaf tubes; energy drink inspired flavor.",
+    "badge": "new",
+    "featured": false,
+    "inStock": true
+  },
+{
+    "id": 83,
+    "name": "Pepper Spray Maximum Strength Defense Spray",
+    "price": 96.16,
+    "image": "/images/20260220_161755.jpg",
+    "category": "papers-wraps",
+    "description": "Maximum strength pepper spray; multiple blasts; up to 12 ft range; UV dye.",
+    "featured": false,
+    "inStock": true
+  },
+{
+    "id": 84,
+    "name": "Tsunami Premium 50mm Dry Herb Grinder (Red)",
+    "price": 113.56,
+    "image": "/images/20260220_161811.jpg",
+    "category": "grinders",
+    "description": "Tsunami Premium 50mm dry herb grinder; sunken top; lifetime warranty.",
+    "featured": false,
+    "inStock": true
+  },
+{
+    "id": 85,
+    "name": "Tsunami Premium 50mm Dry Herb Grinder (Red)",
+    "price": 94.36,
+    "image": "/images/20260220_162122.jpg",
+    "category": "grinders",
+    "description": "Tsunami Premium 50mm 4-piece dry herb grinder with kief catcher and magnetic lid.",
+    "featured": false,
+    "inStock": true
+  },
+{
+    "id": 86,
+    "name": "OCB x Wakit Electric Grinder (Rechargeable)",
+    "price": 140.28,
+    "image": "/images/20260220_162126.jpg",
+    "category": "grinders",
+    "description": "OCB x Wakit rechargeable electric herb grinder with LED light and USB charging.",
+    "badge": "new",
+    "featured": false,
+    "inStock": true
+  },
+{
+    "id": 87,
+    "name": "Rick & Morty Style Cube Herb Grinder",
+    "price": 119.56,
+    "image": "/images/20260220_162139.jpg",
+    "category": "grinders",
+    "description": "Novelty cube-style herb grinder with magnetic lid and sharp grinding teeth.",
+    "badge": "hot",
+    "featured": false,
+    "inStock": true
+  },
+{
+    "id": 88,
+    "name": "Flaming Skull Decorative Bowl Piece",
+    "price": 81.08,
+    "image": "/images/20260220_162143.jpg",
+    "category": "accessories",
+    "description": "Decorative skull-themed bowl accessory with flame design and detailed finish.",
+    "badge": "hot",
+    "featured": false,
+    "inStock": true
+  },
+{
+    "id": 89,
+    "name": "Compact Metal Hand Pipe (Orange Finish)",
+    "price": 42.72,
+    "image": "/images/20260220_162150.jpg",
+    "category": "glass-pipes",
+    "description": "Small durable metal hand pipe with metallic orange body and ergonomic design.",
+    "featured": false,
+    "inStock": true
+  },
+{
+    "id": 90,
+    "name": "ARYA Odor Eliminator Candle - Papaya Cream (8oz)",
+    "price": 111.2,
+    "image": "/images/20260220_162154.jpg",
+    "category": "accessories",
+    "description": "ARYA Papaya Cream scented candle designed to eliminate smoke and unpleasant odors.",
+    "featured": false,
+    "inStock": true
+  },
+{
+    "id": 91,
+    "name": "Jolly Rancher Scented Candle - Blue Raspberry (Triple Wick)",
+    "price": 102.08,
+    "image": "/images/20260220_162259.jpg",
+    "category": "accessories",
+    "description": "Blue Raspberry scented triple wick candle inspired by Jolly Rancher candy.",
+    "featured": false,
+    "inStock": true
+  },
+{
+    "id": 92,
+    "name": "Hershey's Triple Wick Scented Candle (14oz)",
+    "price": 103.44,
+    "image": "/images/20260220_162308.jpg",
+    "category": "accessories",
+    "description": "Hershey's chocolate scented triple wick candle with long burn time.",
+    "featured": false,
+    "inStock": true
+  },
+{
+    "id": 93,
+    "name": "Bob Marley Hemp Wraps - Caribbean Cream",
+    "price": 9.16,
+    "image": "/images/20260220_154938.jpg",
+    "category": "papers-wraps",
+    "description": "Bob Marley Organic Hemp Wraps, Caribbean Cream flavor, tobacco-free.",
+    "featured": false,
+    "inStock": true
+  },
+{
+    "id": 94,
+    "name": "Bob Marley Hemp Wraps - Sour Apple",
+    "price": 21.84,
+    "image": "/images/20260220_154948.jpg",
+    "category": "papers-wraps",
+    "description": "Bob Marley Organic Hemp Wraps, Sour Apple flavor, tobacco-free.",
+    "featured": false,
+    "inStock": true
+  },
+{
+    "id": 95,
+    "name": "Smoke Odor Exterminator Candle - Groovin Grape (13oz)",
+    "price": 110.0,
+    "image": "/images/20260220_155000.jpg",
+    "category": "accessories",
+    "description": "Groovin Grape smoke odor exterminator candle designed for strong odor control.",
+    "featured": false,
+    "inStock": true
+  },
+{
+    "id": 96,
+    "name": "High Hemp Organic Wraps - Natural CBD's",
+    "price": 18.92,
+    "image": "/images/20260220_155019.jpg",
+    "category": "papers-wraps",
+    "description": "High Hemp Organic Wraps infused with natural CBD, tobacco-free.",
+    "featured": false,
+    "inStock": true
+  },
+{
+    "id": 97,
+    "name": "High Hemp Fuzzy Peach Organic Wraps (25 Pouches / 2 Wraps)",
+    "price": 24.72,
+    "image": "/images/20260220_155551.jpg",
+    "category": "papers-wraps",
+    "description": "High Hemp Fuzzy Peach flavor organic hemp wraps with natural CBD's.",
+    "featured": false,
+    "inStock": true
+  },
+{
+    "id": 98,
+    "name": "High Hemp Honey Pot Swirl Organic Wraps (25 Pouches / 2 Wraps)",
+    "price": 23.72,
+    "image": "/images/20260220_155600.jpg",
+    "category": "papers-wraps",
+    "description": "High Hemp Honey Pot Swirl organic wraps infused with natural CBD.",
+    "featured": false,
+    "inStock": true
+  },
+{
+    "id": 99,
+    "name": "High Hemp Grape Ape Organic Wraps (25 Pouches / 2 Wraps)",
+    "price": 11.24,
+    "image": "/images/20260220_155608.jpg",
+    "category": "papers-wraps",
+    "description": "High Hemp Grape Ape flavor organic hemp wraps, tobacco free.",
+    "featured": false,
+    "inStock": true
+  },
+{
+    "id": 100,
+    "name": "High Hemp Blazin Cherry Organic Wraps (25 Pouches / 2 Wraps)",
+    "price": 13.16,
+    "image": "/images/20260220_155616.jpg",
+    "category": "papers-wraps",
+    "description": "High Hemp Blazin Cherry organic hemp wraps with natural CBD's.",
+    "featured": false,
+    "inStock": true
+  },
+{
+    "id": 101,
+    "name": "Juicy Hemp Wraps Purple Gelato (2 Per Pack)",
+    "price": 19.8,
+    "image": "/images/20260220_155637.jpg",
+    "category": "papers-wraps",
+    "description": "Juicy Hemp Wraps Terp Enhanced Purple Gelato flavor, 2 wraps per pack.",
+    "featured": false,
+    "inStock": true
+  },
+{
+    "id": 102,
+    "name": "CAMO Natural Leaf Wraps Passion Fruit (5 Wraps Per Pack)",
+    "price": 10.56,
+    "image": "/images/20260220_155707.jpg",
+    "category": "papers-wraps",
+    "description": "CAMO Natural Leaf Wraps Passion Fruit flavor, 5 wraps per pack.",
+    "badge": "hot",
+    "featured": false,
+    "inStock": true
+  },
+{
+    "id": 103,
+    "name": "CAMO Natural Leaf Wraps Honey (5 Wraps Per Pack)",
+    "price": 10.8,
+    "image": "/images/20260220_155715.jpg",
+    "category": "papers-wraps",
+    "description": "CAMO Natural Leaf Wraps Honey flavor, smooth natural leaf wraps.",
+    "badge": "hot",
+    "featured": false,
+    "inStock": true
+  },
+{
+    "id": 104,
+    "name": "CAMO Natural Leaf Wraps Choco (5 Wraps Per Pack)",
+    "price": 19.72,
+    "image": "/images/20260220_155721.jpg",
+    "category": "papers-wraps",
+    "description": "CAMO Natural Leaf Wraps Choco flavor, slow burning leaf wraps.",
+    "badge": "hot",
+    "featured": false,
+    "inStock": true
+  },
+{
+    "id": 105,
+    "name": "CAMO Natural Leaf Wraps Strawberry (5 Wraps Per Pack)",
+    "price": 26.36,
+    "image": "/images/20260220_155727.jpg",
+    "category": "papers-wraps",
+    "description": "CAMO Natural Leaf Wraps Strawberry flavor, 5 wraps per pack.",
+    "badge": "hot",
+    "featured": false,
+    "inStock": true
+  },
+{
+    "id": 106,
+    "name": "CAMO Natural Leaf Wraps Guava (5 Wraps Per Pack)",
+    "price": 20.0,
+    "image": "/images/20260220_155733.jpg",
+    "category": "papers-wraps",
+    "description": "CAMO Natural Leaf Wraps Guava flavor, tropical taste.",
+    "badge": "hot",
+    "featured": false,
+    "inStock": true
+  },
+{
+    "id": 107,
+    "name": "Kong Wraps Natural CBD+ (2 Hemp Wraps)",
+    "price": 18.92,
+    "image": "/images/20260220_155754.jpg",
+    "category": "papers-wraps",
+    "description": "Kong Wraps Natural CBD+ organic hemp wraps, tobacco and nicotine free.",
+    "featured": false,
+    "inStock": true
+  },
+{
+    "id": 108,
+    "name": "Kong Wraps Kush Berry CBD+ (2 Hemp Wraps)",
+    "price": 16.56,
+    "image": "/images/20260220_155758.jpg",
+    "category": "papers-wraps",
+    "description": "Kong Wraps Kush Berry CBD+ organic hemp wraps with fresh seal.",
+    "featured": false,
+    "inStock": true
+  },
+{
+    "id": 109,
+    "name": "Royal Blunts EZ Roll Tube Sour Apple (1 Cigar Wrap)",
+    "price": 25.92,
+    "image": "/images/20260220_155814.jpg",
+    "category": "papers-wraps",
+    "description": "Royal Blunts EZ Roll Tube Sour Apple flavor, rolls up to 2.",
+    "featured": false,
+    "inStock": true
+  },
+{
+    "id": 110,
+    "name": "Royal Blunts EZ Roll Tube Blueberry (1 Cigar Wrap)",
+    "price": 9.32,
+    "image": "/images/20260220_155822.jpg",
+    "category": "papers-wraps",
+    "description": "Royal Blunts EZ Roll Tube Blueberry flavor, smooth rolling tube.",
+    "featured": false,
+    "inStock": true
+  },
+{
+    "id": 111,
+    "name": "Royal Blunts EZ Roll Tube Purple Haze (1 Cigar Wrap)",
+    "price": 24.84,
+    "image": "/images/20260220_155826.jpg",
+    "category": "papers-wraps",
+    "description": "Royal Blunts EZ Roll Tube Purple Haze flavor, premium cigar wrap.",
+    "featured": false,
+    "inStock": true
+  },
+{
+    "id": 112,
+    "name": "Pepper Spray Maximum Strength (Rhinestone Case)",
+    "price": 73.8,
+    "image": "/images/20260220_155843.jpg",
+    "category": "papers-wraps",
+    "description": "Maximum strength pepper spray with UV dye, multiple blasts, up to 12 ft range.",
+    "badge": "hot",
+    "featured": false,
+    "inStock": true
+  },
+{
+    "id": 113,
+    "name": "Novelty Storage Box $100 Bill Design",
+    "price": 46.92,
+    "image": "/images/20260220_155909.jpg",
+    "category": "accessories",
+    "description": "Novelty storage box designed like a $100 bill, discreet stash container.",
+    "badge": "hot",
     "featured": false,
     "inStock": true
   }
@@ -604,628 +1228,5 @@ export const categories = [
   { id: 'papers-wraps', label: 'Papers & Wraps' },
   { id: 'grinders', label: 'Grinders' },
   { id: 'hookah', label: 'Hookah' },
-  { id: 'accessories', label: 'Accessories' },,
-  {
-    "id": 55,
-    "name": "RAW Uncoated Wooden Rolling Tips 15mm Jar",
-    "price": 74.76,
-    "image": "/images/20260220_160400.jpg",
-    "category": "papers-wraps",
-    "description": "RAW uncoated wooden rolling tips; 15mm diameter; spiral tip design; jar packaging.",
-    "badge": "new",
-    "featured": false,
-    "inStock": true
-  },
-  {
-    "id": 56,
-    "name": "RAW Black Single Wide Classic Papers Box (25 Packs)",
-    "price": 21.16,
-    "image": "/images/20260220_160423.jpg",
-    "category": "papers-wraps",
-    "description": "RAW Black Single Wide classic rolling papers; 25 packs per box; 100 leaves per pack.",
-    "badge": "new",
-    "featured": false,
-    "inStock": true
-  },
-  {
-    "id": 57,
-    "name": "RAW Phenomenal Rolling Tips Classic (50 Box)",
-    "price": 53.56,
-    "image": "/images/20260220_160436.jpg",
-    "category": "papers-wraps",
-    "description": "RAW Phenomenal Classic rolling tips; premium boxed packaging.",
-    "badge": "new",
-    "featured": false,
-    "inStock": true
-  },
-  {
-    "id": 58,
-    "name": "Mega Gold S.W.A.G Male Enhancement Capsules",
-    "price": 207.8,
-    "image": "/images/20260220_160613.jpg",
-    "category": "accessories",
-    "description": "Mega Gold S.W.A.G male enhancement supplement; fast acting formula.",
-    "featured": false,
-    "inStock": true
-  },
-  {
-    "id": 59,
-    "name": "200K Shilajit XXL Male Enhancement",
-    "price": 159.84,
-    "image": "/images/20260220_160716.jpg",
-    "category": "accessories",
-    "description": "200K Shilajit XXL male enhancement supplement; stamina support.",
-    "featured": false,
-    "inStock": true
-  },
-  {
-    "id": 60,
-    "name": "Black Bull Extreme Male Enhancement Supplement",
-    "price": 221.76,
-    "image": "/images/20260220_160752.jpg",
-    "category": "accessories",
-    "description": "Black Bull Extreme male enhancement supplement; performance support.",
-    "featured": false,
-    "inStock": true
-  },
-  {
-    "id": 61,
-    "name": "Rhino 77 Liquid Shot Male Enhancement",
-    "price": 184.6,
-    "image": "/images/20260220_160812.jpg",
-    "category": "accessories",
-    "description": "Rhino 77 liquid shot male enhancement formula.",
-    "featured": false,
-    "inStock": true
-  },
-  {
-    "id": 62,
-    "name": "Zig-Zag Mini Ultra Thin Cones 70mm (8 Pack)",
-    "price": 70.56,
-    "image": "/images/20260220_160857.jpg",
-    "category": "papers-wraps",
-    "description": "Zig-Zag Mini Ultra Thin cones; 70mm size; 8 cones per pack.",
-    "badge": "new",
-    "featured": false,
-    "inStock": true
-  },
-  {
-    "id": 63,
-    "name": "Zig-Zag Original White 1 1/4 Rolling Papers",
-    "price": 75.12,
-    "image": "/images/20260220_160931.jpg",
-    "category": "papers-wraps",
-    "description": "Zig-Zag Original White 1 1/4 rolling papers; natural gum arabic.",
-    "badge": "new",
-    "featured": false,
-    "inStock": true
-  },
-  {
-    "id": 64,
-    "name": "Zig-Zag Ultra Thin 1 1/4 Rolling Papers",
-    "price": 34.4,
-    "image": "/images/20260220_160940.jpg",
-    "category": "papers-wraps",
-    "description": "Zig-Zag Ultra Thin 1 1/4 rolling papers.",
-    "badge": "new",
-    "featured": false,
-    "inStock": true
-  },
-  {
-    "id": 65,
-    "name": "Zig-Zag Combo Pack 1 1/4 Papers + Tips",
-    "price": 52.0,
-    "image": "/images/20260220_160947.jpg",
-    "category": "papers-wraps",
-    "description": "Zig-Zag combo pack; 50 leaves plus 50 tips.",
-    "badge": "new",
-    "featured": false,
-    "inStock": true
-  },
-  {
-    "id": 66,
-    "name": "Zig-Zag King Size French Orange Papers",
-    "price": 55.52,
-    "image": "/images/20260220_160955.jpg",
-    "category": "papers-wraps",
-    "description": "Zig-Zag King Size French Orange rolling papers.",
-    "badge": "new",
-    "featured": false,
-    "inStock": true
-  },
-  {
-    "id": 67,
-    "name": "OCB Bamboo King Size Cones (3 Pack)",
-    "price": 23.72,
-    "image": "/images/20260220_161003.jpg",
-    "category": "papers-wraps",
-    "description": "OCB Bamboo King Size pre-rolled cones; 3 pack.",
-    "badge": "new",
-    "featured": false,
-    "inStock": true
-  },
-  {
-    "id": 68,
-    "name": "OCB Brown Rice Mini Cones (10 Pack)",
-    "price": 64.52,
-    "image": "/images/20260220_161014.jpg",
-    "category": "papers-wraps",
-    "description": "OCB Brown Rice Mini cones; 10 pack.",
-    "badge": "new",
-    "featured": false,
-    "inStock": true
-  },
-  {
-    "id": 69,
-    "name": "OCB Bamboo 1 1/4 Unbleached Cones (100 Box)",
-    "price": 66.16,
-    "image": "/images/20260220_161042.jpg",
-    "category": "papers-wraps",
-    "description": "OCB Bamboo 1 1/4 unbleached cones; 100 per box.",
-    "badge": "new",
-    "featured": false,
-    "inStock": true
-  },
-  {
-    "id": 70,
-    "name": "OCB Organic Hemp 1 1/4 Cones (50 Box)",
-    "price": 83.92,
-    "image": "/images/20260220_161054.jpg",
-    "category": "papers-wraps",
-    "description": "OCB Organic Hemp 1 1/4 cones; 50 per box.",
-    "badge": "new",
-    "featured": false,
-    "inStock": true
-  },
-  {
-    "id": 71,
-    "name": "POP Cones Wild Grape King Size (3 Pack)",
-    "price": 52.32,
-    "image": "/images/20260220_161115.jpg",
-    "category": "papers-wraps",
-    "description": "POP Cones Wild Grape flavor king size cones; 3 pack.",
-    "featured": false,
-    "inStock": true
-  },
-  {
-    "id": 72,
-    "name": "RAW Classic 1 1/4 Pre-Rolled Cone",
-    "price": 23.96,
-    "image": "/images/20260220_161242.jpg",
-    "category": "papers-wraps",
-    "description": "RAW Classic 1 1/4 size pre-rolled cone; natural unbleached rolling paper.",
-    "badge": "new",
-    "featured": false,
-    "inStock": true
-  },
-  {
-    "id": 73,
-    "name": "King Palm 5 King Real Leaf Tubes (2G Each)",
-    "price": 29.04,
-    "image": "/images/20260220_161400.jpg",
-    "category": "papers-wraps",
-    "description": "King Palm 5 King size real leaf tubes; all natural; 2 grams each.",
-    "badge": "new",
-    "featured": false,
-    "inStock": true
-  },
-  {
-    "id": 74,
-    "name": "King Palm Perfect Pear 2 Minis (1G Each)",
-    "price": 30.84,
-    "image": "/images/20260220_161431.jpg",
-    "category": "papers-wraps",
-    "description": "King Palm Perfect Pear flavor; 2 mini rolls; terpene infused; 1 gram each.",
-    "badge": "new",
-    "featured": false,
-    "inStock": true
-  },
-  {
-    "id": 75,
-    "name": "King Palm Gold Rose Cones King Size (3 Pack)",
-    "price": 33.72,
-    "image": "/images/20260220_161435.jpg",
-    "category": "papers-wraps",
-    "description": "King Palm Gold Rose king size cones; 3 per pack; premium edition.",
-    "badge": "new",
-    "featured": false,
-    "inStock": true
-  },
-  {
-    "id": 76,
-    "name": "King Palm Pink Lemonade Mini 1G Roll (2 Pack)",
-    "price": 77.4,
-    "image": "/images/20260220_161457.jpg",
-    "category": "papers-wraps",
-    "description": "King Palm Pink Lemonade flavor; 2 minis; squeeze & pop flavor tip.",
-    "badge": "new",
-    "featured": false,
-    "inStock": true
-  },
-  {
-    "id": 77,
-    "name": "King Palm Palm Leaf Banana Pineapple 1G Roll (2 Pack)",
-    "price": 67.52,
-    "image": "/images/20260220_161559.jpg",
-    "category": "papers-wraps",
-    "description": "King Palm Banana Pineapple flavor; 2 pack; terpene infused; tobacco free.",
-    "badge": "new",
-    "featured": false,
-    "inStock": true
-  },
-  {
-    "id": 78,
-    "name": "King Palm Margarita 2 Slims (1.5G Each)",
-    "price": 72.52,
-    "image": "/images/20260220_161641.jpg",
-    "category": "papers-wraps",
-    "description": "King Palm Margarita flavor; 2 slim rolls; holds 1.5 grams each.",
-    "badge": "new",
-    "featured": false,
-    "inStock": true
-  },
-  {
-    "id": 79,
-    "name": "King Palm Mango OG 2 Minis (1G Each)",
-    "price": 42.8,
-    "image": "/images/20260220_161642.jpg",
-    "category": "accessories",
-    "description": "King Palm Mango OG flavor; 2 minis; squeeze & pop flavor activation.",
-    "badge": "new",
-    "featured": false,
-    "inStock": true
-  },
-  {
-    "id": 80,
-    "name": "King Palm Watermelon Wave 2 Minis (1G Each)",
-    "price": 57.32,
-    "image": "/images/20260220_161651.jpg",
-    "category": "papers-wraps",
-    "description": "King Palm Watermelon Wave flavor; 2 mini rolls; terpene infused.",
-    "badge": "new",
-    "featured": false,
-    "inStock": true
-  },
-  {
-    "id": 81,
-    "name": "King Palm Perfect Pear 2 Rollies (0.5G Each)",
-    "price": 57.56,
-    "image": "/images/20260220_161707.jpg",
-    "category": "papers-wraps",
-    "description": "King Palm Perfect Pear; 2 rollies; half gram each; flavor tip activated.",
-    "badge": "new",
-    "featured": false,
-    "inStock": true
-  },
-  {
-    "id": 82,
-    "name": "King Palm Red Reign Energy Drink Leaf Tubes Mini Rolls",
-    "price": 40.24,
-    "image": "/images/20260220_161727.jpg",
-    "category": "papers-wraps",
-    "description": "King Palm Red Reign special edition; mini leaf tubes; energy drink inspired flavor.",
-    "badge": "new",
-    "featured": false,
-    "inStock": true
-  },
-  {
-    "id": 83,
-    "name": "Pepper Spray Maximum Strength Defense Spray",
-    "price": 96.16,
-    "image": "/images/20260220_161755.jpg",
-    "category": "papers-wraps",
-    "description": "Maximum strength pepper spray; multiple blasts; up to 12 ft range; UV dye.",
-    "featured": false,
-    "inStock": true
-  },
-  {
-    "id": 84,
-    "name": "Tsunami Premium 50mm Dry Herb Grinder (Red)",
-    "price": 113.56,
-    "image": "/images/20260220_161811.jpg",
-    "category": "grinders",
-    "description": "Tsunami Premium 50mm dry herb grinder; sunken top; lifetime warranty.",
-    "featured": false,
-    "inStock": true
-  },
-  {
-    "id": 85,
-    "name": "Tsunami Premium 50mm Dry Herb Grinder (Red)",
-    "price": 94.36,
-    "image": "/images/20260220_162122.jpg",
-    "category": "grinders",
-    "description": "Tsunami Premium 50mm 4-piece dry herb grinder with kief catcher and magnetic lid.",
-    "featured": false,
-    "inStock": true
-  },
-  {
-    "id": 86,
-    "name": "OCB x Wakit Electric Grinder (Rechargeable)",
-    "price": 140.28,
-    "image": "/images/20260220_162126.jpg",
-    "category": "grinders",
-    "description": "OCB x Wakit rechargeable electric herb grinder with LED light and USB charging.",
-    "badge": "new",
-    "featured": false,
-    "inStock": true
-  },
-  {
-    "id": 87,
-    "name": "Rick & Morty Style Cube Herb Grinder",
-    "price": 119.56,
-    "image": "/images/20260220_162139.jpg",
-    "category": "grinders",
-    "description": "Novelty cube-style herb grinder with magnetic lid and sharp grinding teeth.",
-    "badge": "hot",
-    "featured": false,
-    "inStock": true
-  },
-  {
-    "id": 88,
-    "name": "Flaming Skull Decorative Bowl Piece",
-    "price": 81.08,
-    "image": "/images/20260220_162143.jpg",
-    "category": "accessories",
-    "description": "Decorative skull-themed bowl accessory with flame design and detailed finish.",
-    "badge": "hot",
-    "featured": false,
-    "inStock": true
-  },
-  {
-    "id": 89,
-    "name": "Compact Metal Hand Pipe (Orange Finish)",
-    "price": 42.72,
-    "image": "/images/20260220_162150.jpg",
-    "category": "glass-pipes",
-    "description": "Small durable metal hand pipe with metallic orange body and ergonomic design.",
-    "featured": false,
-    "inStock": true
-  },
-  {
-    "id": 90,
-    "name": "ARYA Odor Eliminator Candle - Papaya Cream (8oz)",
-    "price": 111.2,
-    "image": "/images/20260220_162154.jpg",
-    "category": "accessories",
-    "description": "ARYA Papaya Cream scented candle designed to eliminate smoke and unpleasant odors.",
-    "featured": false,
-    "inStock": true
-  },
-  {
-    "id": 91,
-    "name": "Jolly Rancher Scented Candle - Blue Raspberry (Triple Wick)",
-    "price": 102.08,
-    "image": "/images/20260220_162259.jpg",
-    "category": "accessories",
-    "description": "Blue Raspberry scented triple wick candle inspired by Jolly Rancher candy.",
-    "featured": false,
-    "inStock": true
-  },
-  {
-    "id": 92,
-    "name": "Hershey's Triple Wick Scented Candle (14oz)",
-    "price": 103.44,
-    "image": "/images/20260220_162308.jpg",
-    "category": "accessories",
-    "description": "Hershey's chocolate scented triple wick candle with long burn time.",
-    "featured": false,
-    "inStock": true
-  },
-  {
-    "id": 93,
-    "name": "Bob Marley Hemp Wraps - Caribbean Cream",
-    "price": 9.16,
-    "image": "/images/20260220_154938.jpg",
-    "category": "papers-wraps",
-    "description": "Bob Marley Organic Hemp Wraps, Caribbean Cream flavor, tobacco-free.",
-    "featured": false,
-    "inStock": true
-  },
-  {
-    "id": 94,
-    "name": "Bob Marley Hemp Wraps - Sour Apple",
-    "price": 21.84,
-    "image": "/images/20260220_154948.jpg",
-    "category": "papers-wraps",
-    "description": "Bob Marley Organic Hemp Wraps, Sour Apple flavor, tobacco-free.",
-    "featured": false,
-    "inStock": true
-  },
-  {
-    "id": 95,
-    "name": "Smoke Odor Exterminator Candle - Groovin Grape (13oz)",
-    "price": 110.0,
-    "image": "/images/20260220_155000.jpg",
-    "category": "accessories",
-    "description": "Groovin Grape smoke odor exterminator candle designed for strong odor control.",
-    "featured": false,
-    "inStock": true
-  },
-  {
-    "id": 96,
-    "name": "High Hemp Organic Wraps - Natural CBD's",
-    "price": 18.92,
-    "image": "/images/20260220_155019.jpg",
-    "category": "papers-wraps",
-    "description": "High Hemp Organic Wraps infused with natural CBD, tobacco-free.",
-    "featured": false,
-    "inStock": true
-  },
-  {
-    "id": 97,
-    "name": "High Hemp Fuzzy Peach Organic Wraps (25 Pouches / 2 Wraps)",
-    "price": 24.72,
-    "image": "/images/20260220_155551.jpg",
-    "category": "papers-wraps",
-    "description": "High Hemp Fuzzy Peach flavor organic hemp wraps with natural CBD's.",
-    "featured": false,
-    "inStock": true
-  },
-  {
-    "id": 98,
-    "name": "High Hemp Honey Pot Swirl Organic Wraps (25 Pouches / 2 Wraps)",
-    "price": 23.72,
-    "image": "/images/20260220_155600.jpg",
-    "category": "papers-wraps",
-    "description": "High Hemp Honey Pot Swirl organic wraps infused with natural CBD.",
-    "featured": false,
-    "inStock": true
-  },
-  {
-    "id": 99,
-    "name": "High Hemp Grape Ape Organic Wraps (25 Pouches / 2 Wraps)",
-    "price": 11.24,
-    "image": "/images/20260220_155608.jpg",
-    "category": "papers-wraps",
-    "description": "High Hemp Grape Ape flavor organic hemp wraps, tobacco free.",
-    "featured": false,
-    "inStock": true
-  },
-  {
-    "id": 100,
-    "name": "High Hemp Blazin Cherry Organic Wraps (25 Pouches / 2 Wraps)",
-    "price": 13.16,
-    "image": "/images/20260220_155616.jpg",
-    "category": "papers-wraps",
-    "description": "High Hemp Blazin Cherry organic hemp wraps with natural CBD's.",
-    "featured": false,
-    "inStock": true
-  },
-  {
-    "id": 101,
-    "name": "Juicy Hemp Wraps Purple Gelato (2 Per Pack)",
-    "price": 19.8,
-    "image": "/images/20260220_155637.jpg",
-    "category": "papers-wraps",
-    "description": "Juicy Hemp Wraps Terp Enhanced Purple Gelato flavor, 2 wraps per pack.",
-    "featured": false,
-    "inStock": true
-  },
-  {
-    "id": 102,
-    "name": "CAMO Natural Leaf Wraps Passion Fruit (5 Wraps Per Pack)",
-    "price": 10.56,
-    "image": "/images/20260220_155707.jpg",
-    "category": "papers-wraps",
-    "description": "CAMO Natural Leaf Wraps Passion Fruit flavor, 5 wraps per pack.",
-    "badge": "hot",
-    "featured": false,
-    "inStock": true
-  },
-  {
-    "id": 103,
-    "name": "CAMO Natural Leaf Wraps Honey (5 Wraps Per Pack)",
-    "price": 10.8,
-    "image": "/images/20260220_155715.jpg",
-    "category": "papers-wraps",
-    "description": "CAMO Natural Leaf Wraps Honey flavor, smooth natural leaf wraps.",
-    "badge": "hot",
-    "featured": false,
-    "inStock": true
-  },
-  {
-    "id": 104,
-    "name": "CAMO Natural Leaf Wraps Choco (5 Wraps Per Pack)",
-    "price": 19.72,
-    "image": "/images/20260220_155721.jpg",
-    "category": "papers-wraps",
-    "description": "CAMO Natural Leaf Wraps Choco flavor, slow burning leaf wraps.",
-    "badge": "hot",
-    "featured": false,
-    "inStock": true
-  },
-  {
-    "id": 105,
-    "name": "CAMO Natural Leaf Wraps Strawberry (5 Wraps Per Pack)",
-    "price": 26.36,
-    "image": "/images/20260220_155727.jpg",
-    "category": "papers-wraps",
-    "description": "CAMO Natural Leaf Wraps Strawberry flavor, 5 wraps per pack.",
-    "badge": "hot",
-    "featured": false,
-    "inStock": true
-  },
-  {
-    "id": 106,
-    "name": "CAMO Natural Leaf Wraps Guava (5 Wraps Per Pack)",
-    "price": 20.0,
-    "image": "/images/20260220_155733.jpg",
-    "category": "papers-wraps",
-    "description": "CAMO Natural Leaf Wraps Guava flavor, tropical taste.",
-    "badge": "hot",
-    "featured": false,
-    "inStock": true
-  },
-  {
-    "id": 107,
-    "name": "Kong Wraps Natural CBD+ (2 Hemp Wraps)",
-    "price": 18.92,
-    "image": "/images/20260220_155754.jpg",
-    "category": "papers-wraps",
-    "description": "Kong Wraps Natural CBD+ organic hemp wraps, tobacco and nicotine free.",
-    "featured": false,
-    "inStock": true
-  },
-  {
-    "id": 108,
-    "name": "Kong Wraps Kush Berry CBD+ (2 Hemp Wraps)",
-    "price": 16.56,
-    "image": "/images/20260220_155758.jpg",
-    "category": "papers-wraps",
-    "description": "Kong Wraps Kush Berry CBD+ organic hemp wraps with fresh seal.",
-    "featured": false,
-    "inStock": true
-  },
-  {
-    "id": 109,
-    "name": "Royal Blunts EZ Roll Tube Sour Apple (1 Cigar Wrap)",
-    "price": 25.92,
-    "image": "/images/20260220_155814.jpg",
-    "category": "papers-wraps",
-    "description": "Royal Blunts EZ Roll Tube Sour Apple flavor, rolls up to 2.",
-    "featured": false,
-    "inStock": true
-  },
-  {
-    "id": 110,
-    "name": "Royal Blunts EZ Roll Tube Blueberry (1 Cigar Wrap)",
-    "price": 9.32,
-    "image": "/images/20260220_155822.jpg",
-    "category": "papers-wraps",
-    "description": "Royal Blunts EZ Roll Tube Blueberry flavor, smooth rolling tube.",
-    "featured": false,
-    "inStock": true
-  },
-  {
-    "id": 111,
-    "name": "Royal Blunts EZ Roll Tube Purple Haze (1 Cigar Wrap)",
-    "price": 24.84,
-    "image": "/images/20260220_155826.jpg",
-    "category": "papers-wraps",
-    "description": "Royal Blunts EZ Roll Tube Purple Haze flavor, premium cigar wrap.",
-    "featured": false,
-    "inStock": true
-  },
-  {
-    "id": 112,
-    "name": "Pepper Spray Maximum Strength (Rhinestone Case)",
-    "price": 73.8,
-    "image": "/images/20260220_155843.jpg",
-    "category": "papers-wraps",
-    "description": "Maximum strength pepper spray with UV dye, multiple blasts, up to 12 ft range.",
-    "badge": "hot",
-    "featured": false,
-    "inStock": true
-  },
-  {
-    "id": 113,
-    "name": "Novelty Storage Box $100 Bill Design",
-    "price": 46.92,
-    "image": "/images/20260220_155909.jpg",
-    "category": "accessories",
-    "description": "Novelty storage box designed like a $100 bill, discreet stash container.",
-    "badge": "hot",
-    "featured": false,
-    "inStock": true
-  }
+  { id: 'accessories', label: 'Accessories' },
 ];
