@@ -150,19 +150,29 @@
 
 .select-wrapper select {
     appearance: none;
-    padding: 10px 40px 10px 16px;
-    background: var(--glass-bg);
+    padding: 12px 44px 12px 20px;
+    background: var(--clr-bg-card);
     border: 1px solid var(--glass-border);
     border-radius: var(--radius-md);
     color: var(--clr-text-primary);
-    font-size: 0.9rem;
+    font-size: 0.95rem;
     cursor: pointer;
-    min-width: 180px;
+    min-width: 200px;
+    transition: all var(--transition-fast);
+    box-shadow: var(--shadow-sm);
 }
 
 .select-wrapper select:focus {
     outline: none;
     border-color: var(--clr-accent-primary);
+    box-shadow: 0 0 0 2px rgba(0, 242, 255, 0.1);
+    background: rgba(255, 255, 255, 0.05);
+}
+
+.select-wrapper select option {
+    background-color: var(--clr-bg-dark);
+    color: var(--clr-text-primary);
+    padding: 12px;
 }
 
 .select-icon {

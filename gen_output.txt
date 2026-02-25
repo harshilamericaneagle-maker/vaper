@@ -1,0 +1,16 @@
+﻿Written 108 products to products.js
+Categories (11):
+    { "id": "all", "name": "All Products" }
+    { "id": "sale", "name": "On Sale" }
+    { "id": "accessories", "name": "Accessories" }
+    { "id": "glass-pipes", "name": "Glass & Pipes" }
+    { "id": "grinders", "name": "Grinders" }
+    { "id": "lighters-torches", "name": "Lighters & Torches" }
+    { "id": "novelty", "name": "Novelty & Gifts" }
+    { "id": "other", "name": "Other" }
+    { "id": "papers-wraps", "name": "Papers & Wraps" }
+    { "id": "storage", "name": "Storage" }
+    { "id": "supplements", "name": "Supplements" }
+
+File size: 44,594 bytes
+DONE!

@@ -1,0 +1,36 @@
+﻿============================================================
+FILE: C:\Users\harsh\.gemini\antigravity\scratch\vaper\Final%20108%20products_with_image_links.xlsx
+HEADERS: ['Item Name', 'Estimated Price', 'Product Category', 'Brief Description', 'Image_File', 'Image_Link', 'Assign_Method']
+TOTAL ROWS: 109
+
+Row 1: ['Novelty Revolver Pistol Lighter', '$8.99 - $12.99', 'Lighters / Novelty', 'Compact, revolver-style lighter with a realistic look.', '20260220_155119.jpg', './images/20260220_155119.jpg', 'sequential_by_filename']
+Row 2: ['Blink Torch Lighter (Red)', '$12.99 - $16.99', 'Torches', 'Heavy-duty red carbon fiber pattern torch lighter.', '20260220_155123.jpg', './images/20260220_155123.jpg', 'sequential_by_filename']
+Row 3: ['Scorch Torch Lighter (Green/White)', '$14.99 - $19.99', 'Torches', 'Ergonomic, dual-tone green and white angled torch lighter.', '20260220_155330.jpg', './images/20260220_155330.jpg', 'sequential_by_filename']
+Row 4: ['Zen Superslim Filter Tips (Menthol)', '$3.99 - $5.99', 'Smoking Accessories', '200-count pack of superslim menthol filter tips.', '20260220_155440.jpg', './images/20260220_155440.jpg', 'sequential_by_filename']
+Row 5: ['Zen Regular Filter Tips (Menthol)', '$3.99 - $5.99', 'Smoking Accessories', '~200-count pack of regular-sized menthol filter tips.', '20260220_155551.jpg', './images/20260220_155551.jpg', 'sequential_by_filename']
+============================================================
+FILE: C:\Users\harsh\.gemini\antigravity\scratch\vaper\Vape accessories inventory.xlsx
+HEADERS: ['Description', 'Cost', 'Price', 'Barcode']
+TOTAL ROWS: 2635
+
+Row 1: ['BIG GRINDER NEW 6CT', 0, 30, None]
+Row 2: [None, 0, 0, None]
+Row 3: ['1/6 BIG  BAG', 6.75, 10, None]
+Row 4: ['1/6 BIG  BAGS 1000ct', 13.5, 18, None]
+Row 5: ['1/6 SMALL BAG', 6.5, 10, None]
+
+
+### SMALL FILE - ALL ROWS ###
+HEADERS: ['Item Name', 'Estimated Price', 'Product Category', 'Brief Description', 'Image_File', 'Image_Link', 'Assign_Method']
+Total products: 108
+
+{'Item Name': 'Novelty Revolver Pistol Lighter', 'Estimated Price': '$8.99 - $12.99', 'Product Category': 'Lighters / Novelty', 'Brief Description': 'Compact, revolver-style lighter with a realistic look.', 'Image_File': '20260220_155119.jpg', 'Image_Link': './images/20260220_155119.jpg', 'Assign_Method': 'sequential_by_filename'}
+{'Item Name': 'Blink Torch Lighter (Red)', 'Estimated Price': '$12.99 - $16.99', 'Product Category': 'Torches', 'Brief Description': 'Heavy-duty red carbon fiber pattern torch lighter.', 'Image_File': '20260220_155123.jpg', 'Image_Link': './images/20260220_155123.jpg', 'Assign_Method': 'sequential_by_filename'}
+{'Item Name': 'Scorch Torch Lighter (Green/White)', 'Estimated Price': '$14.99 - $19.99', 'Product Category': 'Torches', 'Brief Description': 'Ergonomic, dual-tone green and white angled torch lighter.', 'Image_File': '20260220_155330.jpg', 'Image_Link': './images/20260220_155330.jpg', 'Assign_Method': 'sequential_by_filename'}
+{'Item Name': 'Zen Superslim Filter Tips (Menthol)', 'Estimated Price': '$3.99 - $5.99', 'Product Category': 'Smoking Accessories', 'Brief Description': '200-count pack of superslim menthol filter tips.', 'Image_File': '20260220_155440.jpg', 'Image_Link': './images/20260220_155440.jpg', 'Assign_Method': 'sequential_by_filename'}
+{'Item Name': 'Zen Regular Filter Tips (Menthol)', 'Estimated Price': '$3.99 - $5.99', 'Product Category': 'Smoking Accessories', 'Brief Description': '~200-count pack of regular-sized menthol filter tips.', 'Image_File': '20260220_155551.jpg', 'Image_Link': './images/20260220_155551.jpg', 'Assign_Method': 'sequential_by_filename'}
+{'Item Name': 'Lucky Clover Gold Bar Lighter', 'Estimated Price': '$9.99 - $14.99', 'Product Category': 'Lighters / Novelty', 'Brief Description': 'Shiny gold bar novelty lighter with "999.9 Fine Gold" engraving.', 'Image_File': '20260220_155600.jpg', 'Image_Link': './images/20260220_155600.jpg', 'Assign_Method': 'sequential_by_filename'}
+{'Item Name': '5ml Plastic Syringe (Blue)', 'Estimated Price': '$1.00 - $2.50', 'Product Category': 'Dispensers / Accessories', 'Brief Description': 'Reusable 5ml plastic syringe/liquid dispenser with blue plunger.', 'Image_File': '20260220_155608.jpg', 'Image_Link': './images/20260220_155608.jpg', 'Assign_Method': 'sequential_by_filename'}
+{'Item Name': 'Billionaire Hemp Wraps (Banana Cream)', 'Estimated Price': '$1.50 - $2.50', 'Product Category': 'Smoking Accessories', 'Brief Description': '2-pack of tobacco-free hemp wraps in Banana Cream flavor.', 'Image_File': '20260220_155616.jpg', 'Image_Link': './images/20260220_155616.jpg', 'Assign_Method': 'sequential_by_filename'}
+{'Item Name': 'Techno Cylinder Torch Lighter (Blue)', 'Estimated Price': '$7.99 - $12.99', 'Product Category': 'Torches', 'Brief Description': 'Sleek, cylindrical pocket torch lighter in blue.', 'Image_File': '20260220_155637.jpg', 'Image_Link': './images/20260220_155637.jpg', 'Assign_Method': 'sequential_by_filename'}
+{'Item Name': 'Blink Dual-Barrel Torch (White)', 'Estimated Price': '$14.99 - $19.99', 'Product Category': 'Torches', 'Brief Description': 'Angled torch lighter with exposed dual barrels and a white carbon-fiber grip.', 'Image_File': '20260220_155707.jpg', 'Image_Link': './images/20260220_155707.jpg', 'Assign_Method': 'sequential_by_filename'}

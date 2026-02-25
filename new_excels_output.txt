@@ -1,0 +1,82 @@
+﻿
+=== 14.xlsx ===
+Headers: ['Image File Name', 'Product Name', 'Estimated Retail Price']
+Rows: 11
+{'Image File Name': '20260220_155814.jpg', 'Product Name': 'Kong Organic Hemp Wraps (Yellow/Original)', 'Estimated Retail Price': 1.99}
+{'Image File Name': '20260220_155822.jpg', 'Product Name': 'Kong Organic Hemp Wraps (Blue)', 'Estimated Retail Price': 1.99}
+{'Image File Name': '20260220_155826.jpg', 'Product Name': 'Kong Wraps CBD+ - Kush Berry', 'Estimated Retail Price': 2.99}
+{'Image File Name': '20260220_155843.jpg', 'Product Name': 'Bling/Rhinestone Pepper Spray Keychain - White', 'Estimated Retail Price': 12.99}
+{'Image File Name': '20260220_155909.jpg', 'Product Name': 'Royal Blunts EZ Roll Tube - Sour Apple', 'Estimated Retail Price': 1.49}
+{'Image File Name': '20260220_155921.jpg', 'Product Name': 'Royal Blunts EZ Roll Tube - Blueberry', 'Estimated Retail Price': 1.49}
+{'Image File Name': '20260220_160032.jpg', 'Product Name': '$100 Bill Novelty Metal Stash Box - Silver', 'Estimated Retail Price': 5.99}
+{'Image File Name': '20260220_160044.jpg', 'Product Name': '$100 Bill Novelty Metal Stash Box - Gold', 'Estimated Retail Price': 5.99}
+{'Image File Name': '20260220_160254.jpg', 'Product Name': 'RAW Organic Hemp Rolling Papers 1 1/4 Size (24-Pack Box)', 'Estimated Retail Price': 24.99}
+{'Image File Name': '20260220_154801.jpg', 'Product Name': 'Electric Herb Grinder with Skull Design (USB Rechargeable)', 'Estimated Retail Price': 19.99}
+
+=== 16.xlsx ===
+Headers: ['Image Name', 'Item Description', 'Estimated Price Range']
+Rows: 11
+{'Image Name': '20260220_154055.jpg', 'Item Description': 'Glass water pipe/bong (teal accents; matrix percolator)', 'Estimated Price Range': '$40 - $80'}
+{'Image Name': '20260220_154143.jpg', 'Item Description': 'Glass water pipe/bong (green accents; bent neck)', 'Estimated Price Range': '$30 - $60'}
+{'Image Name': '20260220_154440.jpg', 'Item Description': 'French Bulldog novelty resin ashtray', 'Estimated Price Range': '$15 - $30'}
+{'Image Name': '20260220_154647.jpg', 'Item Description': 'Baby Stoner 63mm Zinc Alloy 4-layer grinder', 'Estimated Price Range': '$15 - $25'}
+{'Image Name': '20260220_154708.jpg', 'Item Description': 'Glass stash jar (white sugar skull design)', 'Estimated Price Range': '$10 - $15'}
+{'Image Name': '20260220_154717.jpg', 'Item Description': 'Glass stash jar (green skull and red roses design)', 'Estimated Price Range': '$10 - $15'}
+{'Image Name': '20260220_154936.jpg', 'Item Description': 'Flaming skull glass/resin bowl piece (Angle 1)', 'Estimated Price Range': '$10 - $20'}
+{'Image Name': '20260220_154948.jpg', 'Item Description': 'Flaming skull glass/resin bowl piece (Angle 2)', 'Estimated Price Range': '$10 - $20'}
+{'Image Name': '20260220_155208.jpg', 'Item Description': 'Hostess Twinkies Scented Candle (14 oz 3-wick)', 'Estimated Price Range': 24.99}
+{'Image Name': '20260220_155217.jpg', 'Item Description': 'Jolly Rancher Blue Raspberry Scented Candle (14 oz 3-wick)', 'Estimated Price Range': 24.99}
+
+=== 17.xlsx ===
+Headers: ['Image Name', 'Item Description', 'Estimated Price Range']
+Rows: 11
+{'Image Name': '20260220_154055.jpg', 'Item Description': 'Glass water pipe/bong (teal accents; matrix percolator)', 'Estimated Price Range': '$40 - $80'}
+{'Image Name': '20260220_154143.jpg', 'Item Description': 'Glass water pipe/bong (green accents; bent neck)', 'Estimated Price Range': '$30 - $60'}
+{'Image Name': '20260220_154440.jpg', 'Item Description': 'French Bulldog novelty resin ashtray', 'Estimated Price Range': '$15 - $30'}
+{'Image Name': '20260220_154647.jpg', 'Item Description': 'Baby Stoner 63mm Zinc Alloy 4-layer grinder', 'Estimated Price Range': '$15 - $25'}
+{'Image Name': '20260220_154708.jpg', 'Item Description': 'Glass stash jar (white sugar skull design)', 'Estimated Price Range': '$10 - $15'}
+{'Image Name': '20260220_154717.jpg', 'Item Description': 'Glass stash jar (green skull and red roses design)', 'Estimated Price Range': '$10 - $15'}
+{'Image Name': '20260220_154936.jpg', 'Item Description': 'Flaming skull glass/resin bowl piece (Angle 1)', 'Estimated Price Range': '$10 - $20'}
+{'Image Name': '20260220_154948.jpg', 'Item Description': 'Flaming skull glass/resin bowl piece (Angle 2)', 'Estimated Price Range': '$10 - $20'}
+{'Image Name': '20260220_155208.jpg', 'Item Description': 'Hostess Twinkies Scented Candle (14 oz 3-wick)', 'Estimated Price Range': 24.99}
+{'Image Name': '20260220_155217.jpg', 'Item Description': 'Jolly Rancher Blue Raspberry Scented Candle (14 oz 3-wick)', 'Estimated Price Range': 24.99}
+
+=== 18.xlsx ===
+Headers: ['Product Name', 'Category', 'Size / Quantity', 'Suggested Retail Price (USD)']
+Rows: 9
+{'Product Name': 'Peace River Smoke Odor Exterminator Candle', 'Category': 'Candle', 'Size / Quantity': '13 oz', 'Suggested Retail Price (USD)': 11.99}
+{'Product Name': 'Cherry Bomb Smoke Odor Exterminator Candle', 'Category': 'Candle', 'Size / Quantity': '13 oz', 'Suggested Retail Price (USD)': 11.99}
+{'Product Name': "Groov'n Grape Smoke Odor Exterminator Candle", 'Category': 'Candle', 'Size / Quantity': '13 oz', 'Suggested Retail Price (USD)': 11.99}
+{'Product Name': 'High Hemp Organic Wraps (Natural CBD)', 'Category': 'Wraps', 'Size / Quantity': '1 Box (25 pouches)', 'Suggested Retail Price (USD)': 24.99}
+{'Product Name': 'Johnnie Smoker "Black Lable" Bottle Pipe', 'Category': 'Glassware', 'Size / Quantity': '1 Unit', 'Suggested Retail Price (USD)': 45.0}
+{'Product Name': 'Mini Blue & White Swirl Bell-Base Pipe', 'Category': 'Glassware', 'Size / Quantity': '1 Unit', 'Suggested Retail Price (USD)': 19.99}
+{'Product Name': 'Rectangular Comic Strip Novelty Pipe', 'Category': 'Glassware', 'Size / Quantity': '1 Unit', 'Suggested Retail Price (USD)': 39.99}
+{'Product Name': 'Teal Accent Multi-Chamber Percolator Pipe', 'Category': 'Glassware', 'Size / Quantity': '1 Unit', 'Suggested Retail Price (USD)': 49.99}
+
+=== 19.xlsx ===
+Headers: ['Item Name', 'Estimated Retail Price', 'Image Link (File Name)']
+Rows: 11
+{'Item Name': 'Camo Pistol Novelty Lighter', 'Estimated Retail Price': 14.99, 'Image Link (File Name)': '20260220_154127.jpg'}
+{'Item Name': 'Green & Purple Accent Glass Bubbler', 'Estimated Retail Price': 24.99, 'Image Link (File Name)': '20260220_154146.jpg'}
+{'Item Name': 'Clear Glass Bubbler with Amber Perc', 'Estimated Retail Price': 24.99, 'Image Link (File Name)': '20260220_154157.jpg'}
+{'Item Name': 'Rick and Morty Graphic Stash Jar / Pipe Box', 'Estimated Retail Price': 19.99, 'Image Link (File Name)': '20260220_154211.jpg'}
+{'Item Name': 'Rick and Morty Themed Glass Bubbler', 'Estimated Retail Price': 29.99, 'Image Link (File Name)': '20260220_154232.jpg'}
+{'Item Name': 'Miniature Acoustic Guitar Novelty Lighter', 'Estimated Retail Price': 12.99, 'Image Link (File Name)': '20260220_154246.jpg'}
+{'Item Name': 'Blue Bull/Cow Resin Ashtray', 'Estimated Retail Price': 15.99, 'Image Link (File Name)': '20260220_154457.jpg'}
+{'Item Name': 'Glass Nectar Collector Kit with Padded Case', 'Estimated Retail Price': 34.99, 'Image Link (File Name)': '20260220_154624.jpg'}
+{'Item Name': 'Blue & White Swirl Mini Beaker Bong (Angle 1)', 'Estimated Retail Price': 22.99, 'Image Link (File Name)': '20260220_153827.jpg'}
+{'Item Name': 'Blue & White Swirl Mini Beaker Bong (Angle 2)', 'Estimated Retail Price': 22.99, 'Image Link (File Name)': '20260220_153953.jpg'}
+
+=== 20.xlsx ===
+Headers: ['Product Name', 'Estimated Pricing', 'Image Link (Filename)']
+Rows: 11
+{'Product Name': 'Novelty Comic Glass Bottle Bong', 'Estimated Pricing': 35.0, 'Image Link (Filename)': '20260220_154016.jpg'}
+{'Product Name': "Rick and Morty Rubik's Cube Grinder", 'Estimated Pricing': 15.0, 'Image Link (Filename)': '20260220_154338.jpg'}
+{'Product Name': 'Blue & White Swirl Glass Bowl Piece', 'Estimated Pricing': 10.0, 'Image Link (Filename)': '20260220_154348.jpg'}
+{'Product Name': 'Light Blue Dog with Cigar Ashtray', 'Estimated Pricing': 12.0, 'Image Link (Filename)': '20260220_154424.jpg'}
+{'Product Name': 'Dark Blue Dog with Cigar Ashtray', 'Estimated Pricing': 12.0, 'Image Link (Filename)': '20260220_154429.jpg'}
+{'Product Name': 'Dog in Wooden Cart Ashtray', 'Estimated Pricing': 15.0, 'Image Link (Filename)': '20260220_154445.jpg'}
+{'Product Name': 'Camo Pink Rolling Tray & Accessory Set', 'Estimated Pricing': 25.0, 'Image Link (Filename)': '20260220_154549.jpg'}
+{'Product Name': 'Sugar Skull Glass Stash Jar (Bamboo Lid)', 'Estimated Pricing': 12.0, 'Image Link (Filename)': '20260220_154659.jpg'}
+{'Product Name': 'Palpitate Rick & Morty Metal Window Grinder', 'Estimated Pricing': 20.0, 'Image Link (Filename)': '20260220_154736.jpg'}
+{'Product Name': 'Palpitate Wood-Grain Leaf Window Grinder', 'Estimated Pricing': 20.0, 'Image Link (Filename)': '20260220_154750.jpg'}

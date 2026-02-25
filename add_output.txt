@@ -1,0 +1,7 @@
+﻿Total images available: 213
+New products parsed: 48
+Current max product id: 108
+Images matched: 40, No image: 8
+New entries to add: 48
+Total products in products.js: 156
+DONE!

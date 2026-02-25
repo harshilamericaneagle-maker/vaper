@@ -1,0 +1,33 @@
+﻿Columns: ['name', 'price', 'image link', 'description']
+Total rows: 54
+
+--- Row 1 ---
+  name: Clear Glass Beaker Water Pipe with Cartoon Art Design
+  price: 49.17
+  image link: 20260220_154023.jpg
+  description: Clear glass beaker-style water pipe with cartoon art decal; includes removable bowl; tabletop displa
+
+--- Row 2 ---
+  name: Cool Dog Sunglasses Ashtray Holder
+  price: 10.84
+  image link: 20260220_154440.jpg
+  description: Novelty ashtray featuring a dog with sunglasses; tray compartment for ash and small items.
+
+--- Row 3 ---
+  name: Rasta Silicone Hand Pipe with Black Stem
+  price: 9.59
+  image link: 20260220_155033.jpg
+  description: Heat-resistant silicone hand pipe in red/yellow/green; curved black stem; portable and easy to clean
+
+--- Row 4 ---
+  name: Arya Papaya Cream Odor Eliminator Candle 8oz
+  price: 16.97
+  image link: 20260220_155123.jpg
+  description: Scented candle labeled odor eliminator; Papaya Cream scent; 8 oz (227 g) tin.
+
+--- Row 5 ---
+  name: Swisher Sweets Leaf Wraps Peach Brandy (3 Pack)
+  price: 2.38
+  image link: 20260220_155440.jpg
+  description: Tobacco leaf wraps; Peach Brandy flavor; pack of 3; nicotine warning on package.
+

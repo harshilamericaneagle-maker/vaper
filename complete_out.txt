@@ -1,0 +1,360 @@
+﻿Already on website (from master_updated): 54 products
+Columns in complete file: ['name', 'price', 'image link', 'description']
+Total in complete file: 113
+New products to add: 59
+
+--- New products ---
+  RAW Uncoated Wooden Rolling Tips 15mm Jar
+    name: RAW Uncoated Wooden Rolling Tips 15mm Jar
+    price: 18.69
+    image link: 20260220_160400.jpg
+    description: RAW uncoated wooden rolling tips; 15mm diameter; spiral tip design; jar packagin
+
+  RAW Black Single Wide Classic Papers Box (25 Packs)
+    name: RAW Black Single Wide Classic Papers Box (25 Packs)
+    price: 5.29
+    image link: 20260220_160423.jpg
+    description: RAW Black Single Wide classic rolling papers; 25 packs per box; 100 leaves per p
+
+  RAW Phenomenal Rolling Tips Classic (50 Box)
+    name: RAW Phenomenal Rolling Tips Classic (50 Box)
+    price: 13.39
+    image link: 20260220_160436.jpg
+    description: RAW Phenomenal Classic rolling tips; premium boxed packaging.
+
+  Mega Gold S.W.A.G Male Enhancement Capsules
+    name: Mega Gold S.W.A.G Male Enhancement Capsules
+    price: 51.95
+    image link: 20260220_160613.jpg
+    description: Mega Gold S.W.A.G male enhancement supplement; fast acting formula.
+
+  200K Shilajit XXL Male Enhancement
+    name: 200K Shilajit XXL Male Enhancement
+    price: 39.96
+    image link: 20260220_160716.jpg
+    description: 200K Shilajit XXL male enhancement supplement; stamina support.
+
+  Black Bull Extreme Male Enhancement Supplement
+    name: Black Bull Extreme Male Enhancement Supplement
+    price: 55.44
+    image link: 20260220_160752.jpg
+    description: Black Bull Extreme male enhancement supplement; performance support.
+
+  Rhino 77 Liquid Shot Male Enhancement
+    name: Rhino 77 Liquid Shot Male Enhancement
+    price: 46.15
+    image link: 20260220_160812.jpg
+    description: Rhino 77 liquid shot male enhancement formula.
+
+  Zig-Zag Mini Ultra Thin Cones 70mm (8 Pack)
+    name: Zig-Zag Mini Ultra Thin Cones 70mm (8 Pack)
+    price: 17.64
+    image link: 20260220_160857.jpg
+    description: Zig-Zag Mini Ultra Thin cones; 70mm size; 8 cones per pack.
+
+  Zig-Zag Original White 1 1/4 Rolling Papers
+    name: Zig-Zag Original White 1 1/4 Rolling Papers
+    price: 18.78
+    image link: 20260220_160931.jpg
+    description: Zig-Zag Original White 1 1/4 rolling papers; natural gum arabic.
+
+  Zig-Zag Ultra Thin 1 1/4 Rolling Papers
+    name: Zig-Zag Ultra Thin 1 1/4 Rolling Papers
+    price: 8.6
+    image link: 20260220_160940.jpg
+    description: Zig-Zag Ultra Thin 1 1/4 rolling papers.
+
+  Zig-Zag Combo Pack 1 1/4 Papers + Tips
+    name: Zig-Zag Combo Pack 1 1/4 Papers + Tips
+    price: 13.0
+    image link: 20260220_160947.jpg
+    description: Zig-Zag combo pack; 50 leaves plus 50 tips.
+
+  Zig-Zag King Size French Orange Papers
+    name: Zig-Zag King Size French Orange Papers
+    price: 13.88
+    image link: 20260220_160955.jpg
+    description: Zig-Zag King Size French Orange rolling papers.
+
+  OCB Bamboo King Size Cones (3 Pack)
+    name: OCB Bamboo King Size Cones (3 Pack)
+    price: 5.93
+    image link: 20260220_161003.jpg
+    description: OCB Bamboo King Size pre-rolled cones; 3 pack.
+
+  OCB Brown Rice Mini Cones (10 Pack)
+    name: OCB Brown Rice Mini Cones (10 Pack)
+    price: 16.13
+    image link: 20260220_161014.jpg
+    description: OCB Brown Rice Mini cones; 10 pack.
+
+  OCB Bamboo 1 1/4 Unbleached Cones (100 Box)
+    name: OCB Bamboo 1 1/4 Unbleached Cones (100 Box)
+    price: 16.54
+    image link: 20260220_161042.jpg
+    description: OCB Bamboo 1 1/4 unbleached cones; 100 per box.
+
+  OCB Organic Hemp 1 1/4 Cones (50 Box)
+    name: OCB Organic Hemp 1 1/4 Cones (50 Box)
+    price: 20.98
+    image link: 20260220_161054.jpg
+    description: OCB Organic Hemp 1 1/4 cones; 50 per box.
+
+  POP Cones Wild Grape King Size (3 Pack)
+    name: POP Cones Wild Grape King Size (3 Pack)
+    price: 13.08
+    image link: 20260220_161115.jpg
+    description: POP Cones Wild Grape flavor king size cones; 3 pack.
+
+  RAW Classic 1 1/4 Pre-Rolled Cone
+    name: RAW Classic 1 1/4 Pre-Rolled Cone
+    price: 5.99
+    image link: 20260220_161242.jpg
+    description: RAW Classic 1 1/4 size pre-rolled cone; natural unbleached rolling paper.
+
+  King Palm 5 King Real Leaf Tubes (2G Each)
+    name: King Palm 5 King Real Leaf Tubes (2G Each)
+    price: 7.26
+    image link: 20260220_161400.jpg
+    description: King Palm 5 King size real leaf tubes; all natural; 2 grams each.
+
+  King Palm Perfect Pear 2 Minis (1G Each)
+    name: King Palm Perfect Pear 2 Minis (1G Each)
+    price: 7.71
+    image link: 20260220_161431.jpg
+    description: King Palm Perfect Pear flavor; 2 mini rolls; terpene infused; 1 gram each.
+
+  King Palm Gold Rose Cones King Size (3 Pack)
+    name: King Palm Gold Rose Cones King Size (3 Pack)
+    price: 8.43
+    image link: 20260220_161435.jpg
+    description: King Palm Gold Rose king size cones; 3 per pack; premium edition.
+
+  King Palm Pink Lemonade Mini 1G Roll (2 Pack)
+    name: King Palm Pink Lemonade Mini 1G Roll (2 Pack)
+    price: 19.35
+    image link: 20260220_161457.jpg
+    description: King Palm Pink Lemonade flavor; 2 minis; squeeze & pop flavor tip.
+
+  King Palm Palm Leaf Banana Pineapple 1G Roll (2 Pack)
+    name: King Palm Palm Leaf Banana Pineapple 1G Roll (2 Pack)
+    price: 16.88
+    image link: 20260220_161559.jpg
+    description: King Palm Banana Pineapple flavor; 2 pack; terpene infused; tobacco free.
+
+  King Palm Margarita 2 Slims (1.5G Each)
+    name: King Palm Margarita 2 Slims (1.5G Each)
+    price: 18.13
+    image link: 20260220_161641.jpg
+    description: King Palm Margarita flavor; 2 slim rolls; holds 1.5 grams each.
+
+  King Palm Mango OG 2 Minis (1G Each)
+    name: King Palm Mango OG 2 Minis (1G Each)
+    price: 10.7
+    image link: 20260220_161642.jpg
+    description: King Palm Mango OG flavor; 2 minis; squeeze & pop flavor activation.
+
+  King Palm Watermelon Wave 2 Minis (1G Each)
+    name: King Palm Watermelon Wave 2 Minis (1G Each)
+    price: 14.33
+    image link: 20260220_161651.jpg
+    description: King Palm Watermelon Wave flavor; 2 mini rolls; terpene infused.
+
+  King Palm Perfect Pear 2 Rollies (0.5G Each)
+    name: King Palm Perfect Pear 2 Rollies (0.5G Each)
+    price: 14.39
+    image link: 20260220_161707.jpg
+    description: King Palm Perfect Pear; 2 rollies; half gram each; flavor tip activated.
+
+  King Palm Red Reign Energy Drink Leaf Tubes Mini Rolls
+    name: King Palm Red Reign Energy Drink Leaf Tubes Mini Rolls
+    price: 10.06
+    image link: 20260220_161727.jpg
+    description: King Palm Red Reign special edition; mini leaf tubes; energy drink inspired flav
+
+  Pepper Spray Maximum Strength Defense Spray
+    name: Pepper Spray Maximum Strength Defense Spray
+    price: 24.04
+    image link: 20260220_161755.jpg
+    description: Maximum strength pepper spray; multiple blasts; up to 12 ft range; UV dye.
+
+  Tsunami Premium 50mm Dry Herb Grinder (Red)
+    name: Tsunami Premium 50mm Dry Herb Grinder (Red)
+    price: 28.39
+    image link: 20260220_161811.jpg
+    description: Tsunami Premium 50mm dry herb grinder; sunken top; lifetime warranty.
+
+  Tsunami Premium 50mm Dry Herb Grinder (Red)
+    name: Tsunami Premium 50mm Dry Herb Grinder (Red)
+    price: 23.59
+    image link: 20260220_162122.jpg
+    description: Tsunami Premium 50mm 4-piece dry herb grinder with kief catcher and magnetic lid
+
+  OCB x Wakit Electric Grinder (Rechargeable)
+    name: OCB x Wakit Electric Grinder (Rechargeable)
+    price: 35.07
+    image link: 20260220_162126.jpg
+    description: OCB x Wakit rechargeable electric herb grinder with LED light and USB charging.
+
+  Rick & Morty Style Cube Herb Grinder
+    name: Rick & Morty Style Cube Herb Grinder
+    price: 29.89
+    image link: 20260220_162139.jpg
+    description: Novelty cube-style herb grinder with magnetic lid and sharp grinding teeth.
+
+  Flaming Skull Decorative Bowl Piece
+    name: Flaming Skull Decorative Bowl Piece
+    price: 20.27
+    image link: 20260220_162143.jpg
+    description: Decorative skull-themed bowl accessory with flame design and detailed finish.
+
+  Compact Metal Hand Pipe (Orange Finish)
+    name: Compact Metal Hand Pipe (Orange Finish)
+    price: 10.68
+    image link: 20260220_162150.jpg
+    description: Small durable metal hand pipe with metallic orange body and ergonomic design.
+
+  ARYA Odor Eliminator Candle - Papaya Cream (8oz)
+    name: ARYA Odor Eliminator Candle - Papaya Cream (8oz)
+    price: 27.8
+    image link: 20260220_162154.jpg
+    description: ARYA Papaya Cream scented candle designed to eliminate smoke and unpleasant odor
+
+  Jolly Rancher Scented Candle - Blue Raspberry (Triple Wick)
+    name: Jolly Rancher Scented Candle - Blue Raspberry (Triple Wick)
+    price: 25.52
+    image link: 20260220_162259.jpg
+    description: Blue Raspberry scented triple wick candle inspired by Jolly Rancher candy.
+
+  Hershey's Triple Wick Scented Candle (14oz)
+    name: Hershey's Triple Wick Scented Candle (14oz)
+    price: 25.86
+    image link: 20260220_162308.jpg
+    description: Hershey's chocolate scented triple wick candle with long burn time.
+
+  Bob Marley Hemp Wraps - Caribbean Cream
+    name: Bob Marley Hemp Wraps - Caribbean Cream
+    price: 2.29
+    image link: 20260220_154938.jpg
+    description: Bob Marley Organic Hemp Wraps, Caribbean Cream flavor, tobacco-free.
+
+  Bob Marley Hemp Wraps - Sour Apple
+    name: Bob Marley Hemp Wraps - Sour Apple
+    price: 5.46
+    image link: 20260220_154948.jpg
+    description: Bob Marley Organic Hemp Wraps, Sour Apple flavor, tobacco-free.
+
+  Smoke Odor Exterminator Candle - Groovin Grape (13oz)
+    name: Smoke Odor Exterminator Candle - Groovin Grape (13oz)
+    price: 27.5
+    image link: 20260220_155000.jpg
+    description: Groovin Grape smoke odor exterminator candle designed for strong odor control.
+
+  High Hemp Organic Wraps - Natural CBD's
+    name: High Hemp Organic Wraps - Natural CBD's
+    price: 4.73
+    image link: 20260220_155019.jpg
+    description: High Hemp Organic Wraps infused with natural CBD, tobacco-free.
+
+  High Hemp Fuzzy Peach Organic Wraps (25 Pouches / 2 Wraps)
+    name: High Hemp Fuzzy Peach Organic Wraps (25 Pouches / 2 Wraps)
+    price: 6.18
+    image link: 20260220_155551.jpg
+    description: High Hemp Fuzzy Peach flavor organic hemp wraps with natural CBD's.
+
+  High Hemp Honey Pot Swirl Organic Wraps (25 Pouches / 2 Wrap
+    name: High Hemp Honey Pot Swirl Organic Wraps (25 Pouches / 2 Wraps)
+    price: 5.93
+    image link: 20260220_155600.jpg
+    description: High Hemp Honey Pot Swirl organic wraps infused with natural CBD.
+
+  High Hemp Grape Ape Organic Wraps (25 Pouches / 2 Wraps)
+    name: High Hemp Grape Ape Organic Wraps (25 Pouches / 2 Wraps)
+    price: 2.81
+    image link: 20260220_155608.jpg
+    description: High Hemp Grape Ape flavor organic hemp wraps, tobacco free.
+
+  High Hemp Blazin Cherry Organic Wraps (25 Pouches / 2 Wraps)
+    name: High Hemp Blazin Cherry Organic Wraps (25 Pouches / 2 Wraps)
+    price: 3.29
+    image link: 20260220_155616.jpg
+    description: High Hemp Blazin Cherry organic hemp wraps with natural CBD's.
+
+  Juicy Hemp Wraps Purple Gelato (2 Per Pack)
+    name: Juicy Hemp Wraps Purple Gelato (2 Per Pack)
+    price: 4.95
+    image link: 20260220_155637.jpg
+    description: Juicy Hemp Wraps Terp Enhanced Purple Gelato flavor, 2 wraps per pack.
+
+  CAMO Natural Leaf Wraps Passion Fruit (5 Wraps Per Pack)
+    name: CAMO Natural Leaf Wraps Passion Fruit (5 Wraps Per Pack)
+    price: 2.64
+    image link: 20260220_155707.jpg
+    description: CAMO Natural Leaf Wraps Passion Fruit flavor, 5 wraps per pack.
+
+  CAMO Natural Leaf Wraps Honey (5 Wraps Per Pack)
+    name: CAMO Natural Leaf Wraps Honey (5 Wraps Per Pack)
+    price: 2.7
+    image link: 20260220_155715.jpg
+    description: CAMO Natural Leaf Wraps Honey flavor, smooth natural leaf wraps.
+
+  CAMO Natural Leaf Wraps Choco (5 Wraps Per Pack)
+    name: CAMO Natural Leaf Wraps Choco (5 Wraps Per Pack)
+    price: 4.93
+    image link: 20260220_155721.jpg
+    description: CAMO Natural Leaf Wraps Choco flavor, slow burning leaf wraps.
+
+  CAMO Natural Leaf Wraps Strawberry (5 Wraps Per Pack)
+    name: CAMO Natural Leaf Wraps Strawberry (5 Wraps Per Pack)
+    price: 6.59
+    image link: 20260220_155727.jpg
+    description: CAMO Natural Leaf Wraps Strawberry flavor, 5 wraps per pack.
+
+  CAMO Natural Leaf Wraps Guava (5 Wraps Per Pack)
+    name: CAMO Natural Leaf Wraps Guava (5 Wraps Per Pack)
+    price: 5.0
+    image link: 20260220_155733.jpg
+    description: CAMO Natural Leaf Wraps Guava flavor, tropical taste.
+
+  Kong Wraps Natural CBD+ (2 Hemp Wraps)
+    name: Kong Wraps Natural CBD+ (2 Hemp Wraps)
+    price: 4.73
+    image link: 20260220_155754.jpg
+    description: Kong Wraps Natural CBD+ organic hemp wraps, tobacco and nicotine free.
+
+  Kong Wraps Kush Berry CBD+ (2 Hemp Wraps)
+    name: Kong Wraps Kush Berry CBD+ (2 Hemp Wraps)
+    price: 4.14
+    image link: 20260220_155758.jpg
+    description: Kong Wraps Kush Berry CBD+ organic hemp wraps with fresh seal.
+
+  Royal Blunts EZ Roll Tube Sour Apple (1 Cigar Wrap)
+    name: Royal Blunts EZ Roll Tube Sour Apple (1 Cigar Wrap)
+    price: 6.48
+    image link: 20260220_155814.jpg
+    description: Royal Blunts EZ Roll Tube Sour Apple flavor, rolls up to 2.
+
+  Royal Blunts EZ Roll Tube Blueberry (1 Cigar Wrap)
+    name: Royal Blunts EZ Roll Tube Blueberry (1 Cigar Wrap)
+    price: 2.33
+    image link: 20260220_155822.jpg
+    description: Royal Blunts EZ Roll Tube Blueberry flavor, smooth rolling tube.
+
+  Royal Blunts EZ Roll Tube Purple Haze (1 Cigar Wrap)
+    name: Royal Blunts EZ Roll Tube Purple Haze (1 Cigar Wrap)
+    price: 6.21
+    image link: 20260220_155826.jpg
+    description: Royal Blunts EZ Roll Tube Purple Haze flavor, premium cigar wrap.
+
+  Pepper Spray Maximum Strength (Rhinestone Case)
+    name: Pepper Spray Maximum Strength (Rhinestone Case)
+    price: 18.45
+    image link: 20260220_155843.jpg
+    description: Maximum strength pepper spray with UV dye, multiple blasts, up to 12 ft range.
+
+  Novelty Storage Box $100 Bill Design
+    name: Novelty Storage Box $100 Bill Design
+    price: 11.73
+    image link: 20260220_155909.jpg
+    description: Novelty storage box designed like a $100 bill, discreet stash container.
+

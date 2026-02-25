@@ -1,0 +1,5 @@
+﻿Found 113 unique products
+ID range: 1 to 113
+Written successfully. Verifying...
+Products in file: 113
+Categories: ['all', 'lighters-torches', 'glass-pipes', 'papers-wraps', 'grinders', 'hookah', 'accessories']

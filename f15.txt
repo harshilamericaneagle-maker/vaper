@@ -1,0 +1,10 @@
+﻿Headers: ['Product Name', 'Typical Price (USD)', 'Key Features']
+Row 1: {'Product Name': 'Smoke Odor Exterminator Candle', 'Typical Price (USD)': '$12.00 û $15.00', 'Key Features': 'Enzyme-based, Sandalwood scent (13oz).'}
+Row 2: {'Product Name': 'Arya Odor Eliminator Candle', 'Typical Price (USD)': '$19.99 û $22.00', 'Key Features': '8oz jar, specifically for smoke removal.'}
+Row 3: {'Product Name': 'Hostess Cherry Fruit Pie Candle', 'Typical Price (USD)': '$11.95 û $22.49', 'Key Features': 'Scented candle; 3oz or 14oz (3-wick).'}
+Row 4: {'Product Name': 'HersheyÆs 3-Wick Candle', 'Typical Price (USD)': '$19.99 û $24.99', 'Key Features': '14oz jar with triple wick.'}
+Row 5: {'Product Name': 'Silicone Pipe with Glass Bowl', 'Typical Price (USD)': '$9.99 û $13.99', 'Key Features': 'Heat-resistant silicone with removable glass insert.'}
+Row 6: {'Product Name': 'Hammer-Style Metal Pipe', 'Typical Price (USD)': '$10.00 û $17.00', 'Key Features': 'Durable aluminum alloy, detachable parts.'}
+Row 7: {'Product Name': 'Ghost Rider Skull Drip Tip', 'Typical Price (USD)': '$13.00 û $16.00', 'Key Features': '510/810 compatible, custom glass/resin design.'}
+Row 8: {'Product Name': 'Acrylic Replacement Mouthpiece', 'Typical Price (USD)': '$8.00 û $15.00', 'Key Features': 'Curved or straight stems for tobacco pipes.'}
+Row 9: {'Product Name': 'Spring-Lock Wire Connectors', 'Typical Price (USD)': '$0.25 û $9.97 (bulk)', 'Key Features': 'Electrical connectors with internal spring inserts.'}

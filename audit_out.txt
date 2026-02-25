@@ -1,0 +1,58 @@
+﻿=== Products 109+ and their image mappings ===
+  [109] Kong Organic Hemp Wraps (Yellow/Original)               | /images/20260220_155814.jpg
+  [110] Kong Organic Hemp Wraps (Blue)                          | /images/20260220_155822.jpg
+  [111] Kong Wraps CBD+ - Kush Berry                            | /images/20260220_155826.jpg
+  [112] Bling/Rhinestone Pepper Spray Keychain - White          | /images/20260220_155843.jpg
+  [113] Royal Blunts EZ Roll Tube - Sour Apple                  | /images/20260220_155909.jpg
+  [114] Royal Blunts EZ Roll Tube - Blueberry                   | /images/20260220_155921.jpg
+  [115] $100 Bill Novelty Metal Stash Box - Silver              | /images/20260220_160032.jpg
+  [116] $100 Bill Novelty Metal Stash Box - Gold                | /images/20260220_160044.jpg
+  [117] RAW Organic Hemp Rolling Papers 1 1/4 Size (24-Pack Box | /images/20260220_160254.jpg
+  [118] Electric Herb Grinder with Skull Design (USB Rechargeab | /images/20260220_154801.jpg
+  [119] Glass water pipe/bong (teal accents; matrix percolator) | /images/20260220_154055.jpg
+  [120] Glass water pipe/bong (green accents; bent neck)        | /images/20260220_154143.jpg
+  [121] French Bulldog novelty resin ashtray                    | /images/20260220_154440.jpg
+  [122] Baby Stoner 63mm Zinc Alloy 4-layer grinder             | /images/20260220_154647.jpg
+  [123] Glass stash jar (white sugar skull design)              | /images/20260220_154708.jpg
+  [124] Glass stash jar (green skull and red roses design)      | /images/20260220_154717.jpg
+  [125] Flaming skull glass/resin bowl piece (Angle 1)          | /images/20260220_154936.jpg
+  [126] Flaming skull glass/resin bowl piece (Angle 2)          | /images/20260220_154948.jpg
+  [127] Hostess Twinkies Scented Candle (14 oz 3-wick)          | /images/20260220_155208.jpg
+  [128] Jolly Rancher Blue Raspberry Scented Candle (14 oz 3-wi | /images/20260220_155217.jpg
+  [129] Peace River Smoke Odor Exterminator Candle              | /images/product-1.jpg <-- PLACEHOLDER (no image)
+  [130] Cherry Bomb Smoke Odor Exterminator Candle              | /images/product-1.jpg <-- PLACEHOLDER (no image)
+  [131] Groov'n Grape Smoke Odor Exterminator Candle            | /images/product-1.jpg <-- PLACEHOLDER (no image)
+  [132] High Hemp Organic Wraps (Natural CBD)                   | /images/product-1.jpg <-- PLACEHOLDER (no image)
+  [133] Johnnie Smoker \                                        | /images/product-1.jpg <-- PLACEHOLDER (no image)
+  [134] Mini Blue & White Swirl Bell-Base Pipe                  | /images/product-1.jpg <-- PLACEHOLDER (no image)
+  [135] Rectangular Comic Strip Novelty Pipe                    | /images/product-1.jpg <-- PLACEHOLDER (no image)
+  [136] Teal Accent Multi-Chamber Percolator Pipe               | /images/product-1.jpg <-- PLACEHOLDER (no image)
+  [137] Camo Pistol Novelty Lighter                             | /images/20260220_154127.jpg
+  [138] Green & Purple Accent Glass Bubbler                     | /images/20260220_154146.jpg
+  [139] Clear Glass Bubbler with Amber Perc                     | /images/20260220_154157.jpg
+  [140] Rick and Morty Graphic Stash Jar / Pipe Box             | /images/20260220_154211.jpg
+  [141] Rick and Morty Themed Glass Bubbler                     | /images/20260220_154232.jpg
+  [142] Miniature Acoustic Guitar Novelty Lighter               | /images/20260220_154246.jpg
+  [143] Blue Bull/Cow Resin Ashtray                             | /images/20260220_154457.jpg
+  [144] Glass Nectar Collector Kit with Padded Case             | /images/20260220_154624.jpg
+  [145] Blue & White Swirl Mini Beaker Bong (Angle 1)           | /images/20260220_153827.jpg
+  [146] Blue & White Swirl Mini Beaker Bong (Angle 2)           | /images/20260220_153953.jpg
+  [147] Novelty Comic Glass Bottle Bong                         | /images/20260220_154016.jpg
+  [148] Rick and Morty Rubik's Cube Grinder                     | /images/20260220_154338.jpg
+  [149] Blue & White Swirl Glass Bowl Piece                     | /images/20260220_154348.jpg
+  [150] Light Blue Dog with Cigar Ashtray                       | /images/20260220_154424.jpg
+  [151] Dark Blue Dog with Cigar Ashtray                        | /images/20260220_154429.jpg
+  [152] Dog in Wooden Cart Ashtray                              | /images/20260220_154445.jpg
+  [153] Camo Pink Rolling Tray & Accessory Set                  | /images/20260220_154549.jpg
+  [154] Sugar Skull Glass Stash Jar (Bamboo Lid)                | /images/20260220_154659.jpg
+  [155] Palpitate Rick & Morty Metal Window Grinder             | /images/20260220_154736.jpg
+  [156] Palpitate Wood-Grain Leaf Window Grinder                | /images/20260220_154750.jpg
+  [157] Smoke Odor Exterminator Candle                          | /images/20260220_153721.jpg
+  [158] Arya Odor Eliminator Candle                             | /images/20260220_153808.jpg
+  [159] Hostess Cherry Fruit Pie Candle                         | /images/20260220_154023.jpg
+  [160] HersheyÆs 3-Wick Candle                                 | /images/20260220_154031.jpg
+  [161] Silicone Pipe with Glass Bowl                           | /images/20260220_154036.jpg
+  [162] Hammer-Style Metal Pipe                                 | /images/20260220_154053.jpg
+  [163] Ghost Rider Skull Drip Tip                              | /images/20260220_154913.jpg
+  [164] Acrylic Replacement Mouthpiece                          | /images/20260220_154938.jpg
+  [165] Spring-Lock Wire Connectors                             | /images/20260220_155000.jpg
