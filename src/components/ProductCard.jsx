@@ -1,4 +1,5 @@
 import { useState } from 'react';
+import { Link } from 'react-router-dom';
 import { ShoppingCart, Eye, Heart } from 'lucide-react';
 import { useCart } from '../context/CartContext';
 import './ProductCard.css';
@@ -53,13 +54,15 @@ export default function ProductCard({ product, index = 0 }) {
         >
             <div className="product-image-container">
                 {/* Real Product Image */}
-                <img
-                    src={productImage}
-                    alt={`${product.name} - ${product.categoryLabel || product.category}`}
-                    className="product-image"
-                    loading="lazy"
-                    onError={() => setImgError(true)}
-                />
+                <Link to={`/product/${product.id}`}>
+                    <img
+                        src={productImage}
+                        alt={`${product.name} - ${product.categoryLabel || product.category}`}
+                        className="product-image"
+                        loading="lazy"
+                        onError={() => setImgError(true)}
+                    />
+                </Link>
 
                 {/* Badge */}
                 {product.badge && (
@@ -95,7 +98,9 @@ export default function ProductCard({ product, index = 0 }) {
 
             <div className="product-info">
                 <span className="product-category">{product.categoryLabel || product.category}</span>
-                <h3 className="product-name">{product.name}</h3>
+                <Link to={`/product/${product.id}`}>
+                    <h3 className="product-name">{product.name}</h3>
+                </Link>
                 {product.description && (
                     <p className="product-description">{product.description}</p>
                 )}

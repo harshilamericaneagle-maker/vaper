@@ -31,7 +31,17 @@ export default function TermsPage() {
                     </section>
 
                     <section className="legal-section">
-                        <h2>3. Products and Availability</h2>
+                        <h2>3. PACT ACT Compliance</h2>
+                        <p>
+                            VaporLuxe adheres to the Prevent All Cigarette Trafficking (PACT) Act. We are committed to
+                            full compliance with all federal, state, and local laws regarding the sale and delivery
+                            of tobacco and nicotine products. This includes tax collection, age verification, and
+                            detailed record-keeping as required by law.
+                        </p>
+                    </section>
+
+                    <section className="legal-section">
+                        <h2>4. Products and Availability</h2>
                         <p>
                             All products displayed on our website are subject to availability. We reserve
                             the right to discontinue any product at any time. Product images are for
@@ -43,9 +53,9 @@ export default function TermsPage() {
                             products you purchase are legal in your jurisdiction.
                         </p>
                     </section>
-
+                    +
                     <section className="legal-section">
-                        <h2>4. Pricing and Payment</h2>
+                        <h2>5. Pricing and Payment</h2>
                         <p>
                             All prices are listed in US Dollars and are subject to change without notice.
                             We accept major credit cards and other payment methods as displayed at checkout.
@@ -54,7 +64,7 @@ export default function TermsPage() {
                     </section>
 
                     <section className="legal-section">
-                        <h2>5. Shipping and Delivery</h2>
+                        <h2>6. Shipping and Delivery</h2>
                         <p>
                             We offer free shipping on orders over $75 within the continental United States.
                             Shipping times vary based on your location and selected shipping method. We are
@@ -67,7 +77,7 @@ export default function TermsPage() {
                     </section>
 
                     <section className="legal-section">
-                        <h2>6. Returns and Refunds</h2>
+                        <h2>7. Returns and Refunds</h2>
                         <p>
                             Due to the nature of our products, we only accept returns on unopened, unused
                             items in their original packaging within 30 days of delivery. Defective products
@@ -77,7 +87,7 @@ export default function TermsPage() {
                     </section>
 
                     <section className="legal-section">
-                        <h2>7. Prohibited Uses</h2>
+                        <h2>8. Prohibited Uses</h2>
                         <p>You agree not to:</p>
                         <ul>
                             <li>Purchase products if you are under 21 years of age</li>
@@ -89,7 +99,7 @@ export default function TermsPage() {
                     </section>
 
                     <section className="legal-section">
-                        <h2>8. Intellectual Property</h2>
+                        <h2>9. Intellectual Property</h2>
                         <p>
                             All content on this website, including text, graphics, logos, images, and
                             software, is the property of VaporLuxe or its content suppliers and is
@@ -99,7 +109,7 @@ export default function TermsPage() {
                     </section>
 
                     <section className="legal-section">
-                        <h2>9. Disclaimer of Warranties</h2>
+                        <h2>10. Disclaimer of Warranties</h2>
                         <p>
                             Products sold on this website are provided "as is" without warranties of any
                             kind. We do not warrant that products will meet your specific requirements
@@ -109,7 +119,7 @@ export default function TermsPage() {
                     </section>
 
                     <section className="legal-section">
-                        <h2>10. Limitation of Liability</h2>
+                        <h2>11. Limitation of Liability</h2>
                         <p>
                             VaporLuxe shall not be liable for any indirect, incidental, special, or
                             consequential damages arising from your use of our website or products.
@@ -118,7 +128,7 @@ export default function TermsPage() {
                     </section>
 
                     <section className="legal-section">
-                        <h2>11. Changes to Terms</h2>
+                        <h2>12. Changes to Terms</h2>
                         <p>
                             We reserve the right to modify these Terms and Conditions at any time.
                             Changes will be effective immediately upon posting to the website. Your
@@ -127,7 +137,7 @@ export default function TermsPage() {
                     </section>
 
                     <section className="legal-section">
-                        <h2>12. Contact Information</h2>
+                        <h2>13. Contact Information</h2>
                         <p>
                             If you have any questions about these Terms and Conditions, please contact us at:
                         </p>

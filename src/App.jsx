@@ -13,6 +13,7 @@ import ShippingPage from './pages/ShippingPage';
 import ReturnsPage from './pages/ReturnsPage';
 import ContactPage from './pages/ContactPage';
 import CheckoutPage from './pages/CheckoutPage';
+import ProductDetailPage from './pages/ProductDetailPage';
 import './index.css';
 
 import ScrollToTop from './components/ScrollToTop';
@@ -28,6 +29,7 @@ function App() {
           <Routes>
             <Route path="/" element={<HomePage />} />
             <Route path="/products" element={<ProductsPage />} />
+            <Route path="/product/:id" element={<ProductDetailPage />} />
             <Route path="/cart" element={<CartPage />} />
             <Route path="/checkout" element={<CheckoutPage />} />
             <Route path="/terms" element={<TermsPage />} />

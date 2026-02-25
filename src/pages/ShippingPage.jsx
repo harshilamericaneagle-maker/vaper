@@ -65,6 +65,13 @@ export default function ShippingPage() {
                             is not available at this time. Please ensure your shipping address is complete and accurate
                             to avoid any delays.
                         </p>
+                        <div className="policy-highlight" style={{ borderColor: 'var(--clr-orange)' }}>
+                            <p>
+                                <strong>🔞 Adult Signature Required:</strong> In accordance with federal and state regulations,
+                                an adult signature (21+) with a valid government-issued photo ID is required for ALL deliveries.
+                                Carriers will not leave packages unattended.
+                            </p>
+                        </div>
                     </div>
 
                     <div className="policy-card">
