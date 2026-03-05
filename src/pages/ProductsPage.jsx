@@ -1,10 +1,12 @@
-import { useState, useMemo } from 'react';
+import { useState, useMemo, useEffect } from 'react';
 import { useSearchParams } from 'react-router-dom';
-import { Filter, Grid, List, ChevronDown } from 'lucide-react';
+import { Filter, ChevronDown, ChevronLeft, ChevronRight } from 'lucide-react';
 import ProductCard from '../components/ProductCard';
 import { products, categories } from '../data/products';
 import usePageSEO from '../hooks/usePageSEO';
 import './ProductsPage.css';
+
+const PRODUCTS_PER_PAGE = 24;
 
 export default function ProductsPage() {
     usePageSEO(
@@ -15,6 +17,7 @@ export default function ProductsPage() {
     const [searchParams, setSearchParams] = useSearchParams();
     const [sortBy, setSortBy] = useState('featured');
     const [isFilterOpen, setIsFilterOpen] = useState(false);
+    const [currentPage, setCurrentPage] = useState(1);
 
     const activeCategory = searchParams.get('category') || 'all';
 
@@ -47,6 +50,47 @@ export default function ProductsPage() {
         return filtered;
     }, [activeCategory, sortBy]);
 
+    // Reset to page 1 when filter or sort changes
+    useEffect(() => {
+        setCurrentPage(1);
+    }, [activeCategory, sortBy]);
+
+    const totalPages = Math.ceil(filteredProducts.length / PRODUCTS_PER_PAGE);
+    const paginatedProducts = filteredProducts.slice(
+        (currentPage - 1) * PRODUCTS_PER_PAGE,
+        currentPage * PRODUCTS_PER_PAGE
+    );
+
+    const scrollToTop = () => window.scrollTo({ top: 0, behavior: 'smooth' });
+
+    const goToPage = (page) => {
+        setCurrentPage(page);
+        scrollToTop();
+    };
+
+    // Build page number array: show first, last, current±2, with '...' gaps
+    const getPageNumbers = () => {
+        const pages = [];
+        const delta = 2;
+        for (let i = 1; i <= totalPages; i++) {
+            if (
+                i === 1 ||
+                i === totalPages ||
+                (i >= currentPage - delta && i <= currentPage + delta)
+            ) {
+                pages.push(i);
+            }
+        }
+        const withEllipsis = [];
+        for (let i = 0; i < pages.length; i++) {
+            if (i > 0 && pages[i] - pages[i - 1] > 1) {
+                withEllipsis.push('...');
+            }
+            withEllipsis.push(pages[i]);
+        }
+        return withEllipsis;
+    };
+
     const handleCategoryChange = (categoryId) => {
         if (categoryId === 'all') {
             searchParams.delete('category');
@@ -54,6 +98,7 @@ export default function ProductsPage() {
             searchParams.set('category', categoryId);
         }
         setSearchParams(searchParams);
+        setCurrentPage(1);
     };
 
     return (
@@ -65,7 +110,10 @@ export default function ProductsPage() {
                         <h1 className="products-title">
                             {categories.find(c => c.id === activeCategory)?.name || 'All Products'}
                         </h1>
-                        <p className="products-count">{filteredProducts.length} products</p>
+                        <p className="products-count">
+                            {filteredProducts.length} products
+                            {totalPages > 1 && ` · Page ${currentPage} of ${totalPages}`}
+                        </p>
                     </div>
                 </div>
 
@@ -132,15 +180,54 @@ export default function ProductsPage() {
                         </div>
 
                         {/* Product Grid */}
-                        {filteredProducts.length > 0 ? (
+                        {paginatedProducts.length > 0 ? (
                             <div className="product-grid">
-                                {filteredProducts.map((product, index) => (
+                                {paginatedProducts.map((product, index) => (
                                     <ProductCard key={product.id} product={product} index={index} />
                                 ))}
                             </div>
                         ) : (
                             <div className="no-products">
                                 <p>No products found in this category.</p>
+                            </div>
+                        )}
+
+                        {/* Pagination */}
+                        {totalPages > 1 && (
+                            <div className="pagination">
+                                <button
+                                    className="pagination-btn pagination-arrow"
+                                    onClick={() => goToPage(currentPage - 1)}
+                                    disabled={currentPage === 1}
+                                    aria-label="Previous page"
+                                >
+                                    <ChevronLeft size={18} />
+                                </button>
+
+                                {getPageNumbers().map((page, i) =>
+                                    page === '...' ? (
+                                        <span key={`ellipsis-${i}`} className="pagination-ellipsis">…</span>
+                                    ) : (
+                                        <button
+                                            key={page}
+                                            className={`pagination-btn ${currentPage === page ? 'pagination-btn-active' : ''}`}
+                                            onClick={() => goToPage(page)}
+                                            aria-label={`Page ${page}`}
+                                            aria-current={currentPage === page ? 'page' : undefined}
+                                        >
+                                            {page}
+                                        </button>
+                                    )
+                                )}
+
+                                <button
+                                    className="pagination-btn pagination-arrow"
+                                    onClick={() => goToPage(currentPage + 1)}
+                                    disabled={currentPage === totalPages}
+                                    aria-label="Next page"
+                                >
+                                    <ChevronRight size={18} />
+                                </button>
                             </div>
                         )}
                     </div>
