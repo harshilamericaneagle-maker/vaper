@@ -61,20 +61,40 @@ export default function ReturnsPage() {
                             <h2>Non-Returnable Items</h2>
                         </div>
                         <p>
-                            Due to the nature of our products and for health and safety reasons, certain items cannot be returned:
+                            Due to the nature of our products and for the safety and hygiene of all our customers, we **cannot** accept returns on the following:
                         </p>
-                        <ul className="policy-list" style={{ listStyle: 'none' }}>
-                            <li style={{ color: 'rgba(255,100,100,0.9)' }}>✕ Used or opened vape devices</li>
-                            <li style={{ color: 'rgba(255,100,100,0.9)' }}>✕ Opened e-liquids or concentrates</li>
-                            <li style={{ color: 'rgba(255,100,100,0.9)' }}>✕ Items that have been filled with liquid</li>
-                            <li style={{ color: 'rgba(255,100,100,0.9)' }}>✕ Clearance or final sale items</li>
+                        <ul className="policy-list">
+                            <li>All E-liquids and concentrates, even if sealed.</li>
+                            <li>Opened or used hardware (Disposables, Pods, Coils).</li>
+                            <li>Any item with signs of wear or damage caused by the user.</li>
+                            <li>Clearance and Sale items are final sale.</li>
                         </ul>
+                        <div className="policy-highlight" style={{ borderColor: 'var(--clr-red)' }}>
+                            <p>
+                                <strong>⚠️ Sanitary Notice:</strong> We do not re-stock items that have been in contact with oral or respiratory surfaces once opened.
+                            </p>
+                        </div>
                     </div>
 
                     <div className="policy-card">
                         <div className="policy-card-header">
                             <div className="policy-card-icon">
                                 <RefreshCw size={24} />
+                            </div>
+                            <h2>Restocking Fees</h2>
+                        </div>
+                        <p>
+                            A **15-20% restocking fee** applies to all returns that are not due to manufacturer defects.
+                        </p>
+                        <ul className="policy-list">
+                            <li><strong>ASR/Age Verification Failures:</strong> If an order is returned to us because an adult (21+) was not present to sign or if age verification failed, a **20% restocking fee** and initial shipping costs will be deducted from your refund.</li>
+                        </ul>
+                    </div>
+
+                    <div className="policy-card">
+                        <div className="policy-card-header">
+                            <div className="policy-card-icon">
+                                <CheckCircle size={24} />
                             </div>
                             <h2>Refund Process</h2>
                         </div>
@@ -83,8 +103,8 @@ export default function ReturnsPage() {
                         </p>
                         <div className="policy-highlight">
                             <p>
-                                <strong>Processing Time:</strong> Approved refunds are processed within 3-5 business days.
-                                Depending on your bank or card issuer, it may take an additional 5-10 days to appear on your statement.
+                                <strong>Processing Time:</strong> Approved refunds are processed within 3-5 business days. 
+                                Note that initial shipping costs (including those covered by "Free Shipping" promotions) are non-refundable.
                             </p>
                         </div>
                     </div>

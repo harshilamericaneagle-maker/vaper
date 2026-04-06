@@ -9,6 +9,7 @@ import CartPage from './pages/CartPage';
 import TermsPage from './pages/TermsPage';
 import PrivacyPage from './pages/PrivacyPage';
 import AgePolicyPage from './pages/AgePolicyPage';
+import CompliancePage from './pages/CompliancePage';
 import ShippingPage from './pages/ShippingPage';
 import ReturnsPage from './pages/ReturnsPage';
 import ContactPage from './pages/ContactPage';
@@ -37,6 +38,7 @@ function App() {
             <Route path="/age-policy" element={<AgePolicyPage />} />
             <Route path="/shipping" element={<ShippingPage />} />
             <Route path="/returns" element={<ReturnsPage />} />
+            <Route path="/compliance" element={<CompliancePage />} />
             <Route path="/contact" element={<ContactPage />} />
           </Routes>
           <Footer />

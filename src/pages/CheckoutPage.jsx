@@ -192,6 +192,34 @@ export default function CheckoutPage() {
                             </div>
                         </div>
 
+                        <div className="policy-card" style={{ marginBottom: '1.5rem', border: '1px solid rgba(255,255,255,0.1)' }}>
+                            <div className="policy-card-header">
+                                <h2>Compliance & Agreements</h2>
+                            </div>
+                            <div style={{ display: 'flex', flexDirection: 'column', gap: '1rem', marginTop: '1rem' }}>
+                                <label style={{ display: 'flex', gap: '0.75rem', cursor: 'pointer', fontSize: '0.9rem', color: 'rgba(255,255,255,0.8)' }}>
+                                    <input type="checkbox" required style={{ width: '18px', height: '18px' }} />
+                                    <span>I confirm that I am <strong>21 years of age or older</strong> and that providing false information is a violation of federal law.</span>
+                                </label>
+                                
+                                <label style={{ display: 'flex', gap: '0.75rem', cursor: 'pointer', fontSize: '0.9rem', color: 'rgba(255,255,255,0.8)' }}>
+                                    <input type="checkbox" required style={{ width: '18px', height: '18px' }} />
+                                    <span>I understand that an <strong>Adult Signature (21+)</strong> with a valid government-issued photo ID is required for delivery. No unattended deliveries.</span>
+                                </label>
+
+                                <label style={{ display: 'flex', gap: '0.75rem', cursor: 'pointer', fontSize: '0.9rem', color: 'rgba(255,255,255,0.8)' }}>
+                                    <input type="checkbox" required style={{ width: '18px', height: '18px' }} />
+                                    <span>I have read and agree to the <Link to="/terms" style={{ color: '#646cff', textDecoration: 'underline' }}>Terms of Service</Link> and <Link to="/returns" style={{ color: '#646cff', textDecoration: 'underline' }}>Refund/Restocking Policy</Link>.</span>
+                                </label>
+                            </div>
+                        </div>
+
+                        {/* Shipping Restriction Warning (Simplified) */}
+                        <div style={{ backgroundColor: 'rgba(255,107,107,0.1)', border: '1px solid rgba(255,107,107,0.3)', padding: '1rem', borderRadius: '8px', marginBottom: '1.5rem', fontSize: '0.85rem' }}>
+                            <p style={{ color: '#ff6b6b', fontWeight: 'bold', marginBottom: '0.5rem' }}>⚠️ SHIPIPNG RESTRICTIONS:</p>
+                            <p style={{ color: 'rgba(255,255,255,0.7)' }}>We cannot ship nicotine products to NY, MA, RI, ME, OR, UT, AR, SD, and VT. If you enter an address in these states, your order will be cancelled.</p>
+                        </div>
+
                         <div style={{ display: 'flex', gap: '1rem' }}>
                             <Link to="/cart" className="btn btn-secondary">
                                 <ArrowLeft size={18} /> Back to Cart

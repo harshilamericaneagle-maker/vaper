@@ -38,7 +38,17 @@ export default function ProductDetailPage() {
                     </div>
 
                     <div className="product-detail-content">
-                        <span className="product-detail-category">{product.category}</span>
+                        {/* Mandatory FDA Nicotine Warning Block */}
+                        <div className="nicotine-warning-block" style={{ backgroundColor: '#fff', color: '#000', padding: '1rem', border: '2px solid #000', marginBottom: '1.5rem', textAlign: 'center', fontWeight: 'bold', textTransform: 'uppercase', lineHeight: '1.2' }}>
+                            WARNING: This product contains nicotine. Nicotine is an addictive chemical.
+                        </div>
+
+                        <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '1rem' }}>
+                            <span className="product-detail-category">{product.category}</span>
+                            <span style={{ backgroundColor: 'var(--clr-red)', color: 'white', padding: '4px 8px', borderRadius: '4px', fontSize: '0.75rem', fontWeight: 'bold' }}>
+                                🔞 21+ ASR REQUIRED
+                            </span>
+                        </div>
                         <h1 className="product-detail-name">{product.name}</h1>
 
                         <div className="product-detail-price">

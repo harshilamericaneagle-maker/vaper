@@ -81,7 +81,7 @@ export default function Footer() {
                                 <li><Link to="/faq">FAQ</Link></li>
                                 <li><Link to="/shipping">Shipping Info</Link></li>
                                 <li><Link to="/returns">Returns & Refunds</Link></li>
-                                <li><Link to="/warranty">Warranty</Link></li>
+                                <li><Link to="/compliance">PACT Act Compliance</Link></li>
                             </ul>
                         </div>
 
@@ -95,6 +95,8 @@ export default function Footer() {
                                 <li><Link to="/age-policy">Age Policy</Link></li>
                             </ul>
                         </div>
+
+
                     </div>
 
                     {/* Trust Badges */}
@@ -102,38 +104,48 @@ export default function Footer() {
                         <div className="trust-item">
                             <Truck size={24} />
                             <div>
-                                <strong>Free Shipping</strong>
-                                <span>Orders over $75</span>
+                                <strong>ASR Delivery</strong>
+                                <span>21+ Signature Required</span>
                             </div>
                         </div>
                         <div className="trust-item">
                             <Shield size={24} />
                             <div>
                                 <strong>Secure Checkout</strong>
-                                <span>SSL Encrypted</span>
+                                <span>High-Risk PCI Level 1</span>
                             </div>
                         </div>
                         <div className="trust-item">
                             <CreditCard size={24} />
                             <div>
-                                <strong>Payment Options</strong>
-                                <span>All major cards</span>
+                                <strong>Privacy Focused</strong>
+                                <span>Discreet Billing</span>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
 
+            {/* FDA Mandatory Warning Block */}
+            <div className="footer-disclaimer" style={{ backgroundColor: '#fff', color: '#000', padding: '1.5rem 0' }}>
+                <div className="container" style={{ textAlign: 'center', fontWeight: 'bold', fontSize: '1.1rem', letterSpacing: '0.05em' }}>
+                    <p style={{ margin: 0, textTransform: 'uppercase' }}>
+                        WARNING: This product contains nicotine. Nicotine is an addictive chemical.
+                    </p>
+                </div>
+            </div>
+
             {/* Bottom Bar */}
             <div className="footer-bottom">
                 <div className="container">
-                    <p className="copyright">
-                        © {currentYear} VaporLuxe. All rights reserved. 21+ Only.
-                    </p>
-                    <div className="payment-icons">
-                        <span className="payment-icon">💳</span>
-                        <span className="payment-icon">🏦</span>
-                        <span className="payment-icon">📱</span>
+                    <div className="footer-bottom-content" style={{ width: '100%', display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
+                        <p className="copyright">
+                            © {currentYear} VaporLuxe. All rights reserved. 21+ Only.
+                        </p>
+                        <p style={{ fontSize: '0.75rem', color: 'rgba(255,255,255,0.5)', maxWidth: '500px', textAlign: 'right' }}>
+                            VaporLuxe strictly complies with the PACT Act and federal/state regulations. We do not sell to minors. 
+                            Age verification is performed on all orders. Use of this site is subject to our Terms & Conditions.
+                        </p>
                     </div>
                 </div>
             </div>

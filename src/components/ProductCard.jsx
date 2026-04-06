@@ -104,15 +104,20 @@ export default function ProductCard({ product, index = 0 }) {
                 {product.description && (
                     <p className="product-description">{product.description}</p>
                 )}
-                <div className="product-pricing">
-                    {product.salePrice ? (
-                        <>
-                            <span className="product-price-sale">${product.salePrice.toFixed(2)}</span>
-                            <span className="product-price-original">${product.price.toFixed(2)}</span>
-                        </>
-                    ) : (
-                        <span className="product-price">${product.price.toFixed(2)}</span>
-                    )}
+                <div className="product-pricing" style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
+                    <div>
+                        {product.salePrice ? (
+                            <>
+                                <span className="product-price-sale">${product.salePrice.toFixed(2)}</span>
+                                <span className="product-price-original">${product.price.toFixed(2)}</span>
+                            </>
+                        ) : (
+                            <span className="product-price">${product.price.toFixed(2)}</span>
+                        )}
+                    </div>
+                    <span style={{ fontSize: '0.65rem', backgroundColor: 'rgba(255,255,255,0.1)', padding: '2px 6px', borderRadius: '4px', color: 'rgba(255,255,255,0.6)', fontWeight: 'bold', border: '1px solid rgba(255,255,255,0.1)' }}>
+                        🔞 21+ ASR
+                    </span>
                 </div>
             </div>
         </article>

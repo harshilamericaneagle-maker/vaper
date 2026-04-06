@@ -19,14 +19,12 @@ export default function Hero() {
                     </div>
 
                     <h1 className="hero-title">
-                        Elevate Your
-                        <span className="hero-title-gradient"> Experience</span>
+                        Premium Vaping & 
+                        <span className="hero-title-gradient"> Smoking Accessories</span>
                     </h1>
 
                     <p className="hero-description">
-                        Discover the finest collection of premium vaporizers and accessories.
-                        From cutting-edge devices to artisan glass, find everything you need
-                        for the ultimate session.
+                        Premium designs, authentic craftsmanship, and effortless style — delivered to your doorstep. Shop the finest collection of vaporizers, glass, and gear.
                     </p>
 
                     <div className="hero-actions">

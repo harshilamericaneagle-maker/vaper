@@ -58,20 +58,46 @@ export default function ShippingPage() {
                             <div className="policy-card-icon">
                                 <MapPin size={24} />
                             </div>
-                            <h2>Delivery Locations</h2>
+                            <h2>Restricted Shipping States</h2>
                         </div>
                         <p>
-                            We currently ship to all 50 states within the United States. International shipping
-                            is not available at this time. Please ensure your shipping address is complete and accurate
-                            to avoid any delays.
+                            Due to state regulations and flavor bans, we currently **DO NOT** ship nicotine-containing products to the following states:
                         </p>
-                        <div className="policy-highlight" style={{ borderColor: 'var(--clr-orange)' }}>
+                        <ul className="policy-list" style={{ columns: 2 }}>
+                            <li>Arkansas</li>
+                            <li>Maine</li>
+                            <li>Massachusetts</li>
+                            <li>New Jersey</li>
+                            <li>New York</li>
+                            <li>Oregon</li>
+                            <li>Rhode Island</li>
+                            <li>South Dakota</li>
+                            <li>Utah</li>
+                            <li>Vermont</li>
+                        </ul>
+                        <div className="policy-highlight" style={{ borderColor: 'var(--clr-red)' }}>
                             <p>
-                                <strong>🔞 Adult Signature Required:</strong> In accordance with federal and state regulations,
-                                an adult signature (21+) with a valid government-issued photo ID is required for ALL deliveries.
-                                Carriers will not leave packages unattended.
+                                <strong>🚫 No P.O. Box Delivery:</strong> We cannot ship to P.O. Boxes. All orders must be shipped to a physical address where an adult signature can be obtained.
                             </p>
                         </div>
+                    </div>
+
+                    <div className="policy-card">
+                        <div className="policy-card-header">
+                            <div className="policy-card-icon">
+                                <AlertTriangle size={24} />
+                            </div>
+                            <h2>Adult Signature Required (ASR)</h2>
+                        </div>
+                        <p>
+                            In accordance with federal law and the PACT Act, all deliveries require an **Adult Signature (21+)**. 
+                            The person receiving the package must present a valid government-issued photo ID to the carrier.
+                        </p>
+                        <ul className="policy-list">
+                            <li>Carriers will not leave packages unattended.</li>
+                            <li>If no adult is present, the carrier will make up to three delivery attempts.</li>
+                            <li><strong>Re-delivery Fee:</strong> If a package is returned to us due to a failed age verification or absence of an adult, a 20% restocking fee plus original shipping costs will be deducted from your refund.</li>
+                        </ul>
                     </div>
 
                     <div className="policy-card">

@@ -1,8 +1,8 @@
-// Product data - generated from products_sheet_master_complete.csv
-// 450 products (152 original + 298 from inventory 2026-03-05)
+// Product data - Auto-generated from Final 108 products Excel
+// Products with verified real images only
 
 export const products = [
-  {
+{
     "id": 1,
     "name": "Clear Glass Beaker Water Pipe with Cartoon Art Design",
     "price": 49.17,
@@ -13,7 +13,7 @@ export const products = [
     "featured": true,
     "inStock": true
   },
-  {
+{
     "id": 2,
     "name": "Cool Dog Sunglasses Ashtray Holder",
     "price": 10.84,
@@ -24,7 +24,7 @@ export const products = [
     "featured": true,
     "inStock": true
   },
-  {
+{
     "id": 3,
     "name": "Rasta Silicone Hand Pipe with Black Stem",
     "price": 9.59,
@@ -35,7 +35,7 @@ export const products = [
     "featured": true,
     "inStock": true
   },
-  {
+{
     "id": 4,
     "name": "Arya Papaya Cream Odor Eliminator Candle 8oz",
     "price": 16.97,
@@ -46,7 +46,7 @@ export const products = [
     "featured": true,
     "inStock": true
   },
-  {
+{
     "id": 5,
     "name": "Swisher Sweets Leaf Wraps Peach Brandy (3 Pack)",
     "price": 2.38,
@@ -57,7 +57,7 @@ export const products = [
     "featured": true,
     "inStock": true
   },
-  {
+{
     "id": 6,
     "name": "Sandalwood Smoke Odor Exterminator Candle 13oz",
     "price": 9.85,
@@ -68,18 +68,18 @@ export const products = [
     "featured": true,
     "inStock": true
   },
-  {
+{
     "id": 7,
-    "name": "Mango Tanga Kong Wraps CBD+ Hemp Wraps (2 Wraps)",
+
     "price": 4.14,
     "image": "/images/20260220_155809.jpg",
     "category": "papers-wraps",
-    "description": "Hemp wraps with CBD+ branding; Mango Tanga flavor; 2 wraps per pouch.",
+
 
     "featured": true,
     "inStock": true
   },
-  {
+{
     "id": 8,
     "name": "Twisted Hemp Wraps California Dream (4 Wraps)",
     "price": 8.76,
@@ -90,7 +90,7 @@ export const products = [
     "featured": true,
     "inStock": true
   },
-  {
+{
     "id": 9,
     "name": "RAW Organic Hemp Rolling Papers 1 1/2 Size (25 Pack Box)",
     "price": 5.86,
@@ -101,18 +101,18 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 10,
-    "name": "10000K Black Bull Male Enhancement Capsules Extra Strength",
+
     "price": 34.77,
     "image": "/images/20260220_160650.jpg",
     "category": "accessories",
-    "description": "Black Bull 10000K male enhancement supplements; extra strength; boxed packaging.",
+
 
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 11,
     "name": "RAW Classic Pre-Rolled Cone 1 1/4 Size",
     "price": 6.11,
@@ -123,7 +123,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 12,
     "name": "5 Rollies Real Leaf Tubes 0.5g Each (5 Pack)",
     "price": 15.60,
@@ -134,7 +134,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 13,
     "name": "Green Glass Bottle Style Water Pipe with Bowl",
     "price": 58.54,
@@ -145,7 +145,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 14,
     "name": "Yellow Glass Replacement Bowl Piece 14mm",
     "price": 22.30,
@@ -156,7 +156,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 15,
     "name": "Blink Torch Lighter White Carbon Style",
     "price": 25.49,
@@ -167,7 +167,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 16,
     "name": "Hunter Double Bullet Torch Lighter Gold Finish",
     "price": 18.59,
@@ -178,7 +178,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 17,
     "name": "Blink Torch Lighter Red Carbon Style",
     "price": 22.80,
@@ -189,7 +189,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 18,
     "name": "Scorch Torch Lighter White & Green",
     "price": 30.78,
@@ -200,7 +200,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 19,
     "name": "Ace Skull Design Refillable Lighter",
     "price": 37.11,
@@ -211,7 +211,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 20,
     "name": "Zen Superslim Menthol Filter Tips 200 Count",
     "price": 8.42,
@@ -222,7 +222,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 21,
     "name": "Zen Regular Filter Tips Menthol 200 Count",
     "price": 31.35,
@@ -233,7 +233,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 22,
     "name": "Gold Bar 999.9 Novelty Torch Lighter",
     "price": 35.47,
@@ -244,7 +244,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 23,
     "name": "Gold Bar 999.9 Metallic Torch Lighter",
     "price": 43.52,
@@ -255,7 +255,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 24,
     "name": "Middle Finger Metal Torch Lighter Bronze Finish",
     "price": 27.56,
@@ -266,7 +266,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 25,
     "name": "Rick & Morty Design Cube Grinder",
     "price": 26.14,
@@ -277,7 +277,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 26,
     "name": "Billionaire Majestic Grape Hemp Wraps",
     "price": 5.31,
@@ -288,7 +288,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 27,
     "name": "Billionaire Russian Cream Hemp Wraps",
     "price": 5.48,
@@ -299,7 +299,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 28,
     "name": "Billionaire Milli Mango Hemp Wraps",
     "price": 5.28,
@@ -310,7 +310,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 29,
     "name": "Cartoon Print Mini Water Pipe with Green Cap",
     "price": 98.28,
@@ -321,7 +321,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 30,
     "name": "Billionaire Baldacci Black Hemp Wraps",
     "price": 4.61,
@@ -332,7 +332,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 31,
     "name": "Clear Glass Water Pipe with Black Neck",
     "price": 82.24,
@@ -343,7 +343,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 32,
     "name": "Amber Triple Chamber Glass Water Pipe",
     "price": 66.39,
@@ -354,7 +354,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 33,
     "name": "Amber Glass Replacement Bowl 14mm",
     "price": 12.87,
@@ -365,7 +365,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 34,
     "name": "Billionaire Banana Cream Hemp Wraps (2 Wraps)",
     "price": 3.75,
@@ -376,7 +376,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 35,
     "name": "Amber Curved Handle Glass Bowl 14mm",
     "price": 22.33,
@@ -387,7 +387,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 36,
     "name": "Green Heart Shape Glass Bowl 14mm",
     "price": 12.74,
@@ -398,7 +398,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 37,
     "name": "Yellow Swirl Glass Sherlock Water Pipe",
     "price": 75.84,
@@ -409,7 +409,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 38,
     "name": "Spotted Glass Character Water Pipe",
     "price": 48.26,
@@ -420,7 +420,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 39,
     "name": "Red Swirl Glass Sherlock Water Pipe",
     "price": 103.32,
@@ -431,7 +431,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 40,
     "name": "Techno Blue Adjustable Torch Lighter",
     "price": 47.65,
@@ -442,7 +442,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 41,
     "name": "Blink Silver Plasma Arc Lighter",
     "price": 43.67,
@@ -453,7 +453,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 42,
     "name": "Blink Carbon Fiber Torch Lighter",
     "price": 46.76,
@@ -464,7 +464,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 43,
     "name": "Pink Bear Table Torch Lighter",
     "price": 25.64,
@@ -475,7 +475,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 44,
     "name": "Gun Style Table Torch Lighter",
     "price": 30.18,
@@ -486,7 +486,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 45,
     "name": "Rose Gold Sneaker Novelty Lighter",
     "price": 29.16,
@@ -497,7 +497,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 46,
     "name": "Blue Blink Table Torch Lighter",
     "price": 48.38,
@@ -508,7 +508,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 47,
     "name": "Pistol Revolver Torch Lighter",
     "price": 41.18,
@@ -519,7 +519,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 48,
     "name": "Techno Mini Torch Lighter Purple Pink",
     "price": 49.62,
@@ -530,7 +530,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 49,
     "name": "Hunter Double Bullet Torch Lighter Gold",
     "price": 30.68,
@@ -541,7 +541,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 50,
     "name": "RAW Classic Black King Size Slim Papers Box (50 Packs)",
     "price": 6.12,
@@ -552,7 +552,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 51,
     "name": "RAW Classic King Size Slim Papers Box (50 Packs)",
     "price": 21.01,
@@ -563,7 +563,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 52,
     "name": "RAW Pre-Rolled Tips 200 Count Bag",
     "price": 21.80,
@@ -574,7 +574,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 53,
     "name": "RAW Organic Hemp Artesano King Size Slim",
     "price": 5.68,
@@ -585,7 +585,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 54,
     "name": "RAW Classic King Size Cones (32 Pack)",
     "price": 18.02,
@@ -596,7 +596,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 55,
     "name": "RAW Uncoated Wooden Rolling Tips 15mm Jar",
     "price": 18.69,
@@ -607,7 +607,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 56,
     "name": "RAW Black Single Wide Classic Papers Box (25 Packs)",
     "price": 5.29,
@@ -618,7 +618,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 57,
     "name": "RAW Phenomenal Rolling Tips Classic (50 Box)",
     "price": 13.39,
@@ -629,47 +629,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
-    "id": 58,
-    "name": "Mega Gold S.W.A.G Male Enhancement Capsules",
-    "price": 51.95,
-    "image": "/images/20260220_160613.jpg",
-    "category": "accessories",
-    "description": "Mega Gold S.W.A.G male enhancement supplement; fast acting formula.",
-    "featured": false,
-    "inStock": true
-  },
-  {
-    "id": 59,
-    "name": "200K Shilajit XXL Male Enhancement",
-    "price": 39.96,
-    "image": "/images/20260220_160716.jpg",
-    "category": "accessories",
-    "description": "200K Shilajit XXL male enhancement supplement; stamina support.",
-    "featured": false,
-    "inStock": true
-  },
-  {
-    "id": 60,
-    "name": "Black Bull Extreme Male Enhancement Supplement",
-    "price": 55.44,
-    "image": "/images/20260220_160752.jpg",
-    "category": "accessories",
-    "description": "Black Bull Extreme male enhancement supplement; performance support.",
-    "featured": false,
-    "inStock": true
-  },
-  {
-    "id": 61,
-    "name": "Rhino 77 Liquid Shot Male Enhancement",
-    "price": 46.15,
-    "image": "/images/20260220_160812.jpg",
-    "category": "accessories",
-    "description": "Rhino 77 liquid shot male enhancement formula.",
-    "featured": false,
-    "inStock": true
-  },
-  {
+{
     "id": 62,
     "name": "Zig-Zag Mini Ultra Thin Cones 70mm (8 Pack)",
     "price": 17.64,
@@ -680,7 +640,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 63,
     "name": "Zig-Zag Original White 1 1/4 Rolling Papers",
     "price": 18.78,
@@ -691,7 +651,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 64,
     "name": "Zig-Zag Ultra Thin 1 1/4 Rolling Papers",
     "price": 8.60,
@@ -702,7 +662,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 65,
     "name": "Zig-Zag Combo Pack 1 1/4 Papers + Tips",
     "price": 13.00,
@@ -713,7 +673,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 66,
     "name": "Zig-Zag King Size French Orange Papers",
     "price": 13.88,
@@ -724,7 +684,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 67,
     "name": "OCB Bamboo King Size Cones (3 Pack)",
     "price": 5.93,
@@ -735,7 +695,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 68,
     "name": "OCB Brown Rice Mini Cones (10 Pack)",
     "price": 16.13,
@@ -746,7 +706,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 69,
     "name": "OCB Bamboo 1 1/4 Unbleached Cones (100 Box)",
     "price": 16.54,
@@ -757,7 +717,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 70,
     "name": "OCB Organic Hemp 1 1/4 Cones (50 Box)",
     "price": 20.98,
@@ -768,7 +728,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 71,
     "name": "POP Cones Wild Grape King Size (3 Pack)",
     "price": 13.08,
@@ -778,7 +738,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 72,
     "name": "RAW Classic 1 1/4 Pre-Rolled Cone",
     "price": 5.99,
@@ -789,7 +749,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 73,
     "name": "King Palm 5 King Real Leaf Tubes (2G Each)",
     "price": 7.26,
@@ -800,7 +760,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 74,
     "name": "King Palm Perfect Pear 2 Minis (1G Each)",
     "price": 7.71,
@@ -811,7 +771,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 75,
     "name": "King Palm Gold Rose Cones King Size (3 Pack)",
     "price": 8.43,
@@ -822,7 +782,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 76,
     "name": "King Palm Pink Lemonade Mini 1G Roll (2 Pack)",
     "price": 19.35,
@@ -833,7 +793,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 77,
     "name": "King Palm Palm Leaf Banana Pineapple 1G Roll (2 Pack)",
     "price": 16.88,
@@ -844,7 +804,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 78,
     "name": "King Palm Margarita 2 Slims (1.5G Each)",
     "price": 18.13,
@@ -855,7 +815,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 79,
     "name": "King Palm Mango OG 2 Minis (1G Each)",
     "price": 10.70,
@@ -866,7 +826,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 80,
     "name": "King Palm Watermelon Wave 2 Minis (1G Each)",
     "price": 14.33,
@@ -877,7 +837,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 81,
     "name": "King Palm Perfect Pear 2 Rollies (0.5G Each)",
     "price": 14.39,
@@ -888,7 +848,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 82,
     "name": "King Palm Red Reign Energy Drink Leaf Tubes Mini Rolls",
     "price": 10.06,
@@ -899,7 +859,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 83,
     "name": "Pepper Spray Maximum Strength Defense Spray",
     "price": 24.04,
@@ -909,7 +869,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 84,
     "name": "Tsunami Premium 50mm Dry Herb Grinder (Red)",
     "price": 23.59,
@@ -919,7 +879,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 85,
     "name": "Tsunami Premium 50mm Dry Herb Grinder (Red)",
     "price": 23.59,
@@ -929,7 +889,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 86,
     "name": "OCB x Wakit Electric Grinder (Rechargeable)",
     "price": 35.07,
@@ -940,7 +900,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 87,
     "name": "Rick & Morty Style Cube Herb Grinder",
     "price": 29.89,
@@ -951,7 +911,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 88,
     "name": "Flaming Skull Decorative Bowl Piece",
     "price": 20.27,
@@ -962,7 +922,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 89,
     "name": "Compact Metal Hand Pipe (Orange Finish)",
     "price": 10.68,
@@ -972,7 +932,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 90,
     "name": "ARYA Odor Eliminator Candle - Papaya Cream (8oz)",
     "price": 27.80,
@@ -982,7 +942,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 91,
     "name": "Jolly Rancher Scented Candle - Blue Raspberry (Triple Wick)",
     "price": 25.52,
@@ -992,7 +952,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 92,
     "name": "Hershey's Triple Wick Scented Candle (14oz)",
     "price": 25.86,
@@ -1002,7 +962,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 93,
     "name": "Bob Marley Hemp Wraps - Caribbean Cream",
     "price": 2.29,
@@ -1012,7 +972,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 94,
     "name": "Bob Marley Hemp Wraps - Sour Apple",
     "price": 5.46,
@@ -1022,7 +982,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 95,
     "name": "Smoke Odor Exterminator Candle - Groovin Grape (13oz)",
     "price": 27.50,
@@ -1032,37 +992,37 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 96,
-    "name": "High Hemp Organic Wraps - Natural CBD's",
+
     "price": 4.73,
     "image": "/images/20260220_155019.jpg",
     "category": "papers-wraps",
-    "description": "High Hemp Organic Wraps infused with natural CBD, tobacco-free.",
+
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 97,
     "name": "High Hemp Fuzzy Peach Organic Wraps (25 Pouches / 2 Wraps)",
     "price": 6.18,
     "image": "/images/20260220_155551.jpg",
     "category": "papers-wraps",
-    "description": "High Hemp Fuzzy Peach flavor organic hemp wraps with natural CBD's.",
+
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 98,
     "name": "High Hemp Honey Pot Swirl Organic Wraps (25 Pouches / 2 Wraps)",
     "price": 5.93,
     "image": "/images/20260220_155600.jpg",
     "category": "papers-wraps",
-    "description": "High Hemp Honey Pot Swirl organic wraps infused with natural CBD.",
+
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 99,
     "name": "High Hemp Grape Ape Organic Wraps (25 Pouches / 2 Wraps)",
     "price": 2.81,
@@ -1072,17 +1032,17 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 100,
     "name": "High Hemp Blazin Cherry Organic Wraps (25 Pouches / 2 Wraps)",
     "price": 3.29,
     "image": "/images/20260220_155616.jpg",
     "category": "papers-wraps",
-    "description": "High Hemp Blazin Cherry organic hemp wraps with natural CBD's.",
+
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 101,
     "name": "Juicy Hemp Wraps Purple Gelato (2 Per Pack)",
     "price": 4.95,
@@ -1092,7 +1052,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 102,
     "name": "CAMO Natural Leaf Wraps Passion Fruit (5 Wraps Per Pack)",
     "price": 2.64,
@@ -1103,7 +1063,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 103,
     "name": "CAMO Natural Leaf Wraps Honey (5 Wraps Per Pack)",
     "price": 2.70,
@@ -1114,7 +1074,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 104,
     "name": "CAMO Natural Leaf Wraps Choco (5 Wraps Per Pack)",
     "price": 4.93,
@@ -1125,7 +1085,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 105,
     "name": "CAMO Natural Leaf Wraps Strawberry (5 Wraps Per Pack)",
     "price": 6.59,
@@ -1136,7 +1096,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 106,
     "name": "CAMO Natural Leaf Wraps Guava (5 Wraps Per Pack)",
     "price": 5.00,
@@ -1147,27 +1107,27 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 107,
-    "name": "Kong Wraps Natural CBD+ (2 Hemp Wraps)",
+
     "price": 4.73,
     "image": "/images/20260220_155754.jpg",
     "category": "papers-wraps",
-    "description": "Kong Wraps Natural CBD+ organic hemp wraps, tobacco and nicotine free.",
+
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 108,
-    "name": "Kong Wraps Kush Berry CBD+ (2 Hemp Wraps)",
+
     "price": 4.14,
     "image": "/images/20260220_155758.jpg",
     "category": "papers-wraps",
-    "description": "Kong Wraps Kush Berry CBD+ organic hemp wraps with fresh seal.",
+
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 109,
     "name": "Royal Blunts EZ Roll Tube Sour Apple (1 Cigar Wrap)",
     "price": 6.48,
@@ -1177,7 +1137,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 110,
     "name": "Royal Blunts EZ Roll Tube Blueberry (1 Cigar Wrap)",
     "price": 2.33,
@@ -1187,7 +1147,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 111,
     "name": "Royal Blunts EZ Roll Tube Purple Haze (1 Cigar Wrap)",
     "price": 6.21,
@@ -1197,7 +1157,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 112,
     "name": "Pepper Spray Maximum Strength (Rhinestone Case)",
     "price": 18.45,
@@ -1208,7 +1168,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 113,
     "name": "Novelty Storage Box $100 Bill Design",
     "price": 11.73,
@@ -1219,7 +1179,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 115,
     "name": "$100 Bill Stash Box (Gold)",
     "price": 29.19,
@@ -1229,7 +1189,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 116,
     "name": "$100 Bill Stash Box (Gold) - Alternate",
     "price": 27.86,
@@ -1239,7 +1199,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 117,
     "name": "RAW Cone Black - 75 Cones (1 1/4)",
     "price": 9.77,
@@ -1249,7 +1209,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 118,
     "name": "RAW Organic Hemp Rolling Papers - 1 1/4 (24/Box)",
     "price": 9.55,
@@ -1259,7 +1219,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 119,
     "name": "RAW Connoisseur Classic Black - King Size Slim + Tips (24/Box)",
     "price": 25.18,
@@ -1269,7 +1229,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 120,
     "name": "Twang Snack Salt - Chile Lime",
     "price": 18.78,
@@ -1279,7 +1239,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 121,
     "name": "Pink Pussycat Honey (Supplement)",
     "price": 29.89,
@@ -1289,7 +1249,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 122,
     "name": "Mini Glass Dab Rig - Blue/White",
     "price": 44.21,
@@ -1299,7 +1259,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 123,
     "name": "Novelty Glass Bottle Bong - Cartoon Label (Front)",
     "price": 128.89,
@@ -1309,7 +1269,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 124,
     "name": "Novelty Glass Bottle Bong - Cartoon Label (Back)",
     "price": 90.82,
@@ -1319,7 +1279,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 125,
     "name": "Beaker Bong - Green/Purple",
     "price": 40.58,
@@ -1329,7 +1289,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 126,
     "name": "Beaker Bong - Green/Purple (Alt Angle)",
     "price": 96.68,
@@ -1339,7 +1299,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 127,
     "name": "Herb Grinder - Cartoon Character Face",
     "price": 43.24,
@@ -1349,7 +1309,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 128,
     "name": "Mini Glass Rig - Clear w/ Clown Sticker",
     "price": 36.41,
@@ -1359,87 +1319,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
-    "id": 129,
-    "name": "Bulldog Ashtray - Blue",
-    "price": 52.39,
-    "image": "/images/20260220_154424.jpg",
-    "category": "accessories",
-    "description": "",
-    "featured": false,
-    "inStock": true
-  },
-  {
-    "id": 130,
-    "name": "Bulldog Ashtray - White w/ Crate",
-    "price": 24.32,
-    "image": "/images/20260220_154445.jpg",
-    "category": "accessories",
-    "description": "",
-    "featured": false,
-    "inStock": true
-  },
-  {
-    "id": 131,
-    "name": "CAMO Rolling Tray Set",
-    "price": 17.09,
-    "image": "/images/20260220_154549.jpg",
-    "category": "accessories",
-    "description": "",
-    "featured": false,
-    "inStock": true
-  },
-  {
-    "id": 132,
-    "name": "Baby Stoner Grinder - 63mm",
-    "price": 15.58,
-    "image": "/images/20260220_154647.jpg",
-    "category": "grinders",
-    "description": "",
-    "featured": false,
-    "inStock": true
-  },
-  {
-    "id": 133,
-    "name": "Sugar Skull Glass Jar (Colorful Lid)",
-    "price": 10.67,
-    "image": "/images/20260220_154659.jpg",
-    "category": "glass-pipes",
-    "description": "Decorative glass jar with bamboo lid and sugar skull design.",
-    "featured": false,
-    "inStock": true
-  },
-  {
-    "id": 134,
-    "name": "Sugar Skull Glass Jar (Red Floral)",
-    "price": 26.89,
-    "image": "/images/20260220_154708.jpg",
-    "category": "glass-pipes",
-    "description": "Glass storage jar with red floral skull artwork and wooden lid.",
-    "featured": false,
-    "inStock": true
-  },
-  {
-    "id": 135,
-    "name": "Green Skull Glass Jar",
-    "price": 75.5,
-    "image": "/images/20260220_154717.jpg",
-    "category": "glass-pipes",
-    "description": "Clear glass jar with dark green skull graphic and bamboo lid.",
-    "featured": false,
-    "inStock": true
-  },
-  {
-    "id": 136,
-    "name": "LED Grinder (Skull Design)",
-    "price": 35.51,
-    "image": "/images/20260220_154801.jpg",
-    "category": "grinders",
-    "description": "Rechargeable metal grinder with illuminated skull lid design.",
-    "featured": false,
-    "inStock": true
-  },
-  {
+{
     "id": 137,
     "name": "Pink Metal Pipe Stand",
     "price": 47.7,
@@ -1449,7 +1329,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 138,
     "name": "Skull Bowl Piece (Flame Design)",
     "price": 18.82,
@@ -1459,7 +1339,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 139,
     "name": "Mini Swirl Bowl Piece",
     "price": 37.48,
@@ -1469,7 +1349,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 140,
     "name": "Hostess Cherry Fruit Pies Candle",
     "price": 45.03,
@@ -1479,7 +1359,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 141,
     "name": "Hostess Twinkies Candle",
     "price": 20.41,
@@ -1489,7 +1369,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 142,
     "name": "Hershey\u2019s S\u2019mores Candle",
     "price": 22.9,
@@ -1499,7 +1379,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 143,
     "name": "Rasta Love Smoke Odor Candle",
     "price": 40.27,
@@ -1509,7 +1389,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 144,
     "name": "Shave Ice Smoke Odor Candle",
     "price": 74.08,
@@ -1519,7 +1399,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 145,
     "name": "Lavender Chamomile Smoke Odor Candle",
     "price": 11.63,
@@ -1529,7 +1409,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 146,
     "name": "Sea Glass Smoke Odor Candle",
     "price": 23.81,
@@ -1539,7 +1419,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 147,
     "name": "Blueberry Dreamz Smoke Odor Candle",
     "price": 45.86,
@@ -1549,7 +1429,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 148,
     "name": "Peace River Smoke Odor Candle",
     "price": 78.78,
@@ -1559,7 +1439,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 149,
     "name": "Cherry Bomb Smoke Odor Candle",
     "price": 50.27,
@@ -1569,7 +1449,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 150,
     "name": "Bristle Hemp Pipe Cleaners",
     "price": 79.38,
@@ -1579,7 +1459,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 151,
     "name": "Wood Dugout Box (Engraved)",
     "price": 54.91,
@@ -1589,7 +1469,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 152,
     "name": "Black Label Glass Water Pipe",
     "price": 77.68,
@@ -1598,9 +1478,8 @@ export const products = [
     "description": "Premium Black Label glass water pipe bottle-style design.",
     "featured": false,
     "inStock": true
-  }
-,
-  {
+  },
+{
     "id": 153,
     "name": "BRADLEY MILLER: PUFFCO PEAK PRO/CARTA 2 SPINNER INSERT",
     "price": 29.99,
@@ -1610,7 +1489,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 154,
     "name": "BRADLEY MILLER: PUFFCO PROXY BALL CAP SPINNER INSERT",
     "price": 22.49,
@@ -1620,7 +1499,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 155,
     "name": "BRADLEY MILLER: CROPAL NEW PEAK/NEW PROXY JOYSTICK SPINNER CAP",
     "price": 59.99,
@@ -1630,7 +1509,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 156,
     "name": "BRADLEY MILLER: CLEAR NEW PEAK/NEW PROXY JOYSTICK SPINNER CAP",
     "price": 37.49,
@@ -1640,97 +1519,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
-    "id": 157,
-    "name": "BRADLEY MILLER: CROPAL PUFFCO NEW PEAK/NEW PROXY JOYSTICK CAP",
-    "price": 52.49,
-    "image": "https://i0.wp.com/www.zeevapor.com/wp-content/uploads/2026/02/caa50934-12ad-4b0e-8505-5341456d3a7a.jpeg?resize=1000%2C1200&ssl=1",
-    "category": "accessories",
-    "description": "BRADLEY MILLER: CROPAL PUFFCO NEW PEAK/NEW PROXY JOYSTICK CAP",
-    "featured": false,
-    "inStock": true
-  },
-  {
-    "id": 158,
-    "name": "BRADLEY MILLER: CLEAR PUFFCO NEW PEAK/NEW PROXY JOYSTICK CAP",
-    "price": 29.99,
-    "image": "https://i0.wp.com/www.zeevapor.com/wp-content/uploads/2026/02/b310f773-c560-4b5d-9337-4bd4c31b5535.jpeg?w=900&ssl=1",
-    "category": "accessories",
-    "description": "BRADLEY MILLER: CLEAR PUFFCO NEW PEAK/NEW PROXY JOYSTICK CAP",
-    "featured": false,
-    "inStock": true
-  },
-  {
-    "id": 159,
-    "name": "BRADLEY MILLER: CROPAL 3DXL PEAK PRO JOYSTICK SPINNER CAP",
-    "price": 59.99,
-    "image": "",
-    "category": "accessories",
-    "description": "BRADLEY MILLER: CROPAL 3DXL PEAK PRO JOYSTICK SPINNER CAP",
-    "featured": false,
-    "inStock": true
-  },
-  {
-    "id": 160,
-    "name": "BRADLEY MILLER: CLEAR 3DXL PEAK PRO JOYSTICK SPINNER CAP",
-    "price": 37.49,
-    "image": "https://i0.wp.com/www.zeevapor.com/wp-content/uploads/2026/02/da038a65-3f88-4cf2-bd5c-62998427a3f9.jpeg?resize=1000%2C1200&ssl=1",
-    "category": "accessories",
-    "description": "BRADLEY MILLER: CLEAR 3DXL PEAK PRO JOYSTICK SPINNER CAP",
-    "featured": false,
-    "inStock": true
-  },
-  {
-    "id": 161,
-    "name": "BRADLEY MILLER: CRUSHED OPAL 3DXL PEAK PRO JOYSTICK CAP",
-    "price": 59.99,
-    "image": "https://i0.wp.com/www.zeevapor.com/wp-content/uploads/2026/02/6ac8b393-3ce2-4a8f-818b-d205eb4efd2f.jpeg?resize=1000%2C1200&ssl=1",
-    "category": "accessories",
-    "description": "BRADLEY MILLER: CRUSHED OPAL 3DXL PEAK PRO JOYSTICK CAP",
-    "featured": false,
-    "inStock": true
-  },
-  {
-    "id": 162,
-    "name": "BRADLEY MILLER: CLEAR 3DXL PEAK PRO JOYSTICK CAP",
-    "price": 29.99,
-    "image": "https://i0.wp.com/www.zeevapor.com/wp-content/uploads/2026/02/2529d19c-a0fb-4681-bd94-5320a61e210e.jpeg?resize=1000%2C1200&ssl=1",
-    "category": "accessories",
-    "description": "BRADLEY MILLER: CLEAR 3DXL PEAK PRO JOYSTICK CAP",
-    "featured": false,
-    "inStock": true
-  },
-  {
-    "id": 163,
-    "name": "THE DABORATORY: PUFFCO PEAK AND PEAK PRO STABILIZING BASE",
-    "price": 18.74,
-    "image": "https://i0.wp.com/www.zeevapor.com/wp-content/uploads/2026/02/67abc831-7558-496e-bc76-767a4cd987a8.jpeg?resize=1000%2C1200&ssl=1",
-    "category": "accessories",
-    "description": "THE DABORATORY: PUFFCO PEAK AND PEAK PRO STABILIZING BASE",
-    "featured": false,
-    "inStock": true
-  },
-  {
-    "id": 164,
-    "name": "THE DABORATORY: PUFFCO PEAK AND PEAK PRO STABILIZING BASE WITH HOT KNIFE",
-    "price": 18.74,
-    "image": "https://i0.wp.com/www.zeevapor.com/wp-content/uploads/2026/02/7e31bd89-cb41-48c2-970e-c8586175c768.png?resize=1000%2C1200&ssl=1",
-    "category": "accessories",
-    "description": "THE DABORATORY: PUFFCO PEAK AND PEAK PRO STABILIZING BASE WITH HOT KNIFE",
-    "featured": false,
-    "inStock": true
-  },
-  {
-    "id": 165,
-    "name": "THE DABORATORY: NEW PEAK STABILIZATION BASE",
-    "price": 18.74,
-    "image": "https://i0.wp.com/www.zeevapor.com/wp-content/uploads/2026/02/cb2fcbfa-4cda-4d3d-84e3-cbd2684e4a09.png?resize=1000%2C1200&ssl=1",
-    "category": "accessories",
-    "description": "THE DABORATORY: NEW PEAK STABILIZATION BASE",
-    "featured": false,
-    "inStock": true
-  },
-  {
+{
     "id": 166,
     "name": "THE DABORATORY: NEW PEAK STABILIZATION BASE WITH HOT KNIFE",
     "price": 18.74,
@@ -1740,7 +1529,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 167,
     "name": "MAGIZLE: FULL COLOR SPIKE PEAK PRO/NEW PEAK/PROXY JOYSTICK CAP",
     "price": 44.99,
@@ -1750,7 +1539,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 168,
     "name": "MJ ARSENAL: 4MM OPAL TERP PEARLS",
     "price": 22.49,
@@ -1760,7 +1549,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 169,
     "name": "DEVON ALLEN: DICHRO PEAK PRO BALL CAP",
     "price": 74.99,
@@ -1770,7 +1559,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 170,
     "name": "DEVON ALLEN: CRUSHED OPAL PEAK PRO BALL CAP",
     "price": 74.99,
@@ -1780,7 +1569,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 171,
     "name": "DEVON ALLEN: (#41-50) FULL COLOR PEAK PRO BALL CAP",
     "price": 59.99,
@@ -1790,7 +1579,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 172,
     "name": "DEVON ALLEN: (#21-40) FULL COLOR PEAK PRO BALL CAP",
     "price": 59.99,
@@ -1800,7 +1589,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 173,
     "name": "DEVON ALLEN: (#1-20) FULL COLOR PEAK PRO BALL CAP",
     "price": 59.99,
@@ -1810,7 +1599,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 174,
     "name": "COOS WRLD: ENCASED OPAL PUFFCO PEAK PRO BALL CAP",
     "price": 112.49,
@@ -1820,7 +1609,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 175,
     "name": "COOS WRLD: PREMIUM PUFFCO PEAK PRO BALL CAP",
     "price": 74.99,
@@ -1830,7 +1619,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 176,
     "name": "HAPPY KIT: HAPPY POUCH FLOWER",
     "price": 26.24,
@@ -1840,7 +1629,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 177,
     "name": "HAPPY KIT: HAPPY PACK FLOWER",
     "price": 29.99,
@@ -1850,7 +1639,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 178,
     "name": "HAPPY KIT: HAPPY PACK DAB",
     "price": 29.99,
@@ -1860,7 +1649,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 179,
     "name": "RUBY PEARL CO: OPAL TERP MUSHROOM 1PC",
     "price": 33.74,
@@ -1870,7 +1659,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 180,
     "name": "CHEVELLE GLASS: DUAL COLOR PUFFCO PEAK BUBBLE CAP (1-22)",
     "price": 22.49,
@@ -1880,7 +1669,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 181,
     "name": "BRADLEY MILLER: HYBRID PUFFCO PROXY SPINNER BALL CAP",
     "price": 52.49,
@@ -1890,7 +1679,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 182,
     "name": "FLOWER GLASS HAND PIPE SCREEN",
     "price": 1.49,
@@ -1900,7 +1689,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 183,
     "name": "MJ ARSENAL: CACHE FLOWER SLIDE (10MM)",
     "price": 9.74,
@@ -1910,7 +1699,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 184,
     "name": "HUNI BADGER: 710 SCI GLASS MINI BULLET BUBBLER (MINI BADGER)",
     "price": 59.99,
@@ -1920,7 +1709,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 185,
     "name": "PAULSON PIECES: PUFFCO PEAK PRO BALL CAP",
     "price": 59.99,
@@ -1930,7 +1719,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 186,
     "name": "PUFFCO: PEAK PRO 3D XL CHAMBER",
     "price": 0.00,
@@ -1940,7 +1729,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 187,
     "name": "ZACH HARRISON DESIGN: ADAPT CAP",
     "price": 74.99,
@@ -1950,7 +1739,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 188,
     "name": "CALL YOUR FAM GLASS: OPAL SHARD PUFFCO PEAK PRO BALL CAP",
     "price": 112.49,
@@ -1960,7 +1749,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 189,
     "name": "RUBY PEARL CO X ZEE SMOKE SHOP PEARL PRIZE CANDLES ASSORTED SCENTS",
     "price": 10.49,
@@ -1970,7 +1759,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 190,
     "name": "ORGANIK GLASS: ENCASED OPAL PUFFCO PEAK PRO BALL CAP",
     "price": 44.99,
@@ -1980,7 +1769,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 191,
     "name": "THE DOQ GLASS: 8MM ENCASED OPAL PUFFCO PEAK PRO BALL CAP",
     "price": 149.99,
@@ -1990,7 +1779,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 192,
     "name": "BEAR QUARTZ X SANTA CRUZ SHREDDER: 2PC HEMP GRINDER",
     "price": 9.74,
@@ -2000,7 +1789,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 193,
     "name": "BEAR QUARTZ: AUTO PRO SILHOUETTE BANGER",
     "price": 44.99,
@@ -2010,7 +1799,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 194,
     "name": "BEAR QUARTZ: LOWRIDER BLENDER FROST",
     "price": 52.49,
@@ -2020,7 +1809,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 195,
     "name": "BEAR QUARTZ: LOWRIDER 22MM FROST",
     "price": 44.99,
@@ -2030,7 +1819,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 196,
     "name": "MILKY WAY GLASS: 6″ UNIVERSE DOWNSTEM",
     "price": 14.99,
@@ -2040,7 +1829,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 197,
     "name": "PUFFCO: THE HOT KNIFE",
     "price": 0.00,
@@ -2050,7 +1839,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 198,
     "name": "PEAK BORO DESIGNS: ENCASED OPAL PUFFCO PEAK PRO BALL CAP",
     "price": 44.99,
@@ -2060,7 +1849,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 199,
     "name": "JUSTDEWIT GLASS: TERPS CFL GLOB DAB TOOL",
     "price": 37.49,
@@ -2070,7 +1859,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 200,
     "name": "THE DOQ GLASS: ENCASED MILLIE PUFFCO PEAK PRO BALL CAP",
     "price": 44.99,
@@ -2080,7 +1869,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 201,
     "name": "SOUP GLASS: 25MM FULL COLOR ENCASED OPAL CARB CAP",
     "price": 112.49,
@@ -2090,7 +1879,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 202,
     "name": "LOOKAH: SARDINE HOT KNIFE REPLACEMENT TIPS 3PK",
     "price": 37.49,
@@ -2100,7 +1889,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 203,
     "name": "PAULSON PIECES: ENCASED MILLIE PUFFCO PEAK PRO BALL CAP",
     "price": 74.99,
@@ -2110,7 +1899,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 204,
     "name": "PAULSON PIECES: ENCASED MILLIE PUFFCO PROXY BALL CAP",
     "price": 74.99,
@@ -2120,7 +1909,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 205,
     "name": "PAULSON PIECES: FACETED PUFFCO PEAK PRO BALL CAP",
     "price": 112.49,
@@ -2130,7 +1919,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 206,
     "name": "PAULSCON PIECES x MAD-D-LICIOUS: PUFFCO PEAK CARB CAP",
     "price": 134.99,
@@ -2140,7 +1929,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 207,
     "name": "GORDO SCIENTIFIC: THE OG BUBBLE CAP",
     "price": 52.49,
@@ -2150,7 +1939,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 208,
     "name": "GORDO SCIENTIFIC:  OG V2 CARB CAP",
     "price": 67.49,
@@ -2160,7 +1949,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 209,
     "name": "EVAN SHORE BANGERS: QUARTZ SLURPEE ASSORTED",
     "price": 299.99,
@@ -2170,7 +1959,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 210,
     "name": "EVAN SHORE BANGERS: 24MM TRIPPY BANGER SASSAFRAS",
     "price": 232.49,
@@ -2180,7 +1969,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 211,
     "name": "EVAN SHORE BANGERS: 24MM TRIPPY BANGER BACKCOUNTRY",
     "price": 232.49,
@@ -2190,7 +1979,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 212,
     "name": "DUSTORM GLASS: CRUSHED OPAL WITH ENCASED OPAL PUFFCO PROXY ATTACHMENT",
     "price": 112.49,
@@ -2200,7 +1989,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 213,
     "name": "BEAR QUARTZ: GALAXY MARBLE SET",
     "price": 29.99,
@@ -2210,7 +1999,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 214,
     "name": "THE DOQ GLASS: KIRBY PUFFCO PEAK PRO BALL CAP",
     "price": 74.99,
@@ -2220,7 +2009,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 215,
     "name": "PAULSON PIECES: PUFFCO PROXY BALL CAP 420 DROP",
     "price": 89.99,
@@ -2230,7 +2019,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 216,
     "name": "PAULSON PIECES: PUFFCO PEAK PRO BALL CAP 420 DROP",
     "price": 74.99,
@@ -2240,7 +2029,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 217,
     "name": "MJ ARSENAL: FULL WELD QUARTZ TERP SLURPER",
     "price": 28.49,
@@ -2250,7 +2039,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 218,
     "name": "DCS QUARTZ: VORTEX TERP SLURPER",
     "price": 239.99,
@@ -2260,7 +2049,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 219,
     "name": "PAULSON PIECES: PUFFCO PEAK BUBBLE CAP",
     "price": 67.49,
@@ -2270,7 +2059,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 220,
     "name": "PAULSON PIECES: PUFFCO PEAK PRO MINI CARB CAP",
     "price": 59.99,
@@ -2280,7 +2069,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 221,
     "name": "MOOD MATS: THE EMPEROR",
     "price": 22.49,
@@ -2290,7 +2079,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 222,
     "name": "REVIVED GLASS: FULLY WORKED PUFFCO PEAK PRO BALL CAP",
     "price": 56.24,
@@ -2300,7 +2089,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 223,
     "name": "REVIVED GLASS: ENCASED OPAL PUFFCO PEAK PRO BALL CAP",
     "price": 59.99,
@@ -2310,7 +2099,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 224,
     "name": "FOCUS V: CARTA REPLACEMENT TITANIUM INSERTS 2PK",
     "price": 12.74,
@@ -2320,7 +2109,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 225,
     "name": "THE MAC SAVAGE: TRIPLE ENCASED OPAL UFO CAP AND PILLAR SET",
     "price": 119.99,
@@ -2330,7 +2119,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 226,
     "name": "THE MAC SAVAGE: DOUBLE ENCASED OPAL TERP SLURP SET",
     "price": 97.49,
@@ -2340,7 +2129,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 227,
     "name": "THE MAC SAVAGE: DOUBLE ENCASED OPAL UFO CAP AND PILLAR SET",
     "price": 104.99,
@@ -2350,7 +2139,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 228,
     "name": "THE MAC SAVAGE: SINGLE ENCASED OPAL TERP SLURP SET",
     "price": 74.99,
@@ -2360,7 +2149,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 229,
     "name": "FOCUS V: SABER REPLACEMENT TIPS 3PK",
     "price": 11.24,
@@ -2370,7 +2159,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 230,
     "name": "FOCUS V: SABER REPLACEMENT TIPS 1PK",
     "price": 4.49,
@@ -2380,7 +2169,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 231,
     "name": "FOCUS V: CARTA 2 INTELLI-CORE ATOMIZER FOR OIL",
     "price": 52.49,
@@ -2390,7 +2179,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 232,
     "name": "ORGANIK GLASS: SWABS HEADY JAR",
     "price": 89.99,
@@ -2400,7 +2189,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 233,
     "name": "CALL YOUR FAM GLASS: ENCASED OPAL PUFFCO PEAK PRO BALL CAP",
     "price": 112.49,
@@ -2410,7 +2199,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 234,
     "name": "HUNI BADGER: MINI BADGER",
     "price": 29.99,
@@ -2420,7 +2209,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 235,
     "name": "GLOB MOPS: SLURPER MOPS 200CT",
     "price": 8.99,
@@ -2430,7 +2219,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 236,
     "name": "BRADLEY MILLER: CLEAR ADAPTER PUFFCO PROXY ATTACHMENT",
     "price": 52.49,
@@ -2440,7 +2229,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 237,
     "name": "BEAR QUARTZ: LOWRIDER BLENDER",
     "price": 44.99,
@@ -2450,7 +2239,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 238,
     "name": "BEAR QUARTZ: LOWRIDER HIGHBRID",
     "price": 41.24,
@@ -2460,7 +2249,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 239,
     "name": "BEAR QUARTZ: LOWRIDER 22MM BANGER",
     "price": 37.49,
@@ -2470,7 +2259,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 240,
     "name": "SOUP GLASS: FULLY WORKED ENCASED OPAL PUFFCO PEAK BUBBLE CAP (1-22)",
     "price": 74.99,
@@ -2480,7 +2269,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 241,
     "name": "MOOD MATS: CAMPFIRE QUARTZ MOOD MAT",
     "price": 18.74,
@@ -2490,7 +2279,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 242,
     "name": "HOYER GLASS: ENCASED MILLIE PEAK PRO PLUG",
     "price": 44.99,
@@ -2500,7 +2289,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 243,
     "name": "THE DABORATORY: PUFFCO PEAK GLASS STAND",
     "price": 14.99,
@@ -2510,7 +2299,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 244,
     "name": "710 DESIGNS: CARB CAP AND TOOL DISPLAY HOLDER STAND",
     "price": 14.99,
@@ -2520,7 +2309,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 245,
     "name": "BEAR QUARTZ: BQ POCKET SPATULA DAB TOOL",
     "price": 22.49,
@@ -2530,7 +2319,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 246,
     "name": "BEAR QUARTZ X MOOD MATS: VOODOO BEAR MOOD MAT",
     "price": 18.74,
@@ -2540,7 +2329,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 247,
     "name": "PAULSON PIECES: PREMIUM PUFFCO PROXY ATTACHMENT",
     "price": 112.49,
@@ -2550,7 +2339,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 248,
     "name": "JOWSLEY X ZEE VAPOR X MOOD MATS: THANKSGIVING EDITION MOOD MATS LIMITED EDITION",
     "price": 22.49,
@@ -2560,7 +2349,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 249,
     "name": "KOVACS GLASS: PUFFCO PROXY SIDE ADAPTER",
     "price": 67.49,
@@ -2570,7 +2359,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 250,
     "name": "SHARPSTONE: 55MM GRINDER",
     "price": 18.74,
@@ -2580,7 +2369,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 251,
     "name": "SMIR GLASS: ENCASED OPAL PUFFCO PROXY BALL CAP",
     "price": 44.99,
@@ -2590,7 +2379,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 252,
     "name": "SMIR GLASS: 23.5MM NEFERTITI ENCASED OPAL BUBBLE CAP",
     "price": 59.99,
@@ -2600,7 +2389,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 253,
     "name": "BEAR QUARTZ: BEAR CLAWS PEARL GRABBER TOOL",
     "price": 8.99,
@@ -2610,7 +2399,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 254,
     "name": "BEAR QUARTZ: LOWRIDER HOURGLASS BANGER",
     "price": 44.99,
@@ -2620,7 +2409,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 255,
     "name": "DCS QUARTZ: PREMIUM QUARTZ TERP SLURPER",
     "price": 224.99,
@@ -2630,7 +2419,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 256,
     "name": "DCS QUARTZ: PREMIUM 25MM QUARTZ BANGER",
     "price": 112.49,
@@ -2640,7 +2429,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 257,
     "name": "COOPERS GLASS: FLAT ENCASED OPAL PUFFCO PEAK PRO OCULUS PLUG",
     "price": 59.99,
@@ -2650,7 +2439,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 258,
     "name": "COOPERS GLASS: ENCASED OPAL LENS PUFFCO PEAK PRO OCULUS INSERT",
     "price": 59.99,
@@ -2660,7 +2449,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 259,
     "name": "STUNDENGLASS: PINEAPPLE GLOBE (SINGLE)",
     "price": 67.49,
@@ -2670,7 +2459,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 260,
     "name": "STUNDENGLASS: KOMPACT PINEAPPLE GLOBE (SINGLE)",
     "price": 52.49,
@@ -2680,7 +2469,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 261,
     "name": "STUNDENGLASS: HOSE SPLITTER",
     "price": 22.49,
@@ -2690,7 +2479,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 262,
     "name": "HUNI BADGER: BLAZETIP",
     "price": 14.99,
@@ -2700,7 +2489,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 263,
     "name": "MJ ARSENAL: CORAL RECLAIM CATCHER CORAL COLLECTION",
     "price": 37.49,
@@ -2710,7 +2499,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 264,
     "name": "HUNI BADGER: 710 SCI GLASS COLORED BULLET BUBBLER",
     "price": 104.99,
@@ -2720,7 +2509,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 265,
     "name": "HUNI BADGER: HUNICOMB STATION",
     "price": 52.49,
@@ -2730,7 +2519,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 266,
     "name": "HUNI BADGER: O-RING (PACK OF 10)",
     "price": 2.24,
@@ -2740,7 +2529,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 267,
     "name": "HUNI BADGER: BATTERY COVER",
     "price": 17.99,
@@ -2750,7 +2539,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 268,
     "name": "HUNI BADGER: BIG BADGER CASE FOAM INSERT REPLACEMENT",
     "price": 10.49,
@@ -2760,7 +2549,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 269,
     "name": "HUNI BADGER: 3MM® SHADOW CAMO WRAP",
     "price": 10.49,
@@ -2770,7 +2559,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 270,
     "name": "HUNI BADGER: MAGNETIC BASKET",
     "price": 26.99,
@@ -2780,7 +2569,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 271,
     "name": "HUNI BADGER: 3MM® EMBOSSED WRAP",
     "price": 10.49,
@@ -2790,7 +2579,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 272,
     "name": "MJ ARSENAL: PREMIUM FULL WELD CLEAR QUARTZ BANGER",
     "price": 22.49,
@@ -2800,7 +2589,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 273,
     "name": "MJ ARSENAL: PREMIUM QUARTZ OPAQUE FULL WELD BANGER",
     "price": 22.49,
@@ -2810,7 +2599,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 274,
     "name": "MJ ARSENAL: PREMIUM FULL WELD BANGER (DRIP)",
     "price": 22.49,
@@ -2820,7 +2609,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 275,
     "name": "MJ ARSENAL: PREMIUM FULL WELD COLD START QUARTZ BANGER (OPAQUE)",
     "price": 22.49,
@@ -2830,7 +2619,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 276,
     "name": "MJ ARSENAL: PREMIUM FULL WELD COLD START QUARTZ BANGER (DRIP)",
     "price": 22.49,
@@ -2840,7 +2629,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 277,
     "name": "MJ ARSENAL: 45 DEGREE PREMIUM FULL WELD BANGER",
     "price": 22.49,
@@ -2850,7 +2639,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 278,
     "name": "HUNI BADGER: 3MM® CARBON FIBER WRAP",
     "price": 10.49,
@@ -2860,7 +2649,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 279,
     "name": "HUNI BADGER: BADGER SKIN",
     "price": 10.49,
@@ -2870,7 +2659,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 280,
     "name": "HUNI BADGER:14MM ADAPTER",
     "price": 7.49,
@@ -2880,7 +2669,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 281,
     "name": "HUNI BADGER: 510/EGO ADAPTER AND MOUTHPIECE",
     "price": 7.49,
@@ -2890,7 +2679,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 282,
     "name": "EVAN SHORE BANGERS: 24MM TRIPPY BANGER MONSTROSE",
     "price": 232.49,
@@ -2900,7 +2689,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 283,
     "name": "ENUFF GLASS x ZEE’S SMOKE SHOP: JURASSIC JAMMERS EASTER COASTER MAT 2022",
     "price": 14.99,
@@ -2910,7 +2699,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 284,
     "name": "BEAR QUARTZ: THE HOUR GLASS BLENDER",
     "price": 44.99,
@@ -2920,7 +2709,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 285,
     "name": "MJ ARSENAL: PREMIUM QUARTZ LARGE HALF WELD",
     "price": 20.99,
@@ -2930,7 +2719,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 286,
     "name": "CONVERSION GLASS: 25MM BUBBLE CAP",
     "price": 59.99,
@@ -2940,7 +2729,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 287,
     "name": "CONVERSION GLASS: FULL MATCHING TERP SLUPER SET",
     "price": 127.49,
@@ -2950,7 +2739,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 288,
     "name": "MJ ARSENAL: COLUMN FLOWER BOWL (10MM)",
     "price": 14.99,
@@ -2960,7 +2749,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 289,
     "name": "HUMAN GRADE: 14MM CAULDRON FLOWER BOWL",
     "price": 7.49,
@@ -2970,7 +2759,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 290,
     "name": "HUMAN GRADE: 10MM CAULDRON FLOWER BOWL",
     "price": 7.49,
@@ -2980,7 +2769,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 291,
     "name": "AJ SURF CITY TUBES: CROPAL PUFFCO PEAK PRO BUBBLE CAP",
     "price": 44.99,
@@ -2990,7 +2779,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 292,
     "name": "AJ SURF CITY TUBES: CROPAL 3DXL PEAK PRO JOYSTICK CAP",
     "price": 44.99,
@@ -3000,7 +2789,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 293,
     "name": "AJ SURF CITY TUBES: FULL COLOR 3DXL PEAK PRO JOYSTICK CAP",
     "price": 29.99,
@@ -3010,7 +2799,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 294,
     "name": "TOM FINN GLASS: LANDING PAD PUFFCO PEAK STABILIZING BASE",
     "price": 11.24,
@@ -3020,7 +2809,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 295,
     "name": "MJ ARSENAL: BATON",
     "price": 14.99,
@@ -3030,7 +2819,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 296,
     "name": "YETI GLASS: COLORED 3DXL PEAK PRO JOYSTICK CAP",
     "price": 37.49,
@@ -3040,7 +2829,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 297,
     "name": "WYM DESIGNS: PEAK TOP TO SWTICH 2 BASE",
     "price": 18.74,
@@ -3050,7 +2839,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 298,
     "name": "ONE TRICK PONY: COLOR PUFFCO NEW PEAK SPINNER CAP WITH HANDLE (#1-25)",
     "price": 74.99,
@@ -3060,7 +2849,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 299,
     "name": "PULSAR: CHORUS CERAMIC CHAMBER ATOMIZER",
     "price": 18.74,
@@ -3070,7 +2859,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 300,
     "name": "TACO DABS: BEAKER PUFFCO PEAK PRO 3DXL JOYSTICK CAP",
     "price": 149.99,
@@ -3080,7 +2869,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 301,
     "name": "PUFFCO: PEAK PRO 3D XL CHAMBER LIMITED EDITION BLACK",
     "price": 0.00,
@@ -3090,7 +2879,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 302,
     "name": "JEFF GLASS ART: PUFFCO PROTECTIVE LINER",
     "price": 7.49,
@@ -3100,7 +2889,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 303,
     "name": "CALI BEAR GLASS: ENCASED OPAL CROPAL PUFFCO PEAK PRO 3DXL JOYSTICK CAP",
     "price": 37.49,
@@ -3110,7 +2899,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 304,
     "name": "IRIDESCENT GLASS: CLEAR MILLIE IMPLOSION PUFFCO PEAK PRO 3DXL JOYSTICK CAP",
     "price": 29.99,
@@ -3120,7 +2909,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 305,
     "name": "BTGB: FULL COLOR YOSHI MILLIE PUFFCO PEAK PRO 3DXL JOYSTICK CAP",
     "price": 0.00,
@@ -3130,7 +2919,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 306,
     "name": "BEAR QUARTZ: TRIO 2.0",
     "price": 29.99,
@@ -3140,7 +2929,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 307,
     "name": "MAMBA GUARDZ: BLAZER BIG SHOT NOZZLE GUARD (26-50)",
     "price": 59.99,
@@ -3150,7 +2939,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 308,
     "name": "MAMBA GUARDZ: BLAZER BIG SHOT NOZZLE GUARD (1-25)",
     "price": 59.99,
@@ -3160,7 +2949,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 309,
     "name": "BLAZER: BIG BUDDY TURBO FLAME TORCH",
     "price": 29.99,
@@ -3170,7 +2959,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 310,
     "name": "BLAZER: BIG SHOT GT8000 LIMITED EDITION WHITE WITH PURPLE LOGO",
     "price": 67.49,
@@ -3180,7 +2969,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 311,
     "name": "BLAZER: BIG SHOT GT8000 LIMITED EDITION WHITE WITH BLACK LOGO",
     "price": 67.49,
@@ -3190,7 +2979,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 312,
     "name": "BRADLEY MILLER: CRUSHED OPAL PEAK SPINNER CARB CAP",
     "price": 52.49,
@@ -3200,7 +2989,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 313,
     "name": "IRIDESCENT GLASS: SPHERE OPAL PUFFCO PEAK PRO 3DXL JOYSTICK CAP",
     "price": 37.49,
@@ -3210,7 +2999,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 314,
     "name": "IRIDESCENT GLASS: FACETED PUFFCO PEAK PRO 3DXL JOYSTICK CAP",
     "price": 37.49,
@@ -3220,7 +3009,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 315,
     "name": "IRIDESCENT GLASS: FLAT OPAL 3.0 PUFFCO PEAK PRO 3DXL JOYSTICK CAP",
     "price": 29.99,
@@ -3230,7 +3019,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 316,
     "name": "IRIDESCENT GLASS: SHROOM DUDE PUFFCO PEAK PRO 3DXL JOYSTICK CAP",
     "price": 29.99,
@@ -3240,7 +3029,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 317,
     "name": "RJ GLASS: CLOUD 3DXL PEAK PRO JOYSTICK CAP",
     "price": 149.99,
@@ -3250,7 +3039,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 318,
     "name": "BHORO GLASS: CRUSHED OPAL PEAK PRO/NEW PEAK/PROXY JOYSTICK CAP",
     "price": 74.99,
@@ -3260,7 +3049,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 319,
     "name": "BHORO GLASS: FULL CROPAL 3DXL PEAK PRO JOYSTICK CAP",
     "price": 74.99,
@@ -3270,7 +3059,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 320,
     "name": "BHORO GLASS: CRUSHED OPAL 6MM 3DXL PEAK PRO JOYSTICK CAP",
     "price": 89.99,
@@ -3280,7 +3069,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 321,
     "name": "ONE TRICK PONY: THE ROCKULUS PUFFCO PEAK PRO CARB CAP",
     "price": 74.99,
@@ -3290,7 +3079,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 322,
     "name": "IRIDESCENT GLASS: COLORED MILLIE IMPLOSION PUFFCO PEAK PRO 3DXL JOYSTICK CAP",
     "price": 37.49,
@@ -3300,7 +3089,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 323,
     "name": "MOORE GLASS DESIGN: PILLAR 3D PEAK PRO JOYSTICK CAP",
     "price": 101.24,
@@ -3310,7 +3099,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 324,
     "name": "MOORE GLASS DESIGN: WIG WAG OPAL COIN 3DXL PEAK PRO JOYSTICK CAP",
     "price": 164.99,
@@ -3320,7 +3109,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 325,
     "name": "RUBY PEARL CO: 5MM RASTA TERP PEARL SET 3PK",
     "price": 22.49,
@@ -3330,7 +3119,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 326,
     "name": "MOORE GLASS DESIGN: SPIKE FACETED OPAL 3DXL PEAK PRO JOYSTICK CAP",
     "price": 168.74,
@@ -3340,7 +3129,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 327,
     "name": "ONE TRICK PONY: DAYBREAK MARKETPLACE PIVOT MOUTHPIECE",
     "price": 22.49,
@@ -3350,7 +3139,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 328,
     "name": "IRIDESCENT GLASS: FULL COLOR UFO OPAL 3.0 PUFFCO PEAK PRO 3DXL JOYSTICK CAP",
     "price": 37.49,
@@ -3360,7 +3149,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 329,
     "name": "IRIDESCENT GLASS: DICHRO TOP OPAL PUFFCO PEAK PRO 3DXL JOYSTICK CAP",
     "price": 37.49,
@@ -3370,7 +3159,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 330,
     "name": "IRIDESCENT GLASS: FULL COLOR TOP OPAL PUFFCO PEAK PRO 3DXL JOYSTICK CAP",
     "price": 37.49,
@@ -3380,7 +3169,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 331,
     "name": "ZACH HARRISON DESIGN: V1/V2 BANGER ADAPTER FOR PUFFCO PEAK PRO",
     "price": 29.99,
@@ -3390,7 +3179,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 332,
     "name": "NORTHERN WATERS: GEM CUT CROPAL 3DXL PUFFCO PEAK PRO JOYSTICK",
     "price": 142.49,
@@ -3400,7 +3189,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 333,
     "name": "NORTHERN WATERS: GEM CUT COLOR 3DXL PUFFCO PEAK PRO JOYSTICK",
     "price": 119.99,
@@ -3410,7 +3199,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 334,
     "name": "OTW GLASS: DONUT 3DXL PEAK PRO JOYSTICK CAP",
     "price": 112.49,
@@ -3420,7 +3209,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 335,
     "name": "WYM DESIGNS: LED GLASS STAND",
     "price": 22.49,
@@ -3430,7 +3219,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 336,
     "name": "MAGIZLE: DONUT 3DXL PEAK PRO JOYSTICK CAP",
     "price": 37.49,
@@ -3440,7 +3229,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 337,
     "name": "ONE TRICK PONY: TETHER FOR ROCKULUS (3D/3DXL) PEAK PRO SPINNER CAP",
     "price": 8.99,
@@ -3450,7 +3239,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 338,
     "name": "PUFFCO: THE HOT KNIFE DAYBREAK LIMITED EDITION",
     "price": 0.00,
@@ -3460,7 +3249,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 339,
     "name": "IRIDESCENT GLASS: DICHRO ENCASED OPAL PUFFCO/CARTA BUBBLE CAP",
     "price": 29.99,
@@ -3470,7 +3259,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 340,
     "name": "IRIDESCENT GLASS: ENCASED OPAL WIG WAG PUFFCO/CARTA BUBBLE CAP",
     "price": 22.49,
@@ -3480,7 +3269,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 341,
     "name": "RUBY PEARL CO: 3MM PINK OPAL SINGLE 1PK",
     "price": 7.49,
@@ -3490,7 +3279,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 342,
     "name": "BRADLEY MILLER: 25MM CRUSHED OPAL SPINNER CARB CAP FOR BANGERS",
     "price": 89.99,
@@ -3500,7 +3289,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 343,
     "name": "BRADLEY MILLER: 25MM SPINNER CARB CAP FOR BANGERS",
     "price": 67.49,
@@ -3510,7 +3299,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 344,
     "name": "BEAR QUARTZ: 3MM MINI PEARLS VALUE JAR (12 CT)",
     "price": 22.49,
@@ -3520,7 +3309,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 345,
     "name": "RUBY PEARL CO: COLOR TOWER MARBLE PLUG",
     "price": 22.49,
@@ -3530,7 +3319,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 346,
     "name": "ROOTS GLASS: FULL WELD TERP SLURER",
     "price": 49.99,
@@ -3540,7 +3329,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 347,
     "name": "ROOTS GLASS: WOODEN RESIN DAB TOOL",
     "price": 19.99,
@@ -3550,7 +3339,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 348,
     "name": "ROOTS GLASS: 14/45 TREE PERC ASH CATCHER",
     "price": 29.99,
@@ -3560,7 +3349,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 349,
     "name": "ROOTS GLASS: 14/45 SHOWERHEAD ASH CATCHER",
     "price": 29.99,
@@ -3570,7 +3359,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 350,
     "name": "MJ ARSENAL: PREMIUM HALF WELD BANGER (DRIP)",
     "price": 24.99,
@@ -3580,7 +3369,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 351,
     "name": "JOEL HALEN: 25MM QUARTZ BANGERS FLAT BOTTOM",
     "price": 159.99,
@@ -3590,7 +3379,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 352,
     "name": "JOEL HALEN: 30MM QUARTZ BANGERS FLAT BOTTOM",
     "price": 179.99,
@@ -3600,7 +3389,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 353,
     "name": "JOEL HALEN: 25MM QUARTZ BANGERS ROUND BOTTOM",
     "price": 159.99,
@@ -3610,7 +3399,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 354,
     "name": "PUFFS PENDY MELTS: THE SMOKERS EDITION",
     "price": 39.99,
@@ -3620,7 +3409,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 355,
     "name": "PUFFS PENDY MELTS: THE ORIGINAL CANDLE",
     "price": 39.99,
@@ -3630,7 +3419,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 356,
     "name": "KOVACS GLASS: PEAK STABILIZER BASE",
     "price": 19.99,
@@ -3640,7 +3429,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 357,
     "name": "BEAR QUARTZ: 6MM PEARLS 2PK",
     "price": 11.99,
@@ -3650,7 +3439,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 358,
     "name": "ONE TRICK PONY: FULL COLOR 3DXL PEAK PRO JOYSTICK CAP",
     "price": 39.99,
@@ -3660,7 +3449,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 359,
     "name": "THE REAL RICH BRIAN: COLORED HELIX 3DXL PEAK PRO JOYSTICK CAP",
     "price": 99.99,
@@ -3670,7 +3459,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 360,
     "name": "IRIDESCENT GLASS: FLAT OPAL 2.0 PUFFCO PEAK PRO 3DXL JOYSTICK CAP",
     "price": 49.99,
@@ -3680,7 +3469,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 361,
     "name": "IRIDESCENT GLASS: UFO OPAL PUFFCO PEAK PRO 3DXL JOYSTICK CAP",
     "price": 39.99,
@@ -3690,7 +3479,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 362,
     "name": "JOHNSTON GLASS: CHARACTER 3DXL PEAK PRO JOYSTICK CAP",
     "price": 74.99,
@@ -3700,7 +3489,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 363,
     "name": "DANI GIRL GLASS: POKEMON 3DXL PEAK PRO JOYSTICK CAP",
     "price": 249.99,
@@ -3710,7 +3499,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 364,
     "name": "SOUP GLASS: PREMIUM FULL COLOR PEAK PRO 3DXL JOYSTICK CAP",
     "price": 129.99,
@@ -3720,7 +3509,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 365,
     "name": "ONE TRICK PONY: CLEAR KRYLON PIVOT BUBBLER",
     "price": 159.99,
@@ -3730,7 +3519,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 366,
     "name": "SACS GLASS: CHARACTER 3DXL PEAK PRO JOYSTICK CAP",
     "price": 169.99,
@@ -3740,7 +3529,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 367,
     "name": "GATES GLASS: FACETED 3DXL PEAK PRO JOYSTICK CAP",
     "price": 199.99,
@@ -3750,7 +3539,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 368,
     "name": "GATES GLASS: FUMICELLO 3DXL PEAK PRO JOYSTICK CAP",
     "price": 99.99,
@@ -3760,7 +3549,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 369,
     "name": "ONETRICKPONY: ENCASED OPAL 25MM MARBLE SPINNER CAP",
     "price": 99.99,
@@ -3770,7 +3559,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 370,
     "name": "BANGER BASKET: V4 BANGER BASKET",
     "price": 48.74,
@@ -3780,7 +3569,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 371,
     "name": "RJ GLASS: BIRDIE 3DXL PEAK PRO JOYSTICK CAP",
     "price": 224.99,
@@ -3790,7 +3579,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 372,
     "name": "RJ GLASS: RAINBOW 3DXL PEAK PRO JOYSTICK CAP",
     "price": 112.49,
@@ -3800,7 +3589,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 373,
     "name": "TOKR GLASS: ENCASED OPAL 3DXL PEAK PRO JOYSTICK CAP",
     "price": 29.99,
@@ -3810,7 +3599,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 374,
     "name": "TOKR GLASS: FULL COLOR 3DXL PEAK PRO JOYSTICK CAP",
     "price": 14.99,
@@ -3820,7 +3609,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 375,
     "name": "MOOD MATS: 12″ RED LIT 2025 LIMITED EDITION",
     "price": 26.24,
@@ -3830,7 +3619,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 376,
     "name": "MOOD MATS: 12″ TIGER 2025",
     "price": 14.99,
@@ -3840,7 +3629,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 377,
     "name": "MOOD MATS: 9″ HOOLIGAN PINK 2025",
     "price": 18.74,
@@ -3850,7 +3639,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 378,
     "name": "MOOD MATS: 9″ HOOLIGAN YELLOW 2025",
     "price": 18.74,
@@ -3860,7 +3649,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 379,
     "name": "IRIDESCENT GLASS: SOLID COLOR SLURPER CAP",
     "price": 22.49,
@@ -3870,7 +3659,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 380,
     "name": "MOOD MATS: 16.5″ D’OHMER (UV) 2025 LIMITED EDITION",
     "price": 37.49,
@@ -3880,7 +3669,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 381,
     "name": "MOOD MATS: 12″ PIXELEGGTED 2025 LIMITED EDITION",
     "price": 22.49,
@@ -3890,7 +3679,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 382,
     "name": "MOOD MATS: 12″ NACHO 2025 LIMITED EDITION",
     "price": 22.49,
@@ -3900,7 +3689,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 383,
     "name": "3GRAMS: PEAK OG 3G3D HEATER REPLACEMENT",
     "price": 14.99,
@@ -3910,7 +3699,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 384,
     "name": "DANK GLASS: DABBER TOOL WITH SILICONE TIPS",
     "price": 3.74,
@@ -3920,7 +3709,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 385,
     "name": "IRIDESCENT GLASS: 2MM PUFFCO PIVOT PEARLS",
     "price": 1.49,
@@ -3930,7 +3719,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 386,
     "name": "GLOB MOPS: SQUARE MOP BUCKET",
     "price": 10.49,
@@ -3940,7 +3729,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 387,
     "name": "GLOB MOPS: ROUND MOP BUCKET",
     "price": 9.74,
@@ -3950,7 +3739,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 388,
     "name": "GLOB MOPS: MOP WATER 16.9 FL. OZ",
     "price": 10.49,
@@ -3960,7 +3749,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 389,
     "name": "MAGIZLE: V2.0 20MM SPIKE 3DXL PEAK PRO JOYSTICK CAP",
     "price": 119.99,
@@ -3970,7 +3759,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 390,
     "name": "MJ ARSENAL: 2MM TERP PEARL 2PK",
     "price": 5.99,
@@ -3980,7 +3769,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 391,
     "name": "MJ ARSENAL: 4MM TERP PEARL 2PK",
     "price": 7.49,
@@ -3990,7 +3779,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 392,
     "name": "4MM THICK QUARTZ BANGER GENERIC",
     "price": 11.24,
@@ -4000,7 +3789,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 393,
     "name": "MAGIZLE: 10MM SPIKE NEW PEAK/PEAK PRO JOYSTICK CAP",
     "price": 97.49,
@@ -4010,7 +3799,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 394,
     "name": "MOOD MATS: 12″ AMBER DRAGON 2025 LIMITED EDITION",
     "price": 22.49,
@@ -4020,7 +3809,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 395,
     "name": "MAGIZLE: V2.0 10MM SPIKE 3DXL PEAK PRO JOYSTICK CAP",
     "price": 97.49,
@@ -4030,7 +3819,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 396,
     "name": "ROOTS GLASS: XL ETCHED QUARTZ SOLID PILLAR",
     "price": 4.49,
@@ -4040,7 +3829,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 397,
     "name": "ROOTS GLASS: XL ETCHED QUARTZ HOLLOW PILLAR",
     "price": 4.49,
@@ -4050,7 +3839,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 398,
     "name": "BHORO GLASS: OPAL CHIP CROPAL PUFFCO PEAK PRO 3DXL JOYSTICK CAP",
     "price": 74.99,
@@ -4060,7 +3849,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 399,
     "name": "ONE TRICK PONY: ROCKULUS PUFFCO PROXY CARB CAP",
     "price": 74.99,
@@ -4070,7 +3859,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 400,
     "name": "ONE TRICK PONY: PROCKULUS INSERT OPAL PUFFCO PROXY CARB CAP",
     "price": 97.49,
@@ -4080,7 +3869,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 401,
     "name": "ONE TRICK PONY: ENCASED OPAL ROCKULUS PUFFCO PROXY CARB CAP",
     "price": 97.49,
@@ -4090,7 +3879,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 402,
     "name": "ROOTS GLASS: FULL WELD XXL VORTEX SLURPER",
     "price": 37.49,
@@ -4100,7 +3889,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 403,
     "name": "ROOTS GLASS: FULL WELD MINI VORTEX SLURPER",
     "price": 37.49,
@@ -4110,7 +3899,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 404,
     "name": "ZOMBIE HAND STUDIOS: CLEAR PEAK BUBBLE CAP",
     "price": 14.99,
@@ -4120,7 +3909,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 405,
     "name": "RUBY PEARL CO: TWO TONE UFO TOWER CAP",
     "price": 29.99,
@@ -4130,7 +3919,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 406,
     "name": "CAMPFIRE QUARTZ: ZANGER BANGER",
     "price": 59.99,
@@ -4140,7 +3929,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 407,
     "name": "BEAR QUARTZ X WILDLIFE: ARC BOX",
     "price": 89.99,
@@ -4150,7 +3939,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 408,
     "name": "BRADLEY MILLER: COLOR ACCENTED 3DXL PEAK PRO JOYSTICK CAP",
     "price": 37.49,
@@ -4160,7 +3949,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 409,
     "name": "ONE TRICK PONY: COLOR ACCENTED ENCASED OPAL 3DXL PEAK PRO JOYSTICK CAP",
     "price": 52.49,
@@ -4170,7 +3959,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 410,
     "name": "IRIDESCENT GLASS: ENCASED OPAL LINEWORK PUFFCO PEAK PRO BALL CAP",
     "price": 22.49,
@@ -4180,7 +3969,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 411,
     "name": "MOOD MATS: 8″ BRENNEN PEARSON 2024",
     "price": 22.49,
@@ -4190,7 +3979,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 412,
     "name": "MOOD MATS: 12″ WINDSTAR 2024",
     "price": 26.24,
@@ -4200,7 +3989,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 413,
     "name": "MOOD MATS: 12″ MR. VOOHEES 2024",
     "price": 26.24,
@@ -4210,7 +3999,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 414,
     "name": "MOOD MATS: 12″ ROBERTSON GLASS 2024",
     "price": 26.24,
@@ -4220,7 +4009,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 415,
     "name": "MOOD MATS: 8″ KARMA 2024",
     "price": 22.49,
@@ -4230,7 +4019,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 416,
     "name": "ORGANIK GLASS: FULL COLOR ENCASED OPAL 3DXL PEAK PRO JOYSTICK CAP",
     "price": 67.49,
@@ -4240,7 +4029,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 417,
     "name": "SOUP GLASS: FULL COLOR ENCASED OPAL PUFFCO PEAK/PEAK PRO BUBBLE CAP",
     "price": 74.99,
@@ -4250,7 +4039,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 418,
     "name": "SOUP GLASS: CROPAL ENCASED OPAL PUFFCO PEAK/PRO BUBBLE CAP",
     "price": 104.99,
@@ -4260,7 +4049,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 419,
     "name": "BLAZER: BIG SHOT GT8000 LIMITED EDITION YELLOW WITH BLACK LOGO",
     "price": 67.49,
@@ -4270,7 +4059,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 420,
     "name": "BRADLEY MILLER: PUFFCO PEAK BUBBLE CAP",
     "price": 29.99,
@@ -4280,7 +4069,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 421,
     "name": "SOUP GLASS X MOOD MATS: 5″ BUBBLE CAP MAT",
     "price": 29.99,
@@ -4290,7 +4079,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 422,
     "name": "BLAZER: BIG SHOT GT8000 LIMITED EDITION RED WITH GLOW LOGO",
     "price": 67.49,
@@ -4300,7 +4089,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 423,
     "name": "HUNI BADGER: PRO DEVICE",
     "price": 187.49,
@@ -4310,7 +4099,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 424,
     "name": "GORDO SCIENTIFIC: ACID GREMLIN PINSTRIPE RIP TIP",
     "price": 29.99,
@@ -4320,7 +4109,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 425,
     "name": "CAMPFIRE QUARTZ: TOWER BOX SET",
     "price": 74.99,
@@ -4330,7 +4119,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 426,
     "name": "GLASS JAW FABRICATIONS: ETERNAL FLAME 3DXL PEAK PRO JOYSTICK CAP",
     "price": 67.49,
@@ -4340,7 +4129,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 427,
     "name": "MILKY WAY GLASS: EMPERORS CHALICE LONG BOWL",
     "price": 29.99,
@@ -4350,7 +4139,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 428,
     "name": "NECTOR COLLECTOR: DONUT MOUTHPIECE (HBNC)",
     "price": 29.99,
@@ -4360,7 +4149,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 429,
     "name": "BLAZER: BIG SHOT GT8000 LIMITED EDITION RED WITH BLACK LOGO",
     "price": 67.49,
@@ -4370,7 +4159,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 430,
     "name": "ROB MORRISON GLASS: COOKIE MONSTER FLOWER SLIDE (14MM)",
     "price": 224.99,
@@ -4380,7 +4169,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 431,
     "name": "SMIR GLASS: GALAXY ENCASED OCULUS CAP",
     "price": 59.99,
@@ -4390,7 +4179,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 432,
     "name": "SMIR GLASS: CRUSHED OPAL NEFERTITI PUFFCO PEAK PRO BALL CAP",
     "price": 149.99,
@@ -4400,7 +4189,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 433,
     "name": "SMIR GLASS: NEFERTITI OCULUS PLUG",
     "price": 59.99,
@@ -4410,7 +4199,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 434,
     "name": "DCS QUARTZ: CONTROL TOWER SLURPER",
     "price": 232.49,
@@ -4420,7 +4209,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 435,
     "name": "RUBY PEARL CO: *NEW* COLOR CONTROL TOWER CAP",
     "price": 29.99,
@@ -4430,7 +4219,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 436,
     "name": "RUBY PEARL CO: 8MM DIAMOND CUT OPAL",
     "price": 26.24,
@@ -4440,7 +4229,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 437,
     "name": "PAULSON PIECES: ENCASED OPAL PUFFCO PEAK PRO BALL CAP",
     "price": 97.49,
@@ -4450,7 +4239,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 438,
     "name": "CHARLIE SHAW GLASS: PREMIUM 3 PIECE SLURPER SET",
     "price": 149.99,
@@ -4460,7 +4249,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 439,
     "name": "CAPTAIN TOKEZ GLASS: 4MM ASSORTED TERP PEARL 1PK",
     "price": 4.49,
@@ -4470,7 +4259,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 440,
     "name": "THE DABORATORY: FOCUS V CARTA 2 STABILIZING BASE",
     "price": 18.74,
@@ -4480,7 +4269,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 441,
     "name": "RUBY PEARL CO: ENCASED OPAL COLOR SLURPER CAP",
     "price": 37.49,
@@ -4490,7 +4279,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 442,
     "name": "CHEVELLE GLASS: ENCASED OPAL PUFFCO PEAK PRO BALL CAP",
     "price": 59.99,
@@ -4500,7 +4289,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 443,
     "name": "BEAR QUARTZ: SLURPER MARBLE",
     "price": 11.24,
@@ -4510,7 +4299,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 444,
     "name": "BEAR QUARTZ: OPAL MARBLE",
     "price": 14.99,
@@ -4520,7 +4309,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 445,
     "name": "BEAR QUARTZ: HOLLOW PILLAR 2PK",
     "price": 18.74,
@@ -4530,7 +4319,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 446,
     "name": "BHORO GLASS: CRUSHED OPAL 6MM PUFFCO PEAK PRO BALL CAP",
     "price": 82.49,
@@ -4540,7 +4329,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 447,
     "name": "BEAR QUARTZ: BQ TOWER",
     "price": 44.99,
@@ -4550,7 +4339,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 448,
     "name": "RUBY PEARL CO: SOLID QUARTZ PILLAR 1PC",
     "price": 5.24,
@@ -4560,7 +4349,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 449,
     "name": "ANTON GLASS: PREMIUM TERP SLURPER SETS",
     "price": 112.49,
@@ -4570,7 +4359,7 @@ export const products = [
     "featured": false,
     "inStock": true
   },
-  {
+{
     "id": 450,
     "name": "DEVON ALLEN: MUSHROOM PEAK PRO BALL CAP",
     "price": 97.49,
@@ -4581,6 +4370,7 @@ export const products = [
     "inStock": true
   }
 ];
+
 export const categories = [
   { id: 'all', name: 'All Products' },
   { id: 'lighters-torches', name: 'Lighters & Torches' },

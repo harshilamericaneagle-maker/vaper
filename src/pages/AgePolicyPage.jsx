@@ -98,8 +98,8 @@ export default function AgePolicyPage() {
                             obtained our products illegally, please report it to:
                         </p>
                         <p>
-                            <strong>Email:</strong> compliance@vaporluxe.com<br />
-                            <strong>Phone:</strong> (555) 123-4567
+                            <strong>Email:</strong> [Support Email]<br />
+                            <strong>Phone:</strong> [Phone Number]
                         </p>
                     </section>
 
