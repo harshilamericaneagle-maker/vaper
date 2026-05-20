@@ -46,11 +46,13 @@ export default function Header() {
                 <div className="header-container">
                     {/* Mobile Menu Toggle */}
                     <button
-                        className="mobile-menu-toggle"
+                        type="button"
+                        className="header-action-btn mobile-menu-toggle"
                         onClick={() => setIsMobileMenuOpen(!isMobileMenuOpen)}
-                        aria-label="Toggle menu"
+                        aria-label={isMobileMenuOpen ? 'Close menu' : 'Open menu'}
+                        aria-expanded={isMobileMenuOpen}
                     >
-                        {isMobileMenuOpen ? <X size={24} /> : <Menu size={24} />}
+                        {isMobileMenuOpen ? <X size={20} /> : <Menu size={20} />}
                     </button>
 
                     {/* Logo */}
